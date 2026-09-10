@@ -53,7 +53,7 @@ gh secret set TELEGRAM_CHAT_ID     # 받을 채팅의 ID
 
 ### 3. 한 번 실행해서 확인
 
-GitHub 저장소 → **Actions** → "AI news → Telegram" → **Run workflow**. `dry_run`을 켜면 보내지 않고 결과만 Summary에 보여 줍니다. 이후에는 15분마다 자동으로 돕니다.
+GitHub 저장소 → **Actions** → "AI news to Telegram" → **Run workflow**. `dry_run`을 켜면 보내지 않고 결과만 Summary에 보여 줍니다. 이후에는 15분마다 자동으로 돕니다.
 
 첫 실행은 지금 화제인 것들 중 상위 **5건**만 보내고 나머지는 "본 것"으로 기록합니다. 그 다음부터는 새로 기준을 넘은 것만 옵니다.
 

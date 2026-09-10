@@ -1,4 +1,4 @@
-name: AI news → Telegram
+name: AI news to Telegram
 
 on:
   schedule:
@@ -45,7 +45,7 @@ jobs:
           X_ACCOUNTS: ${{ vars.X_ACCOUNTS }}
           MAX_ITEMS_PER_RUN: ${{ vars.MAX_ITEMS_PER_RUN }}
           QUIET_HOURS_KST: ${{ vars.QUIET_HOURS_KST }}
-          DRY_RUN: ${{ inputs.dry_run == true && 'true' || 'false' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
         run: python -m newsbot
 
       - name: Commit state
