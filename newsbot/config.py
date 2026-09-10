@@ -107,7 +107,7 @@ class Settings:
             briefing_provider=(_env("BRIEFING_PROVIDER", "rules") or "rules").lower(),
             claude_model=_env("CLAUDE_MODEL", "claude-opus-5"),
             state_path=Path(_env("STATE_PATH", "state/state.json")),
-            max_items_per_run=_int("MAX_ITEMS_PER_RUN", 8),
+            max_items_per_run=_int("MAX_ITEMS_PER_RUN", 12),
             bootstrap_limit=_int("BOOTSTRAP_LIMIT", 5),
             quiet_start_kst=q_start,
             quiet_end_kst=q_end,

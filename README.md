@@ -2,12 +2,12 @@
 
 GitHub에서 별이 급증하는 AI 저장소, Reddit·Hacker News에서 화제가 된 AI 글, 화제가 된 X 게시물, OpenAI·Anthropic·DeepMind 등의 공식 블로그 새 글을 골라 **텔레그램**으로 보내 주는 개인용 봇입니다.
 
-서버가 없습니다. **GitHub Actions**가 30분마다 이 저장소의 코드를 잠깐 실행하고 끝냅니다. 노트북을 꺼 놔도 돕니다.
+서버가 없습니다. **GitHub Actions**가 15분마다 이 저장소의 코드를 잠깐 실행하고 끝냅니다. 노트북을 꺼 놔도 돕니다.
 
 ```
 GitHub Trending ─┐
 GitHub 신규 저장소 ─┤
-Reddit (6개 서브) ─┼─ 기준 통과 ─ 중복 제거 ─ 처음 보는 것만 ─ 대기열 ─ 최대 8건/회 ─ 텔레그램
+Reddit (6개 서브) ─┼─ 기준 통과 ─ 중복 제거 ─ 처음 보는 것만 ─ 대기열 ─ 최대 12건/회 ─ 텔레그램
 Hacker News ──────┤                                                     │
 공식 블로그 RSS ──┘                                    state/state.json 에 기록 (자동 커밋)
 X: HN/Reddit에 올라온 x.com 링크의 본문을 fxtwitter API로 붙임
@@ -36,7 +36,7 @@ git init && git add -A && git commit -m "init"
 gh repo create ainewsbot --private --source . --push
 ```
 
-공개 저장소로 하면 Actions 실행 시간이 무제한입니다. 비공개는 월 2,000분이 무료인데, 30분 간격이면 한 달에 약 1,450분을 씁니다.
+공개 저장소로 하면 Actions 실행 시간이 무제한입니다. 비공개는 월 2,000분이 무료인데, 15분 간격이면 한 달에 약 2,900분이 필요하므로 공개 저장소로 두세요.
 
 ### 2. 시크릿 등록
 
@@ -49,7 +49,7 @@ gh secret set TELEGRAM_CHAT_ID     # 받을 채팅의 ID
 
 ### 3. 한 번 실행해서 확인
 
-GitHub 저장소 → **Actions** → "AI news → Telegram" → **Run workflow**. `dry_run`을 켜면 보내지 않고 결과만 Summary에 보여 줍니다. 이후에는 30분마다 자동으로 돕니다.
+GitHub 저장소 → **Actions** → "AI news → Telegram" → **Run workflow**. `dry_run`을 켜면 보내지 않고 결과만 Summary에 보여 줍니다. 이후에는 15분마다 자동으로 돕니다.
 
 첫 실행은 지금 화제인 것들 중 상위 **5건**만 보내고 나머지는 "본 것"으로 기록합니다. 그 다음부터는 새로 기준을 넘은 것만 옵니다.
 
@@ -92,7 +92,7 @@ gh variable set X_ACCOUNTS --body "OpenAI,AnthropicAI,GoogleDeepMind"
 - **소스·키워드**: `newsbot/sources.py` (서브레딧과 추천수 기준, RSS 목록, AI 키워드, GitHub 검색어)
 - **기준값**: 저장소 **Variables**로 덮어쓰기. 예) `gh variable set MAX_ITEMS_PER_RUN --body 5`, `gh variable set QUIET_HOURS_KST --body 23-7`
   전체 목록은 `.env.example` 참고.
-- **주기**: `.github/workflows/newsbot.yml`의 `cron`. 공개 저장소라면 `*/15`도 괜찮습니다. GitHub는 예약 실행을 몇 분씩 늦출 수 있습니다.
+- **주기**: `.github/workflows/newsbot.yml`의 `cron` (기본 15분). GitHub는 예약 실행을 몇 분씩 늦출 수 있습니다.
 
 ## 로컬에서 돌려 보기
 
