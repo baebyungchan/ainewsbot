@@ -21,7 +21,10 @@ X: HN/Reddit에 올라온 x.com 링크의 본문을 fxtwitter API로 붙임
 | GitHub 신규 저장소 | 만든 지 **14일** 이내에 별 **500** 이상 (검색어: llm/agent/ai/gpt/claude) | `🆕 2,664 stars in 9d · Python` |
 | Reddit | OAuth 사용 시 서브레딧별 추천수 기준 (`newsbot/sources.py`). 미사용 시 통합 피드의 오늘 상위 5개 | `▲ 812 · r/LocalLLaMA · 💬 140` |
 | Hacker News | 36시간 내 **100점** 이상이면서 AI 키워드 포함 | `🟠 HN 1,138 pts · 💬 441 · 토론` |
-| 공식 블로그 | 48시간 내 새 글 전부 (OpenAI, Anthropic, DeepMind, Google AI, Hugging Face) | `📰 OpenAI` |
+| 공식 블로그 | 48시간 내 새 글 전부 (OpenAI, Anthropic, DeepMind, Google AI, Hugging Face, Qwen, Mistral) | `📰 OpenAI` |
+| 뉴스레터·블로그·영상 | TLDR AI(일간), Simon Willison, GeekNews(AI 관련만), AI Explained(YouTube) | `🗞 TLDR AI` |
+| Hugging Face 논문 | Daily Papers 중 추천 **15** 이상 | `📄 논문 ▲ 42 · 저자` |
+| Hugging Face 모델 | 트렌딩 상위 **5** | `🤗 트렌딩 #1 · ❤ 1,047 · ⬇ 6` |
 | X | HN·Reddit에서 화제가 된 x.com 게시물의 본문·작성자·좋아요 | `𝕏 @OpenAI · ❤ 12,000` |
 
 같은 링크가 여러 곳에서 잡히면 하나로 합치고 토론 링크를 붙입니다. GitHub 저장소는 한 번 보낸 뒤 별이 **3배** 이상 늘면 한 번 더 알립니다. 한국시간 **00~08시**에는 보내지 않고 모아 뒀다가 아침에 보냅니다.
@@ -89,7 +92,7 @@ gh variable set X_ACCOUNTS --body "OpenAI,AnthropicAI,GoogleDeepMind"
 
 ## 조정하기
 
-- **소스·키워드**: `newsbot/sources.py` (서브레딧과 추천수 기준, RSS 목록, AI 키워드, GitHub 검색어)
+- **소스·키워드**: `newsbot/sources.py` (서브레딧과 추천수 기준, RSS 목록과 `ai_only`/`limit`, AI 키워드(영어·한국어), GitHub 검색어). 소스를 추가한 뒤에는 `python -m newsbot --absorb`를 한 번 돌리고 state를 커밋하면 밀린 옛 글이 한꺼번에 오지 않습니다.
 - **기준값**: 저장소 **Variables**로 덮어쓰기. 예) `gh variable set MAX_ITEMS_PER_RUN --body 5`, `gh variable set QUIET_HOURS_KST --body 23-7`
   전체 목록은 `.env.example` 참고.
 - **주기**: `.github/workflows/newsbot.yml`의 `cron` (기본 15분). GitHub는 예약 실행을 몇 분씩 늦출 수 있습니다.
@@ -101,6 +104,7 @@ python3.12 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
 cp .env.example .env    # 토큰 채우기
 .venv/bin/python -m newsbot --dry-run --ignore-quiet-hours --state /tmp/nb.json   # 보내지 않음
 .venv/bin/python -m newsbot                                                        # 실제 전송 + state 기록
+.venv/bin/python -m newsbot --absorb                                               # 소스를 새로 추가한 뒤: 지금 것들은 보낸 셈 치고 기록만
 .venv/bin/python -m pytest -q
 ```
 

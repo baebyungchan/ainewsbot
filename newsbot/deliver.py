@@ -22,6 +22,8 @@ SOURCE_ICON = {
     "hn": "🟠",
     "rss": "📰",
     "x": "𝕏",
+    "hf_paper": "📄",
+    "hf_model": "🤗",
 }
 
 
@@ -31,8 +33,13 @@ def esc(text: str) -> str:
 
 def render_item(index: int, item: Item, *, summary_chars: int = 240) -> str:
     icon = SOURCE_ICON.get(item.source, "•")
+    signal = item.signal
+    if item.source == "rss" and signal[:1] and not signal[:1].isalnum():
+        # feed entries carry their own icon at the start of the signal; hoist it next to the title
+        parts = signal.split(" ", 1)
+        icon, signal = parts[0], (parts[1] if len(parts) > 1 else "")
     lines = [f"{index}. {icon} <a href=\"{esc(item.url)}\">{esc(item.title)}</a>"]
-    signal = esc(item.signal)
+    signal = esc(signal)
     disc = item.meta.get("discussion_url")
     if disc and disc != item.url:
         signal = f"{signal} · <a href=\"{esc(disc)}\">토론</a>" if signal else f"<a href=\"{esc(disc)}\">토론</a>"

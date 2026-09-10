@@ -14,7 +14,7 @@ import httpx
 
 from newsbot import briefing, deliver, rank
 from newsbot.config import Settings, load_dotenv
-from newsbot.fetchers import BOT_UA, github, hn, reddit, rss, x
+from newsbot.fetchers import BOT_UA, github, hf, hn, reddit, rss, x
 from newsbot.models import Item
 from newsbot.state import State
 
@@ -31,6 +31,8 @@ async def collect(settings: Settings, report: dict) -> list[Item]:
             "hn": hn.fetch(client, settings),
             "rss": rss.fetch_all(client, settings, report),
             "x": x.fetch_rss(client, settings, report),
+            "hf_paper": hf.fetch_daily_papers(client, settings),
+            "hf_model": hf.fetch_trending_models(client, settings),
         }
         results = await asyncio.gather(*jobs.values(), return_exceptions=True)
         items: list[Item] = []
@@ -73,6 +75,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--state", help="state file path (default state/state.json or STATE_PATH)")
     parser.add_argument("--bootstrap-limit", type=int, help="items to send on the very first run")
     parser.add_argument("--ignore-quiet-hours", action="store_true")
+    parser.add_argument(
+        "--absorb",
+        action="store_true",
+        help="mark everything currently above the bar as seen without sending (use after adding sources)",
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
 
@@ -104,7 +111,12 @@ def main(argv: list[str] | None = None) -> int:
     candidates = rank.select(items)
     fresh = [it for it in candidates if state.is_new(it, now)]
 
-    if first_run:
+    if args.absorb:
+        for it in fresh:
+            state.mark_seen(it, now=now)
+        logger.info("absorbed %s items as seen (nothing sent)", len(fresh))
+        fresh = []
+    elif first_run:
         # Don't flood the chat with everything that is trending right now:
         # send the top few, remember the rest as already seen.
         fresh.sort(key=lambda i: i.priority, reverse=True)
@@ -148,6 +160,7 @@ def main(argv: list[str] | None = None) -> int:
         "fetched": len(items),
         "above_bar": len(candidates),
         "new": len(fresh),
+        "absorbed": bool(args.absorb),
         "sent": len(batch) if sent_ok and not settings.dry_run else 0,
         "would_send": len(batch) if settings.dry_run else 0,
         "still_pending": len(state.data["pending"]),

@@ -13,13 +13,25 @@ SUBREDDITS: dict[str, int] = {
     "OpenAI": 200,
 }
 
-# Official / high-signal blogs. Low volume, so every new post is sent.
-RSS_FEEDS: list[tuple[str, str]] = [
-    ("OpenAI", "https://openai.com/news/rss.xml"),
-    ("Anthropic", "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"),
-    ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("Google AI", "https://blog.google/technology/ai/rss/"),
-    ("Hugging Face", "https://huggingface.co/blog/feed.xml"),
+# RSS / Atom feeds. `ai_only`: keep only AI-related entries (for feeds that cover all of tech).
+# `limit`: max new entries per run from that feed.
+RSS_FEEDS: list[dict] = [
+    # official labs (low volume, every post is worth a look)
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "icon": "📰"},
+    {"name": "Anthropic", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml", "icon": "📰"},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "icon": "📰"},
+    {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "icon": "📰"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "icon": "📰"},
+    {"name": "Qwen", "url": "https://qwenlm.github.io/blog/index.xml", "icon": "📰"},
+    {"name": "Mistral", "url": "https://mistral.ai/rss.xml", "icon": "📰", "ai_only": True},
+    # daily / weekly digests
+    {"name": "TLDR AI", "url": "https://tldr.tech/api/rss/ai", "icon": "🗞", "limit": 1},
+    # people
+    {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "icon": "✍️", "limit": 4},
+    # Korean
+    {"name": "GeekNews", "url": "https://news.hada.io/rss/news", "icon": "🇰🇷", "ai_only": True},
+    # video
+    {"name": "AI Explained (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw", "icon": "▶️"},
 ]
 
 # GitHub search query for brand-new repos (qualifiers for date/stars are appended in code).
@@ -93,4 +105,22 @@ AI_KEYWORDS: list[str] = [
     "code generation",
     "autonomous",
     "benchmark",
+    # Korean
+    "인공지능",
+    "언어모델",
+    "언어 모델",
+    "거대언어모델",
+    "딥러닝",
+    "머신러닝",
+    "생성형",
+    "챗gpt",
+    "클로드",
+    "오픈ai",
+    "앤트로픽",
+    "제미나이",
+    "딥시크",
+    "에이전트",
+    "파운데이션 모델",
+    "미스트랄",
+    "허깅페이스",
 ]

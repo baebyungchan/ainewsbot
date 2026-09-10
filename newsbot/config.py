@@ -85,6 +85,8 @@ class Settings:
     reddit_default_min_score: int
     reddit_rss_top_n: int
     rss_lookback_hours: int
+    hf_paper_min_upvotes: int
+    hf_model_top_n: int
 
     @classmethod
     def from_env(cls) -> Settings:
@@ -122,6 +124,8 @@ class Settings:
             reddit_default_min_score=_int("REDDIT_MIN_SCORE", 150),
             reddit_rss_top_n=_int("REDDIT_RSS_TOP_N", 5),
             rss_lookback_hours=_int("RSS_LOOKBACK_HOURS", 48),
+            hf_paper_min_upvotes=_int("HF_PAPER_MIN_UPVOTES", 15),
+            hf_model_top_n=_int("HF_MODEL_TOP_N", 5),
         )
 
     @property
