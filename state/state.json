@@ -1,7 +1,265 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-10T15:38:07.662186+00:00",
- "pending": [],
+ "last_run": "2026-09-10T21:34:33.815126+00:00",
+ "pending": [
+  {
+   "key": "hn:49639408",
+   "meta": {
+    "comments": 506,
+    "discussion_url": "https://news.ycombinator.com/item?id=49639408",
+    "hn_id": "49639408"
+   },
+   "published_at": "2026-09-10T06:49:43+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 453.0,
+   "signal": "🟠 HN 453 pts · 💬 506",
+   "source": "hn",
+   "summary": "https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540 https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623 https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996 , https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209779183626997799... https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;po...",
+   "threshold": 100.0,
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201"
+  },
+  {
+   "key": "hn:49645443",
+   "meta": {
+    "comments": 123,
+    "discussion_url": "https://news.ycombinator.com/item?id=49645443",
+    "hn_id": "49645443"
+   },
+   "published_at": "2026-09-10T15:29:47+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 294.0,
+   "signal": "🟠 HN 294 pts · 💬 123",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2"
+  },
+  {
+   "key": "reddit:1wclhgv",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+    "rank": 1,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-10T14:54:09+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 600.0,
+   "signal": "🏆 r/singularity 오늘 #1",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Huggingface security txt after the OpenAI incident",
+   "url": "https://i.redd.it/gudok8h3ipoh1.png"
+  },
+  {
+   "key": "reddit:1wcdzl3",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-09-10T09:17:10+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 220.00000000000003,
+   "signal": "🏆 r/OpenAI 오늘 #4",
+   "source": "reddit",
+   "summary": "Aaron Swartz was prosecuted and took his own life for much less...",
+   "threshold": 200.0,
+   "title": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/"
+  },
+  {
+   "key": "hfpaper:2609.00369",
+   "meta": {
+    "arxiv_id": "2609.00369",
+    "discussion_url": "https://arxiv.org/abs/2609.00369",
+    "upvotes": 16
+   },
+   "published_at": "2026-08-30T20:00:00.000Z",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Vida Adeli, Soroush Mehraban 외",
+   "source": "hf_paper",
+   "summary": "Generating co-speech gestures that are temporally coherent, semantically aligned with speech, and grounded with surrounding objects remains challenging. Prior speech-driven gesture models emphasize audio-gesture alignment but do not explicitly account for posture constraints or surrounding objects, failing to capture the inherent correlation between body gestures and the physical space. We present Puppeteer, a posture-aware, object-grounded co-speech gesture diffusion model operating in a causal latent space. We decompose long gestures into structured primitives and learn a causal variational…",
+   "threshold": 15.0,
+   "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
+   "url": "https://huggingface.co/papers/2609.00369"
+  },
+  {
+   "key": "reddit:1wce3o4",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wce3o4/some_more_millennium_prize_problems_possibly/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wce3o4/some_more_millennium_prize_problems_possibly/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-10T09:23:28+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Some more millennium prize problems possibly solved…",
+   "url": "https://i.redd.it/j3lsukr9vnoh1.jpeg"
+  },
+  {
+   "key": "rss:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-10T16:00:00+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "threshold": 1.0,
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+  },
+  {
+   "key": "rss:https://openai.com/index/introducing-chatgpt-financial-services",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "threshold": 1.0,
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+  },
+  {
+   "key": "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+   "threshold": 1.0,
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+  },
+  {
+   "key": "rss:https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-10T16:00:00+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+   "threshold": 1.0,
+   "title": "3 ways to prep for your next big race with Search",
+   "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/10/shopify-react-native",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-10T21:11:15+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost…",
+   "threshold": 1.0,
+   "title": "Native is now the future of mobile at Shopify",
+   "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33494",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T19:42:59+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "2.8조 매개변수 Kimi K3 를 후속 학습한 SWE-2는 FrontierCode 1.1 Main에서 50.0%를 기록해 Fable 5.1과 0.9%p 차이를 보이면서도 비용은 64% 낮음 추론 노력 수준별로 기반 모델의 비용·성능 곡선 기울기에 맞춘 선형 비용 페널티 를 적용해, 한 ...",
+   "threshold": 1.0,
+   "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
+   "url": "https://news.hada.io/topic?id=33494"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33492",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T18:33:38+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Andreas Thom은 동료와 ChatGPT에서 논의한 미공개 수학 연구 가 OpenAI의 새 수학적 결과 도출에 활용됐는지 물었지만, 학습 데이터 편입과 풀이 중 접근 을 구분한 답변을 받지 못했다고 비판함 계기는 OpenAI의 비소픽 군(non-sofic group) 발견 발표",
+   "threshold": 1.0,
+   "title": "미공개 수학 연구를 OpenAI에 믿고 맡길 수 있는가, 추가 의문",
+   "url": "https://news.hada.io/topic?id=33492"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33490",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T16:55:52+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "영국 록 밴드 Muse 가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse 가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband 로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이...",
+   "threshold": 1.0,
+   "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
+   "url": "https://news.hada.io/topic?id=33490"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33486",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T15:45:17+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "또 다른 연구자가 대화 내용을 학습에 사용한 OpenAI 가 이후 이를 돌파구로 내세웠다는 의혹을 제기함 의혹의 학습 자료는 대화 내용 이지만, 누구의 어떤 대화인지는 공개되지 않음 비판은 대화 학습 자체뿐 아니라 이후 OpenAI가 돌파구를 이뤘다...",
+   "threshold": 1.0,
+   "title": "또 다른 연구자, OpenAI가 대화로 학습한 뒤 돌파구를 이뤘다고 주장했다며 비판",
+   "url": "https://news.hada.io/topic?id=33486"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33485",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T15:42:16+00:00",
+   "queued_at": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "코딩 에이전트가 같은 기능을 iOS와 Android에 각각 구현하는 비용 을 크게 낮추면서, 모든 모바일 앱을 Swift와 Kotlin으로 전환하기로 함 React Native의 성능 문제가 아니라 코드를 공유해야 개발 비용을 줄일 수 있다는 전제가 달라진 것 이며, 플랫폼 기능과 공...",
+   "threshold": 1.0,
+   "title": "Shopify, React Native에서 네이티브로 복귀",
+   "url": "https://news.hada.io/topic?id=33485"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -248,6 +506,12 @@
    "score": 15.0,
    "sent": null
   },
+  "hfpaper:2609.00369": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 16.0,
+   "sent": null
+  },
   "hfpaper:2609.05324": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -434,6 +698,12 @@
    "score": 667.0,
    "sent": "2026-09-10T14:53:46.276689+00:00"
   },
+  "hn:49639408": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 453.0,
+   "sent": null
+  },
   "hn:49643112": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -444,6 +714,12 @@
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
    "score": 176.0,
+   "sent": null
+  },
+  "hn:49645443": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 294.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -470,6 +746,24 @@
    "score": 330.0,
    "sent": null
   },
+  "reddit:1wcdzl3": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 220.00000000000003,
+   "sent": null
+  },
+  "reddit:1wce3o4": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wclhgv": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 600.0,
+   "sent": null
+  },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -479,6 +773,12 @@
   "rss:https://blog.google/products-and-platforms/products/search/football-features-google-search": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://blog.google/products-and-platforms/products/search/running-race-training-tips": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -548,6 +848,36 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=33485": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33486": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33490": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33492": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33494": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -566,6 +896,18 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://openai.com/index/introducing-chatgpt-financial-services": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -578,9 +920,21 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/10/calif-research": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/10/shopify-react-native": {
+   "first": "2026-09-10T21:34:33.815126+00:00",
+   "last": "2026-09-10T21:34:33.815126+00:00",
    "score": 1.0,
    "sent": null
   },
