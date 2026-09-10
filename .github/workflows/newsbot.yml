@@ -1,0 +1,62 @@
+name: AI news → Telegram
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min (GitHub may delay a few minutes)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Print messages instead of sending"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit state/state.json back
+
+concurrency:
+  group: newsbot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ vars.REDDIT_USER_AGENT }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRIEFING_PROVIDER: ${{ vars.BRIEFING_PROVIDER }}
+          X_RSS_BASE: ${{ vars.X_RSS_BASE }}
+          X_ACCOUNTS: ${{ vars.X_ACCOUNTS }}
+          MAX_ITEMS_PER_RUN: ${{ vars.MAX_ITEMS_PER_RUN }}
+          QUIET_HOURS_KST: ${{ vars.QUIET_HOURS_KST }}
+          DRY_RUN: ${{ inputs.dry_run == true && 'true' || 'false' }}
+        run: python -m newsbot
+
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p state && git add -A state
+          if git diff --cached --quiet; then
+            echo "state unchanged"; exit 0
+          fi
+          git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"

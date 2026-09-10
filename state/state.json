@@ -1,0 +1,349 @@
+{
+ "created_at": "2026-09-10T14:53:46.276689+00:00",
+ "last_run": "2026-09-10T14:53:46.276689+00:00",
+ "pending": [],
+ "seen": {
+  "gh:2akouwu/reverify": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1093.0,
+   "sent": null,
+   "stars_total": 1093
+  },
+  "gh:achimala/dream-loop": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 637.0,
+   "sent": null,
+   "stars_total": 637
+  },
+  "gh:adtexterry-lgtm/unigit-ecosystem": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 651.0,
+   "sent": null,
+   "stars_total": 651
+  },
+  "gh:albert-weasker/niubigeo": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 2285.0,
+   "sent": null,
+   "stars_total": 2285
+  },
+  "gh:anthropics/commerce-agents": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 2664.0,
+   "sent": "2026-09-10T14:53:46.276689+00:00",
+   "stars_total": 2664
+  },
+  "gh:ayghri/i-have-adhd": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 3854.0,
+   "sent": "2026-09-10T14:53:46.276689+00:00",
+   "stars_total": 37071
+  },
+  "gh:brayonpi/hexstellar": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1092.0,
+   "sent": null,
+   "stars_total": 1092
+  },
+  "gh:cathrynlavery/diagram-design": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1287.0,
+   "sent": null,
+   "stars_total": 37412
+  },
+  "gh:cbrock84/headcount": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1348.0,
+   "sent": null,
+   "stars_total": 1348
+  },
+  "gh:codejunkie99/fable-orchestrator": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 594.0,
+   "sent": null,
+   "stars_total": 594
+  },
+  "gh:datawhalechina/zero-to-sglang": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 656.0,
+   "sent": null,
+   "stars_total": 656
+  },
+  "gh:diegosouzapw/omniroute": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 591.0,
+   "sent": null,
+   "stars_total": 63928
+  },
+  "gh:freestylefly/awesome-gpt-image-2": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 957.0,
+   "sent": null,
+   "stars_total": 30688
+  },
+  "gh:gangtailorupgrade/undress-service": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1213.0,
+   "sent": null,
+   "stars_total": 1213
+  },
+  "gh:hkqr/my-free-code": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 633.0,
+   "sent": null,
+   "stars_total": 633
+  },
+  "gh:human-agent-society/reef": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 910.0,
+   "sent": null,
+   "stars_total": 910
+  },
+  "gh:nanako0129/sepia": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 2520.0,
+   "sent": "2026-09-10T14:53:46.276689+00:00",
+   "stars_total": 2520
+  },
+  "gh:obra/superpowers": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 731.0,
+   "sent": null,
+   "stars_total": 284475
+  },
+  "gh:okf-memory/okf-agent-memory": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 539.0,
+   "sent": null,
+   "stars_total": 539
+  },
+  "gh:player-yn/pawwork_zhuazhua": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 2514.0,
+   "sent": null,
+   "stars_total": 2514
+  },
+  "gh:ryze-ai-adgent/open-seo-mcp-skills": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 736.0,
+   "sent": null,
+   "stars_total": 736
+  },
+  "gh:tencent/teamai-cli": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 837.0,
+   "sent": null,
+   "stars_total": 3594
+  },
+  "gh:thu-maic/openmaic": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 806.0,
+   "sent": null,
+   "stars_total": 35039
+  },
+  "gh:tigerless-labs/agent-memory": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 824.0,
+   "sent": null,
+   "stars_total": 824
+  },
+  "gh:vastsa/pi-desktop": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 636.0,
+   "sent": null,
+   "stars_total": 2136
+  },
+  "gh:vincentwei1021/anything2explainer": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 563.0,
+   "sent": null,
+   "stars_total": 563
+  },
+  "gh:vinzdg/codenotch": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1350.0,
+   "sent": null,
+   "stars_total": 1350
+  },
+  "gh:yilujian/easy-writing": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 517.0,
+   "sent": null,
+   "stars_total": 517
+  },
+  "gh:zju-real/easel": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 766.0,
+   "sent": null,
+   "stars_total": 766
+  },
+  "hn:49622561": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 146.0,
+   "sent": null
+  },
+  "hn:49623754": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1138.0,
+   "sent": "2026-09-10T14:53:46.276689+00:00"
+  },
+  "hn:49624163": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 220.0,
+   "sent": null
+  },
+  "hn:49624603": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 412.0,
+   "sent": null
+  },
+  "hn:49626373": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 221.0,
+   "sent": null
+  },
+  "hn:49627370": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 481.0,
+   "sent": null
+  },
+  "hn:49628704": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "hn:49629886": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 399.0,
+   "sent": null
+  },
+  "hn:49630026": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 229.0,
+   "sent": null
+  },
+  "hn:49636345": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 183.0,
+   "sent": null
+  },
+  "hn:49637435": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 103.0,
+   "sent": null
+  },
+  "hn:49638353": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 272.0,
+   "sent": null
+  },
+  "hn:49639090": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 667.0,
+   "sent": "2026-09-10T14:53:46.276689+00:00"
+  },
+  "hn:49643112": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 163.0,
+   "sent": null
+  },
+  "hn:49643556": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 176.0,
+   "sent": null
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://blog.google/products-and-platforms/products/search/football-features-google-search": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://huggingface.co/blog/gradio-workflow-1111": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/ai-policy-window": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/gpt-6-astra-next-generation-work": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+   "first": "2026-09-10T14:53:46.276689+00:00",
+   "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  }
+ },
+ "sends": [
+  {
+   "at": "2026-09-10T14:53:46.276689+00:00",
+   "count": 5
+  }
+ ],
+ "version": 1
+}
