@@ -24,9 +24,17 @@ RSS_FEEDS: list[dict] = [
     {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "icon": "📰"},
     {"name": "Qwen", "url": "https://qwenlm.github.io/blog/index.xml", "icon": "📰"},
     {"name": "Mistral", "url": "https://mistral.ai/rss.xml", "icon": "📰", "ai_only": True},
+    # research labs (broad feeds → AI filter)
+    {"name": "Google Research", "url": "https://research.google/blog/rss/", "icon": "🔬", "ai_only": True, "limit": 3},
+    {"name": "Microsoft Research", "url": "https://www.microsoft.com/en-us/research/feed/", "icon": "🔬", "ai_only": True, "limit": 3},
+    {"name": "Apple ML Research", "url": "https://machinelearning.apple.com/rss.xml", "icon": "🔬", "limit": 3},
     # daily / weekly digests
     {"name": "TLDR AI", "url": "https://tldr.tech/api/rss/ai", "icon": "🗞", "limit": 1},
-    # people
+    {"name": "Import AI", "url": "https://importai.substack.com/feed", "icon": "🗞", "limit": 1},
+    # researchers' newsletters / blogs
+    {"name": "Interconnects", "url": "https://www.interconnects.ai/feed", "icon": "✍️", "limit": 2},
+    {"name": "Ahead of AI", "url": "https://magazine.sebastianraschka.com/feed", "icon": "✍️", "limit": 1},
+    {"name": "Lil'Log", "url": "https://lilianweng.github.io/index.xml", "icon": "✍️", "limit": 1},
     {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "icon": "✍️", "limit": 4},
     # Korean
     {"name": "GeekNews", "url": "https://news.hada.io/rss/news", "icon": "🇰🇷", "ai_only": True},

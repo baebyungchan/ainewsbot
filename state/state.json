@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-10T15:34:14.368488+00:00",
+ "last_run": "2026-09-10T15:38:07.662186+00:00",
  "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
@@ -491,6 +491,18 @@
   "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://interconnects.ai/p/one-resignation-turned-the-embers": {
+   "first": "2026-09-10T15:38:07.662186+00:00",
+   "last": "2026-09-10T15:38:07.662186+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://interconnects.ai/p/when-will-average-people-feel-ais": {
+   "first": "2026-09-10T15:38:07.662186+00:00",
+   "last": "2026-09-10T15:38:07.662186+00:00",
    "score": 1.0,
    "sent": null
   },
