@@ -2,7 +2,7 @@ name: AI news → Telegram
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub may delay a few minutes)
+    - cron: "7,22,37,52 * * * *"   # every 15 min, off the :00/:15/:30/:45 rush (GitHub delays those most)
   workflow_dispatch:
     inputs:
       dry_run:
