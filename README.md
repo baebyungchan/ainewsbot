@@ -113,9 +113,23 @@ cp .env.example .env    # 토큰 채우기
 
 `state/state.json`에 본 항목·보낸 시각·대기열이 있습니다. Actions가 매 실행 후 이 파일만 커밋합니다(`[skip ci]`). 로컬에서 작업한 뒤 push 하기 전에는 `git pull --rebase`를 먼저 하세요. 파일을 지우면 다음 실행이 "첫 실행"으로 취급되어 상위 5건만 다시 보냅니다.
 
+## 예약 실행이 안 돌 때: Google Apps Script로 대신 깨우기
+
+GitHub의 cron 예약은 새로 만든 워크플로를 며칠씩 등록하지 않는 장애가 종종 있습니다(GitHub 커뮤니티에 반복 보고됨). 그럴 때는 Google Apps Script가 15분마다 GitHub에 "실행해" 신호를 보내게 하면 됩니다. 새 계정이 필요 없고 무료입니다. 코드는 `trigger/apps_script.gs`.
+
+1. **GitHub 토큰 만들기**: GitHub → 우측 상단 프로필 → Settings → 맨 아래 Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token.
+   Repository access: *Only select repositories* → `ainewsbot`. Permissions → Repository permissions → **Actions: Read and write**. Expiration은 1년. 생성된 토큰(`github_pat_...`)을 복사합니다. 이 화면을 벗어나면 다시 볼 수 없습니다.
+2. **Apps Script 프로젝트**: https://script.google.com → 새 프로젝트 → 편집기의 내용을 지우고 `trigger/apps_script.gs` 내용을 붙여 넣기 → 저장.
+3. **토큰 저장**: 왼쪽 톱니바퀴(프로젝트 설정) → 스크립트 속성 → 속성 추가: 이름 `GH_PAT`, 값은 1번 토큰 → 저장.
+4. **트리거 설치**: 편집기 상단 함수 선택에서 `installTrigger` 선택 → 실행. 처음 한 번 권한 허용 창이 뜹니다(외부 서비스 연결 허용). 실행 로그에 "trigger installed"가 보이면 끝.
+5. **확인**: 15분 안에 GitHub 저장소 → Actions 탭에 `workflow_dispatch` 실행이 생깁니다.
+
+GitHub 예약이 나중에 정상화되면 둘 다 돌지만, `concurrency` 설정 때문에 겹치지 않고 두 번째 실행은 새 소식이 없어 조용히 끝납니다. 하나만 남기고 싶으면 Apps Script에서 `removeTrigger`를 실행하거나, 워크플로의 `schedule` 항목을 지우면 됩니다.
+
 ## 문제가 생기면
 
 - **아무것도 안 옴**: Actions 로그의 JSON 요약을 보세요. `sources`에 소스별 건수와 오류가 있습니다. 조용한 시간대(`quiet_hours: true`)면 정상입니다.
 - **Reddit 오류만 남**: 위의 OAuth 연결을 하세요.
 - **GitHub 트렌딩 0건 오류**: github.com/trending 페이지 구조가 바뀐 것입니다. `newsbot/fetchers/github.py`의 `parse_trending_html`을 손보면 됩니다.
+- **예약 실행이 한 번도 안 돎** (Actions 탭에 `schedule` 실행이 없음): 위의 Apps Script 예비 트리거를 쓰세요. 워크플로 파일을 조금 고쳐서 push하거나 Actions 탭에서 워크플로를 Disable → Enable 하면 풀리기도 합니다.
 - **60일 동안 저장소에 push가 없으면** GitHub가 예약 실행을 끕니다. 상태 파일 커밋이 push로 잡히므로 봇이 살아 있는 한 문제없습니다.
