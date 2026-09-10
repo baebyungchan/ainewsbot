@@ -53,18 +53,21 @@ GitHub 저장소 → **Actions** → "AI news → Telegram" → **Run workflow**
 
 첫 실행은 지금 화제인 것들 중 상위 **5건**만 보내고 나머지는 "본 것"으로 기록합니다. 그 다음부터는 새로 기준을 넘은 것만 옵니다.
 
-## 권장: Reddit 공식 API 연결 (2분)
+## Reddit 공식 API 연결 (선택, 승인 필요)
 
-로그인 없는 Reddit 접근은 클라우드 IP에서 자주 차단됩니다. 무료 공식 API를 쓰면 추천수 기준으로 정확히 거를 수 있습니다.
+로그인 없는 Reddit 접근은 클라우드 IP에서 가끔 차단됩니다. 기본 설정은 서브레딧 6개를 하나로 묶은 RSS 피드를 한 번만 요청해서 오늘의 상위 5개를 가져오며, GitHub Actions 서버에서 정상 동작을 확인했습니다. 추천수 기준으로 정밀하게 거르려면 공식 API가 필요한데, 2026년 기준 Reddit은 앱 생성 전에 **Data Access Request 티켓을 제출하고 수동 승인**을 받도록 바뀌었습니다.
 
-1. https://www.reddit.com/prefs/apps → **create app** → 종류 **script**, redirect uri는 `http://localhost` 아무거나
-2. 생성된 앱의 client id(앱 이름 아래 짧은 문자열)와 secret을 등록:
+1. https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=14868593862164 에서 Data Access Request 제출 (개인·비상업 용도)
+2. 승인 메일을 받으면 https://www.reddit.com/prefs/apps 에서 **script** 앱 생성 (redirect uri는 `http://localhost:8080`)
+3. client id(앱 이름 아래 짧은 문자열)와 secret을 등록:
 
 ```bash
 gh secret set REDDIT_CLIENT_ID
 gh secret set REDDIT_CLIENT_SECRET
 gh variable set REDDIT_USER_AGENT --body "github-actions:ainewsbot:1.0 (by /u/내레딧아이디)"
 ```
+
+승인이 없어도 봇은 RSS 경로로 계속 돕니다.
 
 ## 선택: Claude가 항목마다 한 줄 설명 달기
 
