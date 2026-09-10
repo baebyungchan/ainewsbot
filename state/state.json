@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-10T21:34:33.815126+00:00",
+ "last_run": "2026-09-10T22:27:49.572648+00:00",
  "pending": [
   {
    "key": "hn:49639408",
@@ -258,6 +258,51 @@
    "threshold": 1.0,
    "title": "Shopify, React Native에서 네이티브로 복귀",
    "url": "https://news.hada.io/topic?id=33485"
+  },
+  {
+   "key": "rss:https://openai.com/index/introducing-the-agents-api",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "queued_at": "2026-09-10T22:27:49.572648+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+   "threshold": 1.0,
+   "title": "Introducing the Agents API",
+   "url": "https://openai.com/index/introducing-the-agents-api"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33500",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T22:06:06+00:00",
+   "queued_at": "2026-09-10T22:27:49.572648+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ...",
+   "threshold": 1.0,
+   "title": "ChatGPT Pro 구독 일시중단",
+   "url": "https://news.hada.io/topic?id=33500"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33499",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-10T21:49:13+00:00",
+   "queued_at": "2026-09-10T22:27:49.572648+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "기술 지배의 미래를 경고해 온 록 밴드 Muse 가 X와 Instagram의 계정명을 이번 주 출시된 Meta의 동명 개인용 AI 도구 에 넘긴 것으로 보여 팬들이 반발함 밴드의 계정명은 X에서 @Musetheband , Instagram에서 @museband 로 바뀌었...",
+   "threshold": 1.0,
+   "title": "록 밴드 Muse, Meta의 새 AI 도구에 소셜 미디어 계정명 빼앗겨",
+   "url": "https://news.hada.io/topic?id=33499"
   }
  ],
  "seen": {
@@ -878,6 +923,18 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=33499": {
+   "first": "2026-09-10T22:27:49.572648+00:00",
+   "last": "2026-09-10T22:27:49.572648+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33500": {
+   "first": "2026-09-10T22:27:49.572648+00:00",
+   "last": "2026-09-10T22:27:49.572648+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -905,6 +962,12 @@
   "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
    "first": "2026-09-10T21:34:33.815126+00:00",
    "last": "2026-09-10T21:34:33.815126+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/introducing-the-agents-api": {
+   "first": "2026-09-10T22:27:49.572648+00:00",
+   "last": "2026-09-10T22:27:49.572648+00:00",
    "score": 1.0,
    "sent": null
   },
