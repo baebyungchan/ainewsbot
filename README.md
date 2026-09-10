@@ -23,7 +23,7 @@ X: HN/Reddit에 올라온 x.com 링크의 본문을 fxtwitter API로 붙임
 | Hacker News | 36시간 내 **100점** 이상이면서 AI 키워드 포함 | `🟠 HN 1,138 pts · 💬 441 · 토론` |
 | 공식 블로그 | 48시간 내 새 글 전부 (OpenAI, Anthropic, DeepMind, Google AI, Hugging Face, Qwen, Mistral) | `📰 OpenAI` |
 | 연구소 블로그 | Google Research(AI만), Microsoft Research(AI만), Apple ML Research | `🔬 Apple ML Research` |
-| 뉴스레터·블로그·영상 | TLDR AI(일간), Import AI(주간), Interconnects, Ahead of AI, Lil'Log, Simon Willison, GeekNews(AI 관련만), AI Explained(YouTube) | `🗞 TLDR AI` |
+| 뉴스레터·블로그·영상 | TLDR AI(일간), Interconnects, Ahead of AI, Lil'Log, Simon Willison, GeekNews(AI 관련만), AI Explained(YouTube) | `🗞 TLDR AI` |
 | Hugging Face 논문 | Daily Papers 중 추천 **15** 이상 | `📄 논문 ▲ 42 · 저자` |
 | Hugging Face 모델 | 트렌딩 상위 **5** | `🤗 트렌딩 #1 · ❤ 1,047 · ⬇ 6` |
 | X | HN·Reddit에서 화제가 된 x.com 게시물의 본문·작성자·좋아요 | `𝕏 @OpenAI · ❤ 12,000` |

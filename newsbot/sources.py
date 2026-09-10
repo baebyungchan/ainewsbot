@@ -30,7 +30,7 @@ RSS_FEEDS: list[dict] = [
     {"name": "Apple ML Research", "url": "https://machinelearning.apple.com/rss.xml", "icon": "🔬", "limit": 3},
     # daily / weekly digests
     {"name": "TLDR AI", "url": "https://tldr.tech/api/rss/ai", "icon": "🗞", "limit": 1},
-    {"name": "Import AI", "url": "https://importai.substack.com/feed", "icon": "🗞", "limit": 1},
+    # Import AI (Substack) blocks GitHub's datacenter IPs with 403 — left out on purpose.
     # researchers' newsletters / blogs
     {"name": "Interconnects", "url": "https://www.interconnects.ai/feed", "icon": "✍️", "limit": 2},
     {"name": "Ahead of AI", "url": "https://magazine.sebastianraschka.com/feed", "icon": "✍️", "limit": 1},
