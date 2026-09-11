@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T21:50:54.267754+00:00",
+ "last_run": "2026-09-11T22:06:03.675140+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -401,6 +401,23 @@
    "threshold": 1.0,
    "title": "Show HN: AI 없는 Hacker News",
    "url": "https://news.hada.io/topic?id=33558"
+  },
+  {
+   "key": "hn:49660482",
+   "meta": {
+    "comments": 54,
+    "discussion_url": "https://news.ycombinator.com/item?id=49660482",
+    "hn_id": "49660482"
+   },
+   "published_at": "2026-09-11T15:52:49+00:00",
+   "queued_at": "2026-09-11T22:06:03.675140+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 54",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Hacker News with reduced priority for AI driven content",
+   "url": "https://sprinklz.io/public/pdwt4dve5uai"
   }
  ],
  "seen": {
@@ -1024,6 +1041,12 @@
    "first": "2026-09-11T17:04:52.413216+00:00",
    "last": "2026-09-11T17:04:52.413216+00:00",
    "score": 105.0,
+   "sent": null
+  },
+  "hn:49660482": {
+   "first": "2026-09-11T22:06:03.675140+00:00",
+   "last": "2026-09-11T22:06:03.675140+00:00",
+   "score": 101.0,
    "sent": null
   },
   "hn:49660783": {
