@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T18:38:41.196523+00:00",
+ "last_run": "2026-09-11T18:50:18.625473+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -227,6 +227,21 @@
    "threshold": 1.0,
    "title": "코드의 조잡함 측정하기",
    "url": "https://news.hada.io/topic?id=33547"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33548",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T18:40:35+00:00",
+   "queued_at": "2026-09-11T18:50:18.625473+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "평생 취미이자 직업이며 정체성이었던 프로그래밍을 무시하는 분위기 가, AI로 인한 생계와 경력의 위협보다 더 깊은 슬픔을 줌 프로그래밍을 낡은 기술로 취급하고 기계의 서비스를 빌려 쓰라고 권하는 업계 분위기는, 기술과 창작으로 자신의 가치를 증명해 온 사람의 정체...",
+   "threshold": 1.0,
+   "title": "AI 때문에 느끼는 슬픔",
+   "url": "https://news.hada.io/topic?id=33548"
   }
  ],
  "seen": {
@@ -1208,6 +1223,12 @@
   "rss:https://news.hada.io/topic?id=33547": {
    "first": "2026-09-11T18:38:41.196523+00:00",
    "last": "2026-09-11T18:38:41.196523+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33548": {
+   "first": "2026-09-11T18:50:18.625473+00:00",
+   "last": "2026-09-11T18:50:18.625473+00:00",
    "score": 1.0,
    "sent": null
   },
