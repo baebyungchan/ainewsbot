@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T17:19:51.600405+00:00",
+ "last_run": "2026-09-11T17:34:59.315418+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -135,6 +135,23 @@
    "threshold": 1.0,
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+  },
+  {
+   "key": "hn:49661506",
+   "meta": {
+    "comments": 90,
+    "discussion_url": "https://news.ycombinator.com/item?id=49661506",
+    "hn_id": "49661506"
+   },
+   "published_at": "2026-09-11T16:50:51+00:00",
+   "queued_at": "2026-09-11T17:34:59.315418+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 90",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Feeling Sad about AI",
+   "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
   }
  ],
  "seen": {
@@ -751,6 +768,12 @@
    "first": "2026-09-11T17:04:52.413216+00:00",
    "last": "2026-09-11T17:04:52.413216+00:00",
    "score": 105.0,
+   "sent": null
+  },
+  "hn:49661506": {
+   "first": "2026-09-11T17:34:59.315418+00:00",
+   "last": "2026-09-11T17:34:59.315418+00:00",
+   "score": 102.0,
    "sent": null
   },
   "reddit:1wbphuo": {
