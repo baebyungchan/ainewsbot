@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T17:50:00.294369+00:00",
+ "last_run": "2026-09-11T18:05:02.542247+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -152,6 +152,21 @@
    "threshold": 100.0,
    "title": "Feeling Sad about AI",
    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/11/boris-cherny",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-11T17:47:11+00:00",
+   "queued_at": "2026-09-11T18:05:02.542247+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line. &mdash; Boris Cherny Tags: claude , ai , claude-code ,…",
+   "threshold": 1.0,
+   "title": "Quoting Boris Cherny",
+   "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
   }
  ],
  "seen": {
@@ -1189,6 +1204,12 @@
    "last": "2026-09-10T23:58:05.680761+00:00",
    "score": 1.0,
    "sent": "2026-09-10T23:58:05.680761+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/11/boris-cherny": {
+   "first": "2026-09-11T18:05:02.542247+00:00",
+   "last": "2026-09-11T18:05:02.542247+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/11/datasette-security": {
    "first": "2026-09-11T03:46:46.723389+00:00",
