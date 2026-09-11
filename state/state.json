@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T18:05:02.542247+00:00",
+ "last_run": "2026-09-11T18:20:06.173183+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -167,6 +167,21 @@
    "threshold": 1.0,
    "title": "Quoting Boris Cherny",
    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33542",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T18:18:41+00:00",
+   "queued_at": "2026-09-11T18:20:06.173183+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "동일한 노트북과 로컬 모델을 써도 하네스에 따라 첫 토큰 대기 시간 이 llama.cpp 기준 12.2~225.7초로 벌어져, 모델 속도만으로 실제 응답성을 판단하기 어려움 긴 시스템 프롬프트·도구 스키마 와 부가 요청은 제한된 로컬 자원을 압박함 — 데이터센터에서 부담이...",
+   "threshold": 1.0,
+   "title": "코딩 하네스 9종 vs. 노트북",
+   "url": "https://news.hada.io/topic?id=33542"
   }
  ],
  "seen": {
@@ -1124,6 +1139,12 @@
   "rss:https://news.hada.io/topic?id=33540": {
    "first": "2026-09-11T16:19:41.346739+00:00",
    "last": "2026-09-11T16:19:41.346739+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33542": {
+   "first": "2026-09-11T18:20:06.173183+00:00",
+   "last": "2026-09-11T18:20:06.173183+00:00",
    "score": 1.0,
    "sent": null
   },
