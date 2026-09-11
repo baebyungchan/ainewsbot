@@ -128,7 +128,7 @@ GitHub 예약이 나중에 정상화되면 둘 다 돌지만, `concurrency` 설�
 
 ## 노트북에서 대신 깨우기 (임시책)
 
-Apps Script를 설정하기 전까지 쓰는 임시책입니다. Mac이 켜져 있을 때만 15분마다 GitHub에 실행 신호를 보냅니다. 스크립트는 `trigger/mac_dispatch.sh`, 등록 파일은 `~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist`, 로그는 `~/Library/Logs/ainewsbot-dispatch.log`.
+Apps Script를 설정하기 전까지 쓰는 임시책입니다. Mac이 켜져 있을 때만 15분마다 GitHub에 실행 신호를 보냅니다. 스크립트는 `trigger/mac_dispatch.sh`의 복사본 `~/.local/bin/ainewsbot-dispatch.sh`(Desktop 폴더는 백그라운드 프로세스가 읽지 못해 밖에 둠), 등록 파일은 `~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist`, 로그는 `~/Library/Logs/ainewsbot-dispatch.log`.
 
 ```bash
 # 끄기 (Apps Script 설정 후)
