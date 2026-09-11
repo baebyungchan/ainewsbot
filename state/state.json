@@ -1,187 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T23:06:13.180629+00:00",
+ "last_run": "2026-09-11T23:21:15.126656+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=33540",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T16:07:30+00:00",
-   "queued_at": "2026-09-11T16:19:41.346739+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude 웹·API·Claude Code에서 &quot;529 overloaded_error&quot;가 뜰 때 뭘 확인하고 어떻게 넘기는지 정리한 글 529는 내 계정 문제가 아니라 Anthropic 쪽 서버 과부하 신호. 429(내 한도 초과)와 구분하는 법부터 먼저 볼 곳: status.claude.com — 컴포넌트가 claude.ai · Console · AP",
-   "threshold": 1.0,
-   "title": "클로드 529 에러(과부하) 떴을 때 대처법 — 상태 페이지 확인부터 API 재시도 전략까지",
-   "url": "https://news.hada.io/topic?id=33540"
-  },
-  {
-   "key": "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-11T10:00:00+00:00",
-   "queued_at": "2026-09-11T17:04:52.413216+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "threshold": 1.0,
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/11/boris-cherny",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-11T17:47:11+00:00",
-   "queued_at": "2026-09-11T18:05:02.542247+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line. &mdash; Boris Cherny Tags: claude , ai , claude-code ,…",
-   "threshold": 1.0,
-   "title": "Quoting Boris Cherny",
-   "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33542",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T18:18:41+00:00",
-   "queued_at": "2026-09-11T18:20:06.173183+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "동일한 노트북과 로컬 모델을 써도 하네스에 따라 첫 토큰 대기 시간 이 llama.cpp 기준 12.2~225.7초로 벌어져, 모델 속도만으로 실제 응답성을 판단하기 어려움 긴 시스템 프롬프트·도구 스키마 와 부가 요청은 제한된 로컬 자원을 압박함 — 데이터센터에서 부담이...",
-   "threshold": 1.0,
-   "title": "코딩 하네스 9종 vs. 노트북",
-   "url": "https://news.hada.io/topic?id=33542"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33544",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T18:24:41+00:00",
-   "queued_at": "2026-09-11T18:35:11.449333+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "보안 연락 정보를 담은 security.txt 에 취약점을 찾으라는 지시를 받은 AI 에이전트 대상 안내 가 함께 들어 있음 보안 연락처는 security@huggingface.co 이며, 선호 언어는 영어(en) 로 지정됨 문서의 만료 시...",
-   "threshold": 1.0,
-   "title": "HuggingFace의 security.txt: AI 에이전트에게 보내는 안내",
-   "url": "https://news.hada.io/topic?id=33544"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33543",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T18:21:41+00:00",
-   "queued_at": "2026-09-11T18:35:11.449333+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Anthropic은 2025년 12월~2026년 8월 확인한 Claude 악용 활동을 차단하고, 사이버 공격·영향력 공작·감시·사기·생물학적 악용·재래식 무기 개발·증류 등 7개 영역 의 사례를 공개함 사이버 공격의 변화는 새로운 기법보다 공격 비용과 실행 속도 ...",
-   "threshold": 1.0,
-   "title": "AI 악용 탐지와 대응: 2026년 9월",
-   "url": "https://news.hada.io/topic?id=33543"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33547",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T18:37:35+00:00",
-   "queued_at": "2026-09-11T18:38:41.196523+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLM이 거의 완벽하게 올바른 코드를 생성하더라도 불필요한 추상화와 중복 까지 피하지는 못하며, 기능 추가마다 코드가 급증하면 사람이 프로젝트를 파악하고 통제하기 어려워짐 기능적 정확성 은 숨겨진 테스트로 검증해 명확한 보상 신호를 만들 수 있지만, 조잡함...",
-   "threshold": 1.0,
-   "title": "코드의 조잡함 측정하기",
-   "url": "https://news.hada.io/topic?id=33547"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33548",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T18:40:35+00:00",
-   "queued_at": "2026-09-11T18:50:18.625473+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "평생 취미이자 직업이며 정체성이었던 프로그래밍을 무시하는 분위기 가, AI로 인한 생계와 경력의 위협보다 더 깊은 슬픔을 줌 프로그래밍을 낡은 기술로 취급하고 기계의 서비스를 빌려 쓰라고 권하는 업계 분위기는, 기술과 창작으로 자신의 가치를 증명해 온 사람의 정체...",
-   "threshold": 1.0,
-   "title": "AI 때문에 느끼는 슬픔",
-   "url": "https://news.hada.io/topic?id=33548"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33552",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T19:57:14+00:00",
-   "queued_at": "2026-09-11T20:05:36.005248+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI 이미지 생성기가 탐지기를 앞서는 상황에서, Proof of Capture 는 사후 탐지 대신 촬영 순간에 실제 카메라 촬영임을 암호학적으로 증명 하는 오픈 소스 카메라임 메타데이터가 아닌 픽셀에 서명된 지각 해시(pHash) 를 숨기며, DWT + D...",
-   "threshold": 1.0,
-   "title": "Proof of Capture: 스테가노그래피를 활용한 오픈 소스판 Apple Reference Image",
-   "url": "https://news.hada.io/topic?id=33552"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33551",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T19:54:14+00:00",
-   "queued_at": "2026-09-11T20:05:36.005248+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Cognition이 여러 Devin 에이전트 로 GPU용 소인수분해 파이프라인을 최적화해 260자리 수 RSA-260을 분해하고, 공개적으로 해결된 RSA Factoring Challenge 최대 기록 을 경신함 새로운 수학적 알고리듬이 아니라 CADO-NFS의 GPU 성능 최적화 로 성...",
-   "threshold": 1.0,
-   "title": "RSA-260 소인수분해",
-   "url": "https://news.hada.io/topic?id=33551"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33550",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T19:51:14+00:00",
-   "queued_at": "2026-09-11T20:05:36.005248+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "필즈상 수상자 25명 이 공동 선언에 서명하고, 수학 문제 풀이를 벤치마크로 삼는 AI 기업의 목표가 수학 공동체의 이해와 통찰 증진 이라는 목표와 심각하게 어긋난다고 경고함 수학에서 문제 해결은 수단이자 대리 지표 이며, 새로운 방법을 토론하...",
-   "threshold": 1.0,
-   "title": "수학에서의 AI 목표 불일치",
-   "url": "https://news.hada.io/topic?id=33550"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33557",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T20:44:41+00:00",
-   "queued_at": "2026-09-11T20:50:43.285040+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "unslop.news 는 Hacker News 게시물에 필터를 적용한 목록을 제공하며, 제공된 화면에서는 전체 179개 중 81개 가 남아 있음 각 항목에 원문 링크와 Hacker News 댓글 링크 , 점수, 게시 시점을 함께 표시해 원문과 토론을 찾아갈 수 있음 ...",
-   "threshold": 1.0,
-   "title": "Show HN: AI 없는 Hacker News",
-   "url": "https://news.hada.io/topic?id=33557"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=33555",
    "meta": {
@@ -1253,57 +1073,57 @@
   },
   "rss:https://news.hada.io/topic?id=33540": {
    "first": "2026-09-11T16:19:41.346739+00:00",
-   "last": "2026-09-11T16:19:41.346739+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33542": {
    "first": "2026-09-11T18:20:06.173183+00:00",
-   "last": "2026-09-11T18:20:06.173183+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33543": {
    "first": "2026-09-11T18:35:11.449333+00:00",
-   "last": "2026-09-11T18:35:11.449333+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33544": {
    "first": "2026-09-11T18:35:11.449333+00:00",
-   "last": "2026-09-11T18:35:11.449333+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33547": {
    "first": "2026-09-11T18:38:41.196523+00:00",
-   "last": "2026-09-11T18:38:41.196523+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33548": {
    "first": "2026-09-11T18:50:18.625473+00:00",
-   "last": "2026-09-11T18:50:18.625473+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33550": {
    "first": "2026-09-11T20:05:36.005248+00:00",
-   "last": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33551": {
    "first": "2026-09-11T20:05:36.005248+00:00",
-   "last": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33552": {
    "first": "2026-09-11T20:05:36.005248+00:00",
-   "last": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33555": {
    "first": "2026-09-11T20:50:43.285040+00:00",
@@ -1313,9 +1133,9 @@
   },
   "rss:https://news.hada.io/topic?id=33557": {
    "first": "2026-09-11T20:50:43.285040+00:00",
-   "last": "2026-09-11T20:50:43.285040+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://news.hada.io/topic?id=33558": {
    "first": "2026-09-11T21:35:54.580382+00:00",
@@ -1373,9 +1193,9 @@
   },
   "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
    "first": "2026-09-11T17:04:52.413216+00:00",
-   "last": "2026-09-11T17:04:52.413216+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
    "first": "2026-09-10T21:34:33.815126+00:00",
@@ -1403,9 +1223,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/11/boris-cherny": {
    "first": "2026-09-11T18:05:02.542247+00:00",
-   "last": "2026-09-11T18:05:02.542247+00:00",
+   "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:21:15.126656+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/11/datasette-security": {
    "first": "2026-09-11T03:46:46.723389+00:00",
@@ -1617,6 +1437,10 @@
   },
   {
    "at": "2026-09-11T23:06:13.180629+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-11T23:21:15.126656+00:00",
    "count": 12
   }
  ],
