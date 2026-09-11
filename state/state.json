@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T16:49:49.893679+00:00",
+ "last_run": "2026-09-11T17:04:52.413216+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -84,6 +84,57 @@
    "threshold": 100.0,
    "title": "RTK reports token savings, but our cost benchmarks disagree",
    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
+  },
+  {
+   "key": "reddit:1wddzyc",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
+    "rank": 3,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-11T11:48:50+00:00",
+   "queued_at": "2026-09-11T17:04:52.413216+00:00",
+   "score": 390.0,
+   "signal": "🏆 r/singularity 오늘 #3",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "He might actually be right",
+   "url": "https://i.redd.it/xcfyfhd3qvoh1.png"
+  },
+  {
+   "key": "hn:49659647",
+   "meta": {
+    "comments": 59,
+    "discussion_url": "https://news.ycombinator.com/item?id=49659647",
+    "hn_id": "49659647"
+   },
+   "published_at": "2026-09-11T15:01:19+00:00",
+   "queued_at": "2026-09-11T17:04:52.413216+00:00",
+   "score": 105.0,
+   "signal": "🟠 HN 105 pts · 💬 59",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Show HN: Hacker News, without AI",
+   "url": "https://hcker.news/?ai=exclude"
+  },
+  {
+   "key": "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-11T10:00:00+00:00",
+   "queued_at": "2026-09-11T17:04:52.413216+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+   "threshold": 1.0,
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
   }
  ],
  "seen": {
@@ -696,6 +747,12 @@
    "score": 113.0,
    "sent": null
   },
+  "hn:49659647": {
+   "first": "2026-09-11T17:04:52.413216+00:00",
+   "last": "2026-09-11T17:04:52.413216+00:00",
+   "score": 105.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -772,6 +829,12 @@
    "first": "2026-09-11T15:15:44.445977+00:00",
    "last": "2026-09-11T15:15:44.445977+00:00",
    "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wddzyc": {
+   "first": "2026-09-11T17:04:52.413216+00:00",
+   "last": "2026-09-11T17:04:52.413216+00:00",
+   "score": 390.0,
    "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
@@ -1071,6 +1134,12 @@
   "rss:https://openai.com/index/put-data-to-work": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+   "first": "2026-09-11T17:04:52.413216+00:00",
+   "last": "2026-09-11T17:04:52.413216+00:00",
    "score": 1.0,
    "sent": null
   },
