@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T19:50:29.622800+00:00",
+ "last_run": "2026-09-11T20:05:36.005248+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -293,6 +293,51 @@
    "threshold": 100.0,
    "title": "Show HN: Hacker News, Without AI",
    "url": "https://www.unslop.news/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33552",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T19:57:14+00:00",
+   "queued_at": "2026-09-11T20:05:36.005248+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 이미지 생성기가 탐지기를 앞서는 상황에서, Proof of Capture 는 사후 탐지 대신 촬영 순간에 실제 카메라 촬영임을 암호학적으로 증명 하는 오픈 소스 카메라임 메타데이터가 아닌 픽셀에 서명된 지각 해시(pHash) 를 숨기며, DWT + D...",
+   "threshold": 1.0,
+   "title": "Proof of Capture: 스테가노그래피를 활용한 오픈 소스판 Apple Reference Image",
+   "url": "https://news.hada.io/topic?id=33552"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33551",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T19:54:14+00:00",
+   "queued_at": "2026-09-11T20:05:36.005248+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Cognition이 여러 Devin 에이전트 로 GPU용 소인수분해 파이프라인을 최적화해 260자리 수 RSA-260을 분해하고, 공개적으로 해결된 RSA Factoring Challenge 최대 기록 을 경신함 새로운 수학적 알고리듬이 아니라 CADO-NFS의 GPU 성능 최적화 로 성...",
+   "threshold": 1.0,
+   "title": "RSA-260 소인수분해",
+   "url": "https://news.hada.io/topic?id=33551"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33550",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T19:51:14+00:00",
+   "queued_at": "2026-09-11T20:05:36.005248+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "필즈상 수상자 25명 이 공동 선언에 서명하고, 수학 문제 풀이를 벤치마크로 삼는 AI 기업의 목표가 수학 공동체의 이해와 통찰 증진 이라는 목표와 심각하게 어긋난다고 경고함 수학에서 문제 해결은 수단이자 대리 지표 이며, 새로운 방법을 토론하...",
+   "threshold": 1.0,
+   "title": "수학에서의 AI 목표 불일치",
+   "url": "https://news.hada.io/topic?id=33550"
   }
  ],
  "seen": {
@@ -1298,6 +1343,24 @@
   "rss:https://news.hada.io/topic?id=33548": {
    "first": "2026-09-11T18:50:18.625473+00:00",
    "last": "2026-09-11T18:50:18.625473+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33550": {
+   "first": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T20:05:36.005248+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33551": {
+   "first": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T20:05:36.005248+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33552": {
+   "first": "2026-09-11T20:05:36.005248+00:00",
+   "last": "2026-09-11T20:05:36.005248+00:00",
    "score": 1.0,
    "sent": null
   },
