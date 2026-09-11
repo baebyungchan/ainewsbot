@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T18:20:06.173183+00:00",
+ "last_run": "2026-09-11T18:35:11.449333+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -182,6 +182,36 @@
    "threshold": 1.0,
    "title": "코딩 하네스 9종 vs. 노트북",
    "url": "https://news.hada.io/topic?id=33542"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33544",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T18:24:41+00:00",
+   "queued_at": "2026-09-11T18:35:11.449333+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "보안 연락 정보를 담은 security.txt 에 취약점을 찾으라는 지시를 받은 AI 에이전트 대상 안내 가 함께 들어 있음 보안 연락처는 security@huggingface.co 이며, 선호 언어는 영어(en) 로 지정됨 문서의 만료 시...",
+   "threshold": 1.0,
+   "title": "HuggingFace의 security.txt: AI 에이전트에게 보내는 안내",
+   "url": "https://news.hada.io/topic?id=33544"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33543",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T18:21:41+00:00",
+   "queued_at": "2026-09-11T18:35:11.449333+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Anthropic은 2025년 12월~2026년 8월 확인한 Claude 악용 활동을 차단하고, 사이버 공격·영향력 공작·감시·사기·생물학적 악용·재래식 무기 개발·증류 등 7개 영역 의 사례를 공개함 사이버 공격의 변화는 새로운 기법보다 공격 비용과 실행 속도 ...",
+   "threshold": 1.0,
+   "title": "AI 악용 탐지와 대응: 2026년 9월",
+   "url": "https://news.hada.io/topic?id=33543"
   }
  ],
  "seen": {
@@ -1145,6 +1175,18 @@
   "rss:https://news.hada.io/topic?id=33542": {
    "first": "2026-09-11T18:20:06.173183+00:00",
    "last": "2026-09-11T18:20:06.173183+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33543": {
+   "first": "2026-09-11T18:35:11.449333+00:00",
+   "last": "2026-09-11T18:35:11.449333+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33544": {
+   "first": "2026-09-11T18:35:11.449333+00:00",
+   "last": "2026-09-11T18:35:11.449333+00:00",
    "score": 1.0,
    "sent": null
   },
