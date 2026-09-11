@@ -1,87 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T23:21:15.126656+00:00",
- "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=33555",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T20:38:40+00:00",
-   "queued_at": "2026-09-11T20:50:43.285040+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLM의 수학 역량이 크게 향상됐지만, AI 기업의 문제 풀이 벤치마크 경쟁 은 개념적 이해와 통찰을 추구하는 수학 공동체의 목표와 충돌함 난제 해결은 최종 목적이 아니라 새로운 이해와 방법을 얻는 수단 이며, 성과가 공동체의 지식으로 자리 잡으려면 토론·단순...",
-   "threshold": 1.0,
-   "title": "수학에서 AI와 수학계의 목표가 어긋나는 이유",
-   "url": "https://news.hada.io/topic?id=33555"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33558",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-11T21:31:15+00:00",
-   "queued_at": "2026-09-11T21:35:54.580382+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Show HN: AI 없는 Hacker News",
-   "threshold": 1.0,
-   "title": "Show HN: AI 없는 Hacker News",
-   "url": "https://news.hada.io/topic?id=33558"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-11T17:28:37+00:00",
-   "queued_at": "2026-09-11T22:36:05.353690+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well , is to be very disheartened by it. Once you come to terms with the idea that translating an exact specification into decent…",
-   "threshold": 1.0,
-   "title": "Feeling sad about AI",
-   "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-11T22:49:18+00:00",
-   "queued_at": "2026-09-11T22:51:07.858081+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider. Mohamed Moustafa points out a whole set of ways that this can cause you problems. Different providers run different serving software with different optimizations and settings, which means that the same OpenRouter endpoint ca…",
-   "threshold": 1.0,
-   "title": "So you want to use OpenRouter?",
-   "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
-  },
-  {
-   "key": "reddit:1wdne3r",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-11T17:50:36+00:00",
-   "queued_at": "2026-09-11T23:06:13.180629+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Our greatest minds are finally moving on to better things…",
-   "url": "https://i.redd.it/lr2jrhouhxoh1.png"
-  }
- ],
+ "last_run": "2026-09-11T23:23:27.347680+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -821,9 +741,9 @@
   },
   "reddit:1wdne3r": {
    "first": "2026-09-11T23:06:13.180629+00:00",
-   "last": "2026-09-11T23:06:13.180629+00:00",
+   "last": "2026-09-11T23:23:27.347680+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-11T23:23:27.347680+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1127,9 +1047,9 @@
   },
   "rss:https://news.hada.io/topic?id=33555": {
    "first": "2026-09-11T20:50:43.285040+00:00",
-   "last": "2026-09-11T20:50:43.285040+00:00",
+   "last": "2026-09-11T23:23:27.347680+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:23:27.347680+00:00"
   },
   "rss:https://news.hada.io/topic?id=33557": {
    "first": "2026-09-11T20:50:43.285040+00:00",
@@ -1139,9 +1059,9 @@
   },
   "rss:https://news.hada.io/topic?id=33558": {
    "first": "2026-09-11T21:35:54.580382+00:00",
-   "last": "2026-09-11T21:35:54.580382+00:00",
+   "last": "2026-09-11T23:23:27.347680+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:23:27.347680+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1235,9 +1155,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai": {
    "first": "2026-09-11T22:36:05.353690+00:00",
-   "last": "2026-09-11T22:36:05.353690+00:00",
+   "last": "2026-09-11T23:23:27.347680+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:23:27.347680+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/11/hugging-face-security": {
    "first": "2026-09-11T16:19:41.346739+00:00",
@@ -1247,9 +1167,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter": {
    "first": "2026-09-11T22:51:07.858081+00:00",
-   "last": "2026-09-11T22:51:07.858081+00:00",
+   "last": "2026-09-11T23:23:27.347680+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-11T23:23:27.347680+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match": {
    "first": "2026-09-11T14:49:24.561936+00:00",
@@ -1442,6 +1362,10 @@
   {
    "at": "2026-09-11T23:21:15.126656+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-11T23:23:27.347680+00:00",
+   "count": 5
   }
  ],
  "version": 1
