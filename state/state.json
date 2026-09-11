@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T18:35:11.449333+00:00",
+ "last_run": "2026-09-11T18:38:41.196523+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -212,6 +212,21 @@
    "threshold": 1.0,
    "title": "AI 악용 탐지와 대응: 2026년 9월",
    "url": "https://news.hada.io/topic?id=33543"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33547",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-11T18:37:35+00:00",
+   "queued_at": "2026-09-11T18:38:41.196523+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "LLM이 거의 완벽하게 올바른 코드를 생성하더라도 불필요한 추상화와 중복 까지 피하지는 못하며, 기능 추가마다 코드가 급증하면 사람이 프로젝트를 파악하고 통제하기 어려워짐 기능적 정확성 은 숨겨진 테스트로 검증해 명확한 보상 신호를 만들 수 있지만, 조잡함...",
+   "threshold": 1.0,
+   "title": "코드의 조잡함 측정하기",
+   "url": "https://news.hada.io/topic?id=33547"
   }
  ],
  "seen": {
@@ -1187,6 +1202,12 @@
   "rss:https://news.hada.io/topic?id=33544": {
    "first": "2026-09-11T18:35:11.449333+00:00",
    "last": "2026-09-11T18:35:11.449333+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33547": {
+   "first": "2026-09-11T18:38:41.196523+00:00",
+   "last": "2026-09-11T18:38:41.196523+00:00",
    "score": 1.0,
    "sent": null
   },
