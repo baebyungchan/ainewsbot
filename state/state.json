@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-11T22:36:05.353690+00:00",
+ "last_run": "2026-09-11T22:51:07.858081+00:00",
  "pending": [
   {
    "key": "reddit:1wdbvlt",
@@ -433,6 +433,21 @@
    "threshold": 1.0,
    "title": "Feeling sad about AI",
    "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-11T22:49:18+00:00",
+   "queued_at": "2026-09-11T22:51:07.858081+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider. Mohamed Moustafa points out a whole set of ways that this can cause you problems. Different providers run different serving software with different optimizations and settings, which means that the same OpenRouter endpoint ca…",
+   "threshold": 1.0,
+   "title": "So you want to use OpenRouter?",
+   "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
   }
  ],
  "seen": {
@@ -1589,6 +1604,12 @@
   "rss:https://simonwillison.net/2026/Sep/11/hugging-face-security": {
    "first": "2026-09-11T16:19:41.346739+00:00",
    "last": "2026-09-11T16:19:41.346739+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter": {
+   "first": "2026-09-11T22:51:07.858081+00:00",
+   "last": "2026-09-11T22:51:07.858081+00:00",
    "score": 1.0,
    "sent": null
   },
