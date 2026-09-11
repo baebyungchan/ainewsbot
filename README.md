@@ -126,6 +126,18 @@ GitHub의 cron 예약은 새로 만든 워크플로를 며칠씩 등록하지 �
 
 GitHub 예약이 나중에 정상화되면 둘 다 돌지만, `concurrency` 설정 때문에 겹치지 않고 두 번째 실행은 새 소식이 없어 조용히 끝납니다. 하나만 남기고 싶으면 Apps Script에서 `removeTrigger`를 실행하거나, 워크플로의 `schedule` 항목을 지우면 됩니다.
 
+## 노트북에서 대신 깨우기 (임시책)
+
+Apps Script를 설정하기 전까지 쓰는 임시책입니다. Mac이 켜져 있을 때만 15분마다 GitHub에 실행 신호를 보냅니다. 스크립트는 `trigger/mac_dispatch.sh`, 등록 파일은 `~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist`, 로그는 `~/Library/Logs/ainewsbot-dispatch.log`.
+
+```bash
+# 끄기 (Apps Script 설정 후)
+launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist
+rm ~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist
+# 다시 켜기
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.baebyeongchan.ainewsbot-dispatch.plist
+```
+
 ## 문제가 생기면
 
 - **아무것도 안 옴**: Actions 로그의 JSON 요약을 보세요. `sources`에 소스별 건수와 오류가 있습니다. 조용한 시간대(`quiet_hours: true`)면 정상입니다.
