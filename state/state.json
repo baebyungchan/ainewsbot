@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-12T22:43:02.116606+00:00",
+ "last_run": "2026-09-12T22:58:05.091351+00:00",
  "pending": [
   {
    "key": "gh:crwdla/tokentab",
@@ -293,6 +293,24 @@
    "threshold": 300.0,
    "title": "Open Letter from 100000 cancer researchers against AI use for cancer",
    "url": "https://i.redd.it/etx9c6by94ph1.png"
+  },
+  {
+   "key": "reddit:1wef8x8",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-12T15:16:04+00:00",
+   "queued_at": "2026-09-12T22:58:05.091351+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Kimi routed to Claude",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/"
   }
  ],
  "seen": {
@@ -1220,6 +1238,12 @@
   "reddit:1we0yw8": {
    "first": "2026-09-12T21:02:28.413241+00:00",
    "last": "2026-09-12T21:02:28.413241+00:00",
+   "score": 150.0,
+   "sent": null
+  },
+  "reddit:1wef8x8": {
+   "first": "2026-09-12T22:58:05.091351+00:00",
+   "last": "2026-09-12T22:58:05.091351+00:00",
    "score": 150.0,
    "sent": null
   },
