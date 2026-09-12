@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-12T20:47:24.567299+00:00",
+ "last_run": "2026-09-12T21:02:28.413241+00:00",
  "pending": [
   {
    "key": "gh:crwdla/tokentab",
@@ -237,6 +237,24 @@
    "threshold": 1.0,
    "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
    "url": "https://news.hada.io/topic?id=33595"
+  },
+  {
+   "key": "reddit:1we0yw8",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1we0yw8/add_developers_are_moving_like_lightning_with_ai/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-12T03:06:18+00:00",
+   "queued_at": "2026-09-12T21:02:28.413241+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "Even as a dev of 20 years, I now vibe code all day... In between the prompts to claude about the actual work I have for my job I run 6-12 parrallel conversations about my other projects. I context switch now at a rate that is utterly insane... When I was diagnosed with ADD I was 7, I remember I cried and told my Dad \"I don't want to be ADD\" and he told me that \"God gave you a gift and right now it is going to be hard but one day it will let you move faster than all of your peers.\" I really feel like that's true, and with the work I do now I feel built for this moment. I think it will be a bri…",
+   "threshold": 150.0,
+   "title": "ADD developers are moving like lightning with AI, normies beware",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1we0yw8/add_developers_are_moving_like_lightning_with_ai/"
   }
  ],
  "seen": {
@@ -1158,6 +1176,12 @@
   "reddit:1wdvpma": {
    "first": "2026-09-12T17:51:29.239305+00:00",
    "last": "2026-09-12T17:51:29.239305+00:00",
+   "score": 150.0,
+   "sent": null
+  },
+  "reddit:1we0yw8": {
+   "first": "2026-09-12T21:02:28.413241+00:00",
+   "last": "2026-09-12T21:02:28.413241+00:00",
    "score": 150.0,
    "sent": null
   },
