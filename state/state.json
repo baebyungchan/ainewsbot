@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-12T20:32:27.175839+00:00",
+ "last_run": "2026-09-12T20:47:24.567299+00:00",
  "pending": [
   {
    "key": "gh:crwdla/tokentab",
@@ -222,6 +222,21 @@
    "threshold": 500.0,
    "title": "Station-Sciences/bot-crossing",
    "url": "https://github.com/Station-Sciences/bot-crossing"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33595",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-12T20:35:50+00:00",
+   "queued_at": "2026-09-12T20:47:24.567299+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "프런티어 AI 개발 속도를 늦추기 위해, 기업이 대중에게 제공하는 모든 AI 모델의 가중치 공개를 법으로 의무화 하자고 제안함 공개 의무는 대중에게 제공하는 모델에만 적용 하며, 내부용 모델과 연구용 모델은 제외하고 정부의 미출시 모델 접근도 허용함",
+   "threshold": 1.0,
+   "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
+   "url": "https://news.hada.io/topic?id=33595"
   }
  ],
  "seen": {
@@ -1539,6 +1554,12 @@
   "rss:https://news.hada.io/topic?id=33593": {
    "first": "2026-09-12T18:52:20.193859+00:00",
    "last": "2026-09-12T18:52:20.193859+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33595": {
+   "first": "2026-09-12T20:47:24.567299+00:00",
+   "last": "2026-09-12T20:47:24.567299+00:00",
    "score": 1.0,
    "sent": null
   },
