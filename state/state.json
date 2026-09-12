@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-12T18:21:38.778834+00:00",
+ "last_run": "2026-09-12T18:52:20.193859+00:00",
  "pending": [
   {
    "key": "gh:crwdla/tokentab",
@@ -157,6 +157,36 @@
    "threshold": 150.0,
    "title": "She doesn't know about my $100 AI companion",
    "url": "https://i.redd.it/ofq26k50lyoh1.jpeg"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33593",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-12T18:41:14+00:00",
+   "queued_at": "2026-09-12T18:52:20.193859+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+   "threshold": 1.0,
+   "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+   "url": "https://news.hada.io/topic?id=33593"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33592",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-12T18:38:14+00:00",
+   "queued_at": "2026-09-12T18:52:20.193859+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "System76의 Thelio Mira AI 는 자체 하드웨어에서 AI 학습, 미세 조정, 반복 개발을 수행하도록 설계한 GPU 중심 워크스테이션임 NVIDIA RTX PRO 6000 두 개 로 GPU 메모리를 최대 192GB 까지 구성할 수 있으며, CPU는 최대 16코어 AMD Ryzen 9000 시...",
+   "threshold": 1.0,
+   "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+   "url": "https://news.hada.io/topic?id=33592"
   }
  ],
  "seen": {
@@ -1449,6 +1479,18 @@
   "rss:https://news.hada.io/topic?id=33588": {
    "first": "2026-09-12T17:51:29.239305+00:00",
    "last": "2026-09-12T17:51:29.239305+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33592": {
+   "first": "2026-09-12T18:52:20.193859+00:00",
+   "last": "2026-09-12T18:52:20.193859+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33593": {
+   "first": "2026-09-12T18:52:20.193859+00:00",
+   "last": "2026-09-12T18:52:20.193859+00:00",
    "score": 1.0,
    "sent": null
   },
