@@ -12,7 +12,7 @@ from datetime import UTC, datetime, timedelta, timezone
 
 import httpx
 
-from newsbot import briefing, deliver, rank
+from newsbot import briefing, deliver, notion, rank
 from newsbot.config import Settings, load_dotenv
 from newsbot.fetchers import BOT_UA, github, hf, hn, reddit, rss, x
 from newsbot.models import Item
@@ -147,6 +147,13 @@ def main(argv: list[str] | None = None) -> int:
                     break
         if sent_ok and not settings.dry_run:
             state.mark_sent(batch, now=now)
+            try:
+                report["notion_archived"] = notion.archive_sent(
+                    batch, now, token=settings.notion_token, database_id=settings.notion_database_id
+                )
+            except Exception as exc:  # noqa: BLE001 — archive must never break delivery
+                logger.warning("notion archive failed: %s", exc)
+                report["notion_archived"] = f"error: {exc}"
         elif not settings.dry_run:
             state.requeue(batch, now=now)
 

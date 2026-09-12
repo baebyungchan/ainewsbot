@@ -113,6 +113,23 @@ cp .env.example .env    # 토큰 채우기
 
 `state/state.json`에 본 항목·보낸 시각·대기열이 있습니다. Actions가 매 실행 후 이 파일만 커밋합니다(`[skip ci]`). 로컬에서 작업한 뒤 push 하기 전에는 `git pull --rebase`를 먼저 하세요. 파일을 지우면 다음 실행이 "첫 실행"으로 취급되어 상위 5건만 다시 보냅니다.
 
+## Notion 아카이브 (선택)
+
+보낸 항목을 Notion 데이터베이스에도 쌓습니다(제목, 출처, 종류, 점수, 요약, 링크, 발송 시각, 정리 상태). 코드는 `newsbot/notion.py`.
+
+**주의**: 여러 명이 쓰는 무료 Notion 워크스페이스는 블록 수 제한(1,000개)이 있어서 하루 20~30건씩 쌓는 용도로는 못 씁니다. 개인용 새 워크스페이스(1인 무료는 무제한)를 하나 만들어서 거기에 두세요.
+
+1. Notion 왼쪽 상단 워크스페이스 이름 → **새 워크스페이스** 생성(개인용) → 빈 페이지 하나 생성(예: "AI News").
+2. https://www.notion.so/profile/integrations → **새 API 통합** → 방금 만든 워크스페이스 선택 → 저장 → 시크릿(`secret_...`) 복사.
+3. "AI News" 페이지 우측 상단 `...` → **연결** → 방금 만든 통합 추가.
+4. 터미널에서:
+```bash
+gh secret set NOTION_TOKEN                                   # 2번 시크릿 붙여 넣기
+NOTION_TOKEN=secret_... .venv/bin/python scripts/notion_setup.py "<AI News 페이지 URL>"
+gh variable set NOTION_DATABASE_ID --body <출력된 id>
+```
+다음 실행부터 보낸 항목이 데이터베이스에 들어갑니다. 상태(안 읽음 → 읽는 중 → 정리 완료)와 태그는 Notion에서 직접 관리하고, 종류가 "논문"인 것만 보는 뷰를 만들어 두면 논문 트래커가 됩니다.
+
 ## 예약 실행이 안 돌 때: Google Apps Script로 대신 깨우기
 
 GitHub의 cron 예약은 새로 만든 워크플로를 며칠씩 등록하지 않는 장애가 종종 있습니다(GitHub 커뮤니티에 반복 보고됨). 그럴 때는 Google Apps Script가 15분마다 GitHub에 "실행해" 신호를 보내게 하면 됩니다. 새 계정이 필요 없고 무료입니다. 코드는 `trigger/apps_script.gs`.

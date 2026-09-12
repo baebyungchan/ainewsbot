@@ -61,6 +61,8 @@ class Settings:
     reddit_user_agent: str
     x_rss_base: str
     x_accounts: list[str]
+    notion_token: str
+    notion_database_id: str
 
     # Briefing
     briefing_provider: str  # rules | claude
@@ -106,6 +108,8 @@ class Settings:
             reddit_user_agent=_env("REDDIT_USER_AGENT", "github-actions:ainewsbot:1.0 (personal news bot)"),
             x_rss_base=_env("X_RSS_BASE").rstrip("/"),
             x_accounts=accounts,
+            notion_token=_env("NOTION_TOKEN"),
+            notion_database_id=_env("NOTION_DATABASE_ID").replace("-", ""),
             briefing_provider=(_env("BRIEFING_PROVIDER", "rules") or "rules").lower(),
             claude_model=_env("CLAUDE_MODEL", "claude-opus-5"),
             state_path=Path(_env("STATE_PATH", "state/state.json")),

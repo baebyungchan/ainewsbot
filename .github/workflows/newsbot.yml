@@ -40,6 +40,8 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USER_AGENT: ${{ vars.REDDIT_USER_AGENT }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ vars.NOTION_DATABASE_ID }}
           BRIEFING_PROVIDER: ${{ vars.BRIEFING_PROVIDER }}
           X_RSS_BASE: ${{ vars.X_RSS_BASE }}
           X_ACCOUNTS: ${{ vars.X_ACCOUNTS }}
