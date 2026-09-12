@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-12T17:51:29.239305+00:00",
+ "last_run": "2026-09-12T18:06:34.632728+00:00",
  "pending": [
   {
    "key": "gh:crwdla/tokentab",
@@ -123,6 +123,21 @@
    "threshold": 1.0,
    "title": "Nvidia는 AI의 중앙은행이다",
    "url": "https://news.hada.io/topic?id=33588"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/12/paul-ford",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-12T18:00:21+00:00",
+   "queued_at": "2026-09-12T18:06:34.632728+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to do someone else’s job badly, which is part of why all those projects fail. Now that everyone can code…",
+   "threshold": 1.0,
+   "title": "Quoting Paul Ford",
+   "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
   }
  ],
  "seen": {
@@ -1549,6 +1564,12 @@
    "last": "2026-09-12T00:51:43.186503+00:00",
    "score": 1.0,
    "sent": "2026-09-12T00:51:43.186503+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/12/paul-ford": {
+   "first": "2026-09-12T18:06:34.632728+00:00",
+   "last": "2026-09-12T18:06:34.632728+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
