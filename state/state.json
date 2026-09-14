@@ -1,7 +1,25 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T14:50:07.801115+00:00",
- "pending": [],
+ "last_run": "2026-09-14T15:05:08.315118+00:00",
+ "pending": [
+  {
+   "key": "hn:49693384",
+   "meta": {
+    "comments": 23,
+    "discussion_url": "https://news.ycombinator.com/item?id=49693384",
+    "hn_id": "49693384"
+   },
+   "published_at": "2026-09-14T07:55:19+00:00",
+   "queued_at": "2026-09-14T15:05:08.315118+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 23",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+   "url": "https://github.com/anuj0456/OpenArch"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1091,6 +1109,12 @@
    "last": "2026-09-14T08:19:34.973124+00:00",
    "score": 102.0,
    "sent": "2026-09-14T08:19:34.973124+00:00"
+  },
+  "hn:49693384": {
+   "first": "2026-09-14T15:05:08.315118+00:00",
+   "last": "2026-09-14T15:05:08.315118+00:00",
+   "score": 101.0,
+   "sent": null
   },
   "hn:49695409": {
    "first": "2026-09-14T14:20:32.798978+00:00",
