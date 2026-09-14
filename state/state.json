@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T20:36:28.512065+00:00",
+ "last_run": "2026-09-14T20:51:33.676806+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -307,6 +307,21 @@
    "threshold": 1.0,
    "title": "What blog posts influenced your thinking the most?",
    "url": "https://simonwillison.net/2026/Sep/14/influences/"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-14T19:00:00+00:00",
+   "queued_at": "2026-09-14T20:51:33.676806+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+   "threshold": 1.0,
+   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
   }
  ],
  "seen": {
@@ -1686,6 +1701,12 @@
    "first": "2026-09-14T16:05:25.569772+00:00",
    "last": "2026-09-14T16:05:25.569772+00:00",
    "score": 330.0,
+   "sent": null
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch": {
+   "first": "2026-09-14T20:51:33.676806+00:00",
+   "last": "2026-09-14T20:51:33.676806+00:00",
+   "score": 1.0,
    "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
