@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T21:21:39.384693+00:00",
+ "last_run": "2026-09-14T21:36:41.614525+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -337,6 +337,23 @@
    "threshold": 1.0,
    "title": "The contagion of fear",
    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+  },
+  {
+   "key": "hn:49697014",
+   "meta": {
+    "comments": 48,
+    "discussion_url": "https://news.ycombinator.com/item?id=49697014",
+    "hn_id": "49697014"
+   },
+   "published_at": "2026-09-14T13:59:09+00:00",
+   "queued_at": "2026-09-14T21:36:41.614525+00:00",
+   "score": 103.0,
+   "signal": "🟠 HN 103 pts · 💬 48",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
   }
  ],
  "seen": {
@@ -1464,6 +1481,12 @@
    "first": "2026-09-14T16:05:25.569772+00:00",
    "last": "2026-09-14T16:05:25.569772+00:00",
    "score": 102.0,
+   "sent": null
+  },
+  "hn:49697014": {
+   "first": "2026-09-14T21:36:41.614525+00:00",
+   "last": "2026-09-14T21:36:41.614525+00:00",
+   "score": 103.0,
    "sent": null
   },
   "hn:49699384": {
