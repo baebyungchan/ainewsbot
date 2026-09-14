@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T17:20:42.851248+00:00",
+ "last_run": "2026-09-14T17:35:49.087188+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -148,6 +148,21 @@
    "threshold": 100.0,
    "title": "For AI leaders Doom is a form of hype",
    "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33701",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-14T17:34:40+00:00",
+   "queued_at": "2026-09-14T17:35:49.087188+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점 을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인 의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 RubyGems.o...",
+   "threshold": 1.0,
+   "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
+   "url": "https://news.hada.io/topic?id=33701"
   }
  ],
  "seen": {
@@ -2017,6 +2032,12 @@
   "rss:https://news.hada.io/topic?id=33700": {
    "first": "2026-09-14T16:50:40.225813+00:00",
    "last": "2026-09-14T16:50:40.225813+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33701": {
+   "first": "2026-09-14T17:35:49.087188+00:00",
+   "last": "2026-09-14T17:35:49.087188+00:00",
    "score": 1.0,
    "sent": null
   },
