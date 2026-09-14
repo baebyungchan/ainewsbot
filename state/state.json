@@ -1,222 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T04:14:47.063120+00:00",
+ "last_run": "2026-09-14T04:28:09.092645+00:00",
  "pending": [
-  {
-   "key": "hfpaper:2609.10745",
-   "meta": {
-    "arxiv_id": "2609.10745",
-    "discussion_url": "https://arxiv.org/abs/2609.10745",
-    "upvotes": 22
-   },
-   "published_at": "2026-09-08T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 22.0,
-   "signal": "📄 논문 ▲ 22 · Parinthapat Pengpun, Simran Khanuja 외",
-   "source": "hf_paper",
-   "summary": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-based metrics such as pageviews. We broaden this view using knowledge-graph structural metrics that capture how well an entity is documented and connected. These metrics identify many rare entities that popularity metrics miss. Across the resulting rare-entity slices, state-of-the-art accuracy drops by 15.4-39.9%, showing that different rarity definitions expose different failure modes. To address th…",
-   "threshold": 15.0,
-   "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
-   "url": "https://huggingface.co/papers/2609.10745"
-  },
-  {
-   "key": "hfpaper:2609.11155",
-   "meta": {
-    "arxiv_id": "2609.11155",
-    "discussion_url": "https://arxiv.org/abs/2609.11155",
-    "upvotes": 22
-   },
-   "published_at": "2026-09-09T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 22.0,
-   "signal": "📄 논문 ▲ 22 · Junlin Liu, Chengwei Li 외",
-   "source": "hf_paper",
-   "summary": "Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air combat, achieving sophisticated tactical coordination remains a non-trivial challenge. This difficulty is largely attributed to two primary limitations: (1) the absence of structured relational modeling hinders agents from capturing complex, time-varying interactions among battlefield entities; and (2) conventional flat architectures often lack the capability to explicitly model tactical roles, le…",
-   "threshold": 15.0,
-   "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
-   "url": "https://huggingface.co/papers/2609.11155"
-  },
-  {
-   "key": "hn:49684356",
-   "meta": {
-    "comments": 75,
-    "discussion_url": "https://news.ycombinator.com/item?id=49684356",
-    "hn_id": "49684356"
-   },
-   "published_at": "2026-09-13T14:25:13+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 145.0,
-   "signal": "🟠 HN 145 pts · 💬 75",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "CUDA for AMD on Windows",
-   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
-  },
-  {
-   "key": "gh:asgeirtj/system_prompts_leaks",
-   "meta": {
-    "ai": true,
-    "language": "JavaScript",
-    "stars_today": 706,
-    "stars_total": 66180
-   },
-   "published_at": null,
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 706.0,
-   "signal": "★ +706 today · 66,180 total · JavaScript",
-   "source": "github_trending",
-   "summary": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-   "threshold": 500.0,
-   "title": "asgeirtj/system_prompts_leaks",
-   "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-   "key": "hfpaper:2609.12641",
-   "meta": {
-    "arxiv_id": "2609.12641",
-    "discussion_url": "https://arxiv.org/abs/2609.12641",
-    "upvotes": 21
-   },
-   "published_at": "2026-09-10T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 21.0,
-   "signal": "📄 논문 ▲ 21 · Jianman Lin, Shailesh Shailesh 외",
-   "source": "hf_paper",
-   "summary": "Robot foundation models achieve strong in-distribution performance but often degrade under visual distribution shifts. When learning to generate actions from pretrained visual representations, models may exploit task-irrelevant visual cues that correlate with demonstrated actions within the training distribution. Such vision-action shortcuts can undermine generalization when these correlations change under distribution shifts. Mitigating these shortcuts requires constraining how visual information is used for action generation while preserving task-relevant spatial information. We propose Lat…",
-   "threshold": 15.0,
-   "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
-   "url": "https://huggingface.co/papers/2609.12641"
-  },
-  {
-   "key": "hn:49682319",
-   "meta": {
-    "comments": 185,
-    "discussion_url": "https://news.ycombinator.com/item?id=49682319",
-    "hn_id": "49682319"
-   },
-   "published_at": "2026-09-13T10:29:18+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 134.0,
-   "signal": "🟠 HN 134 pts · 💬 185",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-   "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/"
-  },
-  {
-   "key": "hfpaper:2609.11115",
-   "meta": {
-    "arxiv_id": "2609.11115",
-    "discussion_url": "https://arxiv.org/abs/2609.11115",
-    "upvotes": 19
-   },
-   "published_at": "2026-09-09T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 19.0,
-   "signal": "📄 논문 ▲ 19 · Koutian Wu, Junjie Zhou 외",
-   "source": "hf_paper",
-   "summary": "Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and discovery of AI benchmarks, covering LLM evaluation, agentic and tool-use benchmarks, coding, reasoning, safety, and domain-specific evaluations. The system combines daily discovery of benchmark papers, repositories, datasets, and releases with a searchable benchmark catalog, mentions in model car…",
-   "threshold": 15.0,
-   "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-   "url": "https://huggingface.co/papers/2609.11115"
-  },
-  {
-   "key": "hfpaper:2608.30597",
-   "meta": {
-    "arxiv_id": "2608.30597",
-    "discussion_url": "https://arxiv.org/abs/2608.30597",
-    "upvotes": 18
-   },
-   "published_at": "2026-08-30T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 18.0,
-   "signal": "📄 논문 ▲ 18 · Boryeong Cho, Sumyeong Ahn 외",
-   "source": "hf_paper",
-   "summary": "Direct Preference Optimization (DPO) simplifies alignment through pairwise comparisons but assumes all observed preferences are reliable. Real data often violates this assumption, leading to reversed, weak, or ambiguous labels that cause harmful policy updates. To address this, we propose Posterior Label Correction DPO (PLC-DPO) to robustly optimize preferences by routing each pair's training signal as a clean, flip, or tie case. The key idea is to use the calibrated policy-reference margin as online evidence to take appropriate correction actions. This reframes noisy preference learning as a…",
-   "threshold": 15.0,
-   "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
-   "url": "https://huggingface.co/papers/2608.30597"
-  },
-  {
-   "key": "gh:vxcontrol/pentagi",
-   "meta": {
-    "ai": true,
-    "language": "Go",
-    "stars_today": 590,
-    "stars_total": 24080
-   },
-   "published_at": null,
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 590.0,
-   "signal": "★ +590 today · 24,080 total · Go",
-   "source": "github_trending",
-   "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-   "threshold": 500.0,
-   "title": "vxcontrol/pentagi",
-   "url": "https://github.com/vxcontrol/pentagi"
-  },
-  {
-   "key": "gh:eternityspring/reelbench-skills",
-   "meta": {
-    "age_days": 3.0,
-    "language": "HTML",
-    "stars_total": 571,
-    "topics": [
-     "ai-video",
-     "claude-code",
-     "claude-skills",
-     "ffmpeg",
-     "shot-analysis",
-     "video-analysis"
-    ]
-   },
-   "published_at": "2026-09-11T04:55:49Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 571.0,
-   "signal": "🆕 571 stars in 3d · HTML",
-   "source": "github_new",
-   "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-   "threshold": 500.0,
-   "title": "eternityspring/reelbench-skills",
-   "url": "https://github.com/eternityspring/reelbench-skills"
-  },
-  {
-   "key": "hfpaper:2609.09155",
-   "meta": {
-    "arxiv_id": "2609.09155",
-    "discussion_url": "https://arxiv.org/abs/2609.09155",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-07T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Yuncong Yang, Zhengtao Han 외",
-   "source": "hf_paper",
-   "summary": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle to scaling such models in robotics is that actions are not a universal language in pixel space: changes in visual environment, camera view, robot placement, or embodiment alter how the same numerical action manifests visually, leading to conflicting supervision under mixed training and brittle generalization at deployment. We introduce SyncWorld, an action-conditioned world model that serves as a…",
-   "threshold": 15.0,
-   "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-   "url": "https://huggingface.co/papers/2609.09155"
-  },
-  {
-   "key": "gh:snailsploit/claude-red",
-   "meta": {
-    "ai": true,
-    "language": "Python",
-    "stars_today": 506,
-    "stars_total": 4241
-   },
-   "published_at": null,
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 506.0,
-   "signal": "★ +506 today · 4,241 total · Python",
-   "source": "github_trending",
-   "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-   "threshold": 500.0,
-   "title": "SnailSploit/Claude-Red",
-   "url": "https://github.com/SnailSploit/Claude-Red"
-  },
   {
    "key": "hn:49676849",
    "meta": {
@@ -361,6 +146,23 @@
    "threshold": 1.0,
    "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
    "url": "https://news.hada.io/topic?id=33652"
+  },
+  {
+   "key": "hfpaper:2609.11682",
+   "meta": {
+    "arxiv_id": "2609.11682",
+    "discussion_url": "https://arxiv.org/abs/2609.11682",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-09T20:00:00.000Z",
+   "queued_at": "2026-09-14T04:28:09.092645+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Pingchen Lu, Xiangyi Wang 외",
+   "source": "hf_paper",
+   "summary": "Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and substantial task data. We introduce COBRA-Skills, an efficient framework that formulates skill optimization as budgeted sequential optimization over a dynamically evolving candidate space. COBRA-Skills couples contextual-bandit-guided prioritization with evidence-grounded skill evolution, selectively allocating evaluations to promising or informative candidates while continually refining the skill p…",
+   "threshold": 15.0,
+   "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+   "url": "https://huggingface.co/papers/2609.11682"
   }
  ],
  "seen": {
@@ -408,9 +210,9 @@
   },
   "gh:asgeirtj/system_prompts_leaks": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 706.0,
-   "sent": null,
+   "sent": "2026-09-14T04:28:09.092645+00:00",
    "stars_total": 66180
   },
   "gh:ayghri/i-have-adhd": {
@@ -492,9 +294,9 @@
   },
   "gh:eternityspring/reelbench-skills": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 571.0,
-   "sent": null,
+   "sent": "2026-09-14T04:28:09.092645+00:00",
    "stars_total": 571
   },
   "gh:freestylefly/awesome-gpt-image-2": {
@@ -604,9 +406,9 @@
   },
   "gh:snailsploit/claude-red": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 506.0,
-   "sent": null,
+   "sent": "2026-09-14T04:28:09.092645+00:00",
    "stars_total": 4241
   },
   "gh:spacedudem/text-humanizer": {
@@ -667,9 +469,9 @@
   },
   "gh:vxcontrol/pentagi": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 590.0,
-   "sent": null,
+   "sent": "2026-09-14T04:28:09.092645+00:00",
    "stars_total": 24080
   },
   "gh:wilsjo2/optiscaler-dlssnr-presr-multipass": {
@@ -767,9 +569,9 @@
   },
   "hfpaper:2608.30597": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 18.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hfpaper:2609.00369": {
    "first": "2026-09-10T21:34:33.815126+00:00",
@@ -917,9 +719,9 @@
   },
   "hfpaper:2609.09155": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hfpaper:2609.09219": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -971,9 +773,9 @@
   },
   "hfpaper:2609.10745": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 22.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hfpaper:2609.11042": {
    "first": "2026-09-11T03:31:41.788080+00:00",
@@ -989,15 +791,15 @@
   },
   "hfpaper:2609.11115": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 19.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hfpaper:2609.11155": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 22.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hfpaper:2609.11156": {
    "first": "2026-09-14T04:14:47.063120+00:00",
@@ -1041,6 +843,12 @@
    "score": 19.0,
    "sent": "2026-09-12T05:37:43.272132+00:00"
   },
+  "hfpaper:2609.11682": {
+   "first": "2026-09-14T04:28:09.092645+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2609.11699": {
    "first": "2026-09-12T10:53:52.929926+00:00",
    "last": "2026-09-12T10:53:52.929926+00:00",
@@ -1061,9 +869,9 @@
   },
   "hfpaper:2609.12641": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 21.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1319,15 +1127,15 @@
   },
   "hn:49682319": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 134.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hn:49684356": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:28:09.092645+00:00",
    "score": 145.0,
-   "sent": null
+   "sent": "2026-09-14T04:28:09.092645+00:00"
   },
   "hn:49685253": {
    "first": "2026-09-14T04:14:47.063120+00:00",
@@ -2467,6 +2275,10 @@
   },
   {
    "at": "2026-09-14T04:14:47.063120+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-14T04:28:09.092645+00:00",
    "count": 12
   }
  ],
