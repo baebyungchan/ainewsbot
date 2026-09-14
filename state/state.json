@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T16:50:40.225813+00:00",
+ "last_run": "2026-09-14T17:05:36.609055+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -131,6 +131,23 @@
    "threshold": 1.0,
    "title": "OpenArch - 현대 LLM 아키텍처의 PyTorch 구현 모음",
    "url": "https://news.hada.io/topic?id=33700"
+  },
+  {
+   "key": "hn:49699384",
+   "meta": {
+    "comments": 78,
+    "discussion_url": "https://news.ycombinator.com/item?id=49699384",
+    "hn_id": "49699384"
+   },
+   "published_at": "2026-09-14T16:15:05+00:00",
+   "queued_at": "2026-09-14T17:05:36.609055+00:00",
+   "score": 104.0,
+   "signal": "🟠 HN 104 pts · 💬 78",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "For AI leaders Doom is a form of hype",
+   "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
   }
  ],
  "seen": {
@@ -1245,6 +1262,12 @@
    "first": "2026-09-14T16:05:25.569772+00:00",
    "last": "2026-09-14T16:05:25.569772+00:00",
    "score": 102.0,
+   "sent": null
+  },
+  "hn:49699384": {
+   "first": "2026-09-14T17:05:36.609055+00:00",
+   "last": "2026-09-14T17:05:36.609055+00:00",
+   "score": 104.0,
    "sent": null
   },
   "reddit:1wbphuo": {
