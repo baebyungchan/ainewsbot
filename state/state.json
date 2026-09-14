@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T15:50:19.964178+00:00",
+ "last_run": "2026-09-14T16:05:25.569772+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -33,6 +33,42 @@
    "threshold": 1.0,
    "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
    "url": "https://news.hada.io/topic?id=33697"
+  },
+  {
+   "key": "reddit:1wg4cjk",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-14T14:03:49+00:00",
+   "queued_at": "2026-09-14T16:05:25.569772+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Trump reiterates no slowdown",
+   "url": "https://i.redd.it/040oyamxshph1.jpeg"
+  },
+  {
+   "key": "hn:49695876",
+   "meta": {
+    "comments": 131,
+    "discussion_url": "https://news.ycombinator.com/item?id=49695876",
+    "hn_id": "49695876"
+   },
+   "published_at": "2026-09-14T12:40:57+00:00",
+   "queued_at": "2026-09-14T16:05:25.569772+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 131",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
   }
  ],
  "seen": {
@@ -1137,6 +1173,12 @@
    "score": 123.0,
    "sent": "2026-09-14T14:20:32.798978+00:00"
   },
+  "hn:49695876": {
+   "first": "2026-09-14T16:05:25.569772+00:00",
+   "last": "2026-09-14T16:05:25.569772+00:00",
+   "score": 102.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -1358,6 +1400,12 @@
    "last": "2026-09-14T11:04:12.581894+00:00",
    "score": 150.0,
    "sent": "2026-09-14T11:04:12.581894+00:00"
+  },
+  "reddit:1wg4cjk": {
+   "first": "2026-09-14T16:05:25.569772+00:00",
+   "last": "2026-09-14T16:05:25.569772+00:00",
+   "score": 330.0,
+   "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
