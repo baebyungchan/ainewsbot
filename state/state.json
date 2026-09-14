@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T16:05:25.569772+00:00",
+ "last_run": "2026-09-14T16:20:31.936914+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -69,6 +69,21 @@
    "threshold": 100.0,
    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-14T16:00:00+00:00",
+   "queued_at": "2026-09-14T16:20:31.936914+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
+   "threshold": 1.0,
+   "title": "DevFest is back",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
   }
  ],
  "seen": {
@@ -1410,6 +1425,12 @@
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026": {
+   "first": "2026-09-14T16:20:31.936914+00:00",
+   "last": "2026-09-14T16:20:31.936914+00:00",
    "score": 1.0,
    "sent": null
   },
