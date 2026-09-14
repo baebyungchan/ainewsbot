@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T21:36:41.614525+00:00",
+ "last_run": "2026-09-14T22:07:11.712579+00:00",
  "pending": [
   {
    "key": "hn:49693384",
@@ -354,6 +354,57 @@
    "threshold": 100.0,
    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
+  },
+  {
+   "key": "reddit:1wgecxn",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-14T20:01:18+00:00",
+   "queued_at": "2026-09-14T22:07:11.712579+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "We Must Pace the Frontier",
+   "url": "https://v.redd.it/ied43mujkjph1"
+  },
+  {
+   "key": "hn:49699373",
+   "meta": {
+    "comments": 132,
+    "discussion_url": "https://news.ycombinator.com/item?id=49699373",
+    "hn_id": "49699373"
+   },
+   "published_at": "2026-09-14T16:14:24+00:00",
+   "queued_at": "2026-09-14T22:07:11.712579+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 132",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude is a Contrarian",
+   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33709",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-14T21:48:34+00:00",
+   "queued_at": "2026-09-14T22:07:11.712579+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI가 수학적 결과를 생산하는 능력과 인간의 수학적 이해 가 분리되고 있으며, 수학계는 논문과 정리 증명 중심의 평가 체계를 바꿀 필요가 있음 지켜야 할 것은 기존 학술 제도의 형태가 아니라 좋은 수학을 생산하고 이해하는 일 , 그리고 이를 이해하고 전달할 사...",
+   "threshold": 1.0,
+   "title": "수학의 시작",
+   "url": "https://news.hada.io/topic?id=33709"
   }
  ],
  "seen": {
@@ -1489,6 +1540,12 @@
    "score": 103.0,
    "sent": null
   },
+  "hn:49699373": {
+   "first": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-14T22:07:11.712579+00:00",
+   "score": 101.0,
+   "sent": null
+  },
   "hn:49699384": {
    "first": "2026-09-14T17:05:36.609055+00:00",
    "last": "2026-09-14T17:05:36.609055+00:00",
@@ -1738,6 +1795,12 @@
   "reddit:1wg4cjk": {
    "first": "2026-09-14T16:05:25.569772+00:00",
    "last": "2026-09-14T16:05:25.569772+00:00",
+   "score": 330.0,
+   "sent": null
+  },
+  "reddit:1wgecxn": {
+   "first": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-14T22:07:11.712579+00:00",
    "score": 330.0,
    "sent": null
   },
@@ -2284,6 +2347,12 @@
   "rss:https://news.hada.io/topic?id=33705": {
    "first": "2026-09-14T19:51:21.122878+00:00",
    "last": "2026-09-14T19:51:21.122878+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33709": {
+   "first": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-14T22:07:11.712579+00:00",
    "score": 1.0,
    "sent": null
   },
