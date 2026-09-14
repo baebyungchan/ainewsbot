@@ -1,170 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T04:28:09.092645+00:00",
- "pending": [
-  {
-   "key": "hn:49676849",
-   "meta": {
-    "comments": 65,
-    "discussion_url": "https://news.ycombinator.com/item?id=49676849",
-    "hn_id": "49676849"
-   },
-   "published_at": "2026-09-12T20:28:29+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 65",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-  },
-  {
-   "key": "gh:wilsjo2/optiscaler-dlssnr-presr-multipass",
-   "meta": {
-    "age_days": 8.2,
-    "language": "C++",
-    "stars_total": 500,
-    "topics": [
-     "baldurs-gate-3",
-     "dlss",
-     "dlss-neural-rendering",
-     "optiscaler"
-    ]
-   },
-   "published_at": "2026-09-05T23:32:00Z",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 500.0,
-   "signal": "🆕 500 stars in 8d · C++",
-   "source": "github_new",
-   "summary": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
-   "threshold": 500.0,
-   "title": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-   "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/14/commit-rewriter",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-14T00:28:10+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication. If you want to edit the commit messages for a repository you can run it like this: uvx commit-rewriter path/to/repo Omit the path if you are already in the directory for that repo. When you submit your edits the…",
-   "threshold": 1.0,
-   "title": "commit-rewriter 0.1",
-   "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/13/shot-scraper",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-13T23:58:14+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without that option the WebP file will be lossless. In my experience WebP screenshots are almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR for some examples. I shipped this feature so…",
-   "threshold": 1.0,
-   "title": "shot-scraper 1.12",
-   "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33667",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-14T01:34:09+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI가 10년 안에 모든 인간을 죽일 확률이 10%를 넘는다 는 예측은 인류 멸종이라는 극단적인 결과를 내세우지만, 그에 걸맞은 구체적인 근거가 부족하다는 비판을 받음 기술 전반을 이해할 수 없는 대중은 분야별 전문가를 신뢰 할 수밖에 없으며, 전문가가 퍼뜨린 공...",
-   "threshold": 1.0,
-   "title": "공포의 전염",
-   "url": "https://news.hada.io/topic?id=33667"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33664",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-14T00:30:02+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude Code/Codex/Pi 등에서 블로그와 문서, 발표 자료에 넣을 다이어그램 을 자연어로 요청해 만드는 에이전트 스킬 비슷한 둥근 상자와 화살표를 늘어놓는 대신, 정보의 위계와 읽는 순서가 드러나도록 배치와 글꼴, 색상, 연결선 규칙을 적용 아키텍처...",
-   "threshold": 1.0,
-   "title": "Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬",
-   "url": "https://news.hada.io/topic?id=33664"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33658",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-13T22:39:36+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude Fable 5.1 이 Sir Thomas Urquhart의 미해결 암호문 Cyphral Distich를 44분, 약 17만 6,000토큰, 추가 개입 없이 해독한 것으로 보임 해독의 열쇠는 외부 암호표가 아니라 책 자체 였음. 암호문 각 행의 32개 숫자를 바로 앞의 32개 Proquiritations에 대응시...",
-   "threshold": 1.0,
-   "title": "Claude Fable 5.1, 370년 된 암호문 Cyphral Distich 해독",
-   "url": "https://news.hada.io/topic?id=33658"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33657",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-13T22:02:45+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "사람이 경험으로 알아채던 데이터 오류와 업무 맥락을 에이전트가 스스로 보완하리라 기대할 수는 없음. 데이터의 품질과 의미, 사용 권한을 시스템에 명시 해야 함 데이터의 형식과 최신성, 품질 기준을 데이터 계약 으로 검증하고, 통과하지 못한 데이터는 에이전트...",
-   "threshold": 1.0,
-   "title": "에이전트형 AI를 위한 데이터 준비하기",
-   "url": "https://news.hada.io/topic?id=33657"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33652",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-13T21:36:38+00:00",
-   "queued_at": "2026-09-14T04:14:47.063120+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "기업가치 1조 달러 스타트업 이 가능하다는 기대가 투자 기준을 바꾸면서, 자본과 유능한 창업자가 가장 거대한 성공을 노리는 분야로 몰리고 있음 투자자들이 유망하다고 보는 일부 AI 분야에는 자금과 관심이 집중되지만, SaaS, 소비자 서비스, 커머스 등은 상대적으로 소외...",
-   "threshold": 1.0,
-   "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
-   "url": "https://news.hada.io/topic?id=33652"
-  },
-  {
-   "key": "hfpaper:2609.11682",
-   "meta": {
-    "arxiv_id": "2609.11682",
-    "discussion_url": "https://arxiv.org/abs/2609.11682",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-09T20:00:00.000Z",
-   "queued_at": "2026-09-14T04:28:09.092645+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Pingchen Lu, Xiangyi Wang 외",
-   "source": "hf_paper",
-   "summary": "Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and substantial task data. We introduce COBRA-Skills, an efficient framework that formulates skill optimization as budgeted sequential optimization over a dynamically evolving candidate space. COBRA-Skills couples contextual-bandit-guided prioritization with evidence-grounded skill evolution, selectively allocating evaluations to promising or informative candidates while continually refining the skill p…",
-   "threshold": 15.0,
-   "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
-   "url": "https://huggingface.co/papers/2609.11682"
-  }
- ],
+ "last_run": "2026-09-14T04:43:12.040986+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -476,9 +313,9 @@
   },
   "gh:wilsjo2/optiscaler-dlssnr-presr-multipass": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 500.0,
-   "sent": null,
+   "sent": "2026-09-14T04:43:12.040986+00:00",
    "stars_total": 500
   },
   "gh:yilujian/easy-writing": {
@@ -845,9 +682,9 @@
   },
   "hfpaper:2609.11682": {
    "first": "2026-09-14T04:28:09.092645+00:00",
-   "last": "2026-09-14T04:28:09.092645+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "hfpaper:2609.11699": {
    "first": "2026-09-12T10:53:52.929926+00:00",
@@ -1109,9 +946,9 @@
   },
   "hn:49676849": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "hn:49678683": {
    "first": "2026-09-13T01:57:48.732920+00:00",
@@ -1769,33 +1606,33 @@
   },
   "rss:https://news.hada.io/topic?id=33652": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://news.hada.io/topic?id=33657": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://news.hada.io/topic?id=33658": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://news.hada.io/topic?id=33664": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://news.hada.io/topic?id=33667": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1955,15 +1792,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/13/shot-scraper": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/14/commit-rewriter": {
    "first": "2026-09-14T04:14:47.063120+00:00",
-   "last": "2026-09-14T04:14:47.063120+00:00",
+   "last": "2026-09-14T04:43:12.040986+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-14T04:43:12.040986+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2280,6 +2117,10 @@
   {
    "at": "2026-09-14T04:28:09.092645+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-14T04:43:12.040986+00:00",
+   "count": 10
   }
  ],
  "version": 1
