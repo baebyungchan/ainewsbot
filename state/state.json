@@ -1,83 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T00:35:12.852612+00:00",
- "pending": [
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-14T21:18:13+00:00",
-   "queued_at": "2026-09-14T21:21:39.384693+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with pe…",
-   "threshold": 1.0,
-   "title": "The contagion of fear",
-   "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33709",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-14T21:48:34+00:00",
-   "queued_at": "2026-09-14T22:07:11.712579+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI가 수학적 결과를 생산하는 능력과 인간의 수학적 이해 가 분리되고 있으며, 수학계는 논문과 정리 증명 중심의 평가 체계를 바꿀 필요가 있음 지켜야 할 것은 기존 학술 제도의 형태가 아니라 좋은 수학을 생산하고 이해하는 일 , 그리고 이를 이해하고 전달할 사...",
-   "threshold": 1.0,
-   "title": "수학의 시작",
-   "url": "https://news.hada.io/topic?id=33709"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33715",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T00:07:09+00:00",
-   "queued_at": "2026-09-15T00:13:50.118975+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI가 수학에서 인간을 확실히 능가하더라도, 논문과 정리 생산을 보상하는 기존 제도 가 유지되면 수학의 발전은 정체될 수 있음. 이는 예측이 아니라 현재 추세가 이어질 때를 상상한 위험 시나리오임 수학적 산출물은 급증하지만 정확성, 흥미로움, 실질적인 검토 ...",
-   "threshold": 1.0,
-   "title": "수학의 종말",
-   "url": "https://news.hada.io/topic?id=33715"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33712",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-14T23:37:17+00:00",
-   "queued_at": "2026-09-15T00:13:50.118975+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "미국 제9연방항소법원이 Amazon에서 Comet의 AI 도구 사용을 막은 예비적 금지명령을 취소하고 사건을 환송 함 현재 소송기록상 Amazon 컴퓨터에 접근한 주체는 Perplexity가 아니라 Assistant를 도구로 사용하는 이용자 이므로, Amazon이 연방 및 캘리포니아 컴퓨터...",
-   "threshold": 1.0,
-   "title": "Amazon 대 Perplexity 소송, 미국 제9연방항소법원",
-   "url": "https://news.hada.io/topic?id=33712"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33710",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-14T22:36:11+00:00",
-   "queued_at": "2026-09-15T00:13:50.118975+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 보호하는 수단이 될 수 있음 질병 치료와 풍요를 약속해도 발견과 접근성은 다른 문제 임. 이미 치료법이 있는 질병으...",
-   "threshold": 1.0,
-   "title": "Dario, 제발!",
-   "url": "https://news.hada.io/topic?id=33710"
-  }
- ],
+ "last_run": "2026-09-15T01:12:49.302717+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -281,6 +205,13 @@
    "score": 502.0,
    "sent": "2026-09-14T10:19:03.142069+00:00",
    "stars_total": 502
+  },
+  "gh:lfzk550/fanzha-ai-proxy": {
+   "first": "2026-09-15T01:12:49.302717+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
+   "score": 500.0,
+   "sent": "2026-09-15T01:12:49.302717+00:00",
+   "stars_total": 500
   },
   "gh:melgarafael/deskcommcrm": {
    "first": "2026-09-12T12:09:08.745595+00:00",
@@ -779,6 +710,12 @@
    "score": 22.0,
    "sent": "2026-09-14T04:28:09.092645+00:00"
   },
+  "hfpaper:2609.10895": {
+   "first": "2026-09-15T01:12:49.302717+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
+   "score": 15.0,
+   "sent": "2026-09-15T01:12:49.302717+00:00"
+  },
   "hfpaper:2609.11042": {
    "first": "2026-09-11T03:31:41.788080+00:00",
    "last": "2026-09-11T03:31:41.788080+00:00",
@@ -1235,11 +1172,23 @@
    "score": 104.0,
    "sent": "2026-09-15T00:13:50.118975+00:00"
   },
+  "hn:49699648": {
+   "first": "2026-09-15T01:12:49.302717+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
+   "score": 103.0,
+   "sent": "2026-09-15T01:12:49.302717+00:00"
+  },
   "hn:49700477": {
    "first": "2026-09-14T19:06:07.361526+00:00",
    "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 108.0,
    "sent": "2026-09-15T00:13:50.118975+00:00"
+  },
+  "hn:49703003": {
+   "first": "2026-09-15T01:12:49.302717+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
+   "score": 104.0,
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2035,27 +1984,33 @@
   },
   "rss:https://news.hada.io/topic?id=33709": {
    "first": "2026-09-14T22:07:11.712579+00:00",
-   "last": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33710": {
    "first": "2026-09-15T00:13:50.118975+00:00",
-   "last": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33712": {
    "first": "2026-09-15T00:13:50.118975+00:00",
-   "last": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33715": {
    "first": "2026-09-15T00:13:50.118975+00:00",
-   "last": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T01:12:49.302717+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=33720": {
+   "first": "2026-09-15T01:12:49.302717+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
+   "score": 1.0,
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2245,9 +2200,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/14/the-contagion-of-fear": {
    "first": "2026-09-14T21:21:39.384693+00:00",
-   "last": "2026-09-14T21:21:39.384693+00:00",
+   "last": "2026-09-15T01:12:49.302717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T01:12:49.302717+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2654,6 +2609,10 @@
   {
    "at": "2026-09-15T00:35:12.852612+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-15T01:12:49.302717+00:00",
+   "count": 10
   }
  ],
  "version": 1
