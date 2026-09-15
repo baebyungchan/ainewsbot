@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T19:30:36.850782+00:00",
+ "last_run": "2026-09-15T19:45:34.024202+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -259,6 +259,38 @@
    "threshold": 150.0,
    "title": "I used Claude to write a CapCut replacement and now people are actually ditching CapCut for it.",
    "url": "https://i.redd.it/vu3glb6l6nph1.png"
+  },
+  {
+   "key": "hn:49715947",
+   "meta": {
+    "comments": 57,
+    "discussion_url": "https://news.ycombinator.com/item?id=49715947",
+    "hn_id": "49715947"
+   },
+   "published_at": "2026-09-15T17:38:18+00:00",
+   "queued_at": "2026-09-15T19:45:34.024202+00:00",
+   "score": 105.0,
+   "signal": "🟠 HN 105 pts · 💬 57",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33750",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T19:36:47+00:00",
+   "queued_at": "2026-09-15T19:45:34.024202+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호 했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집 으로 건...",
+   "threshold": 1.0,
+   "title": "대부분의 사람은 전통 건축을 선호한다",
+   "url": "https://news.hada.io/topic?id=33750"
   }
  ],
  "seen": {
@@ -1620,6 +1652,12 @@
    "score": 119.0,
    "sent": null
   },
+  "hn:49715947": {
+   "first": "2026-09-15T19:45:34.024202+00:00",
+   "last": "2026-09-15T19:45:34.024202+00:00",
+   "score": 105.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -2589,6 +2627,12 @@
   "rss:https://news.hada.io/topic?id=33748": {
    "first": "2026-09-15T18:55:40.751042+00:00",
    "last": "2026-09-15T18:55:40.751042+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33750": {
+   "first": "2026-09-15T19:45:34.024202+00:00",
+   "last": "2026-09-15T19:45:34.024202+00:00",
    "score": 1.0,
    "sent": null
   },
