@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T16:59:55.891277+00:00",
+ "last_run": "2026-09-15T17:14:59.741496+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -146,6 +146,21 @@
    "threshold": 1.0,
    "title": "AI for Societal Impact",
    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+  },
+  {
+   "key": "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+   "meta": {
+    "feed": "Google DeepMind"
+   },
+   "published_at": "2026-09-15T17:05:57+00:00",
+   "queued_at": "2026-09-15T17:14:59.741496+00:00",
+   "score": 1.0,
+   "signal": "📰 Google DeepMind",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
   }
  ],
  "seen": {
@@ -1836,6 +1851,12 @@
    "last": "2026-09-10T23:12:57.862686+00:00",
    "score": 1.0,
    "sent": "2026-09-10T23:12:57.862686+00:00"
+  },
+  "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
+   "first": "2026-09-15T17:14:59.741496+00:00",
+   "last": "2026-09-15T17:14:59.741496+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://huggingface.co/blog/gradio-workflow-1111": {
    "first": "2026-09-10T14:53:46.276689+00:00",
