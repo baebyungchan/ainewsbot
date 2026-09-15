@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T20:30:47.342237+00:00",
+ "last_run": "2026-09-15T20:45:52.999545+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -340,6 +340,38 @@
    "threshold": 1.0,
    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/"
+  },
+  {
+   "key": "hn:49716241",
+   "meta": {
+    "comments": 38,
+    "discussion_url": "https://news.ycombinator.com/item?id=49716241",
+    "hn_id": "49716241"
+   },
+   "published_at": "2026-09-15T17:56:10+00:00",
+   "queued_at": "2026-09-15T20:45:52.999545+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 38",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Hugging Face is billing OpenAI $100M for hacking it",
+   "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33751",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T20:42:25+00:00",
+   "queued_at": "2026-09-15T20:45:52.999545+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "TypeSafe AI가 소프트웨어에서 직접 사용할 구조화된 판단 에 특화한 System One Model의 첫 모델 Jev 를 얼리 액세스로 공개함 문자열 생성 대신 사전에 정의한 타입의 값과 확률을 출력하며, 병렬 샘플링 으로 모든 출력을 한 번의 질의에서 생성함...",
+   "threshold": 1.0,
+   "title": "Jev, 비용은 40~400배 저렴하고 속도는 20~200배 빠른 새로운 프런티어 모델",
+   "url": "https://news.hada.io/topic?id=33751"
   }
  ],
  "seen": {
@@ -1707,6 +1739,12 @@
    "score": 105.0,
    "sent": null
   },
+  "hn:49716241": {
+   "first": "2026-09-15T20:45:52.999545+00:00",
+   "last": "2026-09-15T20:45:52.999545+00:00",
+   "score": 102.0,
+   "sent": null
+  },
   "hn:49716476": {
    "first": "2026-09-15T20:00:43.047746+00:00",
    "last": "2026-09-15T20:00:43.047746+00:00",
@@ -2694,6 +2732,12 @@
   "rss:https://news.hada.io/topic?id=33750": {
    "first": "2026-09-15T19:45:34.024202+00:00",
    "last": "2026-09-15T19:45:34.024202+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33751": {
+   "first": "2026-09-15T20:45:52.999545+00:00",
+   "last": "2026-09-15T20:45:52.999545+00:00",
    "score": 1.0,
    "sent": null
   },
