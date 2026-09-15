@@ -1,73 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T22:46:19.690432+00:00",
+ "last_run": "2026-09-15T23:01:17.880403+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=33739",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T14:51:59+00:00",
-   "queued_at": "2026-09-15T15:04:34.949907+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenArm 은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크...",
-   "threshold": 1.0,
-   "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
-   "url": "https://news.hada.io/topic?id=33739"
-  },
-  {
-   "key": "hn:49712746",
-   "meta": {
-    "comments": 93,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712746",
-    "hn_id": "49712746"
-   },
-   "published_at": "2026-09-15T14:07:01+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 93",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-   "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/"
-  },
-  {
-   "key": "hn:49712278",
-   "meta": {
-    "comments": 52,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712278",
-    "hn_id": "49712278"
-   },
-   "published_at": "2026-09-15T13:31:40+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 52",
-   "source": "hn",
-   "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file. The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key&#x2F;value store or via a MongoDB-inspired collections API as documents, saved in a t…",
-   "threshold": 100.0,
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/"
-  },
-  {
-   "key": "hn:49711240",
-   "meta": {
-    "comments": 66,
-    "discussion_url": "https://news.ycombinator.com/item?id=49711240",
-    "hn_id": "49711240"
-   },
-   "published_at": "2026-09-15T12:01:31+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 66",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-  },
   {
    "key": "reddit:1wgfiz8",
    "meta": {
@@ -163,23 +97,6 @@
    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
   },
   {
-   "key": "hn:49715113",
-   "meta": {
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715113",
-    "hn_id": "49715113"
-   },
-   "published_at": "2026-09-15T16:38:45+00:00",
-   "queued_at": "2026-09-15T17:45:10.290213+00:00",
-   "score": 119.0,
-   "signal": "🟠 HN 119 pts · 💬 63",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-   "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=33744",
    "meta": {
     "feed": "GeekNews"
@@ -193,23 +110,6 @@
    "threshold": 1.0,
    "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
    "url": "https://news.hada.io/topic?id=33744"
-  },
-  {
-   "key": "hn:49710015",
-   "meta": {
-    "comments": 132,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710015",
-    "hn_id": "49710015"
-   },
-   "published_at": "2026-09-15T09:47:48+00:00",
-   "queued_at": "2026-09-15T18:30:21.282128+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 132",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "How much of F-Droid is LLM generated?",
-   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=33745",
@@ -261,23 +161,6 @@
    "url": "https://i.redd.it/vu3glb6l6nph1.png"
   },
   {
-   "key": "hn:49715947",
-   "meta": {
-    "comments": 57,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715947",
-    "hn_id": "49715947"
-   },
-   "published_at": "2026-09-15T17:38:18+00:00",
-   "queued_at": "2026-09-15T19:45:34.024202+00:00",
-   "score": 105.0,
-   "signal": "🟠 HN 105 pts · 💬 57",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=33750",
    "meta": {
     "feed": "GeekNews"
@@ -293,40 +176,6 @@
    "url": "https://news.hada.io/topic?id=33750"
   },
   {
-   "key": "hn:49716476",
-   "meta": {
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716476",
-    "hn_id": "49716476"
-   },
-   "published_at": "2026-09-15T18:11:24+00:00",
-   "queued_at": "2026-09-15T20:00:43.047746+00:00",
-   "score": 110.0,
-   "signal": "🟠 HN 110 pts · 💬 41",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-   "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
-  },
-  {
-   "key": "hn:49717558",
-   "meta": {
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=49717558",
-    "hn_id": "49717558"
-   },
-   "published_at": "2026-09-15T19:25:03+00:00",
-   "queued_at": "2026-09-15T20:15:45.373854+00:00",
-   "score": 140.0,
-   "signal": "🟠 HN 140 pts · 💬 35",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
-   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
-  },
-  {
    "key": "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
    "meta": {
     "feed": "Google Research"
@@ -340,23 +189,6 @@
    "threshold": 1.0,
    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/"
-  },
-  {
-   "key": "hn:49716241",
-   "meta": {
-    "comments": 38,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716241",
-    "hn_id": "49716241"
-   },
-   "published_at": "2026-09-15T17:56:10+00:00",
-   "queued_at": "2026-09-15T20:45:52.999545+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 38",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Hugging Face is billing OpenAI $100M for hacking it",
-   "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=33751",
@@ -389,25 +221,6 @@
    "url": "https://news.hada.io/topic?id=33755"
   },
   {
-   "key": "reddit:1wh2i82",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-15T14:49:44+00:00",
-   "queued_at": "2026-09-15T22:01:06.968671+00:00",
-   "score": 390.0,
-   "signal": "🏆 r/singularity 오늘 #3",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "TIME's latest cover",
-   "url": "https://i.redd.it/ckf8d2d16pph1.jpeg"
-  },
-  {
    "key": "reddit:1wgvklo",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
@@ -425,24 +238,6 @@
    "threshold": 150.0,
    "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
    "url": "https://v.redd.it/7jfq3qallnph1"
-  },
-  {
-   "key": "gh:ai-sucks-butt/ai-sucks-butt",
-   "meta": {
-    "age_days": 1.8,
-    "language": null,
-    "stars_total": 519,
-    "topics": []
-   },
-   "published_at": "2026-09-14T04:02:58Z",
-   "queued_at": "2026-09-15T22:31:12.011235+00:00",
-   "score": 519.0,
-   "signal": "🆕 519 stars in 2d",
-   "source": "github_new",
-   "summary": "If you think AI sucks, star the repo.",
-   "threshold": 500.0,
-   "title": "ai-sucks-butt/ai-sucks-butt",
-   "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
   },
   {
    "key": "reddit:1wgufal",
@@ -510,9 +305,9 @@
   },
   "gh:ai-sucks-butt/ai-sucks-butt": {
    "first": "2026-09-15T22:31:12.011235+00:00",
-   "last": "2026-09-15T22:31:12.011235+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 519.0,
-   "sent": null,
+   "sent": "2026-09-15T23:01:17.880403+00:00",
    "stars_total": 519
   },
   "gh:albert-weasker/niubigeo": {
@@ -1817,57 +1612,57 @@
   },
   "hn:49710015": {
    "first": "2026-09-15T18:30:21.282128+00:00",
-   "last": "2026-09-15T18:30:21.282128+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49711240": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 103.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49712278": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 103.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49712746": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 103.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49715113": {
    "first": "2026-09-15T17:45:10.290213+00:00",
-   "last": "2026-09-15T17:45:10.290213+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 119.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49715947": {
    "first": "2026-09-15T19:45:34.024202+00:00",
-   "last": "2026-09-15T19:45:34.024202+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 105.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49716241": {
    "first": "2026-09-15T20:45:52.999545+00:00",
-   "last": "2026-09-15T20:45:52.999545+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49716476": {
    "first": "2026-09-15T20:00:43.047746+00:00",
-   "last": "2026-09-15T20:00:43.047746+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 110.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "hn:49717558": {
    "first": "2026-09-15T20:15:45.373854+00:00",
-   "last": "2026-09-15T20:15:45.373854+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 140.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2177,9 +1972,9 @@
   },
   "reddit:1wh2i82": {
    "first": "2026-09-15T22:01:06.968671+00:00",
-   "last": "2026-09-15T22:01:06.968671+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 390.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
    "first": "2026-09-15T16:06:34.957489+00:00",
@@ -2837,9 +2632,9 @@
   },
   "rss:https://news.hada.io/topic?id=33739": {
    "first": "2026-09-15T15:04:34.949907+00:00",
-   "last": "2026-09-15T15:04:34.949907+00:00",
+   "last": "2026-09-15T23:01:17.880403+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:01:17.880403+00:00"
   },
   "rss:https://news.hada.io/topic?id=33744": {
    "first": "2026-09-15T17:45:10.290213+00:00",
@@ -3532,6 +3327,10 @@
   {
    "at": "2026-09-15T14:51:14.038060+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-09-15T23:01:17.880403+00:00",
+   "count": 12
   }
  ],
  "version": 1
