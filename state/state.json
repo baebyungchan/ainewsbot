@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T22:31:12.011235+00:00",
+ "last_run": "2026-09-15T22:46:19.690432+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -443,6 +443,40 @@
    "threshold": 500.0,
    "title": "ai-sucks-butt/ai-sucks-butt",
    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+  },
+  {
+   "key": "reddit:1wgufal",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-15T08:25:16+00:00",
+   "queued_at": "2026-09-15T22:46:19.690432+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
+   "url": "https://i.redd.it/8zseg30g9nph1.jpeg"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33756",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T22:36:28+00:00",
+   "queued_at": "2026-09-15T22:46:19.690432+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "자율 해킹 에이전트 Strix 가 자격 증명이나 소스 코드 없이 Baseten을 점검해, 약 25분 만에 내부 저장소 관리자 권한이 있는 유효한 GitHub 토큰 을 발견함 공개된 Harbor 컨테이너 레지스트리 에서 이미지를 내려받을 수 있었고, Docker 빌드 이력...",
+   "threshold": 1.0,
+   "title": "25분 만에 Baseten의 프로덕션 GitHub 관리자 권한을 확보함",
+   "url": "https://news.hada.io/topic?id=33756"
   }
  ],
  "seen": {
@@ -2129,6 +2163,12 @@
    "score": 150.0,
    "sent": null
   },
+  "reddit:1wgufal": {
+   "first": "2026-09-15T22:46:19.690432+00:00",
+   "last": "2026-09-15T22:46:19.690432+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "reddit:1wgvklo": {
    "first": "2026-09-15T22:01:06.968671+00:00",
    "last": "2026-09-15T22:01:06.968671+00:00",
@@ -2834,6 +2874,12 @@
   "rss:https://news.hada.io/topic?id=33755": {
    "first": "2026-09-15T21:46:00.038403+00:00",
    "last": "2026-09-15T21:46:00.038403+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33756": {
+   "first": "2026-09-15T22:46:19.690432+00:00",
+   "last": "2026-09-15T22:46:19.690432+00:00",
    "score": 1.0,
    "sent": null
   },
