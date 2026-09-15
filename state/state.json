@@ -1,91 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T23:16:25.533717+00:00",
- "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=33751",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T20:42:25+00:00",
-   "queued_at": "2026-09-15T20:45:52.999545+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "TypeSafe AI가 소프트웨어에서 직접 사용할 구조화된 판단 에 특화한 System One Model의 첫 모델 Jev 를 얼리 액세스로 공개함 문자열 생성 대신 사전에 정의한 타입의 값과 확률을 출력하며, 병렬 샘플링 으로 모든 출력을 한 번의 질의에서 생성함...",
-   "threshold": 1.0,
-   "title": "Jev, 비용은 40~400배 저렴하고 속도는 20~200배 빠른 새로운 프런티어 모델",
-   "url": "https://news.hada.io/topic?id=33751"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33755",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T21:33:27+00:00",
-   "queued_at": "2026-09-15T21:46:00.038403+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Google이 Gemini 3.8 Live 와 Gemini 3.8 Live Extended Thinking 을 출시함. 각각 규모 확장과 비용 효율, 고난도 작업과 다단계 추론에 초점을 맞춘 음성 대화 모델임 Gemini 3.8 Live는 준실시간 시각 입력 을 대화 맥락에 반영하고, 97개...",
-   "threshold": 1.0,
-   "title": "Gemini 3.8 Live와 3.8 Live Extended Thinking",
-   "url": "https://news.hada.io/topic?id=33755"
-  },
-  {
-   "key": "reddit:1wgvklo",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-15T09:34:17+00:00",
-   "queued_at": "2026-09-15T22:01:06.968671+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
-   "url": "https://v.redd.it/7jfq3qallnph1"
-  },
-  {
-   "key": "reddit:1wgufal",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-15T08:25:16+00:00",
-   "queued_at": "2026-09-15T22:46:19.690432+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
-   "url": "https://i.redd.it/8zseg30g9nph1.jpeg"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33756",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T22:36:28+00:00",
-   "queued_at": "2026-09-15T22:46:19.690432+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "자율 해킹 에이전트 Strix 가 자격 증명이나 소스 코드 없이 Baseten을 점검해, 약 25분 만에 내부 저장소 관리자 권한이 있는 유효한 GitHub 토큰 을 발견함 공개된 Harbor 컨테이너 레지스트리 에서 이미지를 내려받을 수 있었고, Docker 빌드 이력...",
-   "threshold": 1.0,
-   "title": "25분 만에 Baseten의 프로덕션 GitHub 관리자 권한을 확보함",
-   "url": "https://news.hada.io/topic?id=33756"
-  }
- ],
+ "last_run": "2026-09-15T23:31:37.746941+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1772,15 +1688,15 @@
   },
   "reddit:1wgufal": {
    "first": "2026-09-15T22:46:19.690432+00:00",
-   "last": "2026-09-15T22:46:19.690432+00:00",
+   "last": "2026-09-15T23:31:37.746941+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-15T23:31:37.746941+00:00"
   },
   "reddit:1wgvklo": {
    "first": "2026-09-15T22:01:06.968671+00:00",
-   "last": "2026-09-15T22:01:06.968671+00:00",
+   "last": "2026-09-15T23:31:37.746941+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-15T23:31:37.746941+00:00"
   },
   "reddit:1wh2i82": {
    "first": "2026-09-15T22:01:06.968671+00:00",
@@ -2474,21 +2390,21 @@
   },
   "rss:https://news.hada.io/topic?id=33751": {
    "first": "2026-09-15T20:45:52.999545+00:00",
-   "last": "2026-09-15T20:45:52.999545+00:00",
+   "last": "2026-09-15T23:31:37.746941+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:31:37.746941+00:00"
   },
   "rss:https://news.hada.io/topic?id=33755": {
    "first": "2026-09-15T21:46:00.038403+00:00",
-   "last": "2026-09-15T21:46:00.038403+00:00",
+   "last": "2026-09-15T23:31:37.746941+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:31:37.746941+00:00"
   },
   "rss:https://news.hada.io/topic?id=33756": {
    "first": "2026-09-15T22:46:19.690432+00:00",
-   "last": "2026-09-15T22:46:19.690432+00:00",
+   "last": "2026-09-15T23:31:37.746941+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:31:37.746941+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -3147,6 +3063,10 @@
   {
    "at": "2026-09-15T23:16:25.533717+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-15T23:31:37.746941+00:00",
+   "count": 5
   }
  ],
  "version": 1
