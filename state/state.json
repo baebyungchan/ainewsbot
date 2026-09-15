@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T18:15:48.844891+00:00",
+ "last_run": "2026-09-15T18:30:21.282128+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -193,6 +193,23 @@
    "threshold": 1.0,
    "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
    "url": "https://news.hada.io/topic?id=33744"
+  },
+  {
+   "key": "hn:49710015",
+   "meta": {
+    "comments": 132,
+    "discussion_url": "https://news.ycombinator.com/item?id=49710015",
+    "hn_id": "49710015"
+   },
+   "published_at": "2026-09-15T09:47:48+00:00",
+   "queued_at": "2026-09-15T18:30:21.282128+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 132",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "How much of F-Droid is LLM generated?",
+   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/"
   }
  ],
  "seen": {
@@ -1523,6 +1540,12 @@
    "last": "2026-09-15T05:17:29.318651+00:00",
    "score": 105.0,
    "sent": "2026-09-15T05:17:29.318651+00:00"
+  },
+  "hn:49710015": {
+   "first": "2026-09-15T18:30:21.282128+00:00",
+   "last": "2026-09-15T18:30:21.282128+00:00",
+   "score": 101.0,
+   "sent": null
   },
   "hn:49711240": {
    "first": "2026-09-15T16:06:34.957489+00:00",
