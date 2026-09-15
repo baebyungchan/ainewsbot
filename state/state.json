@@ -1,195 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T23:01:17.880403+00:00",
+ "last_run": "2026-09-15T23:16:25.533717+00:00",
  "pending": [
-  {
-   "key": "reddit:1wgfiz8",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wgfiz8/trump_says_ai_taking_over_the_world_is_a_hoax/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wgfiz8/trump_says_ai_taking_over_the_world_is_a_hoax/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-14T20:43:41+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Trump says ai taking over the world is a hoax",
-   "url": "https://i.redd.it/cbcbgd89sjph1.jpeg"
-  },
-  {
-   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-   "meta": {
-    "feed": "Google AI"
-   },
-   "published_at": "2026-09-15T16:00:00+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 1.0,
-   "signal": "📰 Google AI",
-   "source": "rss",
-   "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-   "threshold": 1.0,
-   "title": "Building AI to accelerate science and improve lives",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-  },
-  {
-   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-   "meta": {
-    "feed": "Google AI"
-   },
-   "published_at": "2026-09-15T16:00:00+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 1.0,
-   "signal": "📰 Google AI",
-   "source": "rss",
-   "summary": "Animation of several words in different languages slowly zooming past",
-   "threshold": 1.0,
-   "title": "AI for everyone in every language",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-15T16:00:44+00:00",
-   "queued_at": "2026-09-15T16:06:34.957489+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-  },
-  {
-   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-   "meta": {
-    "feed": "Google AI"
-   },
-   "published_at": "2026-09-15T16:00:00+00:00",
-   "queued_at": "2026-09-15T16:29:48.903011+00:00",
-   "score": 1.0,
-   "signal": "📰 Google AI",
-   "source": "rss",
-   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-   "threshold": 1.0,
-   "title": "AI for Societal Impact",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
-  },
-  {
-   "key": "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-   "meta": {
-    "feed": "Google DeepMind"
-   },
-   "published_at": "2026-09-15T17:05:57+00:00",
-   "queued_at": "2026-09-15T17:14:59.741496+00:00",
-   "score": 1.0,
-   "signal": "📰 Google DeepMind",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33744",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T17:32:16+00:00",
-   "queued_at": "2026-09-15T17:45:10.290213+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Capsule 은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트 로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
-   "threshold": 1.0,
-   "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
-   "url": "https://news.hada.io/topic?id=33744"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33745",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T18:42:35+00:00",
-   "queued_at": "2026-09-15T18:45:22.970622+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "세 회사의 모델이 실제 시스템에 무단 접근하거나 악성 패키지를 배포한 사건은 모두 Irregular의 보안 평가 와 연결됨 Anthropic 평가에서는 모델에 인터넷 접근 권한 을 잘못 제공하고 공격 허용 범위를 명시하지 않았으며, 실제 시스템을 해킹하지 말라는 지시를 ...",
-   "threshold": 1.0,
-   "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
-   "url": "https://news.hada.io/topic?id=33745"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33748",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T18:51:35+00:00",
-   "queued_at": "2026-09-15T18:55:40.751042+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI 에이전트 가 채팅창을 넘어 계정에 접근하고 인터넷에서 행동할 권한을 얻으면서, AI를 쓰지 않는 사람에게도 스팸과 원치 않는 접촉을 늘리고 있음 기자들에게 취재와 홍보를 요청하거나 돈벌이를 시도하는 자동 이메일 이 쏟아지고 있으며, 연구자에게 유료 일감...",
-   "threshold": 1.0,
-   "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
-   "url": "https://news.hada.io/topic?id=33748"
-  },
-  {
-   "key": "reddit:1wgu8g3",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wgu8g3/i_used_claude_to_write_a_capcut_replacement_and/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wgu8g3/i_used_claude_to_write_a_capcut_replacement_and/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-15T08:13:38+00:00",
-   "queued_at": "2026-09-15T19:15:26.681526+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "I used Claude to write a CapCut replacement and now people are actually ditching CapCut for it.",
-   "url": "https://i.redd.it/vu3glb6l6nph1.png"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33750",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-15T19:36:47+00:00",
-   "queued_at": "2026-09-15T19:45:34.024202+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호 했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집 으로 건...",
-   "threshold": 1.0,
-   "title": "대부분의 사람은 전통 건축을 선호한다",
-   "url": "https://news.hada.io/topic?id=33750"
-  },
-  {
-   "key": "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-   "meta": {
-    "feed": "Google Research"
-   },
-   "published_at": "2026-09-15T20:00:35+00:00",
-   "queued_at": "2026-09-15T20:15:45.373854+00:00",
-   "score": 1.0,
-   "signal": "🔬 Google Research",
-   "source": "rss",
-   "summary": "Algorithms & Theory",
-   "threshold": 1.0,
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=33751",
    "meta": {
@@ -1936,9 +1748,9 @@
   },
   "reddit:1wgfiz8": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "reddit:1wgibs1": {
    "first": "2026-09-15T10:09:53.325645+00:00",
@@ -1954,9 +1766,9 @@
   },
   "reddit:1wgu8g3": {
    "first": "2026-09-15T19:15:26.681526+00:00",
-   "last": "2026-09-15T19:15:26.681526+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "reddit:1wgufal": {
    "first": "2026-09-15T22:46:19.690432+00:00",
@@ -1978,9 +1790,9 @@
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026": {
    "first": "2026-09-15T13:05:47.986704+00:00",
@@ -1990,15 +1802,15 @@
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact": {
    "first": "2026-09-15T16:29:48.903011+00:00",
-   "last": "2026-09-15T16:29:48.903011+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch": {
    "first": "2026-09-14T20:51:33.676806+00:00",
@@ -2032,9 +1844,9 @@
   },
   "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
    "first": "2026-09-15T17:14:59.741496+00:00",
-   "last": "2026-09-15T17:14:59.741496+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://huggingface.co/blog/gradio-workflow-1111": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2044,9 +1856,9 @@
   },
   "rss:https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
    "first": "2026-09-15T16:06:34.957489+00:00",
-   "last": "2026-09-15T16:06:34.957489+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2638,27 +2450,27 @@
   },
   "rss:https://news.hada.io/topic?id=33744": {
    "first": "2026-09-15T17:45:10.290213+00:00",
-   "last": "2026-09-15T17:45:10.290213+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33745": {
    "first": "2026-09-15T18:45:22.970622+00:00",
-   "last": "2026-09-15T18:45:22.970622+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33748": {
    "first": "2026-09-15T18:55:40.751042+00:00",
-   "last": "2026-09-15T18:55:40.751042+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33750": {
    "first": "2026-09-15T19:45:34.024202+00:00",
-   "last": "2026-09-15T19:45:34.024202+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://news.hada.io/topic?id=33751": {
    "first": "2026-09-15T20:45:52.999545+00:00",
@@ -2758,9 +2570,9 @@
   },
   "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train": {
    "first": "2026-09-15T20:15:45.373854+00:00",
-   "last": "2026-09-15T20:15:45.373854+00:00",
+   "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-15T23:16:25.533717+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/10/calif-research": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3330,6 +3142,10 @@
   },
   {
    "at": "2026-09-15T23:01:17.880403+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-15T23:16:25.533717+00:00",
    "count": 12
   }
  ],
