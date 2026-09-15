@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T18:45:22.970622+00:00",
+ "last_run": "2026-09-15T18:55:40.751042+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -225,6 +225,21 @@
    "threshold": 1.0,
    "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
    "url": "https://news.hada.io/topic?id=33745"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33748",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T18:51:35+00:00",
+   "queued_at": "2026-09-15T18:55:40.751042+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 에이전트 가 채팅창을 넘어 계정에 접근하고 인터넷에서 행동할 권한을 얻으면서, AI를 쓰지 않는 사람에게도 스팸과 원치 않는 접촉을 늘리고 있음 기자들에게 취재와 홍보를 요청하거나 돈벌이를 시도하는 자동 이메일 이 쏟아지고 있으며, 연구자에게 유료 일감...",
+   "threshold": 1.0,
+   "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+   "url": "https://news.hada.io/topic?id=33748"
   }
  ],
  "seen": {
@@ -2543,6 +2558,12 @@
   "rss:https://news.hada.io/topic?id=33745": {
    "first": "2026-09-15T18:45:22.970622+00:00",
    "last": "2026-09-15T18:45:22.970622+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33748": {
+   "first": "2026-09-15T18:55:40.751042+00:00",
+   "last": "2026-09-15T18:55:40.751042+00:00",
    "score": 1.0,
    "sent": null
   },
