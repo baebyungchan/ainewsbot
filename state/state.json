@@ -1,23 +1,33 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-14T22:07:11.712579+00:00",
+ "last_run": "2026-09-15T00:13:50.118975+00:00",
  "pending": [
   {
-   "key": "hn:49693384",
+   "key": "gh:shadcn-ui/lint",
    "meta": {
-    "comments": 23,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693384",
-    "hn_id": "49693384"
+    "age_days": 12.3,
+    "language": "TypeScript",
+    "stars_total": 501,
+    "topics": [
+     "agents",
+     "ai",
+     "design",
+     "design-system",
+     "design-tools",
+     "shadcn",
+     "shadcn-ui",
+     "tailwindcss"
+    ]
    },
-   "published_at": "2026-09-14T07:55:19+00:00",
-   "queued_at": "2026-09-14T15:05:08.315118+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 23",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-   "url": "https://github.com/anuj0456/OpenArch"
+   "published_at": "2026-09-02T11:51:38Z",
+   "queued_at": "2026-09-14T19:21:09.519809+00:00",
+   "score": 501.0,
+   "signal": "🆕 501 stars in 12d · TypeScript",
+   "source": "github_new",
+   "summary": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+   "threshold": 500.0,
+   "title": "shadcn-ui/lint",
+   "url": "https://github.com/shadcn-ui/lint"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=33697",
@@ -35,42 +45,6 @@
    "url": "https://news.hada.io/topic?id=33697"
   },
   {
-   "key": "reddit:1wg4cjk",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-14T14:03:49+00:00",
-   "queued_at": "2026-09-14T16:05:25.569772+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/singularity 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Trump reiterates no slowdown",
-   "url": "https://i.redd.it/040oyamxshph1.jpeg"
-  },
-  {
-   "key": "hn:49695876",
-   "meta": {
-    "comments": 131,
-    "discussion_url": "https://news.ycombinator.com/item?id=49695876",
-    "hn_id": "49695876"
-   },
-   "published_at": "2026-09-14T12:40:57+00:00",
-   "queued_at": "2026-09-14T16:05:25.569772+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 131",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-  },
-  {
    "key": "rss:https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
    "meta": {
     "feed": "Google AI"
@@ -84,23 +58,6 @@
    "threshold": 1.0,
    "title": "DevFest is back",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
-  },
-  {
-   "key": "hn:49694596",
-   "meta": {
-    "comments": 58,
-    "discussion_url": "https://news.ycombinator.com/item?id=49694596",
-    "hn_id": "49694596"
-   },
-   "published_at": "2026-09-14T10:28:28+00:00",
-   "queued_at": "2026-09-14T16:50:40.225813+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 58",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Big AI sets out its terms for regulatory capture",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
   },
   {
    "key": "rss:https://openai.com/index/fyxer",
@@ -133,23 +90,6 @@
    "url": "https://news.hada.io/topic?id=33700"
   },
   {
-   "key": "hn:49699384",
-   "meta": {
-    "comments": 78,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699384",
-    "hn_id": "49699384"
-   },
-   "published_at": "2026-09-14T16:15:05+00:00",
-   "queued_at": "2026-09-14T17:05:36.609055+00:00",
-   "score": 104.0,
-   "signal": "🟠 HN 104 pts · 💬 78",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "For AI leaders Doom is a form of hype",
-   "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=33701",
    "meta": {
     "feed": "GeekNews"
@@ -163,25 +103,6 @@
    "threshold": 1.0,
    "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
    "url": "https://news.hada.io/topic?id=33701"
-  },
-  {
-   "key": "reddit:1wfpwhj",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-14T01:37:44+00:00",
-   "queued_at": "2026-09-14T17:50:54.311294+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
-   "url": "https://i.redd.it/b8lrmxaj1eph1.png"
   },
   {
    "key": "reddit:1wfyrcr",
@@ -201,50 +122,6 @@
    "threshold": 300.0,
    "title": "Run! GPT-2 is gonna kill us all!!",
    "url": "https://i.redd.it/mugbnde8hgph1.jpeg"
-  },
-  {
-   "key": "hn:49700477",
-   "meta": {
-    "comments": 106,
-    "discussion_url": "https://news.ycombinator.com/item?id=49700477",
-    "hn_id": "49700477"
-   },
-   "published_at": "2026-09-14T17:16:06+00:00",
-   "queued_at": "2026-09-14T19:06:07.361526+00:00",
-   "score": 108.0,
-   "signal": "🟠 HN 108 pts · 💬 106",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion"
-  },
-  {
-   "key": "gh:shadcn-ui/lint",
-   "meta": {
-    "age_days": 12.3,
-    "language": "TypeScript",
-    "stars_total": 501,
-    "topics": [
-     "agents",
-     "ai",
-     "design",
-     "design-system",
-     "design-tools",
-     "shadcn",
-     "shadcn-ui",
-     "tailwindcss"
-    ]
-   },
-   "published_at": "2026-09-02T11:51:38Z",
-   "queued_at": "2026-09-14T19:21:09.519809+00:00",
-   "score": 501.0,
-   "signal": "🆕 501 stars in 12d · TypeScript",
-   "source": "github_new",
-   "summary": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
-   "threshold": 500.0,
-   "title": "shadcn-ui/lint",
-   "url": "https://github.com/shadcn-ui/lint"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=33705",
@@ -275,23 +152,6 @@
    "threshold": 1.0,
    "title": "iOS 27, iPadOS 27, macOS 27",
    "url": "https://news.hada.io/topic?id=33704"
-  },
-  {
-   "key": "hn:49684266",
-   "meta": {
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=49684266",
-    "hn_id": "49684266"
-   },
-   "published_at": "2026-09-13T14:15:40+00:00",
-   "queued_at": "2026-09-14T20:21:21.803887+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 91",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
-   "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
   },
   {
    "key": "rss:https://simonwillison.net/2026/Sep/14/influences",
@@ -339,59 +199,6 @@
    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
   },
   {
-   "key": "hn:49697014",
-   "meta": {
-    "comments": 48,
-    "discussion_url": "https://news.ycombinator.com/item?id=49697014",
-    "hn_id": "49697014"
-   },
-   "published_at": "2026-09-14T13:59:09+00:00",
-   "queued_at": "2026-09-14T21:36:41.614525+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 48",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/"
-  },
-  {
-   "key": "reddit:1wgecxn",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-14T20:01:18+00:00",
-   "queued_at": "2026-09-14T22:07:11.712579+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/singularity 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "We Must Pace the Frontier",
-   "url": "https://v.redd.it/ied43mujkjph1"
-  },
-  {
-   "key": "hn:49699373",
-   "meta": {
-    "comments": 132,
-    "discussion_url": "https://news.ycombinator.com/item?id=49699373",
-    "hn_id": "49699373"
-   },
-   "published_at": "2026-09-14T16:14:24+00:00",
-   "queued_at": "2026-09-14T22:07:11.712579+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 132",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude is a Contrarian",
-   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=33709",
    "meta": {
     "feed": "GeekNews"
@@ -405,6 +212,51 @@
    "threshold": 1.0,
    "title": "수학의 시작",
    "url": "https://news.hada.io/topic?id=33709"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33715",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T00:07:09+00:00",
+   "queued_at": "2026-09-15T00:13:50.118975+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI가 수학에서 인간을 확실히 능가하더라도, 논문과 정리 생산을 보상하는 기존 제도 가 유지되면 수학의 발전은 정체될 수 있음. 이는 예측이 아니라 현재 추세가 이어질 때를 상상한 위험 시나리오임 수학적 산출물은 급증하지만 정확성, 흥미로움, 실질적인 검토 ...",
+   "threshold": 1.0,
+   "title": "수학의 종말",
+   "url": "https://news.hada.io/topic?id=33715"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33712",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-14T23:37:17+00:00",
+   "queued_at": "2026-09-15T00:13:50.118975+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "미국 제9연방항소법원이 Amazon에서 Comet의 AI 도구 사용을 막은 예비적 금지명령을 취소하고 사건을 환송 함 현재 소송기록상 Amazon 컴퓨터에 접근한 주체는 Perplexity가 아니라 Assistant를 도구로 사용하는 이용자 이므로, Amazon이 연방 및 캘리포니아 컴퓨터...",
+   "threshold": 1.0,
+   "title": "Amazon 대 Perplexity 소송, 미국 제9연방항소법원",
+   "url": "https://news.hada.io/topic?id=33712"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33710",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-14T22:36:11+00:00",
+   "queued_at": "2026-09-15T00:13:50.118975+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 보호하는 수단이 될 수 있음 질병 치료와 풍요를 약속해도 발견과 접근성은 다른 문제 임. 이미 치료법이 있는 질병으...",
+   "threshold": 1.0,
+   "title": "Dario, 제발!",
+   "url": "https://news.hada.io/topic?id=33710"
   }
  ],
  "seen": {
@@ -1476,9 +1328,9 @@
   },
   "hn:49684266": {
    "first": "2026-09-14T20:21:21.803887+00:00",
-   "last": "2026-09-14T20:21:21.803887+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49684356": {
    "first": "2026-09-14T04:14:47.063120+00:00",
@@ -1512,15 +1364,15 @@
   },
   "hn:49693384": {
    "first": "2026-09-14T15:05:08.315118+00:00",
-   "last": "2026-09-14T15:05:08.315118+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49694596": {
    "first": "2026-09-14T16:50:40.225813+00:00",
-   "last": "2026-09-14T16:50:40.225813+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49695409": {
    "first": "2026-09-14T14:20:32.798978+00:00",
@@ -1530,33 +1382,39 @@
   },
   "hn:49695876": {
    "first": "2026-09-14T16:05:25.569772+00:00",
-   "last": "2026-09-14T16:05:25.569772+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
+  },
+  "hn:49696402": {
+   "first": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
+   "score": 107.0,
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49697014": {
    "first": "2026-09-14T21:36:41.614525+00:00",
-   "last": "2026-09-14T21:36:41.614525+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 103.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49699373": {
    "first": "2026-09-14T22:07:11.712579+00:00",
-   "last": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49699384": {
    "first": "2026-09-14T17:05:36.609055+00:00",
-   "last": "2026-09-14T17:05:36.609055+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 104.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "hn:49700477": {
    "first": "2026-09-14T19:06:07.361526+00:00",
-   "last": "2026-09-14T19:06:07.361526+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 108.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -1776,9 +1634,9 @@
   },
   "reddit:1wfpwhj": {
    "first": "2026-09-14T17:50:54.311294+00:00",
-   "last": "2026-09-14T17:50:54.311294+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "reddit:1wfpydl": {
    "first": "2026-09-14T11:04:12.581894+00:00",
@@ -1794,15 +1652,15 @@
   },
   "reddit:1wg4cjk": {
    "first": "2026-09-14T16:05:25.569772+00:00",
-   "last": "2026-09-14T16:05:25.569772+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "reddit:1wgecxn": {
    "first": "2026-09-14T22:07:11.712579+00:00",
-   "last": "2026-09-14T22:07:11.712579+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-09-15T00:13:50.118975+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch": {
    "first": "2026-09-14T20:51:33.676806+00:00",
@@ -2353,6 +2211,24 @@
   "rss:https://news.hada.io/topic?id=33709": {
    "first": "2026-09-14T22:07:11.712579+00:00",
    "last": "2026-09-14T22:07:11.712579+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33710": {
+   "first": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33712": {
+   "first": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33715": {
+   "first": "2026-09-15T00:13:50.118975+00:00",
+   "last": "2026-09-15T00:13:50.118975+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -2945,6 +2821,10 @@
   {
    "at": "2026-09-14T14:50:07.801115+00:00",
    "count": 2
+  },
+  {
+   "at": "2026-09-15T00:13:50.118975+00:00",
+   "count": 12
   }
  ],
  "version": 1
