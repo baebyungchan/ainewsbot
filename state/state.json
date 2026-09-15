@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T18:30:21.282128+00:00",
+ "last_run": "2026-09-15T18:45:22.970622+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -210,6 +210,21 @@
    "threshold": 100.0,
    "title": "How much of F-Droid is LLM generated?",
    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33745",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T18:42:35+00:00",
+   "queued_at": "2026-09-15T18:45:22.970622+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "세 회사의 모델이 실제 시스템에 무단 접근하거나 악성 패키지를 배포한 사건은 모두 Irregular의 보안 평가 와 연결됨 Anthropic 평가에서는 모델에 인터넷 접근 권한 을 잘못 제공하고 공격 허용 범위를 명시하지 않았으며, 실제 시스템을 해킹하지 말라는 지시를 ...",
+   "threshold": 1.0,
+   "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
+   "url": "https://news.hada.io/topic?id=33745"
   }
  ],
  "seen": {
@@ -2522,6 +2537,12 @@
   "rss:https://news.hada.io/topic?id=33744": {
    "first": "2026-09-15T17:45:10.290213+00:00",
    "last": "2026-09-15T17:45:10.290213+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33745": {
+   "first": "2026-09-15T18:45:22.970622+00:00",
+   "last": "2026-09-15T18:45:22.970622+00:00",
    "score": 1.0,
    "sent": null
   },
