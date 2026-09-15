@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T17:30:05.632174+00:00",
+ "last_run": "2026-09-15T17:45:10.290213+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -161,6 +161,38 @@
    "threshold": 1.0,
    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+  },
+  {
+   "key": "hn:49715113",
+   "meta": {
+    "comments": 63,
+    "discussion_url": "https://news.ycombinator.com/item?id=49715113",
+    "hn_id": "49715113"
+   },
+   "published_at": "2026-09-15T16:38:45+00:00",
+   "queued_at": "2026-09-15T17:45:10.290213+00:00",
+   "score": 119.0,
+   "signal": "🟠 HN 119 pts · 💬 63",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+   "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33744",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T17:32:16+00:00",
+   "queued_at": "2026-09-15T17:45:10.290213+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Capsule 은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트 로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
+   "threshold": 1.0,
+   "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+   "url": "https://news.hada.io/topic?id=33744"
   }
  ],
  "seen": {
@@ -1510,6 +1542,12 @@
    "score": 103.0,
    "sent": null
   },
+  "hn:49715113": {
+   "first": "2026-09-15T17:45:10.290213+00:00",
+   "last": "2026-09-15T17:45:10.290213+00:00",
+   "score": 119.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -2455,6 +2493,12 @@
   "rss:https://news.hada.io/topic?id=33739": {
    "first": "2026-09-15T15:04:34.949907+00:00",
    "last": "2026-09-15T15:04:34.949907+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33744": {
+   "first": "2026-09-15T17:45:10.290213+00:00",
+   "last": "2026-09-15T17:45:10.290213+00:00",
    "score": 1.0,
    "sent": null
   },
