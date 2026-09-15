@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T16:06:34.957489+00:00",
+ "last_run": "2026-09-15T16:29:48.903011+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -131,6 +131,21 @@
    "threshold": 1.0,
    "title": "Your Agent Aced the Task. Will It Do It Again?",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-15T16:00:00+00:00",
+   "queued_at": "2026-09-15T16:29:48.903011+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "threshold": 1.0,
+   "title": "AI for Societal Impact",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
   }
  ],
  "seen": {
@@ -1783,6 +1798,12 @@
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language": {
    "first": "2026-09-15T16:06:34.957489+00:00",
    "last": "2026-09-15T16:06:34.957489+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact": {
+   "first": "2026-09-15T16:29:48.903011+00:00",
+   "last": "2026-09-15T16:29:48.903011+00:00",
    "score": 1.0,
    "sent": null
   },
