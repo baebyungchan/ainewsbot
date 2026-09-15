@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T21:46:00.038403+00:00",
+ "last_run": "2026-09-15T22:01:06.968671+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -387,6 +387,44 @@
    "threshold": 1.0,
    "title": "Gemini 3.8 Live와 3.8 Live Extended Thinking",
    "url": "https://news.hada.io/topic?id=33755"
+  },
+  {
+   "key": "reddit:1wh2i82",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+    "rank": 3,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-15T14:49:44+00:00",
+   "queued_at": "2026-09-15T22:01:06.968671+00:00",
+   "score": 390.0,
+   "signal": "🏆 r/singularity 오늘 #3",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "TIME's latest cover",
+   "url": "https://i.redd.it/ckf8d2d16pph1.jpeg"
+  },
+  {
+   "key": "reddit:1wgvklo",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-15T09:34:17+00:00",
+   "queued_at": "2026-09-15T22:01:06.968671+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
+   "url": "https://v.redd.it/7jfq3qallnph1"
   }
  ],
  "seen": {
@@ -2064,6 +2102,18 @@
    "first": "2026-09-15T19:15:26.681526+00:00",
    "last": "2026-09-15T19:15:26.681526+00:00",
    "score": 150.0,
+   "sent": null
+  },
+  "reddit:1wgvklo": {
+   "first": "2026-09-15T22:01:06.968671+00:00",
+   "last": "2026-09-15T22:01:06.968671+00:00",
+   "score": 150.0,
+   "sent": null
+  },
+  "reddit:1wh2i82": {
+   "first": "2026-09-15T22:01:06.968671+00:00",
+   "last": "2026-09-15T22:01:06.968671+00:00",
+   "score": 390.0,
    "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
