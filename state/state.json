@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T21:31:00.744649+00:00",
+ "last_run": "2026-09-15T21:46:00.038403+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=33739",
@@ -372,6 +372,21 @@
    "threshold": 1.0,
    "title": "Jev, 비용은 40~400배 저렴하고 속도는 20~200배 빠른 새로운 프런티어 모델",
    "url": "https://news.hada.io/topic?id=33751"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33755",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T21:33:27+00:00",
+   "queued_at": "2026-09-15T21:46:00.038403+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Google이 Gemini 3.8 Live 와 Gemini 3.8 Live Extended Thinking 을 출시함. 각각 규모 확장과 비용 효율, 고난도 작업과 다단계 추론에 초점을 맞춘 음성 대화 모델임 Gemini 3.8 Live는 준실시간 시각 입력 을 대화 맥락에 반영하고, 97개...",
+   "threshold": 1.0,
+   "title": "Gemini 3.8 Live와 3.8 Live Extended Thinking",
+   "url": "https://news.hada.io/topic?id=33755"
   }
  ],
  "seen": {
@@ -2738,6 +2753,12 @@
   "rss:https://news.hada.io/topic?id=33751": {
    "first": "2026-09-15T20:45:52.999545+00:00",
    "last": "2026-09-15T20:45:52.999545+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33755": {
+   "first": "2026-09-15T21:46:00.038403+00:00",
+   "last": "2026-09-15T21:46:00.038403+00:00",
    "score": 1.0,
    "sent": null
   },
