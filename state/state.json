@@ -1,7 +1,23 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-15T14:51:14.038060+00:00",
- "pending": [],
+ "last_run": "2026-09-15T15:04:34.949907+00:00",
+ "pending": [
+  {
+   "key": "rss:https://news.hada.io/topic?id=33739",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-15T14:51:59+00:00",
+   "queued_at": "2026-09-15T15:04:34.949907+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenArm 은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크...",
+   "threshold": 1.0,
+   "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
+   "url": "https://news.hada.io/topic?id=33739"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2236,6 +2252,12 @@
    "last": "2026-09-15T14:51:14.038060+00:00",
    "score": 1.0,
    "sent": "2026-09-15T14:51:14.038060+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=33739": {
+   "first": "2026-09-15T15:04:34.949907+00:00",
+   "last": "2026-09-15T15:04:34.949907+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
