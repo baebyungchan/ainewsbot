@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-16T17:27:55.149031+00:00",
+ "last_run": "2026-09-16T18:29:51.974881+00:00",
  "pending": [
   {
    "key": "hn:49727627",
@@ -167,6 +167,68 @@
    "threshold": 1.0,
    "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
    "url": "https://news.hada.io/topic?id=33792"
+  },
+  {
+   "key": "hn:49729412",
+   "meta": {
+    "comments": 118,
+    "discussion_url": "https://news.ycombinator.com/item?id=49729412",
+    "hn_id": "49729412"
+   },
+   "published_at": "2026-09-16T16:26:25+00:00",
+   "queued_at": "2026-09-16T18:29:51.974881+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 118",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude Cowork and chat are now one Claude",
+   "url": "https://claude.com/blog/cowork-is-now-claude"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/16/one-claude",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-16T18:09:49+00:00",
+   "queued_at": "2026-09-16T18:29:51.974881+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new user…",
+   "threshold": 1.0,
+   "title": "Claude Cowork and chat are now one Claude",
+   "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33799",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-16T17:56:37+00:00",
+   "queued_at": "2026-09-16T18:29:51.974881+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개 와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원 을 요구함. 현금 배상이나 소송은 아님 OpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
+   "threshold": 1.0,
+   "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+   "url": "https://news.hada.io/topic?id=33799"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33796",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-16T17:47:37+00:00",
+   "queued_at": "2026-09-16T18:29:51.974881+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트 가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계 는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
+   "threshold": 1.0,
+   "title": "2026년의 추론 하드웨어 혁명",
+   "url": "https://news.hada.io/topic?id=33796"
   }
  ],
  "seen": {
@@ -1704,6 +1766,12 @@
    "score": 261.0,
    "sent": null
   },
+  "hn:49729412": {
+   "first": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-16T18:29:51.974881+00:00",
+   "score": 101.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -2844,6 +2912,18 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=33796": {
+   "first": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-16T18:29:51.974881+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33799": {
+   "first": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-16T18:29:51.974881+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -3069,6 +3149,12 @@
   "rss:https://simonwillison.net/2026/Sep/16/mustafa-suleyman": {
    "first": "2026-09-16T17:27:55.149031+00:00",
    "last": "2026-09-16T17:27:55.149031+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/16/one-claude": {
+   "first": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-16T18:29:51.974881+00:00",
    "score": 1.0,
    "sent": null
   },
