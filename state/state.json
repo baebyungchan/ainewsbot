@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-17T18:30:07.343845+00:00",
+ "last_run": "2026-09-17T21:41:35.714614+00:00",
  "pending": [
   {
    "key": "rss:https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
@@ -194,6 +194,123 @@
    "threshold": 1.0,
    "title": "TokenRhythm/NeoHorse-1-4B",
    "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B"
+  },
+  {
+   "key": "hn:49740105",
+   "meta": {
+    "comments": 78,
+    "discussion_url": "https://news.ycombinator.com/item?id=49740105",
+    "hn_id": "49740105"
+   },
+   "published_at": "2026-09-17T13:01:44+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 151.0,
+   "signal": "🟠 HN 151 pts · 💬 78",
+   "source": "hn",
+   "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups.",
+   "threshold": 100.0,
+   "title": "Show HN: Share your AI Setup, Learn from others",
+   "url": "https://mysetup.ai/"
+  },
+  {
+   "key": "hn:49745940",
+   "meta": {
+    "also": [
+     "rss"
+    ],
+    "comments": 111,
+    "discussion_url": "https://news.ycombinator.com/item?id=49745940",
+    "hn_id": "49745940"
+   },
+   "published_at": "2026-09-17T20:17:48+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 137.0,
+   "signal": "🟠 HN 137 pts · 💬 111 · 📰 OpenAI",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Astra for Law",
+   "url": "https://openai.com/index/astra-for-law/"
+  },
+  {
+   "key": "hn:49737503",
+   "meta": {
+    "also": [
+     "rss"
+    ],
+    "comments": 91,
+    "discussion_url": "https://news.ycombinator.com/item?id=49737503",
+    "hn_id": "49737503"
+   },
+   "published_at": "2026-09-17T07:21:19+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 91 · 📰 OpenAI",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework/"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-17T20:00:00+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "UN System Data Commons Data webpage",
+   "threshold": 1.0,
+   "title": "Making global data easier to explore",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/17/compaction-summaries",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-17T20:57:55+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent systems use when they are running out of tokens in their context window, so they summarize everything that has…",
+   "threshold": 1.0,
+   "title": "Self-generated prompt injections in compaction summaries",
+   "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33856",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T20:52:15+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "필즈상 수상자 25명이 AI의 빠른 문제 풀이가 수학의 토대를 해칠 수 있다고 경고했지만, 같은 수상자로서 위기에는 동의해도 그 원인과 대응에는 다른 판단 을 내림 수학에는 개념을 이해하려고 문제를 푸는 사람도, 문제를 풀려고 개념을 이해하는 사람 도 있으며,...",
+   "threshold": 1.0,
+   "title": "내가 필즈상 수상자들의 서한에 서명하지 않은 이유",
+   "url": "https://news.hada.io/topic?id=33856"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33853",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T19:52:15+00:00",
+   "queued_at": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "LLM의 생산성 향상 가능성과 유용성을 인정하지만, 직접 대화할 때는 기대나 두려움보다 거부감이 앞섬 유용한 답과 지어낸 내용을 똑같이 확신에 찬 말투 로 내놓고, 오류를 지적하면 진심 없는 사과로 넘어가는 태도가 불편함 그렇다고 LLM을 쓰...",
+   "threshold": 1.0,
+   "title": "마틴 파울러: 나는 LLM이 마음에 들지 않는다",
+   "url": "https://news.hada.io/topic?id=33853"
   }
  ],
  "seen": {
@@ -1930,6 +2047,12 @@
    "score": 103.0,
    "sent": "2026-09-17T06:24:45.616054+00:00"
   },
+  "hn:49737503": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 101.0,
+   "sent": null
+  },
   "hn:49737922": {
    "first": "2026-09-17T11:50:26.123299+00:00",
    "last": "2026-09-17T11:50:26.123299+00:00",
@@ -1942,10 +2065,22 @@
    "score": 118.0,
    "sent": "2026-09-17T11:05:19.707590+00:00"
   },
+  "hn:49740105": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 151.0,
+   "sent": null
+  },
   "hn:49740834": {
    "first": "2026-09-17T16:12:33.171646+00:00",
    "last": "2026-09-17T16:12:33.171646+00:00",
    "score": 103.0,
+   "sent": null
+  },
+  "hn:49745940": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 137.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -2403,6 +2538,12 @@
    "last": "2026-09-15T00:35:12.852612+00:00",
    "score": 1.0,
    "sent": "2026-09-15T00:35:12.852612+00:00"
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -3280,6 +3421,18 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=33853": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33856": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -3537,6 +3690,12 @@
    "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
    "sent": "2026-09-17T04:08:44.498639+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/17/compaction-summaries": {
+   "first": "2026-09-17T21:41:35.714614+00:00",
+   "last": "2026-09-17T21:41:35.714614+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
