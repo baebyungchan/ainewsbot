@@ -1,189 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-17T04:08:44.498639+00:00",
+ "last_run": "2026-09-17T04:23:46.206684+00:00",
  "pending": [
-  {
-   "key": "rss:https://machinelearning.apple.com/research/glyph-column-description-tagging",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-09-16T00:00:00+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data discovery, access control, and regulatory compliance. We present Glyph, a production system that frames two coupled problems, column description generation and column type annotation for data classification, as cooperating LLM agents orchestrated as stateful graphs. The Descriptor gro…",
-   "threshold": 1.0,
-   "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
-   "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33804",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T20:41:17+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Dream-RSI 는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드 를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터 로 만들어 대안 정책을 저비용으로 평가함. 코딩 에...",
-   "threshold": 1.0,
-   "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
-   "url": "https://news.hada.io/topic?id=33804"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33803",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T20:38:17+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude Cowork과 채팅이 통합 되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides 가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
-   "threshold": 1.0,
-   "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
-   "url": "https://news.hada.io/topic?id=33803"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33801",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T19:32:48+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents 를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리 됨 광고주는",
-   "threshold": 1.0,
-   "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
-   "url": "https://news.hada.io/topic?id=33801"
-  },
-  {
-   "key": "rss:https://youtube.com/watch?v=J3ljHm57yU0",
-   "meta": {
-    "feed": "AI Explained (YouTube)"
-   },
-   "published_at": "2026-09-16T20:51:40+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "▶️ AI Explained (YouTube)",
-   "source": "rss",
-   "summary": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has dominated the world’s headlines for over two weeks… AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 0:00 - The warnings that have gone omega-viral 4:23 - Six axes the researchers sa…",
-   "threshold": 1.0,
-   "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
-   "url": "https://www.youtube.com/watch?v=J3ljHm57yU0"
-  },
-  {
-   "key": "hfpaper:2609.15195",
-   "meta": {
-    "arxiv_id": "2609.15195",
-    "discussion_url": "https://arxiv.org/abs/2609.15195",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-13T20:00:00.000Z",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Yang Chen, Lirong Che 외",
-   "source": "hf_paper",
-   "summary": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but often lack mechanisms to reconcile proposed actions with spatial evidence, task progress, and execution failures. We present HarnessVLN, a zero-shot, training-free framework whose Agent Harness coordinates perception, retrieval, grounding, navigation, recovery, and termination through a unified tool…",
-   "threshold": 15.0,
-   "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
-   "url": "https://huggingface.co/papers/2609.15195"
-  },
-  {
-   "key": "rss:https://openai.com/index/model-misalignment-reporting-framework",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-16T17:00:00+00:00",
-   "queued_at": "2026-09-16T23:53:51.201555+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "threshold": 1.0,
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework"
-  },
-  {
-   "key": "rss:https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-09-16T00:00:00+00:00",
-   "queued_at": "2026-09-16T23:53:51.201555+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "Diffusion large language models are a compelling alternative to autoregressive models, yet existing RL methods for diffusion treat all denoising steps as equally important and rely on biased, high-variance likelihood estimates. We identify two fundamental weaknesses: the absence of temporal credit assignment across the denoising trajectory, and the systematic bias of mean-field likelihood estimates used for policy optimization. To address these, we propose Denoising-Aware Credit Assignment for…",
-   "threshold": 1.0,
-   "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-   "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33809",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T22:45:20+00:00",
-   "queued_at": "2026-09-16T23:53:51.201555+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "DeepSeek V4.1 Flash 가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유지됨 전체 공격 경로를 감사한 결과, 6회는 의도한 취약점 을 이용했고 나머지 5회는 취약한 테스트 환경의 예상 밖 경로를...",
-   "threshold": 1.0,
-   "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
-   "url": "https://news.hada.io/topic?id=33809"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33806",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T21:49:13+00:00",
-   "queued_at": "2026-09-16T23:53:51.201555+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면 , 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음 비판의 중심은 Claude 헌법 에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모...",
-   "threshold": 1.0,
-   "title": "‘모델 복지’에 대한 경고",
-   "url": "https://news.hada.io/topic?id=33806"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/16/datasette",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-16T23:51:43+00:00",
-   "queued_at": "2026-09-17T04:08:44.498639+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() method. A whole lot of bug fixes , many of them stemming from a recent effort to triage issues for a 1.0 stable release. Tags: security , datasette",
-   "threshold": 1.0,
-   "title": "datasette 1.0a40",
-   "url": "https://simonwillison.net/2026/Sep/16/datasette/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/16/datasette-2",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-16T23:51:08+00:00",
-   "queued_at": "2026-09-17T04:08:44.498639+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
-   "threshold": 1.0,
-   "title": "datasette 0.65.5",
-   "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=33818",
    "meta": {
@@ -1230,9 +1048,9 @@
   },
   "hfpaper:2609.15195": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "hfpaper:2609.15364": {
    "first": "2026-09-15T10:09:53.325645+00:00",
@@ -2310,9 +2128,9 @@
   },
   "rss:https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
    "first": "2026-09-16T23:53:51.201555+00:00",
-   "last": "2026-09-16T23:53:51.201555+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://machinelearning.apple.com/research/discosign-gloss-translation": {
    "first": "2026-09-11T14:04:10.474697+00:00",
@@ -2322,9 +2140,9 @@
   },
   "rss:https://machinelearning.apple.com/research/glyph-column-description-tagging": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://machinelearning.apple.com/research/shared-selective-persistent-memory": {
    "first": "2026-09-16T14:50:46.597584+00:00",
@@ -3012,33 +2830,33 @@
   },
   "rss:https://news.hada.io/topic?id=33801": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://news.hada.io/topic?id=33803": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://news.hada.io/topic?id=33804": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://news.hada.io/topic?id=33806": {
    "first": "2026-09-16T23:53:51.201555+00:00",
-   "last": "2026-09-16T23:53:51.201555+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://news.hada.io/topic?id=33809": {
    "first": "2026-09-16T23:53:51.201555+00:00",
-   "last": "2026-09-16T23:53:51.201555+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://news.hada.io/topic?id=33812": {
    "first": "2026-09-17T04:08:44.498639+00:00",
@@ -3126,9 +2944,9 @@
   },
   "rss:https://openai.com/index/model-misalignment-reporting-framework": {
    "first": "2026-09-16T23:53:51.201555+00:00",
-   "last": "2026-09-16T23:53:51.201555+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -3300,15 +3118,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/16/datasette": {
    "first": "2026-09-17T04:08:44.498639+00:00",
-   "last": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/16/datasette-2": {
    "first": "2026-09-17T04:08:44.498639+00:00",
-   "last": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/16/mustafa-suleyman": {
    "first": "2026-09-16T17:27:55.149031+00:00",
@@ -3372,9 +3190,9 @@
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:23:46.206684+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:23:46.206684+00:00"
   }
  },
  "sends": [
@@ -3856,6 +3674,10 @@
   },
   {
    "at": "2026-09-17T04:08:44.498639+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-17T04:23:46.206684+00:00",
    "count": 12
   }
  ],
