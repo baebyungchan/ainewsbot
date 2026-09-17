@@ -1,25 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-17T07:09:20.683421+00:00",
- "pending": [
-  {
-   "key": "hn:49733726",
-   "meta": {
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=49733726",
-    "hn_id": "49733726"
-   },
-   "published_at": "2026-09-16T22:10:13+00:00",
-   "queued_at": "2026-09-17T07:09:20.683421+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 35",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-   "url": "https://harnesstax.github.io/"
-  }
- ],
+ "last_run": "2026-09-17T07:24:33.012271+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1677,9 +1659,9 @@
   },
   "hn:49733726": {
    "first": "2026-09-17T07:09:20.683421+00:00",
-   "last": "2026-09-17T07:09:20.683421+00:00",
+   "last": "2026-09-17T07:24:33.012271+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-17T07:24:33.012271+00:00"
   },
   "hn:49734264": {
    "first": "2026-09-17T05:08:56.852372+00:00",
@@ -3772,6 +3754,10 @@
   {
    "at": "2026-09-17T07:09:20.683421+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-17T07:24:33.012271+00:00",
+   "count": 1
   }
  ],
  "version": 1
