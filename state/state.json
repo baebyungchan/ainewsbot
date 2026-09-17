@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-17T16:12:33.171646+00:00",
+ "last_run": "2026-09-17T16:27:33.298533+00:00",
  "pending": [
   {
    "key": "rss:https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
@@ -76,6 +76,24 @@
    "threshold": 500.0,
    "title": "TokenRhythm/NeoHorse",
    "url": "https://github.com/TokenRhythm/NeoHorse"
+  },
+  {
+   "key": "gh:i-am-manware/manware-s-ai-learning-toolkit",
+   "meta": {
+    "age_days": 12.0,
+    "language": null,
+    "stars_total": 501,
+    "topics": []
+   },
+   "published_at": "2026-09-05T16:46:07Z",
+   "queued_at": "2026-09-17T16:27:33.298533+00:00",
+   "score": 501.0,
+   "signal": "🆕 501 stars in 12d",
+   "source": "github_new",
+   "summary": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+   "threshold": 500.0,
+   "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+   "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit"
   }
  ],
  "seen": {
@@ -309,6 +327,13 @@
    "score": 910.0,
    "sent": null,
    "stars_total": 910
+  },
+  "gh:i-am-manware/manware-s-ai-learning-toolkit": {
+   "first": "2026-09-17T16:27:33.298533+00:00",
+   "last": "2026-09-17T16:27:33.298533+00:00",
+   "score": 501.0,
+   "sent": null,
+   "stars_total": 501
   },
   "gh:iamzulx/crypto-rag": {
    "first": "2026-09-10T23:43:03.421955+00:00",
