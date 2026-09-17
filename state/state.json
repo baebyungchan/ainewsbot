@@ -1,116 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-16T23:53:51.201555+00:00",
+ "last_run": "2026-09-17T04:08:44.498639+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=33794",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T16:51:02+00:00",
-   "queued_at": "2026-09-16T17:27:55.149031+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
-   "threshold": 1.0,
-   "title": "LLM 시대의 프로그래밍 학습",
-   "url": "https://news.hada.io/topic?id=33794"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33792",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T16:45:02+00:00",
-   "queued_at": "2026-09-16T17:27:55.149031+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 수개월을 투자한 작업에는 PS5 Pro 지원을 완성해 2027년에 공개할 계획 도 있었으나, Nguyen은 ...",
-   "threshold": 1.0,
-   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
-   "url": "https://news.hada.io/topic?id=33792"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/16/one-claude",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-16T18:09:49+00:00",
-   "queued_at": "2026-09-16T18:29:51.974881+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. [...] This is rolling out to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks to existing and new user…",
-   "threshold": 1.0,
-   "title": "Claude Cowork and chat are now one Claude",
-   "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33799",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T17:56:37+00:00",
-   "queued_at": "2026-09-16T18:29:51.974881+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개 와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원 을 요구함. 현금 배상이나 소송은 아님 OpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
-   "threshold": 1.0,
-   "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
-   "url": "https://news.hada.io/topic?id=33799"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33796",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-16T17:47:37+00:00",
-   "queued_at": "2026-09-16T18:29:51.974881+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트 가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계 는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
-   "threshold": 1.0,
-   "title": "2026년의 추론 하드웨어 혁명",
-   "url": "https://news.hada.io/topic?id=33796"
-  },
-  {
-   "key": "reddit:1whv1df",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1whv1df/plot_twist/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1whv1df/plot_twist/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-09-16T11:52:32+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "Plot twist",
-   "url": "https://i.redd.it/ynbs64k2fvph1.png"
-  },
-  {
-   "key": "rss:https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-16T12:00:00+00:00",
-   "queued_at": "2026-09-16T21:39:09.110065+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-   "threshold": 1.0,
-   "title": "How to connect AI usage to business value",
-   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
-  },
   {
    "key": "rss:https://machinelearning.apple.com/research/glyph-column-description-tagging",
    "meta": {
@@ -262,6 +153,96 @@
    "threshold": 1.0,
    "title": "‘모델 복지’에 대한 경고",
    "url": "https://news.hada.io/topic?id=33806"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/16/datasette",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-16T23:51:43+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia . I've migrated Datasette to httpx2 for features like the internal datasette.client.get() method. A whole lot of bug fixes , many of them stemming from a recent effort to triage issues for a 1.0 stable release. Tags: security , datasette",
+   "threshold": 1.0,
+   "title": "datasette 1.0a40",
+   "url": "https://simonwillison.net/2026/Sep/16/datasette/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/16/datasette-2",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-16T23:51:08+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+   "threshold": 1.0,
+   "title": "datasette 0.65.5",
+   "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33818",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T01:20:28+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "서로 다른 머신에서 돌아가는 Claude Code 세션끼리 질문을 푸쉬하고 답을 받는 시스템입니다. Claude Code의 Channels(리서치 프리뷰)를 사용했습니다. 사내에서 협업하다 발생한 게으름을 단순 아이디어로 사용하여, 클로드를 이용하여 100% 구현하였습니다. 문제 내 레포는 내가 잘 알",
+   "threshold": 1.0,
+   "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
+   "url": "https://news.hada.io/topic?id=33818"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33815",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T00:34:57+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "CUDA Rust 는 다른 언어로 작성한 커널을 호출하는 래퍼를 넘어, GPU 커널 자체를 Rust로 작성하고 네이티브 PTX로 컴파일하는 두 가지 개발 경로를 제공함 cuda-oxide 는 스레드와 메모리를 직접 제어하는 SIMT 방식이며, cutile-rs 는 데이터 타일...",
+   "threshold": 1.0,
+   "title": "NVIDIA, Rust 네이티브 GPU 프로그래밍 지원 발표",
+   "url": "https://news.hada.io/topic?id=33815"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33813",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T00:14:20+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 생성 이미지에 실제 Pixel 카메라의 C2PA 서명 을 붙이는 공격이 시연됨. 암호 서명을 위조한 것이 아니라, 기기의 정식 서명 기능으로 가짜 카메라 출처 정보를 인증한 사례임 공격에는 기기 초기화 없이 확보한 루트 권한 이 필요함. StrongBox에서 키를 추출하...",
+   "threshold": 1.0,
+   "title": "Pixel 10에서 C2PA 출처 정보 위조하기",
+   "url": "https://news.hada.io/topic?id=33813"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33812",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-17T00:11:20+00:00",
+   "queued_at": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "verygoodsoftwarenotvirus.ru 운영자가 도메인을 갱신할 수 없게 되면서 블로그를 verygoodsoftwarenotvirus.dev 로 이전함 운영자는 러시아의 새 요건을 충족하려면 러시아와의 연결 관계 가 필요하다고 파악했으나, 러시아어를 모르며 AI에 물어 ...",
+   "threshold": 1.0,
+   "title": "verygoodsoftwarenotvirus.ru의 끝",
+   "url": "https://news.hada.io/topic?id=33812"
   }
  ],
  "seen": {
@@ -1211,6 +1192,12 @@
    "score": 56.0,
    "sent": "2026-09-15T05:17:29.318651+00:00"
   },
+  "hfpaper:2609.13406": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 57.0,
+   "sent": "2026-09-17T04:08:44.498639+00:00"
+  },
   "hfpaper:2609.14005": {
    "first": "2026-09-16T07:33:06.444372+00:00",
    "last": "2026-09-16T07:33:06.444372+00:00",
@@ -1306,6 +1293,18 @@
    "last": "2026-09-16T02:49:22.565951+00:00",
    "score": 15.0,
    "sent": "2026-09-16T02:49:22.565951+00:00"
+  },
+  "hfpaper:2609.18805": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 16.0,
+   "sent": "2026-09-17T04:08:44.498639+00:00"
+  },
+  "hfpaper:2609.19134": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 36.0,
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2191,15 +2190,27 @@
   },
   "reddit:1whv1df": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "reddit:1whwy4m": {
    "first": "2026-09-16T17:27:55.149031+00:00",
    "last": "2026-09-16T23:53:51.201555+00:00",
    "score": 300.0,
    "sent": "2026-09-16T23:53:51.201555+00:00"
+  },
+  "reddit:1wi0jrw": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 195.0,
+   "sent": "2026-09-17T04:08:44.498639+00:00"
+  },
+  "reddit:1wi32jg": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 330.0,
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
    "first": "2026-09-15T16:06:34.957489+00:00",
@@ -2977,27 +2988,27 @@
   },
   "rss:https://news.hada.io/topic?id=33792": {
    "first": "2026-09-16T17:27:55.149031+00:00",
-   "last": "2026-09-16T17:27:55.149031+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://news.hada.io/topic?id=33794": {
    "first": "2026-09-16T17:27:55.149031+00:00",
-   "last": "2026-09-16T17:27:55.149031+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://news.hada.io/topic?id=33796": {
    "first": "2026-09-16T18:29:51.974881+00:00",
-   "last": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://news.hada.io/topic?id=33799": {
    "first": "2026-09-16T18:29:51.974881+00:00",
-   "last": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://news.hada.io/topic?id=33801": {
    "first": "2026-09-16T21:39:09.110065+00:00",
@@ -3026,6 +3037,30 @@
   "rss:https://news.hada.io/topic?id=33809": {
    "first": "2026-09-16T23:53:51.201555+00:00",
    "last": "2026-09-16T23:53:51.201555+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33812": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33813": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33815": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33818": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -3067,9 +3102,9 @@
   },
   "rss:https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
    "first": "2026-09-16T21:39:09.110065+00:00",
-   "last": "2026-09-16T21:39:09.110065+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://openai.com/index/introducing-chatgpt-financial-services": {
    "first": "2026-09-10T21:34:33.815126+00:00",
@@ -3263,6 +3298,18 @@
    "score": 1.0,
    "sent": "2026-09-16T00:01:30.318950+00:00"
   },
+  "rss:https://simonwillison.net/2026/Sep/16/datasette": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/16/datasette-2": {
+   "first": "2026-09-17T04:08:44.498639+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/16/mustafa-suleyman": {
    "first": "2026-09-16T17:27:55.149031+00:00",
    "last": "2026-09-16T23:53:51.201555+00:00",
@@ -3271,9 +3318,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/16/one-claude": {
    "first": "2026-09-16T18:29:51.974881+00:00",
-   "last": "2026-09-16T18:29:51.974881+00:00",
+   "last": "2026-09-17T04:08:44.498639+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-17T04:08:44.498639+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3805,6 +3852,10 @@
   },
   {
    "at": "2026-09-16T23:53:51.201555+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-17T04:08:44.498639+00:00",
    "count": 12
   }
  ],
