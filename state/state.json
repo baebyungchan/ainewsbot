@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-17T17:12:43.370523+00:00",
+ "last_run": "2026-09-17T17:27:49.101720+00:00",
  "pending": [
   {
    "key": "rss:https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
@@ -127,6 +127,25 @@
    "threshold": 300.0,
    "title": "Finally understand why the higher-ups are freaking out",
    "url": "https://www.reddit.com/r/singularity/comments/1wi3sfs/finally_understand_why_the_higherups_are_freaking/"
+  },
+  {
+   "key": "reddit:1wiealz",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wiealz/left_codex_open_on_my_computer_and_my_girl_really/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wiealz/left_codex_open_on_my_computer_and_my_girl_really/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-17T00:09:14+00:00",
+   "queued_at": "2026-09-17T17:27:49.101720+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Left Codex open on my computer and my girl really used ASTRA 6 Ultra for a garlic shrimp recipe",
+   "url": "https://i.redd.it/njldlpaq2zph1.png"
   }
  ],
  "seen": {
@@ -2270,6 +2289,12 @@
    "last": "2026-09-17T05:23:54.335791+00:00",
    "score": 330.0,
    "sent": "2026-09-17T05:23:54.335791+00:00"
+  },
+  "reddit:1wiealz": {
+   "first": "2026-09-17T17:27:49.101720+00:00",
+   "last": "2026-09-17T17:27:49.101720+00:00",
+   "score": 300.0,
+   "sent": null
   },
   "reddit:1wijo3e": {
    "first": "2026-09-17T15:42:26.027914+00:00",
