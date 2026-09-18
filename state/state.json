@@ -1,108 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-18T21:26:32.186935+00:00",
+ "last_run": "2026-09-18T23:22:13.961720+00:00",
  "pending": [
-  {
-   "key": "hn:49753878",
-   "meta": {
-    "comments": 15,
-    "discussion_url": "https://news.ycombinator.com/item?id=49753878",
-    "hn_id": "49753878"
-   },
-   "published_at": "2026-09-18T13:06:30+00:00",
-   "queued_at": "2026-09-18T15:12:32.485092+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 15",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "An Empirical Study of Harness Design for Coding Agents",
-   "url": "https://arxiv.org/abs/2609.20804"
-  },
-  {
-   "key": "gh:yynxxxxx/gpt_sub_analysis",
-   "meta": {
-    "age_days": 1.1,
-    "language": null,
-    "stars_total": 500,
-    "topics": []
-   },
-   "published_at": "2026-09-17T13:43:00Z",
-   "queued_at": "2026-09-18T15:23:46.624987+00:00",
-   "score": 500.0,
-   "signal": "🆕 500 stars in 1d",
-   "source": "github_new",
-   "summary": "Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)",
-   "threshold": 500.0,
-   "title": "yynxxxxx/gpt_sub_analysis",
-   "url": "https://github.com/yynxxxxx/gpt_sub_analysis"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33899",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-18T15:42:19+00:00",
-   "queued_at": "2026-09-18T15:53:51.665942+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Infinite-Parameter LLM 은 사용자 제공 사실, 수정 사항 등 실시간 상호작용 데이터를 프롬프트에만 두지 않고, 추론 중 가중치에 반영하는 아키텍처 제안임 작은 하이퍼네트워크 가 공유 기반 네트워크에 적용할 저랭크 가중치 변화량을 생성하므로, MoE처럼 모든 ...",
-   "threshold": 1.0,
-   "title": "무한 파라미터 LLM: 실시간 데이터로 가중치 생성 및 적응",
-   "url": "https://news.hada.io/topic?id=33899"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33902",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-18T16:42:18+00:00",
-   "queued_at": "2026-09-18T16:54:09.370779+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode 는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS 로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서...",
-   "threshold": 1.0,
-   "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
-   "url": "https://news.hada.io/topic?id=33902"
-  },
-  {
-   "key": "reddit:1wjqywo",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wjqywo/not_being_able_to_post_a_fully_free_and_open/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wjqywo/not_being_able_to_post_a_fully_free_and_open/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-18T13:58:06+00:00",
-   "queued_at": "2026-09-18T18:33:06.162890+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Not being able to post a fully free and open sourced DnD campaign tool on r/DnD because they \"don't allow AI\"",
-   "url": "https://i.redd.it/tiks377dbaqh1.jpeg"
-  },
-  {
-   "key": "hn:49755590",
-   "meta": {
-    "comments": 35,
-    "discussion_url": "https://news.ycombinator.com/item?id=49755590",
-    "hn_id": "49755590"
-   },
-   "published_at": "2026-09-18T15:15:33+00:00",
-   "queued_at": "2026-09-18T18:33:06.162890+00:00",
-   "score": 106.0,
-   "signal": "🟠 HN 106 pts · 💬 35",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "AI is an elite crime spree",
-   "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=33905",
    "meta": {
@@ -117,57 +16,6 @@
    "threshold": 1.0,
    "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
    "url": "https://news.hada.io/topic?id=33905"
-  },
-  {
-   "key": "hn:49757520",
-   "meta": {
-    "comments": 226,
-    "discussion_url": "https://news.ycombinator.com/item?id=49757520",
-    "hn_id": "49757520"
-   },
-   "published_at": "2026-09-18T17:28:01+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 282.0,
-   "signal": "🟠 HN 282 pts · 💬 226",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
-  },
-  {
-   "key": "hn:49748553",
-   "meta": {
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=49748553",
-    "hn_id": "49748553"
-   },
-   "published_at": "2026-09-18T00:11:44+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 120.0,
-   "signal": "🟠 HN 120 pts · 💬 60",
-   "source": "hn",
-   "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I&#x27;d love to hear what you think again. The key features: 1) Automation (tool calls &amp; structured JSON output): Needle still doesn&#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when…",
-   "threshold": 100.0,
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle"
-  },
-  {
-   "key": "hn:49758028",
-   "meta": {
-    "comments": 72,
-    "discussion_url": "https://news.ycombinator.com/item?id=49758028",
-    "hn_id": "49758028"
-   },
-   "published_at": "2026-09-18T18:08:32+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 117.0,
-   "signal": "🟠 HN 117 pts · 💬 72",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-   "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/"
   },
   {
    "key": "rss:https://anthropic.com/news/accenture-embedded-evaluation",
@@ -277,25 +125,6 @@
    "url": "https://huggingface.co/papers/2609.20784"
   },
   {
-   "key": "reddit:1wjjk5a",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wjjk5a/curiouswhat_did_he_expect_the_candidate_to_do/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wjjk5a/curiouswhat_did_he_expect_the_candidate_to_do/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-18T07:35:11+00:00",
-   "queued_at": "2026-09-18T21:11:38.609595+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Curious...what did he expect the candidate to do 🤔?",
-   "url": "https://i.redd.it/sxhc34o8f8qh1.jpeg"
-  },
-  {
    "key": "reddit:1wj9dna",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
@@ -315,6 +144,40 @@
    "threshold": 300.0,
    "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
    "url": "https://x.com/zephyr_z9/status/2100566768326692875"
+  },
+  {
+   "key": "reddit:1wjxvwz",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-18T18:15:06+00:00",
+   "queued_at": "2026-09-18T23:22:13.961720+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Claude Code is getting native AGENTS.md support!",
+   "url": "https://i.redd.it/btltptkalbqh1.png"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33913",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-18T22:52:19+00:00",
+   "queued_at": "2026-09-18T23:22:13.961720+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "프로젝트에 CLAUDE.md 가 없으면 AGENTS.md 를 대신 읽는 기능 이 추가됨 해당 동작은 /config 의 “ Project instructions ”에서 변경할 수 있으며, Bedrock, Vertex, Foundry에서는 아직 지원하지 않음 비대...",
+   "threshold": 1.0,
+   "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
+   "url": "https://news.hada.io/topic?id=33913"
   }
  ],
  "seen": {
@@ -880,9 +743,9 @@
   },
   "gh:yynxxxxx/gpt_sub_analysis": {
    "first": "2026-09-18T15:23:46.624987+00:00",
-   "last": "2026-09-18T15:23:46.624987+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 500.0,
-   "sent": null,
+   "sent": "2026-09-18T23:22:13.961720+00:00",
    "stars_total": 500
   },
   "gh:zhihui-hu/one-ip": {
@@ -2246,9 +2109,9 @@
   },
   "hn:49748553": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 120.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "hn:49749656": {
    "first": "2026-09-18T04:51:29.793111+00:00",
@@ -2270,27 +2133,33 @@
   },
   "hn:49753878": {
    "first": "2026-09-18T15:12:32.485092+00:00",
-   "last": "2026-09-18T15:12:32.485092+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "hn:49755590": {
    "first": "2026-09-18T18:33:06.162890+00:00",
-   "last": "2026-09-18T18:33:06.162890+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 106.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "hn:49757520": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 282.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "hn:49758028": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 117.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
+  },
+  "hn:49760187": {
+   "first": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
+   "score": 358.0,
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2762,14 +2631,26 @@
   },
   "reddit:1wjjk5a": {
    "first": "2026-09-18T21:11:38.609595+00:00",
-   "last": "2026-09-18T21:11:38.609595+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "reddit:1wjqywo": {
    "first": "2026-09-18T18:33:06.162890+00:00",
-   "last": "2026-09-18T18:33:06.162890+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 165.0,
+   "sent": "2026-09-18T23:22:13.961720+00:00"
+  },
+  "reddit:1wjr59t": {
+   "first": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
+   "score": 330.0,
+   "sent": "2026-09-18T23:22:13.961720+00:00"
+  },
+  "reddit:1wjxvwz": {
+   "first": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
+   "score": 150.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
@@ -3824,15 +3705,15 @@
   },
   "rss:https://news.hada.io/topic?id=33899": {
    "first": "2026-09-18T15:53:51.665942+00:00",
-   "last": "2026-09-18T15:53:51.665942+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "rss:https://news.hada.io/topic?id=33902": {
    "first": "2026-09-18T16:54:09.370779+00:00",
-   "last": "2026-09-18T16:54:09.370779+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-18T23:22:13.961720+00:00"
   },
   "rss:https://news.hada.io/topic?id=33905": {
    "first": "2026-09-18T18:33:06.162890+00:00",
@@ -3855,6 +3736,12 @@
   "rss:https://news.hada.io/topic?id=33909": {
    "first": "2026-09-18T20:56:26.951306+00:00",
    "last": "2026-09-18T20:56:26.951306+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33913": {
+   "first": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-18T23:22:13.961720+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -4901,6 +4788,10 @@
   {
    "at": "2026-09-18T14:53:39.916510+00:00",
    "count": 3
+  },
+  {
+   "at": "2026-09-18T23:22:13.961720+00:00",
+   "count": 12
   }
  ],
  "version": 1
