@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-18T16:39:03.584698+00:00",
+ "last_run": "2026-09-18T16:54:09.370779+00:00",
  "pending": [
   {
    "key": "hn:49753878",
@@ -51,6 +51,21 @@
    "threshold": 1.0,
    "title": "무한 파라미터 LLM: 실시간 데이터로 가중치 생성 및 적응",
    "url": "https://news.hada.io/topic?id=33899"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33902",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-18T16:42:18+00:00",
+   "queued_at": "2026-09-18T16:54:09.370779+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode 는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS 로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서...",
+   "threshold": 1.0,
+   "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+   "url": "https://news.hada.io/topic?id=33902"
   }
  ],
  "seen": {
@@ -3507,6 +3522,12 @@
   "rss:https://news.hada.io/topic?id=33899": {
    "first": "2026-09-18T15:53:51.665942+00:00",
    "last": "2026-09-18T15:53:51.665942+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33902": {
+   "first": "2026-09-18T16:54:09.370779+00:00",
+   "last": "2026-09-18T16:54:09.370779+00:00",
    "score": 1.0,
    "sent": null
   },
