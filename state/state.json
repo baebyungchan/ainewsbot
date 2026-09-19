@@ -1,25 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-19T08:18:33.380505+00:00",
- "pending": [
-  {
-   "key": "hfpaper:2609.19745",
-   "meta": {
-    "arxiv_id": "2609.19745",
-    "discussion_url": "https://arxiv.org/abs/2609.19745",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-16T20:00:00.000Z",
-   "queued_at": "2026-09-19T08:18:33.380505+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Yuheng Shi, Xiaohuan Pei 외",
-   "source": "hf_paper",
-   "summary": "Fine-grained visual perception in MLLMs is commonly improved by raising the resolution, but the added visual tokens inflate vision-encoding and language-model prefilling costs. We show that the two operations underlying fine-grained perception, localizing the region of interest (RoI) and recognizing its content, have different resolution requirements. In a controlled diagnostic, localization tolerates roughly 3 to 4 times stronger token compression than recognition, which motivates localizing from a coarse view and concentrating resolution on the selected evidence. Decoding coordinates with t…",
-   "threshold": 15.0,
-   "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
-   "url": "https://huggingface.co/papers/2609.19745"
-  }
- ],
+ "last_run": "2026-09-19T08:33:58.568204+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1331,9 +1313,9 @@
   },
   "hfpaper:2609.19745": {
    "first": "2026-09-19T08:18:33.380505+00:00",
-   "last": "2026-09-19T08:18:33.380505+00:00",
+   "last": "2026-09-19T08:33:58.568204+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-19T08:33:58.568204+00:00"
   },
   "hfpaper:2609.19969": {
    "first": "2026-09-18T05:51:42.839654+00:00",
@@ -4830,6 +4812,10 @@
   {
    "at": "2026-09-19T08:18:33.380505+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-19T08:33:58.568204+00:00",
+   "count": 1
   }
  ],
  "version": 1
