@@ -1,181 +1,36 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-19T22:52:01.890627+00:00",
+ "last_run": "2026-09-19T23:07:03.869668+00:00",
  "pending": [
   {
-   "key": "hn:49758615",
+   "key": "rss:https://news.hada.io/topic?id=33957",
    "meta": {
-    "comments": 18,
-    "discussion_url": "https://news.ycombinator.com/item?id=49758615",
-    "hn_id": "49758615"
+    "feed": "GeekNews"
    },
-   "published_at": "2026-09-18T18:55:35+00:00",
-   "queued_at": "2026-09-19T15:50:21.035730+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 18",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-   "url": "https://arxiv.org/abs/2510.03215"
-  },
-  {
-   "key": "rss:https://interconnects.ai/p/where-i-stand-on-rsi",
-   "meta": {
-    "feed": "Interconnects"
-   },
-   "published_at": "2026-09-19T15:42:20+00:00",
-   "queued_at": "2026-09-19T15:50:21.035730+00:00",
+   "published_at": "2026-09-19T22:52:23+00:00",
+   "queued_at": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
-   "signal": "✍️ Interconnects",
+   "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "A moderate's view on the trajectory of AI.",
+   "summary": "Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 Damo Radar 를 오픈소스로 공개함 비전 언어 모델 로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄 CT 영상과 ...",
    "threshold": 1.0,
-   "title": "Where I stand on RSI",
-   "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi"
+   "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
+   "url": "https://news.hada.io/topic?id=33957"
   },
   {
-   "key": "hfpaper:2609.19499",
+   "key": "rss:https://news.hada.io/topic?id=33956",
    "meta": {
-    "arxiv_id": "2609.19499",
-    "discussion_url": "https://arxiv.org/abs/2609.19499",
-    "upvotes": 15
+    "feed": "GeekNews"
    },
-   "published_at": "2026-09-15T20:00:00.000Z",
-   "queued_at": "2026-09-19T16:20:30.697682+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Mobina Kashaniyan, Ali Jannesari",
-   "source": "hf_paper",
-   "summary": "Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number of generated candidates, N. However, N tells us how many candidates are generated, not how they are executed. The same candidate budget can be produced in one batched generation call or split across several sequential calls with smaller batch sizes. We first study the effect of increasing N on reasoning accuracy using Phi-3-mini and Qwen2.5-1.5B on 500 GSM8K prompts. As expected, increasing N fro…",
-   "threshold": 15.0,
-   "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
-   "url": "https://huggingface.co/papers/2609.19499"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/19/sighting-401567341",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-19T17:10:08+00:00",
-   "queued_at": "2026-09-19T16:35:34.421826+00:00",
+   "published_at": "2026-09-19T22:52:22+00:00",
+   "queued_at": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
-   "signal": "✍️ Simon Willison",
+   "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
+   "summary": "아이디어, 논증, 분석을 전달하는 글에서는 글쓰기 자체가 사고 과정 이므로, 상세한 메모를 주거나 결과물을 편집하더라도 AI에 집필을 맡기는 것은 거의 바람직하지 않음 AI 문장의 모호함과 미묘한 오류 는 그럴듯한 표현에 가려지기 쉬우며, 직접 문장을 만드는 ...",
    "threshold": 1.0,
-   "title": "California Sea Lion, Brandt's Cormorant",
-   "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
-  },
-  {
-   "key": "reddit:1wkqszd",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-19T16:35:44+00:00",
-   "queued_at": "2026-09-19T18:05:57.469121+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Asked Claude to waste my remaining usage before weekly reset. Very satisfied with the result.",
-   "url": "https://i.redd.it/qrkz3pp78iqh1.png"
-  },
-  {
-   "key": "reddit:1wk9fag",
-   "meta": {
-    "also": [
-     "hn"
-    ],
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
-    "rank": 2,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-19T02:08:07+00:00",
-   "queued_at": "2026-09-19T18:20:55.113399+00:00",
-   "score": 480.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #2 · 🟠 HN 140 pts · 💬 18",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
-   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
-  },
-  {
-   "key": "reddit:1wkignw",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-19T10:16:59+00:00",
-   "queued_at": "2026-09-19T18:20:55.113399+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
-   "url": "https://i.redd.it/84oy8fbscgqh1.png"
-  },
-  {
-   "key": "hn:49767937",
-   "meta": {
-    "comments": 65,
-    "discussion_url": "https://news.ycombinator.com/item?id=49767937",
-    "hn_id": "49767937"
-   },
-   "published_at": "2026-09-19T16:35:24+00:00",
-   "queued_at": "2026-09-19T20:06:21.098549+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 65",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Almost Never Use AI to Write Anything Substantive",
-   "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
-  },
-  {
-   "key": "reddit:1wks0ip",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-09-19T17:23:37+00:00",
-   "queued_at": "2026-09-19T20:36:25.092039+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "AI is getting out of hand.",
-   "url": "https://v.redd.it/sxmipms2hiqh1"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/19/datasette-auth-github",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-19T19:52:02+00:00",
-   "queued_at": "2026-09-19T22:06:48.704705+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.) I fixed that in #80 and, since this plugin has been around for quite a while and is tested ag…",
-   "threshold": 1.0,
-   "title": "datasette-auth-github 1.0",
-   "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
+   "title": "글쓰기에 AI를 거의 쓰지 말아야 한다고 생각하는 이유",
+   "url": "https://news.hada.io/topic?id=33956"
   }
  ],
  "seen": {
@@ -1484,9 +1339,9 @@
   },
   "hfpaper:2609.19499": {
    "first": "2026-09-19T16:20:30.697682+00:00",
-   "last": "2026-09-19T16:20:30.697682+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "hfpaper:2609.19554": {
    "first": "2026-09-19T08:18:33.380505+00:00",
@@ -2252,9 +2107,9 @@
   },
   "hn:49758615": {
    "first": "2026-09-19T15:50:21.035730+00:00",
-   "last": "2026-09-19T15:50:21.035730+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "hn:49760187": {
    "first": "2026-09-18T23:22:13.961720+00:00",
@@ -2288,9 +2143,9 @@
   },
   "hn:49767937": {
    "first": "2026-09-19T20:06:21.098549+00:00",
-   "last": "2026-09-19T20:06:21.098549+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2816,27 +2671,33 @@
   },
   "reddit:1wk9fag": {
    "first": "2026-09-19T18:20:55.113399+00:00",
-   "last": "2026-09-19T18:20:55.113399+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 480.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "reddit:1wkignw": {
    "first": "2026-09-19T18:20:55.113399+00:00",
-   "last": "2026-09-19T18:20:55.113399+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "reddit:1wkqszd": {
    "first": "2026-09-19T18:05:57.469121+00:00",
-   "last": "2026-09-19T18:05:57.469121+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "reddit:1wks0ip": {
    "first": "2026-09-19T20:36:25.092039+00:00",
-   "last": "2026-09-19T20:36:25.092039+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
+  },
+  "reddit:1wks4ud": {
+   "first": "2026-09-19T23:07:03.869668+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
+   "score": 300.0,
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -2966,9 +2827,9 @@
   },
   "rss:https://interconnects.ai/p/where-i-stand-on-rsi": {
    "first": "2026-09-19T15:50:21.035730+00:00",
-   "last": "2026-09-19T15:50:21.035730+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "rss:https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
    "first": "2026-09-16T23:53:51.201555+00:00",
@@ -3996,6 +3857,24 @@
    "score": 1.0,
    "sent": "2026-09-19T14:43:49.086765+00:00"
   },
+  "rss:https://news.hada.io/topic?id=33956": {
+   "first": "2026-09-19T23:07:03.869668+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33957": {
+   "first": "2026-09-19T23:07:03.869668+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33959": {
+   "first": "2026-09-19T23:07:03.869668+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
+   "score": 1.0,
+   "sent": "2026-09-19T23:07:03.869668+00:00"
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -4310,15 +4189,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/19/datasette-auth-github": {
    "first": "2026-09-19T22:06:48.704705+00:00",
-   "last": "2026-09-19T22:06:48.704705+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/19/sighting-401567341": {
    "first": "2026-09-19T16:35:34.421826+00:00",
-   "last": "2026-09-19T16:35:34.421826+00:00",
+   "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T23:07:03.869668+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5143,6 +5022,10 @@
   {
    "at": "2026-09-19T14:43:49.086765+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-09-19T23:07:03.869668+00:00",
+   "count": 12
   }
  ],
  "version": 1
