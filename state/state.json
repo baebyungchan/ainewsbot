@@ -1,183 +1,96 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-18T23:22:13.961720+00:00",
+ "last_run": "2026-09-19T01:30:41.389990+00:00",
  "pending": [
   {
-   "key": "rss:https://news.hada.io/topic?id=33905",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-18T17:42:19+00:00",
-   "queued_at": "2026-09-18T18:33:06.162890+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "동일한 실행 루프에서 계획 수립, 행동 인터페이스, 컨텍스트 관리 를 바꿔 4개 모델과 2개 벤치마크의 176개 설정을 비교했으며, 각 구성요소의 효과는 모델 역량과 작업 유형, 컨텍스트 예산에 따라 달라짐 컨텍스트 관리 의 주된 효과는 컨텍스트 초과로 인한 조기...",
-   "threshold": 1.0,
-   "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
-   "url": "https://news.hada.io/topic?id=33905"
-  },
-  {
-   "key": "rss:https://anthropic.com/news/accenture-embedded-evaluation",
-   "meta": {
-    "feed": "Anthropic"
-   },
-   "published_at": "2026-09-18T00:00:00+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 1.0,
-   "signal": "📰 Anthropic",
-   "source": "rss",
-   "summary": "Partnering with Accenture on embedded evaluation",
-   "threshold": 1.0,
-   "title": "Partnering with Accenture on embedded evaluation",
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you",
+   "key": "rss:https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
    "meta": {
     "feed": "Simon Willison"
    },
-   "published_at": "2026-09-18T19:21:32+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
+   "published_at": "2026-09-18T23:57:57+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "signal": "✍️ Simon Willison",
    "source": "rss",
-   "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai",
+   "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it t…",
    "threshold": 1.0,
-   "title": "Note on 18th September 2026",
-   "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
+   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+   "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
   },
   {
-   "key": "rss:https://simonwillison.net/2026/Sep/18/thariq-shihipar",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-18T19:09:27+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here ! &mdash; Thariq Shihipar , there are more mods here Tags: thariq-s…",
-   "threshold": 1.0,
-   "title": "Quoting Thariq Shihipar",
-   "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33909",
+   "key": "rss:https://news.hada.io/topic?id=33923",
    "meta": {
     "feed": "GeekNews"
    },
-   "published_at": "2026-09-18T20:52:20+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
+   "published_at": "2026-09-19T00:42:19+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "LLM의 결과를 검증 없이 받아들이거나 오류 수정을 다시 맡기기만 하는 방식 은 모델이 발전해도 직원에게 유효한 전략이 되지 못함 지금은 이런 방식으로 만든 소프트웨어에 심각한 문제가 남고, 미래에 LLM이 혼자 훌륭한 소프트웨어를 만들게 된다면 기업은 중간에서 요청...",
+   "summary": "“침실 조명을 어둡게 하고 문을 잠가” 같은 요청을 앱이 실행할 함수와 인자로 변환 하는 초소형 모델로, 스마트홈과 모바일 기기 안에서 오프라인 자동화에 활용 범용 대화보다 도구 호출과 정보 추출 에 집중하며, 청구서와 알림에서 필요한 항목을 JSON으로 뽑거...",
    "threshold": 1.0,
-   "title": "생각을 멈추는 방식이 통하는 시점은 오지 않음",
-   "url": "https://news.hada.io/topic?id=33909"
+   "title": "Needle 3 - 작은 기기에서 자연어 명령을 처리하는 8~29MB AI 모델",
+   "url": "https://news.hada.io/topic?id=33923"
   },
   {
-   "key": "rss:https://news.hada.io/topic?id=33908",
+   "key": "rss:https://news.hada.io/topic?id=33922",
    "meta": {
     "feed": "GeekNews"
    },
-   "published_at": "2026-09-18T20:52:18+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
+   "published_at": "2026-09-19T00:32:20+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "수학 비전문가가 약 한 달간 AI 에이전트와 Lean 을 활용해 50년 된 Conway의 세분화 추측 에 대한 형식 증명을 얻음. 기계적 검사는 통과했지만, 수학자들의 독립 검증은 아직 받지 않음 AI에게 한 번에 증명을 맡기거나 여러 에이전트가 서로 검토하게 하는 것만으...",
+   "summary": "스캔 문서와 PDF의 텍스트, 표, 수식을 읽어 Markdown으로 변환 하는 34억 파라미터 OCR 모델로, DeepSeek-OCR를 기반으로 정확도와 처리 속도를 개선함 다음 토큰을 여러 개 미리 예측하고 검증하는 FastMTP 로 출력 결과를 바꾸지 않고 생성 시간을 줄임. NVIDIA L...",
    "threshold": 1.0,
-   "title": "Conway의 추측을 바이브 코딩으로 증명해 봤다",
-   "url": "https://news.hada.io/topic?id=33908"
+   "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
+   "url": "https://news.hada.io/topic?id=33922"
   },
   {
-   "key": "rss:https://news.hada.io/topic?id=33907",
+   "key": "rss:https://news.hada.io/topic?id=33921",
    "meta": {
     "feed": "GeekNews"
    },
-   "published_at": "2026-09-18T19:42:18+00:00",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
+   "published_at": "2026-09-19T00:32:19+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "미군이 중국 선박에 핵무기 프로그램 관련 부품이 실렸다는 허위 정보 를 토대로 차단 작전을 준비했으며, 작전 직전에야 AI가 화물을 잘못 식별한 사실을 확인함 특수작전사령부 분석관은 챗봇으로 공개출처정보와 기밀 신호정보 를 종합한 뒤, AI를 다시 사용해 결...",
+   "summary": "단백질 구조 예측과 설계 등에 쓰이는 오픈소스 모델 30개 이상을 Claude로 최적화 함. 4주 미만의 작업으로 수치 정밀도를 소폭 낮추면 평균 약 4배, 동일한 출력을 유지하면 약 2배 빨라짐 계산량이 큰 부분을 처리하는 맞춤형 GPU 커널 FlashPairformer 를 만들고...",
    "threshold": 1.0,
-   "title": "미군, AI 환각으로 만들어진 정보 보고서 활용하다 위기 겪어",
-   "url": "https://news.hada.io/topic?id=33907"
+   "title": "Claude, 생체분자 모델 30여 개를 평균 4배 가속",
+   "url": "https://news.hada.io/topic?id=33921"
   },
   {
-   "key": "hfpaper:2609.20784",
-   "meta": {
-    "arxiv_id": "2609.20784",
-    "discussion_url": "https://arxiv.org/abs/2609.20784",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-16T20:00:00.000Z",
-   "queued_at": "2026-09-18T20:56:26.951306+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Yan Yu, Zhengxi Lu 외",
-   "source": "hf_paper",
-   "summary": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This recipe, however, is undermined by two findings in agentic tasks: privileged information alone does not always make a teacher reliable, and the benefit of teacher supervision is stage-dependent. We therefore propose RetireOPD (Self-Retiring On-Policy Distillation), which first optimizes a decoupled, sk…",
-   "threshold": 15.0,
-   "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-   "url": "https://huggingface.co/papers/2609.20784"
-  },
-  {
-   "key": "reddit:1wj9dna",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity",
-    "x_author": "zephyr_z9",
-    "x_status_id": "2100566768326692875"
-   },
-   "published_at": "2026-09-17T23:08:49+00:00",
-   "queued_at": "2026-09-18T21:11:38.609595+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5 · 𝕏 @zephyr_z9 · ❤ 1,515",
-   "source": "reddit",
-   "summary": "Scaling will continue until morale improves",
-   "threshold": 300.0,
-   "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
-   "url": "https://x.com/zephyr_z9/status/2100566768326692875"
-  },
-  {
-   "key": "reddit:1wjxvwz",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-18T18:15:06+00:00",
-   "queued_at": "2026-09-18T23:22:13.961720+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Claude Code is getting native AGENTS.md support!",
-   "url": "https://i.redd.it/btltptkalbqh1.png"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=33913",
+   "key": "rss:https://news.hada.io/topic?id=33920",
    "meta": {
     "feed": "GeekNews"
    },
-   "published_at": "2026-09-18T22:52:19+00:00",
-   "queued_at": "2026-09-18T23:22:13.961720+00:00",
+   "published_at": "2026-09-19T00:30:02+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "프로젝트에 CLAUDE.md 가 없으면 AGENTS.md 를 대신 읽는 기능 이 추가됨 해당 동작은 /config 의 “ Project instructions ”에서 변경할 수 있으며, Bedrock, Vertex, Foundry에서는 아직 지원하지 않음 비대...",
+   "summary": "기존 앱과 AI 에이전트를 별개로 만들지 않고 하나의 애플리케이션 안에서 같은 기능과 데이터를 공유 하게 하는 프레임워크 작업을 defineAction 으로 한 번 정의하면 UI, 에이전트 도구, HTTP API, MCP, A2A, CLI에서 같은 액션을 호출 가능 이메일 답장 같은...",
    "threshold": 1.0,
-   "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
-   "url": "https://news.hada.io/topic?id=33913"
+   "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+   "url": "https://news.hada.io/topic?id=33920"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=33919",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-19T00:25:02+00:00",
+   "queued_at": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "속도 중심의 Flare와 품질 중심의 Sunburst 중 작업에 맞는 모델을 선택하며, 기존 GPT Image 2 결과가 만족스러웠다면 같은 프롬프트로 Flare부터 비교하는걸 추천 특별한 주문이나 문법보다 용도, 대상, 구도와 눈에 보이는 세부 조건 을 명확히 쓰는 것이 중요하...",
+   "threshold": 1.0,
+   "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
+   "url": "https://news.hada.io/topic?id=33919"
   }
  ],
  "seen": {
@@ -1473,9 +1386,9 @@
   },
   "hfpaper:2609.20784": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "hfpaper:2609.20800": {
    "first": "2026-09-18T03:21:08.740300+00:00",
@@ -2619,9 +2532,9 @@
   },
   "reddit:1wj9dna": {
    "first": "2026-09-18T21:11:38.609595+00:00",
-   "last": "2026-09-18T21:11:38.609595+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "reddit:1wjauca": {
    "first": "2026-09-18T09:37:27.421576+00:00",
@@ -2647,17 +2560,23 @@
    "score": 330.0,
    "sent": "2026-09-18T23:22:13.961720+00:00"
   },
+  "reddit:1wjxket": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 330.0,
+   "sent": "2026-09-19T01:30:41.389990+00:00"
+  },
   "reddit:1wjxvwz": {
    "first": "2026-09-18T23:22:13.961720+00:00",
-   "last": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://anthropic.com/news/life-sciences-verification-program": {
    "first": "2026-09-17T17:42:50.008214+00:00",
@@ -3717,31 +3636,61 @@
   },
   "rss:https://news.hada.io/topic?id=33905": {
    "first": "2026-09-18T18:33:06.162890+00:00",
-   "last": "2026-09-18T18:33:06.162890+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://news.hada.io/topic?id=33907": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://news.hada.io/topic?id=33908": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://news.hada.io/topic?id=33909": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://news.hada.io/topic?id=33913": {
    "first": "2026-09-18T23:22:13.961720+00:00",
-   "last": "2026-09-18T23:22:13.961720+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": "2026-09-19T01:30:41.389990+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=33919": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33920": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33921": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33922": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=33923": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -4027,17 +3976,23 @@
    "score": 1.0,
    "sent": "2026-09-18T01:36:19.730790+00:00"
   },
-  "rss:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you": {
-   "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+  "rss:https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies": {
+   "first": "2026-09-19T01:30:41.389990+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "sent": null
   },
+  "rss:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you": {
+   "first": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
+   "score": 1.0,
+   "sent": "2026-09-19T01:30:41.389990+00:00"
+  },
   "rss:https://simonwillison.net/2026/Sep/18/thariq-shihipar": {
    "first": "2026-09-18T20:56:26.951306+00:00",
-   "last": "2026-09-18T20:56:26.951306+00:00",
+   "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-19T01:30:41.389990+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit": {
    "first": "2026-09-18T14:38:41.792005+00:00",
@@ -4791,6 +4746,10 @@
   },
   {
    "at": "2026-09-18T23:22:13.961720+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-19T01:30:41.389990+00:00",
    "count": 12
   }
  ],
