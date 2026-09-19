@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-19T21:51:45.965387+00:00",
+ "last_run": "2026-09-19T22:06:48.704705+00:00",
  "pending": [
   {
    "key": "hn:49758615",
@@ -161,6 +161,21 @@
    "threshold": 200.0,
    "title": "AI is getting out of hand.",
    "url": "https://v.redd.it/sxmipms2hiqh1"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/19/datasette-auth-github",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-19T19:52:02+00:00",
+   "queued_at": "2026-09-19T22:06:48.704705+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.) I fixed that in #80 and, since this plugin has been around for quite a while and is tested ag…",
+   "threshold": 1.0,
+   "title": "datasette-auth-github 1.0",
+   "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
   }
  ],
  "seen": {
@@ -4292,6 +4307,12 @@
    "last": "2026-09-18T14:38:41.792005+00:00",
    "score": 1.0,
    "sent": "2026-09-18T14:38:41.792005+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/19/datasette-auth-github": {
+   "first": "2026-09-19T22:06:48.704705+00:00",
+   "last": "2026-09-19T22:06:48.704705+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/19/sighting-401567341": {
    "first": "2026-09-19T16:35:34.421826+00:00",
