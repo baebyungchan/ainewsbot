@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T21:14:10.329704+00:00",
+ "last_run": "2026-09-20T21:27:46.711628+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -250,6 +250,21 @@
    "threshold": 500.0,
    "title": "Jakeschincariol/linkedin-agent-skill",
    "url": "https://github.com/Jakeschincariol/linkedin-agent-skill"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/20/voxium",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-20T21:06:43+00:00",
+   "queued_at": "2026-09-20T21:27:46.711628+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Eve…",
+   "threshold": 1.0,
+   "title": "Quoting voxium",
+   "url": "https://simonwillison.net/2026/Sep/20/voxium/"
   }
  ],
  "seen": {
@@ -4703,6 +4718,12 @@
    "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
    "sent": "2026-09-19T23:07:03.869668+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/20/voxium": {
+   "first": "2026-09-20T21:27:46.711628+00:00",
+   "last": "2026-09-20T21:27:46.711628+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
