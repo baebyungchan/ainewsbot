@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T22:14:23.819728+00:00",
+ "last_run": "2026-09-20T22:29:25.468128+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -284,6 +284,21 @@
    "threshold": 200.0,
    "title": "Aged like milk",
    "url": "https://i.redd.it/2gbh8q10joqh1.png"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-20T19:22:19+00:00",
+   "queued_at": "2026-09-20T22:29:25.468128+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --…",
+   "threshold": 1.0,
+   "title": "llm-keys-ui 0.1",
+   "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
   }
  ],
  "seen": {
@@ -4743,6 +4758,12 @@
    "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
    "sent": "2026-09-19T23:07:03.869668+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui": {
+   "first": "2026-09-20T22:29:25.468128+00:00",
+   "last": "2026-09-20T22:29:25.468128+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/20/voxium": {
    "first": "2026-09-20T21:27:46.711628+00:00",
