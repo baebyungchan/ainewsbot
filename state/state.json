@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T17:28:20.647552+00:00",
+ "last_run": "2026-09-20T17:43:21.135409+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -141,6 +141,39 @@
    "threshold": 300.0,
    "title": "Qwen-Image-2.1 released!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"
+  },
+  {
+   "key": "reddit:1wl6wyn",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-20T04:20:35+00:00",
+   "queued_at": "2026-09-20T17:43:21.135409+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "Link: https://x.com/Lon/status/2101034933284417614 A 65-day analysis of 43,000+ Claude Code invocations found that 39% of Fable 5 calls get zero thinking tokens and the median invocation gets just 123 — while benchmarks use 16K-128K. The model's score per thinking token is still climbing at 128K, meaning the capability is there, it's just not being delivered. August saw an 18-50% drop in thinking budget compared to July, with median thinking hitting literal zero for about a week around Aug 22. Anthropic sells \"full model access\" while quietly dialing down the inference regime behind it, and b…",
+   "threshold": 150.0,
+   "title": "It's time to cancel your subscriptions - Anthropic is silently nerfing Claude's reasoning budget while telling you it's the same model",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34011",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-20T17:42:25+00:00",
+   "queued_at": "2026-09-20T17:43:21.135409+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Pirate Face 는 Hugging Face의 오픈 모델을 체크섬으로 검증한 토렌트로 미러링하고, 단일 기업 대신 P2P 네트워크 가 보관하도록 하는 서비스임 토렌트에 내장된 Hugging Face 웹 시드 로 피어가 없어도 다운로드할 수 있으며, 원본이 삭제되면 시...",
+   "threshold": 1.0,
+   "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
+   "url": "https://news.hada.io/topic?id=34011"
   }
  ],
  "seen": {
@@ -2914,6 +2947,12 @@
    "score": 195.0,
    "sent": "2026-09-20T11:25:19.164353+00:00"
   },
+  "reddit:1wl6wyn": {
+   "first": "2026-09-20T17:43:21.135409+00:00",
+   "last": "2026-09-20T17:43:21.135409+00:00",
+   "score": 150.0,
+   "sent": null
+  },
   "reddit:1wla34t": {
    "first": "2026-09-20T12:12:08.097640+00:00",
    "last": "2026-09-20T12:12:08.097640+00:00",
@@ -4231,6 +4270,12 @@
   "rss:https://news.hada.io/topic?id=34006": {
    "first": "2026-09-20T15:58:01.095320+00:00",
    "last": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34011": {
+   "first": "2026-09-20T17:43:21.135409+00:00",
+   "last": "2026-09-20T17:43:21.135409+00:00",
    "score": 1.0,
    "sent": null
   },
