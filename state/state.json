@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T22:29:25.468128+00:00",
+ "last_run": "2026-09-20T22:44:30.529745+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -299,6 +299,50 @@
    "threshold": 1.0,
    "title": "llm-keys-ui 0.1",
    "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
+  },
+  {
+   "key": "gh:pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+   "meta": {
+    "age_days": 1.8,
+    "language": "Markdown",
+    "stars_total": 500,
+    "topics": [
+     "ai",
+     "ai-engineering",
+     "ai-engineering-interview",
+     "ai-interview",
+     "ai-interview-questions",
+     "company-wise-prep",
+     "company-wise-questions",
+     "interview-questions",
+     "llm-inference",
+     "questions-and-answers"
+    ]
+   },
+   "published_at": "2026-09-19T04:14:43Z",
+   "queued_at": "2026-09-20T22:44:30.529745+00:00",
+   "score": 500.0,
+   "signal": "🆕 500 stars in 2d · Markdown",
+   "source": "github_new",
+   "summary": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+   "threshold": 500.0,
+   "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+   "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/20/datasette-explain",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-20T00:22:04+00:00",
+   "queued_at": "2026-09-20T22:44:30.529745+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
+   "threshold": 1.0,
+   "title": "datasette-explain 0.2.2",
+   "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/"
   }
  ],
  "seen": {
@@ -679,6 +723,13 @@
    "score": 1091.0,
    "sent": "2026-09-15T12:05:33.510008+00:00",
    "stars_total": 4458
+  },
+  "gh:pallavi-shekhar/ai-engineering-interview-questions-company-wise": {
+   "first": "2026-09-20T22:44:30.529745+00:00",
+   "last": "2026-09-20T22:44:30.529745+00:00",
+   "score": 500.0,
+   "sent": null,
+   "stars_total": 500
   },
   "gh:panniantong/agent-reach": {
    "first": "2026-09-14T10:49:16.397921+00:00",
@@ -4758,6 +4809,12 @@
    "last": "2026-09-19T23:07:03.869668+00:00",
    "score": 1.0,
    "sent": "2026-09-19T23:07:03.869668+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/20/datasette-explain": {
+   "first": "2026-09-20T22:44:30.529745+00:00",
+   "last": "2026-09-20T22:44:30.529745+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui": {
    "first": "2026-09-20T22:29:25.468128+00:00",
