@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T15:42:55.163354+00:00",
+ "last_run": "2026-09-20T15:58:01.095320+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -44,6 +44,68 @@
    "threshold": 500.0,
    "title": "v-modal/awesome-jev-tools",
    "url": "https://github.com/v-modal/awesome-jev-tools"
+  },
+  {
+   "key": "hn:49770847",
+   "meta": {
+    "comments": 76,
+    "discussion_url": "https://news.ycombinator.com/item?id=49770847",
+    "hn_id": "49770847"
+   },
+   "published_at": "2026-09-19T23:02:34+00:00",
+   "queued_at": "2026-09-20T15:58:01.095320+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 76",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Can you tell which images are AI-generated?",
+   "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34006",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-20T15:52:28+00:00",
+   "queued_at": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview 를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷한 지능 수준의 모델보다 작업 비용이 상당히 낮다고 밝힘 희소 MoE 구조로 전체 파라미터 6,000억 개 중 토큰당 2...",
+   "threshold": 1.0,
+   "title": "Step 5 Preview: 파레토 경계 확장",
+   "url": "https://news.hada.io/topic?id=34006"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34005",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-20T15:52:27+00:00",
+   "queued_at": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "LLMentalist 효과 는 챗봇에서 느끼는 지능이 모델 내부의 사고가 아니라, 통계적으로 그럴듯한 답변에서 개인적 의미를 찾는 사용자의 심리에서 비롯된다는 가설임 핵심 연결고리는 심령술사의 콜드 리딩(cold reading) 과 주관적 타당화 임. 일반...",
+   "threshold": 1.0,
+   "title": "채팅 기반 대규모 언어 모델은 심령술사 사기의 작동 방식을 재현한다",
+   "url": "https://news.hada.io/topic?id=34005"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34004",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-20T15:52:25+00:00",
+   "queued_at": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Qwen-Image-2.1 이 오픈소스로 공개됨. 시각 생성 구성 요소가 7B 파라미터 인 단일 모델에 텍스트 기반 이미지 생성과 이미지 편집을 통합함 혼합 세분도 어텐션 과 KV 캐시 재사용 으로 추론 효율을 높이고 메모리 사용량을 줄이며...",
+   "threshold": 1.0,
+   "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
+   "url": "https://news.hada.io/topic?id=34004"
   }
  ],
  "seen": {
@@ -2223,6 +2285,12 @@
    "score": 106.0,
    "sent": "2026-09-20T00:07:17.130858+00:00"
   },
+  "hn:49770847": {
+   "first": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T15:58:01.095320+00:00",
+   "score": 102.0,
+   "sent": null
+  },
   "hn:49774329": {
    "first": "2026-09-20T12:57:23.537314+00:00",
    "last": "2026-09-20T12:57:23.537314+00:00",
@@ -4098,6 +4166,24 @@
   "rss:https://news.hada.io/topic?id=34003": {
    "first": "2026-09-20T15:12:50.910023+00:00",
    "last": "2026-09-20T15:12:50.910023+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34004": {
+   "first": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34005": {
+   "first": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T15:58:01.095320+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34006": {
+   "first": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T15:58:01.095320+00:00",
    "score": 1.0,
    "sent": null
   },
