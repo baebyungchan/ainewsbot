@@ -1,7 +1,23 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T14:57:47.282307+00:00",
- "pending": [],
+ "last_run": "2026-09-20T15:12:50.910023+00:00",
+ "pending": [
+  {
+   "key": "rss:https://news.hada.io/topic?id=34003",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-20T15:03:37+00:00",
+   "queued_at": "2026-09-20T15:12:50.910023+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AutoRAG는 RAG 자동 최적화 프레임워크였으나, 에이전트 시대 고정된 하나의 RAG 파이프라인을 찾는 것보다는 진정한 RAG 에이전트 구축에 필요성을 느낌 이에 AutoRAG 팀과 RAG 전문회사 브레인크루, 투이컨설팅이 컨소시엄을 이루어 'AutoRAG Agent'를 개발함 AutoRAG Agent는 사용자의 컴...",
+   "threshold": 1.0,
+   "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
+   "url": "https://news.hada.io/topic?id=34003"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4043,6 +4059,12 @@
    "last": "2026-09-20T14:42:43.018931+00:00",
    "score": 1.0,
    "sent": "2026-09-20T14:42:43.018931+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=34003": {
+   "first": "2026-09-20T15:12:50.910023+00:00",
+   "last": "2026-09-20T15:12:50.910023+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
