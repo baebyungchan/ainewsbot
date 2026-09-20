@@ -1,212 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T22:59:31.062112+00:00",
+ "last_run": "2026-09-20T23:27:47.487002+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34003",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T15:03:37+00:00",
-   "queued_at": "2026-09-20T15:12:50.910023+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AutoRAG는 RAG 자동 최적화 프레임워크였으나, 에이전트 시대 고정된 하나의 RAG 파이프라인을 찾는 것보다는 진정한 RAG 에이전트 구축에 필요성을 느낌 이에 AutoRAG 팀과 RAG 전문회사 브레인크루, 투이컨설팅이 컨소시엄을 이루어 'AutoRAG Agent'를 개발함 AutoRAG Agent는 사용자의 컴...",
-   "threshold": 1.0,
-   "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
-   "url": "https://news.hada.io/topic?id=34003"
-  },
-  {
-   "key": "gh:v-modal/awesome-jev-tools",
-   "meta": {
-    "age_days": 1.0,
-    "language": null,
-    "stars_total": 500,
-    "topics": [
-     "awesome",
-     "awesome-list",
-     "awesome-lists",
-     "jev",
-     "llm",
-     "robotics",
-     "robotics-algorithms",
-     "robotics-control",
-     "robotics-simulation"
-    ]
-   },
-   "published_at": "2026-09-19T16:48:59Z",
-   "queued_at": "2026-09-20T15:42:55.163354+00:00",
-   "score": 500.0,
-   "signal": "🆕 500 stars in 1d",
-   "source": "github_new",
-   "summary": "A curated list of tools built for Jev — TypeSafe AI's System One model for typed decisions.",
-   "threshold": 500.0,
-   "title": "v-modal/awesome-jev-tools",
-   "url": "https://github.com/v-modal/awesome-jev-tools"
-  },
-  {
-   "key": "hn:49770847",
-   "meta": {
-    "comments": 76,
-    "discussion_url": "https://news.ycombinator.com/item?id=49770847",
-    "hn_id": "49770847"
-   },
-   "published_at": "2026-09-19T23:02:34+00:00",
-   "queued_at": "2026-09-20T15:58:01.095320+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 76",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Can you tell which images are AI-generated?",
-   "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34006",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T15:52:28+00:00",
-   "queued_at": "2026-09-20T15:58:01.095320+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview 를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷한 지능 수준의 모델보다 작업 비용이 상당히 낮다고 밝힘 희소 MoE 구조로 전체 파라미터 6,000억 개 중 토큰당 2...",
-   "threshold": 1.0,
-   "title": "Step 5 Preview: 파레토 경계 확장",
-   "url": "https://news.hada.io/topic?id=34006"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34005",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T15:52:27+00:00",
-   "queued_at": "2026-09-20T15:58:01.095320+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLMentalist 효과 는 챗봇에서 느끼는 지능이 모델 내부의 사고가 아니라, 통계적으로 그럴듯한 답변에서 개인적 의미를 찾는 사용자의 심리에서 비롯된다는 가설임 핵심 연결고리는 심령술사의 콜드 리딩(cold reading) 과 주관적 타당화 임. 일반...",
-   "threshold": 1.0,
-   "title": "채팅 기반 대규모 언어 모델은 심령술사 사기의 작동 방식을 재현한다",
-   "url": "https://news.hada.io/topic?id=34005"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34004",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T15:52:25+00:00",
-   "queued_at": "2026-09-20T15:58:01.095320+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Qwen-Image-2.1 이 오픈소스로 공개됨. 시각 생성 구성 요소가 7B 파라미터 인 단일 모델에 텍스트 기반 이미지 생성과 이미지 편집을 통합함 혼합 세분도 어텐션 과 KV 캐시 재사용 으로 추론 효율을 높이고 메모리 사용량을 줄이며...",
-   "threshold": 1.0,
-   "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
-   "url": "https://news.hada.io/topic?id=34004"
-  },
-  {
-   "key": "hn:49776699",
-   "meta": {
-    "comments": 28,
-    "discussion_url": "https://news.ycombinator.com/item?id=49776699",
-    "hn_id": "49776699"
-   },
-   "published_at": "2026-09-20T15:16:07+00:00",
-   "queued_at": "2026-09-20T16:58:13.068476+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 28",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Pirate Face Rescues LLM Models from Deletion",
-   "url": "https://pirateface.co/"
-  },
-  {
-   "key": "reddit:1wlgrft",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-20T13:12:41+00:00",
-   "queued_at": "2026-09-20T17:28:20.647552+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #5",
-   "source": "reddit",
-   "summary": "Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨 A unified model for both generation and editing, delivering top-tier quality in a lightweight package. Highlights: - Compact & exceptionally fast: A lightweight 7B architecture that outperforms most closed-source models, with drastically accelerated inference for multi-image inputs. - Native transparency: Natively generates and edits RGBA layers, enabling seamless compositing and text editing within transparent images. - Versatile, high-fidelity editing: Supports up t…",
-   "threshold": 300.0,
-   "title": "Qwen-Image-2.1 released!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"
-  },
-  {
-   "key": "reddit:1wl6wyn",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-20T04:20:35+00:00",
-   "queued_at": "2026-09-20T17:43:21.135409+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "Link: https://x.com/Lon/status/2101034933284417614 A 65-day analysis of 43,000+ Claude Code invocations found that 39% of Fable 5 calls get zero thinking tokens and the median invocation gets just 123 — while benchmarks use 16K-128K. The model's score per thinking token is still climbing at 128K, meaning the capability is there, it's just not being delivered. August saw an 18-50% drop in thinking budget compared to July, with median thinking hitting literal zero for about a week around Aug 22. Anthropic sells \"full model access\" while quietly dialing down the inference regime behind it, and b…",
-   "threshold": 150.0,
-   "title": "It's time to cancel your subscriptions - Anthropic is silently nerfing Claude's reasoning budget while telling you it's the same model",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34011",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T17:42:25+00:00",
-   "queued_at": "2026-09-20T17:43:21.135409+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Pirate Face 는 Hugging Face의 오픈 모델을 체크섬으로 검증한 토렌트로 미러링하고, 단일 기업 대신 P2P 네트워크 가 보관하도록 하는 서비스임 토렌트에 내장된 Hugging Face 웹 시드 로 피어가 없어도 다운로드할 수 있으며, 원본이 삭제되면 시...",
-   "threshold": 1.0,
-   "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
-   "url": "https://news.hada.io/topic?id=34011"
-  },
-  {
-   "key": "hn:49776729",
-   "meta": {
-    "comments": 51,
-    "discussion_url": "https://news.ycombinator.com/item?id=49776729",
-    "hn_id": "49776729"
-   },
-   "published_at": "2026-09-20T15:18:44+00:00",
-   "queued_at": "2026-09-20T17:58:26.606342+00:00",
-   "score": 110.0,
-   "signal": "🟠 HN 110 pts · 💬 51",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "ChatGPT now knows what you do on other websites via ad collector",
-   "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34012",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-20T19:11:12+00:00",
-   "queued_at": "2026-09-20T19:13:51.786725+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이 메시지를 하나씩 읽고 용도별로 분류하게 했습니다. 키워드 검색은 쓰지 않았습니다. ...",
-   "threshold": 1.0,
-   "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
-   "url": "https://news.hada.io/topic?id=34012"
-  },
   {
    "key": "hfmodel:qwen/qwen-image-2.1",
    "meta": {
@@ -880,9 +675,9 @@
   },
   "gh:v-modal/awesome-jev-tools": {
    "first": "2026-09-20T15:42:55.163354+00:00",
-   "last": "2026-09-20T15:42:55.163354+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 500.0,
-   "sent": null,
+   "sent": "2026-09-20T23:27:47.487002+00:00",
    "stars_total": 500
   },
   "gh:vastsa/pi-desktop": {
@@ -2544,9 +2339,9 @@
   },
   "hn:49770847": {
    "first": "2026-09-20T15:58:01.095320+00:00",
-   "last": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "hn:49774329": {
    "first": "2026-09-20T12:57:23.537314+00:00",
@@ -2562,15 +2357,15 @@
   },
   "hn:49776699": {
    "first": "2026-09-20T16:58:13.068476+00:00",
-   "last": "2026-09-20T16:58:13.068476+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "hn:49776729": {
    "first": "2026-09-20T17:58:26.606342+00:00",
-   "last": "2026-09-20T17:58:26.606342+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 110.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3144,9 +2939,9 @@
   },
   "reddit:1wl6wyn": {
    "first": "2026-09-20T17:43:21.135409+00:00",
-   "last": "2026-09-20T17:43:21.135409+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "reddit:1wla34t": {
    "first": "2026-09-20T12:12:08.097640+00:00",
@@ -3156,9 +2951,9 @@
   },
   "reddit:1wlgrft": {
    "first": "2026-09-20T17:28:20.647552+00:00",
-   "last": "2026-09-20T17:28:20.647552+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "reddit:1wlhhqq": {
    "first": "2026-09-20T21:44:19.105223+00:00",
@@ -4452,39 +4247,39 @@
   },
   "rss:https://news.hada.io/topic?id=34003": {
    "first": "2026-09-20T15:12:50.910023+00:00",
-   "last": "2026-09-20T15:12:50.910023+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://news.hada.io/topic?id=34004": {
    "first": "2026-09-20T15:58:01.095320+00:00",
-   "last": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://news.hada.io/topic?id=34005": {
    "first": "2026-09-20T15:58:01.095320+00:00",
-   "last": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://news.hada.io/topic?id=34006": {
    "first": "2026-09-20T15:58:01.095320+00:00",
-   "last": "2026-09-20T15:58:01.095320+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://news.hada.io/topic?id=34011": {
    "first": "2026-09-20T17:43:21.135409+00:00",
-   "last": "2026-09-20T17:43:21.135409+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://news.hada.io/topic?id=34012": {
    "first": "2026-09-20T19:13:51.786725+00:00",
-   "last": "2026-09-20T19:13:51.786725+00:00",
+   "last": "2026-09-20T23:27:47.487002+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-20T23:27:47.487002+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4896,10 +4691,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-11T00:28:12.539286+00:00",
-   "count": 2
-  },
   {
    "at": "2026-09-11T01:13:26.897604+00:00",
    "count": 1
@@ -5695,6 +5486,10 @@
   {
    "at": "2026-09-20T14:57:47.282307+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-09-20T23:27:47.487002+00:00",
+   "count": 12
   }
  ],
  "version": 1
