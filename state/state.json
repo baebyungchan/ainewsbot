@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T16:43:12.677761+00:00",
+ "last_run": "2026-09-20T16:58:13.068476+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -106,6 +106,23 @@
    "threshold": 1.0,
    "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
    "url": "https://news.hada.io/topic?id=34004"
+  },
+  {
+   "key": "hn:49776699",
+   "meta": {
+    "comments": 28,
+    "discussion_url": "https://news.ycombinator.com/item?id=49776699",
+    "hn_id": "49776699"
+   },
+   "published_at": "2026-09-20T15:16:07+00:00",
+   "queued_at": "2026-09-20T16:58:13.068476+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 28",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Pirate Face Rescues LLM Models from Deletion",
+   "url": "https://pirateface.co/"
   }
  ],
  "seen": {
@@ -2302,6 +2319,12 @@
    "last": "2026-09-20T14:42:43.018931+00:00",
    "score": 105.0,
    "sent": "2026-09-20T14:42:43.018931+00:00"
+  },
+  "hn:49776699": {
+   "first": "2026-09-20T16:58:13.068476+00:00",
+   "last": "2026-09-20T16:58:13.068476+00:00",
+   "score": 102.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
