@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T21:29:15.266555+00:00",
+ "last_run": "2026-09-20T21:44:19.105223+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34003",
@@ -265,6 +265,25 @@
    "threshold": 1.0,
    "title": "Quoting voxium",
    "url": "https://simonwillison.net/2026/Sep/20/voxium/"
+  },
+  {
+   "key": "reddit:1wlhhqq",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-09-20T13:45:02+00:00",
+   "queued_at": "2026-09-20T21:44:19.105223+00:00",
+   "score": 200.0,
+   "signal": "🏆 r/OpenAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 200.0,
+   "title": "Aged like milk",
+   "url": "https://i.redd.it/2gbh8q10joqh1.png"
   }
  ],
  "seen": {
@@ -3073,6 +3092,12 @@
    "first": "2026-09-20T17:28:20.647552+00:00",
    "last": "2026-09-20T17:28:20.647552+00:00",
    "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wlhhqq": {
+   "first": "2026-09-20T21:44:19.105223+00:00",
+   "last": "2026-09-20T21:44:19.105223+00:00",
+   "score": 200.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
