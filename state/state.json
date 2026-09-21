@@ -1,104 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-21T01:26:56.014381+00:00",
- "pending": [
-  {
-   "key": "reddit:1wldnh8",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity",
-    "x_author": "cb_doge",
-    "x_status_id": "2101345224790544702"
-   },
-   "published_at": "2026-09-20T10:36:36+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5 · 𝕏 @cb_doge · ❤ 883",
-   "source": "reddit",
-   "summary": "🚨JENSEN HUANG: \"We should go as fast as we can irrespective of anybody else. We're going to go as fast as we can but never should ship product before they're ready, deliver products that are unsafe. Everybody's expecting us to succeed & help America be as prosperous as possible\"",
-   "threshold": 300.0,
-   "title": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
-   "url": "https://x.com/cb_doge/status/2101345224790544702"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34041",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-21T00:55:01+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "광고 플랫폼과 사내 데이터를 연결해 성과 분석, 캠페인 변경 제안, 사람의 승인과 실행 검증 까지 이어지는 Slack 기반 에이전트를 구축함 신입 분석가처럼 작업용 컴퓨터와 분석 도구, 업무 지침과 회사 위키 를 제공하고, 시스템 프롬프트에는 모든 지식 대신 필요...",
-   "threshold": 1.0,
-   "title": "LangChain은 유료 광고 운영 에이전트를 어떻게 만들었나",
-   "url": "https://news.hada.io/topic?id=34041"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34037",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-21T00:52:46+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "프런티어 AI 기업들이 인류 멸종 위험을 내세워 규제 독점 을 얻으려 한다는 비판임. 종말론적 경고의 실제 목적은 매출 성장과 기존 시장 지위 보호, 저렴한 경쟁자 배제에 있다고 봄 AI 에이전트의 사이버 공격 사례에서 핵심 문제는 초월적 해킹 능력이 아니라 방화벽 설정...",
-   "threshold": 1.0,
-   "title": "프런티어 AI 연구소들은 워싱턴의 바보들에게 쓰레기를 팔고 있다",
-   "url": "https://news.hada.io/topic?id=34037"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34036",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-21T00:52:45+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "잘 작동하던 프롬프트도 다른 지시나 문맥과 결합하거나 모델이 바뀌면 효과가 달라지므로, 문구를 다듬는 것만으로 에이전트의 신뢰성을 유지하기 어려움 같은 작업을 반복 실행해 실패를 찾고, 프롬프트를 바꾸기 전후의 동작을 테스트로 비교 해야 실제로 개선됐...",
-   "threshold": 1.0,
-   "title": "프롬프트는 실재하지 않는다",
-   "url": "https://news.hada.io/topic?id=34036"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34034",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-21T00:52:43+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함 . 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수 있음 정보를 파악하고 부족한 내용을 채운 뒤, 문제와 단순한 해결 방법, 목표를 명확히 정하고 빠르게 실행 하는 과...",
-   "threshold": 1.0,
-   "title": "Claude Code 개발자 보리스 처니: &quot;나는 자주 틀린다&quot;",
-   "url": "https://news.hada.io/topic?id=34034"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34033",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-21T00:52:42+00:00",
-   "queued_at": "2026-09-21T01:26:56.014381+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Jev의 오픈소스 대안인 Laya를 Apple Silicon에서 실행하는 Core ML 이식 프로젝트 로, 모델을 한 번 내려받으면 네트워크 없이 판단을 수행함 문장을 한 토큰씩 생성하는 대신 선택지별 확률, 순서형 점수와 참일 확률 을 반환해, 긴 답변보다 빠른 선택이 필요한 작...",
-   "threshold": 1.0,
-   "title": "Laya, Mac에서 오프라인으로 실행하는 실시간 의사결정 AI",
-   "url": "https://news.hada.io/topic?id=34033"
-  }
- ],
+ "last_run": "2026-09-21T01:33:22.865487+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2936,9 +2839,9 @@
   },
   "reddit:1wldnh8": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "reddit:1wlgrft": {
    "first": "2026-09-20T17:28:20.647552+00:00",
@@ -4274,33 +4177,33 @@
   },
   "rss:https://news.hada.io/topic?id=34033": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "rss:https://news.hada.io/topic?id=34034": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "rss:https://news.hada.io/topic?id=34036": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "rss:https://news.hada.io/topic?id=34037": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "rss:https://news.hada.io/topic?id=34041": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:33:22.865487+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:33:22.865487+00:00"
   },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4712,10 +4615,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-11T01:24:33.496115+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-11T01:46:24.529426+00:00",
    "count": 1
@@ -5511,6 +5410,10 @@
   {
    "at": "2026-09-21T01:26:56.014381+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-21T01:33:22.865487+00:00",
+   "count": 6
   }
  ],
  "version": 1
