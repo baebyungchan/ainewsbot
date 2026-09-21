@@ -1,7 +1,321 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-21T14:41:41.473354+00:00",
- "pending": [],
+ "last_run": "2026-09-21T19:19:03.791465+00:00",
+ "pending": [
+  {
+   "key": "hn:49788838",
+   "meta": {
+    "comments": 269,
+    "discussion_url": "https://news.ycombinator.com/item?id=49788838",
+    "hn_id": "49788838"
+   },
+   "published_at": "2026-09-21T15:50:15+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 326.0,
+   "signal": "🟠 HN 326 pts · 💬 269",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7"
+  },
+  {
+   "key": "hn:49787313",
+   "meta": {
+    "comments": 158,
+    "discussion_url": "https://news.ycombinator.com/item?id=49787313",
+    "hn_id": "49787313"
+   },
+   "published_at": "2026-09-21T13:53:27+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 185.0,
+   "signal": "🟠 HN 185 pts · 💬 158",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "M5 Ultra Mac Studio Review",
+   "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
+  },
+  {
+   "key": "hn:49787535",
+   "meta": {
+    "comments": 71,
+    "discussion_url": "https://news.ycombinator.com/item?id=49787535",
+    "hn_id": "49787535"
+   },
+   "published_at": "2026-09-21T14:10:49+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 148.0,
+   "signal": "🟠 HN 148 pts · 💬 71",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+   "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
+  },
+  {
+   "key": "reddit:1wm4o8x",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+    "rank": 3,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-09-21T06:17:43+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 390.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #3",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Clarification on the Qwen-image-2.1 license",
+   "url": "https://i.redd.it/36k6lzy2gtqh1.jpeg"
+  },
+  {
+   "key": "hn:49786609",
+   "meta": {
+    "comments": 69,
+    "hn_id": "49786609"
+   },
+   "published_at": "2026-09-21T12:47:05+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 129.0,
+   "signal": "🟠 HN 129 pts · 💬 69",
+   "source": "hn",
+   "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings &gt; Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https:&#x2F;&#x2F;github.com&#x2F;OleksandrKrupko&#x2F;mac-os-debloat But after restarting, I could still see a &quot;Siri&quot; process running in Activity Monitor. Upon further inspection, I found that it is the &quot;Siri AI.app&quot;. These &quot;features&quot;, together with Apple&#x27;s Personal Context sound very similar to Microsoft&#x27;s Recall. Does anyone have the same experience? Is it…",
+   "threshold": 100.0,
+   "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+   "url": "https://news.ycombinator.com/item?id=49786609"
+  },
+  {
+   "key": "hfpaper:2609.22086",
+   "meta": {
+    "arxiv_id": "2609.22086",
+    "discussion_url": "https://arxiv.org/abs/2609.22086",
+    "upvotes": 19
+   },
+   "published_at": "2026-09-17T20:00:00.000Z",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 19.0,
+   "signal": "📄 논문 ▲ 19 · Hongyang Du, Lan Yan 외",
+   "source": "hf_paper",
+   "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against the…",
+   "threshold": 15.0,
+   "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+   "url": "https://huggingface.co/papers/2609.22086"
+  },
+  {
+   "key": "hn:49784816",
+   "meta": {
+    "comments": 68,
+    "discussion_url": "https://news.ycombinator.com/item?id=49784816",
+    "hn_id": "49784816"
+   },
+   "published_at": "2026-09-21T08:54:44+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 121.0,
+   "signal": "🟠 HN 121 pts · 💬 68",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Don't Use AI to Write",
+   "url": "https://paulbakker.io/writing/no-ai-for-writing/"
+  },
+  {
+   "key": "gh:hydra-db/open-glean",
+   "meta": {
+    "age_days": 4.6,
+    "language": "TypeScript",
+    "stars_total": 582,
+    "topics": []
+   },
+   "published_at": "2026-09-17T05:22:08Z",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 582.0,
+   "signal": "🆕 582 stars in 5d · TypeScript",
+   "source": "github_new",
+   "summary": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+   "threshold": 500.0,
+   "title": "hydra-db/open-glean",
+   "url": "https://github.com/hydra-db/open-glean"
+  },
+  {
+   "key": "reddit:1wlzifs",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-21T01:52:42+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Open AI robotics hiring is surging up and fast",
+   "url": "https://i.redd.it/yz12wdcv4sqh1.jpeg"
+  },
+  {
+   "key": "hn:49789982",
+   "meta": {
+    "comments": 89,
+    "discussion_url": "https://news.ycombinator.com/item?id=49789982",
+    "hn_id": "49789982"
+   },
+   "published_at": "2026-09-21T17:00:23+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 89",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
+  },
+  {
+   "key": "reddit:1wlsgdk",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wlsgdk/china_is_doing_about_30_times_more_agricultural/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wlsgdk/china_is_doing_about_30_times_more_agricultural/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-20T20:47:37+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "China Is Doing About 30 Times More Agricultural Drone Work Than The U.S.",
+   "url": "https://cleantechnica.com/2026/09/20/china-agricultural-drones-30-times-us/"
+  },
+  {
+   "key": "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-21T12:00:00+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "threshold": 1.0,
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+  },
+  {
+   "key": "rss:https://openai.com/index/building-standards-next-phase-ai",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-21T10:00:00+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "threshold": 1.0,
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai"
+  },
+  {
+   "key": "rss:https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "threshold": 1.0,
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/20/hn-49779718",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-20T20:24:41+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authent…",
+   "threshold": 1.0,
+   "title": "MCP was always a bad idea?",
+   "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34081",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T18:34:05+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Anthropic이 Fable 5 를 구독 요금제에서 상시 이용할 수 있게 한 뒤, 사용자가 큰 성능 저하를 체감함 모델이 더 둔해진 듯한 느낌 을 받았지만, 그 이유는 설명하지 못함 다섯 가지 방식 으로 측정했을 때, 8월의 사고 토큰 수가 7월보다...",
+   "threshold": 1.0,
+   "title": "Fable 5, 8월 사고량 중앙값 감소",
+   "url": "https://news.hada.io/topic?id=34081"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34079",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T17:55:36+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "256GB RAM을 탑재한 M5 Ultra Mac Studio 는 로컬 모델 기반 개인 비서를 일상적으로 사용할 만한 속도를 제공함. Qwen3.8-Flash-Next를 Open Minis와 Hermes Agent의 기본 모델로 사용하며 추가 클라우드 비용 없이 작업을 수행함 M3 Ultra 대비 응답 생성은 평균 약 70%, 프...",
+   "threshold": 1.0,
+   "title": "M5 Ultra Mac Studio 리뷰",
+   "url": "https://news.hada.io/topic?id=34079"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34077",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T17:49:35+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Grok 4.7 은 코딩과 지식 업무용 모델로, 어려운 작업에 더 오래 집중하고 자체 검증과 긴 컨텍스트 관리를 개선했으며 Grok 4.6과 같은 가격과 속도로 제공됨 더 큰 기반 모델 에 수 시간이 걸리는 어려운 과제 중심의 강화학습을 더 오래 적용했으며, Grok Bot 하네...",
+   "threshold": 1.0,
+   "title": "Grok 4.7",
+   "url": "https://news.hada.io/topic?id=34077"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34073",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T15:37:35+00:00",
+   "queued_at": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Heretic 은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열 임 검열 제거는 완전 자동 방식 으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함...",
+   "threshold": 1.0,
+   "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
+   "url": "https://news.hada.io/topic?id=34073"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -268,6 +582,13 @@
    "score": 910.0,
    "sent": null,
    "stars_total": 910
+  },
+  "gh:hydra-db/open-glean": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 582.0,
+   "sent": null,
+   "stars_total": 582
   },
   "gh:i-am-manware/manware-s-ai-learning-toolkit": {
    "first": "2026-09-17T16:27:33.298533+00:00",
@@ -1563,6 +1884,12 @@
    "score": 15.0,
    "sent": "2026-09-21T11:41:00.268501+00:00"
   },
+  "hfpaper:2609.22086": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 19.0,
+   "sent": null
+  },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -2355,6 +2682,42 @@
    "score": 124.0,
    "sent": "2026-09-21T11:41:00.268501+00:00"
   },
+  "hn:49784816": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 121.0,
+   "sent": null
+  },
+  "hn:49786609": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 129.0,
+   "sent": null
+  },
+  "hn:49787313": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 185.0,
+   "sent": null
+  },
+  "hn:49787535": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 148.0,
+   "sent": null
+  },
+  "hn:49788838": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 326.0,
+   "sent": null
+  },
+  "hn:49789982": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 102.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -2972,6 +3335,24 @@
    "last": "2026-09-21T13:56:34.315757+00:00",
    "score": 300.0,
    "sent": "2026-09-21T13:56:34.315757+00:00"
+  },
+  "reddit:1wlsgdk": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wlzifs": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 330.0,
+   "sent": null
+  },
+  "reddit:1wm4o8x": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 390.0,
+   "sent": null
   },
   "reddit:1wm5c21": {
    "first": "2026-09-21T11:41:00.268501+00:00",
@@ -4383,6 +4764,36 @@
    "score": 1.0,
    "sent": "2026-09-21T14:41:41.473354+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34073": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34077": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34079": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34081": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -4394,6 +4805,12 @@
    "last": "2026-09-19T05:32:56.876642+00:00",
    "score": 1.0,
    "sent": "2026-09-19T05:32:56.876642+00:00"
+  },
+  "rss:https://openai.com/index/building-standards-next-phase-ai": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/cognition-devin-testing-with-astra": {
    "first": "2026-09-12T00:21:27.869756+00:00",
@@ -4410,6 +4827,12 @@
   "rss:https://openai.com/index/expanding-ai-access-us-government": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -4718,6 +5141,12 @@
    "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
    "sent": "2026-09-21T01:26:56.014381+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/20/hn-49779718": {
+   "first": "2026-09-21T19:19:03.791465+00:00",
+   "last": "2026-09-21T19:19:03.791465+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui": {
    "first": "2026-09-20T22:29:25.468128+00:00",
