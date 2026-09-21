@@ -1,143 +1,102 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-20T23:27:47.487002+00:00",
+ "last_run": "2026-09-21T01:26:56.014381+00:00",
  "pending": [
   {
-   "key": "hfmodel:qwen/qwen-image-2.1",
+   "key": "reddit:1wldnh8",
    "meta": {
-    "downloads": 183,
-    "likes": 627,
-    "pipeline": "text-to-image",
-    "rank": 5
-   },
-   "published_at": "2026-09-14T03:47:26.000Z",
-   "queued_at": "2026-09-20T20:44:02.405000+00:00",
-   "score": 1.0,
-   "signal": "🤗 트렌딩 #5 · ❤ 627 · ⬇ 183 · text-to-image",
-   "source": "hf_model",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Qwen/Qwen-Image-2.1",
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
-  },
-  {
-   "key": "gh:jakeschincariol/linkedin-agent-skill",
-   "meta": {
-    "age_days": 12.9,
-    "language": "Python",
-    "stars_total": 500,
-    "topics": [
-     "agent-skills",
-     "ai-humanizer",
-     "claude",
-     "claude-code",
-     "claude-skills",
-     "content-marketing",
-     "linkedin"
-    ]
-   },
-   "published_at": "2026-09-07T22:58:16Z",
-   "queued_at": "2026-09-20T20:59:05.711268+00:00",
-   "score": 500.0,
-   "signal": "🆕 500 stars in 13d · Python",
-   "source": "github_new",
-   "summary": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
-   "threshold": 500.0,
-   "title": "Jakeschincariol/linkedin-agent-skill",
-   "url": "https://github.com/Jakeschincariol/linkedin-agent-skill"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/20/voxium",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-20T21:06:43+00:00",
-   "queued_at": "2026-09-20T21:27:46.711628+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Eve…",
-   "threshold": 1.0,
-   "title": "Quoting voxium",
-   "url": "https://simonwillison.net/2026/Sep/20/voxium/"
-  },
-  {
-   "key": "reddit:1wlhhqq",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
     "rank": 5,
     "rss": true,
-    "subreddit": "OpenAI"
+    "subreddit": "singularity",
+    "x_author": "cb_doge",
+    "x_status_id": "2101345224790544702"
    },
-   "published_at": "2026-09-20T13:45:02+00:00",
-   "queued_at": "2026-09-20T21:44:19.105223+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
+   "published_at": "2026-09-20T10:36:36+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5 · 𝕏 @cb_doge · ❤ 883",
    "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "Aged like milk",
-   "url": "https://i.redd.it/2gbh8q10joqh1.png"
+   "summary": "🚨JENSEN HUANG: \"We should go as fast as we can irrespective of anybody else. We're going to go as fast as we can but never should ship product before they're ready, deliver products that are unsafe. Everybody's expecting us to succeed & help America be as prosperous as possible\"",
+   "threshold": 300.0,
+   "title": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
+   "url": "https://x.com/cb_doge/status/2101345224790544702"
   },
   {
-   "key": "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui",
+   "key": "rss:https://news.hada.io/topic?id=34041",
    "meta": {
-    "feed": "Simon Willison"
+    "feed": "GeekNews"
    },
-   "published_at": "2026-09-20T19:22:19+00:00",
-   "queued_at": "2026-09-20T22:29:25.468128+00:00",
+   "published_at": "2026-09-21T00:55:01+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "signal": "✍️ Simon Willison",
+   "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --…",
+   "summary": "광고 플랫폼과 사내 데이터를 연결해 성과 분석, 캠페인 변경 제안, 사람의 승인과 실행 검증 까지 이어지는 Slack 기반 에이전트를 구축함 신입 분석가처럼 작업용 컴퓨터와 분석 도구, 업무 지침과 회사 위키 를 제공하고, 시스템 프롬프트에는 모든 지식 대신 필요...",
    "threshold": 1.0,
-   "title": "llm-keys-ui 0.1",
-   "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
+   "title": "LangChain은 유료 광고 운영 에이전트를 어떻게 만들었나",
+   "url": "https://news.hada.io/topic?id=34041"
   },
   {
-   "key": "gh:pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+   "key": "rss:https://news.hada.io/topic?id=34037",
    "meta": {
-    "age_days": 1.8,
-    "language": "Markdown",
-    "stars_total": 500,
-    "topics": [
-     "ai",
-     "ai-engineering",
-     "ai-engineering-interview",
-     "ai-interview",
-     "ai-interview-questions",
-     "company-wise-prep",
-     "company-wise-questions",
-     "interview-questions",
-     "llm-inference",
-     "questions-and-answers"
-    ]
+    "feed": "GeekNews"
    },
-   "published_at": "2026-09-19T04:14:43Z",
-   "queued_at": "2026-09-20T22:44:30.529745+00:00",
-   "score": 500.0,
-   "signal": "🆕 500 stars in 2d · Markdown",
-   "source": "github_new",
-   "summary": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-   "threshold": 500.0,
-   "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-   "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/20/datasette-explain",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-20T00:22:04+00:00",
-   "queued_at": "2026-09-20T22:44:30.529745+00:00",
+   "published_at": "2026-09-21T00:52:46+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "signal": "✍️ Simon Willison",
+   "signal": "🇰🇷 GeekNews",
    "source": "rss",
-   "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
+   "summary": "프런티어 AI 기업들이 인류 멸종 위험을 내세워 규제 독점 을 얻으려 한다는 비판임. 종말론적 경고의 실제 목적은 매출 성장과 기존 시장 지위 보호, 저렴한 경쟁자 배제에 있다고 봄 AI 에이전트의 사이버 공격 사례에서 핵심 문제는 초월적 해킹 능력이 아니라 방화벽 설정...",
    "threshold": 1.0,
-   "title": "datasette-explain 0.2.2",
-   "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/"
+   "title": "프런티어 AI 연구소들은 워싱턴의 바보들에게 쓰레기를 팔고 있다",
+   "url": "https://news.hada.io/topic?id=34037"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34036",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T00:52:45+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "잘 작동하던 프롬프트도 다른 지시나 문맥과 결합하거나 모델이 바뀌면 효과가 달라지므로, 문구를 다듬는 것만으로 에이전트의 신뢰성을 유지하기 어려움 같은 작업을 반복 실행해 실패를 찾고, 프롬프트를 바꾸기 전후의 동작을 테스트로 비교 해야 실제로 개선됐...",
+   "threshold": 1.0,
+   "title": "프롬프트는 실재하지 않는다",
+   "url": "https://news.hada.io/topic?id=34036"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34034",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T00:52:43+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함 . 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수 있음 정보를 파악하고 부족한 내용을 채운 뒤, 문제와 단순한 해결 방법, 목표를 명확히 정하고 빠르게 실행 하는 과...",
+   "threshold": 1.0,
+   "title": "Claude Code 개발자 보리스 처니: &quot;나는 자주 틀린다&quot;",
+   "url": "https://news.hada.io/topic?id=34034"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34033",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-21T00:52:42+00:00",
+   "queued_at": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Jev의 오픈소스 대안인 Laya를 Apple Silicon에서 실행하는 Core ML 이식 프로젝트 로, 모델을 한 번 내려받으면 네트워크 없이 판단을 수행함 문장을 한 토큰씩 생성하는 대신 선택지별 확률, 순서형 점수와 참일 확률 을 반환해, 긴 답변보다 빠른 선택이 필요한 작...",
+   "threshold": 1.0,
+   "title": "Laya, Mac에서 오프라인으로 실행하는 실시간 의사결정 AI",
+   "url": "https://news.hada.io/topic?id=34033"
   }
  ],
  "seen": {
@@ -302,6 +261,13 @@
    "sent": "2026-09-12T06:26:01.459314+00:00",
    "stars_total": 500
   },
+  "gh:continuum-ai-corp/orcabonsai-27b-uncensored": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 502.0,
+   "sent": "2026-09-21T01:26:56.014381+00:00",
+   "stars_total": 502
+  },
   "gh:cosmosmind-ai/rsi-harness": {
    "first": "2026-09-16T10:02:16.048774+00:00",
    "last": "2026-09-16T10:02:16.048774+00:00",
@@ -395,9 +361,9 @@
   },
   "gh:jakeschincariol/linkedin-agent-skill": {
    "first": "2026-09-20T20:59:05.711268+00:00",
-   "last": "2026-09-20T20:59:05.711268+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 500.0,
-   "sent": null,
+   "sent": "2026-09-21T01:26:56.014381+00:00",
    "stars_total": 500
   },
   "gh:jamiepine/voicebox": {
@@ -521,9 +487,9 @@
   },
   "gh:pallavi-shekhar/ai-engineering-interview-questions-company-wise": {
    "first": "2026-09-20T22:44:30.529745+00:00",
-   "last": "2026-09-20T22:44:30.529745+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 500.0,
-   "sent": null,
+   "sent": "2026-09-21T01:26:56.014381+00:00",
    "stars_total": 500
   },
   "gh:panniantong/agent-reach": {
@@ -717,10 +683,10 @@
   },
   "gh:yi1108/printfilm": {
    "first": "2026-09-16T17:27:55.149031+00:00",
-   "last": "2026-09-16T23:53:51.201555+00:00",
-   "score": 505.0,
-   "sent": "2026-09-16T23:53:51.201555+00:00",
-   "stars_total": 505
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1608.0,
+   "sent": "2026-09-21T01:26:56.014381+00:00",
+   "stars_total": 1608
   },
   "gh:yibie/awesome-jev": {
    "first": "2026-09-20T13:12:24.376828+00:00",
@@ -749,6 +715,13 @@
    "score": 500.0,
    "sent": "2026-09-18T23:22:13.961720+00:00",
    "stars_total": 500
+  },
+  "gh:zai-org/zcode": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 552.0,
+   "sent": "2026-09-21T01:26:56.014381+00:00",
+   "stars_total": 552
   },
   "gh:zhihui-hu/one-ip": {
    "first": "2026-09-17T07:39:27.434372+00:00",
@@ -821,9 +794,9 @@
   },
   "hfmodel:qwen/qwen-image-2.1": {
    "first": "2026-09-20T20:44:02.405000+00:00",
-   "last": "2026-09-20T20:44:02.405000+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:26:56.014381+00:00"
   },
   "hfmodel:qwen/qwen3.8-27b": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -2367,6 +2340,18 @@
    "score": 110.0,
    "sent": "2026-09-20T23:27:47.487002+00:00"
   },
+  "hn:49777111": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 105.0,
+   "sent": "2026-09-21T01:26:56.014381+00:00"
+  },
+  "hn:49780797": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 179.0,
+   "sent": "2026-09-21T01:26:56.014381+00:00"
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -2949,6 +2934,12 @@
    "score": 300.0,
    "sent": "2026-09-20T12:12:08.097640+00:00"
   },
+  "reddit:1wldnh8": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "reddit:1wlgrft": {
    "first": "2026-09-20T17:28:20.647552+00:00",
    "last": "2026-09-20T23:27:47.487002+00:00",
@@ -2957,9 +2948,9 @@
   },
   "reddit:1wlhhqq": {
    "first": "2026-09-20T21:44:19.105223+00:00",
-   "last": "2026-09-20T21:44:19.105223+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-09-21T01:26:56.014381+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -4281,6 +4272,36 @@
    "score": 1.0,
    "sent": "2026-09-20T23:27:47.487002+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34033": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34034": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34036": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34037": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34041": {
+   "first": "2026-09-21T01:26:56.014381+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -4607,21 +4628,21 @@
   },
   "rss:https://simonwillison.net/2026/Sep/20/datasette-explain": {
    "first": "2026-09-20T22:44:30.529745+00:00",
-   "last": "2026-09-20T22:44:30.529745+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:26:56.014381+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui": {
    "first": "2026-09-20T22:29:25.468128+00:00",
-   "last": "2026-09-20T22:29:25.468128+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:26:56.014381+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/20/voxium": {
    "first": "2026-09-20T21:27:46.711628+00:00",
-   "last": "2026-09-20T21:27:46.711628+00:00",
+   "last": "2026-09-21T01:26:56.014381+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-21T01:26:56.014381+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4691,10 +4712,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-11T01:13:26.897604+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-11T01:24:33.496115+00:00",
    "count": 1
@@ -5489,6 +5506,10 @@
   },
   {
    "at": "2026-09-20T23:27:47.487002+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-21T01:26:56.014381+00:00",
    "count": 12
   }
  ],
