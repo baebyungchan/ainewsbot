@@ -1,7 +1,187 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-22T11:53:33.232687+00:00",
- "pending": [],
+ "last_run": "2026-09-22T16:49:32.959355+00:00",
+ "pending": [
+  {
+   "key": "gh:mak5er/aircard",
+   "meta": {
+    "age_days": 5.8,
+    "language": "Swift",
+    "milestone": true,
+    "stars_total": 2687,
+    "topics": []
+   },
+   "published_at": "2026-09-16T22:20:15Z",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 2687.0,
+   "signal": "🚀 501 → 2,687 stars · 🆕 2,687 stars in 6d · Swift",
+   "source": "github_new",
+   "summary": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+   "threshold": 500.0,
+   "title": "Mak5er/AirCard",
+   "url": "https://github.com/Mak5er/AirCard"
+  },
+  {
+   "key": "hn:49799965",
+   "meta": {
+    "comments": 459,
+    "discussion_url": "https://news.ycombinator.com/item?id=49799965",
+    "hn_id": "49799965"
+   },
+   "published_at": "2026-09-22T12:11:09+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 332.0,
+   "signal": "🟠 HN 332 pts · 💬 459",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "AI Has No Wisdom and Neither Will You",
+   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
+  },
+  {
+   "key": "hn:49801324",
+   "meta": {
+    "comments": 263,
+    "discussion_url": "https://news.ycombinator.com/item?id=49801324",
+    "hn_id": "49801324"
+   },
+   "published_at": "2026-09-22T13:52:15+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 286.0,
+   "signal": "🟠 HN 286 pts · 💬 263",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+  },
+  {
+   "key": "hn:49803863",
+   "meta": {
+    "comments": 102,
+    "discussion_url": "https://news.ycombinator.com/item?id=49803863",
+    "hn_id": "49803863"
+   },
+   "published_at": "2026-09-22T16:27:30+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 166.0,
+   "signal": "🟠 HN 166 pts · 💬 102",
+   "source": "hn",
+   "summary": "https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;ClaudeForFoundationModels&#x2F;comm...",
+   "threshold": 100.0,
+   "title": "Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5"
+  },
+  {
+   "key": "hn:49796660",
+   "meta": {
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=49796660",
+    "hn_id": "49796660"
+   },
+   "published_at": "2026-09-22T04:02:09+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 134.0,
+   "signal": "🟠 HN 134 pts · 💬 60",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
+  },
+  {
+   "key": "hn:49802161",
+   "meta": {
+    "comments": 89,
+    "discussion_url": "https://news.ycombinator.com/item?id=49802161",
+    "hn_id": "49802161"
+   },
+   "published_at": "2026-09-22T14:42:59+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 117.0,
+   "signal": "🟠 HN 117 pts · 💬 89",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenAI is well positioned to fast-follow Jev",
+   "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
+  },
+  {
+   "key": "rss:https://tldr.tech/ai/2026-09-22",
+   "meta": {
+    "feed": "TLDR AI"
+   },
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "signal": "🗞 TLDR AI",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
+   "url": "https://tldr.tech/ai/2026-09-22"
+  },
+  {
+   "key": "rss:https://interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "meta": {
+    "feed": "Interconnects"
+   },
+   "published_at": "2026-09-22T13:37:45+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "signal": "✍️ Interconnects",
+   "source": "rss",
+   "summary": "Podcast #19",
+   "threshold": 1.0,
+   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+   "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/22/llm-typesafe",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-22T15:54:16+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like this: llm -m jev 'Please refund my last payment.' \\ -s 'Does this message explicitly request a refund?' Output: {\"type\": \"noul\", \"noul\": 0.99} Or choice questions like this: cat mess…",
+   "threshold": 1.0,
+   "title": "llm-typesafe 0.1a0",
+   "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34130",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-22T15:32:56+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "GPT–6 Astra 가 1941년 독일군 Enigma 메시지 MVUEH 의 키와 평문을 찾아냈으며, 전달받은 해독 결과를 검증한 연구자가 정확성을 확인함 Carter Leffer는 미해독 메시지 중 풀 수 있는 것이 있는지 확인하도록 지시했으며, 이후 대상 선정부터 해독 소프트...",
+   "threshold": 1.0,
+   "title": "OpenAI GPT–6 Astra, 2005년부터 풀리지 않던 Enigma 암호문 해독",
+   "url": "https://news.hada.io/topic?id=34130"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34122",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-22T13:11:39+00:00",
+   "queued_at": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것 이라고 주장함 바이브 코딩된 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 나쁜 아키텍처의 효과는 수개월~수년 뒤에야 드러나 ...",
+   "threshold": 1.0,
+   "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+   "url": "https://news.hada.io/topic?id=34122"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -376,10 +556,10 @@
   },
   "gh:mak5er/aircard": {
    "first": "2026-09-20T14:57:47.282307+00:00",
-   "last": "2026-09-20T14:57:47.282307+00:00",
-   "score": 501.0,
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 2687.0,
    "sent": "2026-09-20T14:57:47.282307+00:00",
-   "stars_total": 501
+   "stars_total": 2687
   },
   "gh:mcncarl/jianying-headless": {
    "first": "2026-09-18T08:37:18.571711+00:00",
@@ -2534,11 +2714,41 @@
    "score": 122.0,
    "sent": "2026-09-22T11:53:33.232687+00:00"
   },
+  "hn:49796660": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 134.0,
+   "sent": null
+  },
   "hn:49797323": {
    "first": "2026-09-22T11:53:33.232687+00:00",
    "last": "2026-09-22T11:53:33.232687+00:00",
    "score": 187.0,
    "sent": "2026-09-22T11:53:33.232687+00:00"
+  },
+  "hn:49799965": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 332.0,
+   "sent": null
+  },
+  "hn:49801324": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 286.0,
+   "sent": null
+  },
+  "hn:49802161": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 117.0,
+   "sent": null
+  },
+  "hn:49803863": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 166.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3349,6 +3559,12 @@
    "last": "2026-09-22T11:53:33.232687+00:00",
    "score": 1.0,
    "sent": "2026-09-22T11:53:33.232687+00:00"
+  },
+  "rss:https://interconnects.ai/p/debating-rsi-the-us-china-gap-and": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://interconnects.ai/p/one-resignation-turned-the-embers": {
    "first": "2026-09-10T15:38:07.662186+00:00",
@@ -4742,6 +4958,18 @@
    "score": 1.0,
    "sent": "2026-09-22T11:53:33.232687+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34122": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34130": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -5132,6 +5360,12 @@
    "score": 1.0,
    "sent": "2026-09-22T04:15:14.046985+00:00"
   },
+  "rss:https://simonwillison.net/2026/Sep/22/llm-typesafe": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -5197,6 +5431,12 @@
    "last": "2026-09-21T13:41:28.109549+00:00",
    "score": 1.0,
    "sent": "2026-09-21T13:41:28.109549+00:00"
+  },
+  "rss:https://tldr.tech/ai/2026-09-22": {
+   "first": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
