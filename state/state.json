@@ -1,93 +1,41 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-22T22:53:25.239118+00:00",
+ "last_run": "2026-09-23T01:13:03.747174+00:00",
  "pending": [
   {
-   "key": "gh:mak5er/aircard",
+   "key": "hn:49805748",
    "meta": {
-    "age_days": 5.8,
-    "language": "Swift",
-    "milestone": true,
-    "stars_total": 2687,
+    "comments": 73,
+    "discussion_url": "https://news.ycombinator.com/item?id=49805748",
+    "hn_id": "49805748"
+   },
+   "published_at": "2026-09-22T18:15:53+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 128.0,
+   "signal": "🟠 HN 128 pts · 💬 73",
+   "source": "hn",
+   "summary": "https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent",
+   "threshold": 100.0,
+   "title": "Unreal Agent",
+   "url": "https://unreallabs.ai/blog/unreal-agent/"
+  },
+  {
+   "key": "gh:copilotkit/openmuse",
+   "meta": {
+    "age_days": 7.2,
+    "language": "TypeScript",
+    "stars_total": 599,
     "topics": []
    },
-   "published_at": "2026-09-16T22:20:15Z",
-   "queued_at": "2026-09-22T16:49:32.959355+00:00",
-   "score": 2687.0,
-   "signal": "🚀 501 → 2,687 stars · 🆕 2,687 stars in 6d · Swift",
+   "published_at": "2026-09-15T16:05:44Z",
+   "queued_at": "2026-09-22T19:54:54.134414+00:00",
+   "score": 599.0,
+   "signal": "🆕 599 stars in 7d · TypeScript",
    "source": "github_new",
-   "summary": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+   "summary": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
    "threshold": 500.0,
-   "title": "Mak5er/AirCard",
-   "url": "https://github.com/Mak5er/AirCard"
-  },
-  {
-   "key": "hn:49799965",
-   "meta": {
-    "comments": 459,
-    "discussion_url": "https://news.ycombinator.com/item?id=49799965",
-    "hn_id": "49799965"
-   },
-   "published_at": "2026-09-22T12:11:09+00:00",
-   "queued_at": "2026-09-22T16:49:32.959355+00:00",
-   "score": 332.0,
-   "signal": "🟠 HN 332 pts · 💬 459",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "AI Has No Wisdom and Neither Will You",
-   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
-  },
-  {
-   "key": "hn:49801324",
-   "meta": {
-    "comments": 263,
-    "discussion_url": "https://news.ycombinator.com/item?id=49801324",
-    "hn_id": "49801324"
-   },
-   "published_at": "2026-09-22T13:52:15+00:00",
-   "queued_at": "2026-09-22T16:49:32.959355+00:00",
-   "score": 286.0,
-   "signal": "🟠 HN 286 pts · 💬 263",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
-  },
-  {
-   "key": "hn:49803863",
-   "meta": {
-    "comments": 102,
-    "discussion_url": "https://news.ycombinator.com/item?id=49803863",
-    "hn_id": "49803863"
-   },
-   "published_at": "2026-09-22T16:27:30+00:00",
-   "queued_at": "2026-09-22T16:49:32.959355+00:00",
-   "score": 166.0,
-   "signal": "🟠 HN 166 pts · 💬 102",
-   "source": "hn",
-   "summary": "https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;ClaudeForFoundationModels&#x2F;comm...",
-   "threshold": 100.0,
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5"
-  },
-  {
-   "key": "hn:49796660",
-   "meta": {
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=49796660",
-    "hn_id": "49796660"
-   },
-   "published_at": "2026-09-22T04:02:09+00:00",
-   "queued_at": "2026-09-22T16:49:32.959355+00:00",
-   "score": 134.0,
-   "signal": "🟠 HN 134 pts · 💬 60",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro"
+   "title": "CopilotKit/openmuse",
+   "url": "https://github.com/CopilotKit/openmuse"
   },
   {
    "key": "hn:49802161",
@@ -105,6 +53,78 @@
    "threshold": 100.0,
    "title": "OpenAI is well positioned to fast-follow Jev",
    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
+  },
+  {
+   "key": "reddit:1wneb1u",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-22T16:29:34+00:00",
+   "queued_at": "2026-09-22T19:54:54.134414+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Claude Opus 5.5 Benchmarks",
+   "url": "https://i.redd.it/if5xd3a5m3rh1.png"
+  },
+  {
+   "key": "gh:kerpopule/hermes-jev-skills",
+   "meta": {
+    "age_days": 4.1,
+    "language": "Python",
+    "stars_total": 531,
+    "topics": []
+   },
+   "published_at": "2026-09-18T20:01:29Z",
+   "queued_at": "2026-09-22T22:53:25.239118+00:00",
+   "score": 531.0,
+   "signal": "🆕 531 stars in 4d · Python",
+   "source": "github_new",
+   "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+   "threshold": 500.0,
+   "title": "kerpopule/hermes-jev-skills",
+   "url": "https://github.com/kerpopule/hermes-jev-skills"
+  },
+  {
+   "key": "gh:mak5er/aircard-ios",
+   "meta": {
+    "age_days": 3.7,
+    "language": "Swift",
+    "stars_total": 529,
+    "topics": []
+   },
+   "published_at": "2026-09-19T09:22:23Z",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 529.0,
+   "signal": "🆕 529 stars in 4d · Swift",
+   "source": "github_new",
+   "summary": "Apple Wallet card skins and lock screen passcode themes on iOS 27.",
+   "threshold": 500.0,
+   "title": "Mak5er/AirCard-iOS",
+   "url": "https://github.com/Mak5er/AirCard-iOS"
+  },
+  {
+   "key": "hn:49802030",
+   "meta": {
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=49802030",
+    "hn_id": "49802030"
+   },
+   "published_at": "2026-09-22T14:35:15+00:00",
+   "queued_at": "2026-09-22T19:54:54.134414+00:00",
+   "score": 103.0,
+   "signal": "🟠 HN 103 pts · 💬 47",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Meta’s Muse has a serious 0-day",
+   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
   },
   {
    "key": "rss:https://tldr.tech/ai/2026-09-22",
@@ -180,153 +200,6 @@
    "threshold": 1.0,
    "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
    "url": "https://news.hada.io/topic?id=34122"
-  },
-  {
-   "key": "hn:49803892",
-   "meta": {
-    "also": [
-     "hn"
-    ],
-    "comments": 607,
-    "discussion_url": "https://news.ycombinator.com/item?id=49803892",
-    "hn_id": "49803892"
-   },
-   "published_at": "2026-09-22T16:29:05+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 764.0,
-   "signal": "🟠 HN 764 pts · 💬 607 · 🟠 HN 273 pts · 💬 2",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5"
-  },
-  {
-   "key": "hn:49805509",
-   "meta": {
-    "also": [
-     "rss"
-    ],
-    "comments": 356,
-    "discussion_url": "https://news.ycombinator.com/item?id=49805509",
-    "hn_id": "49805509"
-   },
-   "published_at": "2026-09-22T18:00:34+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 620.0,
-   "signal": "🟠 HN 620 pts · 💬 356 · 📰 OpenAI",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
-  },
-  {
-   "key": "reddit:1wnecg9",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wnecg9/introducing_claude_opus_55_the_first_model_in_our/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnecg9/introducing_claude_opus_55_the_first_model_in_our/",
-    "rank": 2,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-22T16:31:01+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 240.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #2",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family",
-   "url": "https://v.redd.it/xu8sa124j3rh1"
-  },
-  {
-   "key": "hn:49806430",
-   "meta": {
-    "comments": 64,
-    "discussion_url": "https://news.ycombinator.com/item?id=49806430",
-    "hn_id": "49806430"
-   },
-   "published_at": "2026-09-22T19:03:38+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 142.0,
-   "signal": "🟠 HN 142 pts · 💬 64",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
-  },
-  {
-   "key": "hn:49804316",
-   "meta": {
-    "comments": 43,
-    "discussion_url": "https://news.ycombinator.com/item?id=49804316",
-    "hn_id": "49804316"
-   },
-   "published_at": "2026-09-22T16:51:31+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 135.0,
-   "signal": "🟠 HN 135 pts · 💬 43",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-   "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
-  },
-  {
-   "key": "gh:copilotkit/openmuse",
-   "meta": {
-    "age_days": 7.2,
-    "language": "TypeScript",
-    "stars_total": 599,
-    "topics": []
-   },
-   "published_at": "2026-09-15T16:05:44Z",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 599.0,
-   "signal": "🆕 599 stars in 7d · TypeScript",
-   "source": "github_new",
-   "summary": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
-   "threshold": 500.0,
-   "title": "CopilotKit/openmuse",
-   "url": "https://github.com/CopilotKit/openmuse"
-  },
-  {
-   "key": "reddit:1wneb1u",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-22T16:29:34+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/singularity 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Claude Opus 5.5 Benchmarks",
-   "url": "https://i.redd.it/if5xd3a5m3rh1.png"
-  },
-  {
-   "key": "hn:49802030",
-   "meta": {
-    "comments": 47,
-    "discussion_url": "https://news.ycombinator.com/item?id=49802030",
-    "hn_id": "49802030"
-   },
-   "published_at": "2026-09-22T14:35:15+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 47",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Meta’s Muse has a serious 0-day",
-   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
   },
   {
    "key": "reddit:1wmsdag",
@@ -488,59 +361,6 @@
    "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
   },
   {
-   "key": "gh:unreallabsai/unreal-agent",
-   "meta": {
-    "age_days": 1.0,
-    "language": "Go",
-    "stars_total": 823,
-    "topics": []
-   },
-   "published_at": "2026-09-21T23:14:02Z",
-   "queued_at": "2026-09-22T22:53:25.239118+00:00",
-   "score": 823.0,
-   "signal": "🆕 823 stars in 1d · Go",
-   "source": "github_new",
-   "summary": "Async-first agent harness",
-   "threshold": 500.0,
-   "title": "unreallabsai/unreal-agent",
-   "url": "https://github.com/unreallabsai/unreal-agent"
-  },
-  {
-   "key": "hn:49807688",
-   "meta": {
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=49807688",
-    "hn_id": "49807688"
-   },
-   "published_at": "2026-09-22T20:34:19+00:00",
-   "queued_at": "2026-09-22T22:53:25.239118+00:00",
-   "score": 129.0,
-   "signal": "🟠 HN 129 pts · 💬 41",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "LLM Ass Bench",
-   "url": "https://www.assbench.com/"
-  },
-  {
-   "key": "gh:kerpopule/hermes-jev-skills",
-   "meta": {
-    "age_days": 4.1,
-    "language": "Python",
-    "stars_total": 531,
-    "topics": []
-   },
-   "published_at": "2026-09-18T20:01:29Z",
-   "queued_at": "2026-09-22T22:53:25.239118+00:00",
-   "score": 531.0,
-   "signal": "🆕 531 stars in 4d · Python",
-   "source": "github_new",
-   "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
-   "threshold": 500.0,
-   "title": "kerpopule/hermes-jev-skills",
-   "url": "https://github.com/kerpopule/hermes-jev-skills"
-  },
-  {
    "key": "rss:https://openai.com/index/better-prompt-caching-for-gpt-6",
    "meta": {
     "feed": "OpenAI"
@@ -599,6 +419,126 @@
    "threshold": 1.0,
    "title": "미 국방부 조사, AI 과잉 의존이 이란 학교 미사일 공격에 일조",
    "url": "https://news.hada.io/topic?id=34140"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-22T23:46:41+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being r…",
+   "threshold": 1.0,
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/22/llm",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations . The first plugin to use this is llm-typesafe . #1692 Reasoning traces in the Markdown output of ll…",
+   "threshold": 1.0,
+   "title": "llm 0.36",
+   "url": "https://simonwillison.net/2026/Sep/22/llm/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/22/llm-anthropic",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-22T17:14:55+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+   "threshold": 1.0,
+   "title": "llm-anthropic 0.29",
+   "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34155",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T01:06:41+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Google AI 구독자 에게 더 빠른 가속기와 더 강력한 머신에 대한 우선 접근권을 포함한 Colab 프리미엄 혜택이 제공됨 Google AI Ultra 에는 중단 없는 백그라운드 실행과 프리미엄 GPU 접근권도 포함돼, 브라우저 탭을 열어 두지 않아도 장시간 학습을 완료할 수 있...",
+   "threshold": 1.0,
+   "title": "Colab이 이제 Google AI 요금제에 포함됨",
+   "url": "https://news.hada.io/topic?id=34155"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34151",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T00:37:52+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Drop 은 익숙한 작업 환경을 유지하면서 프로그램과 코딩 에이전트를 격리하는 Linux 샌드박스로, 기존 배포판과 설치된 프로그램을 그대로 사용함 환경마다 별도의 홈 디렉터리 를 제공하고 원래 홈은 숨김 처리해, 에이전트의 잘못된 삭제 명령이나 비밀 정보 접근...",
+   "threshold": 1.0,
+   "title": "Drop - gVisor를 지원하는 루트 권한 없는 Linux 샌드박스",
+   "url": "https://news.hada.io/topic?id=34151"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34149",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T00:22:34+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "여러 모델을 지원하는 대신 4B 모델 Woof 하나에 최적화 한 애플 실리콘 추론 엔진으로, 메일/일정 관리/회의록 요약을 기기에서 처리하는 맥용 개인 AI 비서 앱 Underdog 에 적용됨 M5 Max 비교에서 같은 가중치와 동일한 출력으로 16개 작업 모두 MLX보다 ...",
+   "threshold": 1.0,
+   "title": "Husky - MLX보다 최대 4.5배 빠른 모델 특화 추론 엔진",
+   "url": "https://news.hada.io/topic?id=34149"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34147",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T00:07:46+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "코딩 에이전트 가 코드를 작성하면서, Steve Klabnik의 Rust 이름 있는 매개변수 도입에 대한 오랜 반대가 조건부 수용으로 바뀜. 직접 입력하는 부담은 줄고 호출부의 명확성은 여전히 가치가 있음 이름 있는 인자 는 같은 타입의 값 여러 개를 전달할 때 각 값의 역...",
+   "threshold": 1.0,
+   "title": "인자를 둘러싼 논쟁",
+   "url": "https://news.hada.io/topic?id=34147"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34144",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-22T23:33:03+00:00",
+   "queued_at": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 기업과 수학계의 소통, 수학 연구 결과의 책임 있는 발표와 공개 를 자문하는 독립 그룹이 프린스턴의 Institute for Advanced Study를 거점으로 출범함 현재는 OpenAI 가 내부 모델로 산출했다고 밝힌 다수의 중요한 수학 연구 결과를 어떻게 조율해 공개할지 자...",
+   "threshold": 1.0,
+   "title": "수학과 인공지능 자문그룹",
+   "url": "https://news.hada.io/topic?id=34144"
   }
  ],
  "seen": {
@@ -989,10 +929,17 @@
   },
   "gh:mak5er/aircard": {
    "first": "2026-09-20T14:57:47.282307+00:00",
-   "last": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 2687.0,
-   "sent": "2026-09-20T14:57:47.282307+00:00",
+   "sent": "2026-09-23T01:13:03.747174+00:00",
    "stars_total": 2687
+  },
+  "gh:mak5er/aircard-ios": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 529.0,
+   "sent": null,
+   "stars_total": 529
   },
   "gh:mcncarl/jianying-headless": {
    "first": "2026-09-18T08:37:18.571711+00:00",
@@ -1213,9 +1160,9 @@
   },
   "gh:unreallabsai/unreal-agent": {
    "first": "2026-09-22T22:53:25.239118+00:00",
-   "last": "2026-09-22T22:53:25.239118+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 823.0,
-   "sent": null,
+   "sent": "2026-09-23T01:13:03.747174+00:00",
    "stars_total": 823
   },
   "gh:unstablebuild/rune": {
@@ -3168,9 +3115,9 @@
   },
   "hn:49796660": {
    "first": "2026-09-22T16:49:32.959355+00:00",
-   "last": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 134.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49797323": {
    "first": "2026-09-22T11:53:33.232687+00:00",
@@ -3180,15 +3127,15 @@
   },
   "hn:49799965": {
    "first": "2026-09-22T16:49:32.959355+00:00",
-   "last": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 332.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49801324": {
    "first": "2026-09-22T16:49:32.959355+00:00",
-   "last": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 286.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49802030": {
    "first": "2026-09-22T19:54:54.134414+00:00",
@@ -3204,39 +3151,45 @@
   },
   "hn:49803863": {
    "first": "2026-09-22T16:49:32.959355+00:00",
-   "last": "2026-09-22T16:49:32.959355+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 166.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49803892": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 764.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49804316": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 135.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49805509": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 620.0,
+   "sent": "2026-09-23T01:13:03.747174+00:00"
+  },
+  "hn:49805748": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 128.0,
    "sent": null
   },
   "hn:49806430": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 142.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "hn:49807688": {
    "first": "2026-09-22T22:53:25.239118+00:00",
-   "last": "2026-09-22T22:53:25.239118+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 129.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3930,9 +3883,9 @@
   },
   "reddit:1wnecg9": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 240.0,
-   "sent": null
+   "sent": "2026-09-23T01:13:03.747174+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5518,6 +5471,36 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34144": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34147": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34149": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34151": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34155": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -5926,9 +5909,27 @@
    "score": 1.0,
    "sent": "2026-09-22T04:15:14.046985+00:00"
   },
+  "rss:https://simonwillison.net/2026/Sep/22/llm": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/22/llm-anthropic": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/22/llm-typesafe": {
    "first": "2026-09-22T16:49:32.959355+00:00",
    "last": "2026-09-22T16:49:32.959355+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna": {
+   "first": "2026-09-23T01:13:03.747174+00:00",
+   "last": "2026-09-23T01:13:03.747174+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -6018,10 +6019,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T03:37:13.322859+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T03:52:18.970702+00:00",
    "count": 1
@@ -6817,6 +6814,10 @@
   {
    "at": "2026-09-22T11:53:33.232687+00:00",
    "count": 8
+  },
+  {
+   "at": "2026-09-23T01:13:03.747174+00:00",
+   "count": 12
   }
  ],
  "version": 1
