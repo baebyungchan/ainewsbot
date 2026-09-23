@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-23T16:50:47.122106+00:00",
+ "last_run": "2026-09-23T19:53:39.928136+00:00",
  "pending": [
   {
    "key": "hn:49814947",
@@ -339,6 +339,205 @@
    "threshold": 1.0,
    "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
    "url": "https://news.hada.io/topic?id=34174"
+  },
+  {
+   "key": "hn:49817615",
+   "meta": {
+    "comments": 91,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817615",
+    "hn_id": "49817615"
+   },
+   "published_at": "2026-09-23T15:29:23+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 178.0,
+   "signal": "🟠 HN 178 pts · 💬 91",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Gemini 3.8 text-to-speech",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+  },
+  {
+   "key": "hn:49820134",
+   "meta": {
+    "also": [
+     "rss"
+    ],
+    "comments": 134,
+    "discussion_url": "https://news.ycombinator.com/item?id=49820134",
+    "hn_id": "49820134"
+   },
+   "published_at": "2026-09-23T18:06:47+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 167.0,
+   "signal": "🟠 HN 167 pts · 💬 134 · 📰 Anthropic",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+  },
+  {
+   "key": "hn:49815982",
+   "meta": {
+    "comments": 93,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815982",
+    "hn_id": "49815982"
+   },
+   "published_at": "2026-09-23T13:38:00+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 142.0,
+   "signal": "🟠 HN 142 pts · 💬 93",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Stripe's Knowledge AI Platform",
+   "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
+  },
+  {
+   "key": "hfpaper:2609.26550",
+   "meta": {
+    "arxiv_id": "2609.26550",
+    "discussion_url": "https://arxiv.org/abs/2609.26550",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-21T20:00:00.000Z",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Yubo Li, Yidi Miao 외",
+   "source": "hf_paper",
+   "summary": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first pass and identify when stronger evaluation is needed. Comparing jev-as-a-judge with sixteen generative and reward-model judges, with blinded human adjudication, we find it within three percentage points of a state-of-the-art LLM judge, our strongest comparator, on ordinary preference and evidence-grounded factuality at 0.36% of the comparator's fee. Larger gaps arise when judgments require checkin…",
+   "threshold": 15.0,
+   "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
+   "url": "https://huggingface.co/papers/2609.26550"
+  },
+  {
+   "key": "gh:riba2534/claude-opus-5-5-demo",
+   "meta": {
+    "age_days": 0.6,
+    "language": "JavaScript",
+    "stars_total": 532,
+    "topics": []
+   },
+   "published_at": "2026-09-23T06:31:00Z",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 532.0,
+   "signal": "🆕 532 stars in 1d · JavaScript",
+   "source": "github_new",
+   "summary": "claude-opus-5-5-demo",
+   "threshold": 500.0,
+   "title": "riba2534/claude-opus-5-5-demo",
+   "url": "https://github.com/riba2534/claude-opus-5-5-demo"
+  },
+  {
+   "key": "reddit:1wnkgie",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-22T20:08:49+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "I do an open-ended \"interview\" with all new models that come out from the major labs. This is a vibe check , not a benchmark. The purpose is not to produce \"gotchas\" or figure out what the model can and can't do. This is a way to get an initial understanding of the shape of the model, its leanings and underlying tendencies. The goal is to help you to consciously shape the way you interact with the model, to get the best possible results. My method: Socratic questioning and classic psychoanalytic mirroring. Model: Opus 5.5 medium, incognito mode First impressions This is a model with polish an…",
+   "threshold": 150.0,
+   "title": "Opus 5.5: First impressions by a trained philosopher",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/"
+  },
+  {
+   "key": "rss:https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+   "threshold": 1.0,
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+  },
+  {
+   "key": "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-23T12:00:00+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+   "threshold": 1.0,
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-23T18:00:00+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Google Beam promotional animation",
+   "threshold": 1.0,
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-09-23T18:41:40+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34187",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T17:38:33+00:00",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "DrivingBench 는 최신 언어 모델에 실제 Toyota Corolla의 조향, 가속, 제동 제어권을 주고 고정된 콘 코스에서 주행 능력을 평가함 GPT-6 Astra 는 첫 시도에서 진행률 49%를 기록한 뒤 두 번째 시도에서 5분 22초 만에 코스를 완주함 나...",
+   "threshold": 1.0,
+   "title": "GPT-6 Astra가 자동차를 운전할 능력을 갖추게 됨",
+   "url": "https://news.hada.io/topic?id=34187"
+  },
+  {
+   "key": "hfpaper:2609.23986",
+   "meta": {
+    "arxiv_id": "2609.23986",
+    "discussion_url": "https://arxiv.org/abs/2609.23986",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-20T20:00:00.000Z",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Dongming Jiang, Yi Li 외",
+   "source": "hf_paper",
+   "summary": "Agentic memory is becoming essential for long-horizon AI agents, yet many existing systems rely on autoregressive LLMs to control how memories are organized, retrieved, and used, placing expensive generation on the critical path of memory operations. We introduce \\method, a new agentic memory architecture inspired by System-One/System-Two cognition. System One captures fast, lightweight decision-making, whereas System Two performs slower, deliberative reasoning. Jev-Mem brings this division of labor to agentic memory through a dedicated System-One control plane, a structured multi-relational…",
+   "threshold": 15.0,
+   "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+   "url": "https://huggingface.co/papers/2609.23986"
   }
  ],
  "seen": {
@@ -852,6 +1051,13 @@
    "score": 503.0,
    "sent": "2026-09-21T06:09:24.638864+00:00",
    "stars_total": 503
+  },
+  "gh:riba2534/claude-opus-5-5-demo": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 532.0,
+   "sent": null,
+   "stars_total": 532
   },
   "gh:rizqinrr/viserys-agent": {
    "first": "2026-09-13T01:57:48.732920+00:00",
@@ -2066,6 +2272,12 @@
    "score": 15.0,
    "sent": "2026-09-22T07:38:32.930217+00:00"
   },
+  "hfpaper:2609.23986": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2609.24058": {
    "first": "2026-09-23T06:30:33.530636+00:00",
    "last": "2026-09-23T06:30:33.530636+00:00",
@@ -2143,6 +2355,12 @@
    "last": "2026-09-23T08:55:59.179427+00:00",
    "score": 17.0,
    "sent": "2026-09-23T08:55:59.179427+00:00"
+  },
+  "hfpaper:2609.26550": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 16.0,
+   "sent": null
   },
   "hfpaper:2609.26774": {
    "first": "2026-09-23T08:55:59.179427+00:00",
@@ -3128,10 +3346,28 @@
    "score": 190.0,
    "sent": null
   },
+  "hn:49815982": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 142.0,
+   "sent": null
+  },
   "hn:49817404": {
    "first": "2026-09-23T16:50:47.122106+00:00",
    "last": "2026-09-23T16:50:47.122106+00:00",
    "score": 137.0,
+   "sent": null
+  },
+  "hn:49817615": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 178.0,
+   "sent": null
+  },
+  "hn:49820134": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 167.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -3836,6 +4072,12 @@
    "score": 150.0,
    "sent": "2026-09-23T02:45:57.689541+00:00"
   },
+  "reddit:1wnkgie": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 150.0,
+   "sent": null
+  },
   "reddit:1wnkvys": {
    "first": "2026-09-23T09:17:11.531544+00:00",
    "last": "2026-09-23T09:17:11.531544+00:00",
@@ -3932,6 +4174,12 @@
    "score": 1.0,
    "sent": "2026-09-15T00:35:12.852612+00:00"
   },
+  "rss:https://blog.google/innovation-and-ai/technology/research/google-beam-expansion": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://blog.google/products-and-platforms/products/search/football-features-google-search": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
@@ -3989,6 +4237,12 @@
   "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -5546,6 +5800,12 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34187": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -5618,6 +5878,12 @@
    "score": 1.0,
    "sent": "2026-09-23T12:05:24.172527+00:00"
   },
+  "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
    "first": "2026-09-16T17:27:55.149031+00:00",
    "last": "2026-09-16T23:53:51.201555+00:00",
@@ -5653,6 +5919,12 @@
    "last": "2026-09-10T23:22:30.288502+00:00",
    "score": 1.0,
    "sent": "2026-09-10T23:22:30.288502+00:00"
+  },
+  "rss:https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+   "first": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-23T19:53:39.928136+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/model-misalignment-reporting-framework": {
    "first": "2026-09-16T23:53:51.201555+00:00",
