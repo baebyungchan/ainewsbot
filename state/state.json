@@ -1,181 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-23T01:25:45.723494+00:00",
+ "last_run": "2026-09-23T01:28:09.169571+00:00",
  "pending": [
-  {
-   "key": "reddit:1wmsdag",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wmsdag/the_final_benchmark/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wmsdag/the_final_benchmark/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-21T23:00:54+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "The final benchmark",
-   "url": "https://i.redd.it/w6chmxw4fyqh1.jpeg"
-  },
-  {
-   "key": "rss:https://openai.com/index/priorities-principles-third-party-assessments",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-22T00:00:00+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-   "threshold": 1.0,
-   "title": "Priorities and principles for effective third party assessments",
-   "url": "https://openai.com/index/priorities-principles-third-party-assessments"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/evaleval-aisi",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-22T00:00:00+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "url": "https://huggingface.co/blog/evaleval-aisi"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/22/therealcornpop",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-22T18:03:21+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything . It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions…",
-   "threshold": 1.0,
-   "title": "Quoting @therealcornpop",
-   "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34139",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-22T18:42:03+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Jev의 범용 분류 기능 은 OpenAI가 이미 도구 호출 등에 사용해 온 토큰 기반 분류와 맞닿아 있음. TypeSafe의 학습 방식을 재현할 수 있다면 OpenAI가 독립 제품을 빠르게 복제할 수 있음 경쟁은 제품 복제에 그치지 않을 수 있음. OpenAI는 분류 기능을 모델과 에이전트 내...",
-   "threshold": 1.0,
-   "title": "OpenAI는 Jev를 빠르게 따라잡기에 유리한 위치에 있음",
-   "url": "https://news.hada.io/topic?id=34139"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34138",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-22T18:39:03+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenAI가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna 를 출시함. 전문 업무, 사실 정확성, 코딩, 컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API 가격을 인하 함. 100만 토큰당 Sol은 입력 2달러/출력 1...",
-   "threshold": 1.0,
-   "title": "GPT-6 Sol과 Luna",
-   "url": "https://news.hada.io/topic?id=34138"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34136",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-22T17:49:07+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Muse 에 보이는 파일을 압축해 연결된 Google Drive로 보내 달라고 요청하자, 세션에 할당된 Linux 환경의 루트 파일시스템으로 보이는 압축 해제 기준 6.8GB 자료가 전송됨 내보낸 자료에는 내부 문서, 통합 코드, 앱 템플릿, 메모리 파일, 에이전트 로그와",
-   "threshold": 1.0,
-   "title": "Meta의 Muse에 파일시스템을 요청했더니 6.8GB를 보내왔다",
-   "url": "https://news.hada.io/topic?id=34136"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34135",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-22T17:43:06+00:00",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Anthropic이 Claude 5.5 제품군의 첫 모델 Claude Opus 5.5 를 출시함. 대부분의 작업에서 Claude Fable 5.1 수준의 성능을 내며, 에이전트 코딩과 컴퓨터 사용, 지식 업무 벤치마크에서 선두 성적을 기록함 기본 설정의 일반적인 작업에서 Opus 5 대비 비용이 40% 낮고",
-   "threshold": 1.0,
-   "title": "Claude Opus 5.5",
-   "url": "https://news.hada.io/topic?id=34135"
-  },
-  {
-   "key": "hfpaper:2609.23377",
-   "meta": {
-    "arxiv_id": "2609.23377",
-    "discussion_url": "https://arxiv.org/abs/2609.23377",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-19T20:00:00.000Z",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Jie Zhao, Ziyu Jiang 외",
-   "source": "hf_paper",
-   "summary": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate resolution obscures these changes. Motivated by this category see-saw, we develop a category-aware expert-training and policy-integration framework. Executable task construction and SWE Labeler, an evidence-grounded multi-axis labeling system, organize the training pools. Initial category-specific RL improves average training success while leaving uneven insta…",
-   "threshold": 15.0,
-   "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
-   "url": "https://huggingface.co/papers/2609.23377"
-  },
-  {
-   "key": "hfmodel:abenzerps/qwen-image-2.1-uncensored-gguf",
-   "meta": {
-    "downloads": 182313,
-    "likes": 1032,
-    "pipeline": "text-to-image",
-    "rank": 5
-   },
-   "published_at": "2026-09-20T15:51:13.000Z",
-   "queued_at": "2026-09-22T19:54:54.134414+00:00",
-   "score": 1.0,
-   "signal": "🤗 트렌딩 #5 · ❤ 1,032 · ⬇ 182,313 · text-to-image",
-   "source": "hf_model",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-   "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
-  },
-  {
-   "key": "rss:https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-22T21:00:00+00:00",
-   "queued_at": "2026-09-22T22:53:25.239118+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-   "threshold": 1.0,
-   "title": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-  },
   {
    "key": "rss:https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
    "meta": {
@@ -1052,10 +878,10 @@
   },
   "gh:zai-org/zcode": {
    "first": "2026-09-21T01:26:56.014381+00:00",
-   "last": "2026-09-21T01:26:56.014381+00:00",
-   "score": 552.0,
-   "sent": "2026-09-21T01:26:56.014381+00:00",
-   "stars_total": 552
+   "last": "2026-09-23T01:28:09.169571+00:00",
+   "score": 6307.0,
+   "sent": "2026-09-23T01:28:09.169571+00:00",
+   "stars_total": 6307
   },
   "gh:zhihui-hu/one-ip": {
    "first": "2026-09-17T07:39:27.434372+00:00",
@@ -1086,9 +912,9 @@
   },
   "hfmodel:abenzerps/qwen-image-2.1-uncensored-gguf": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "hfmodel:convaiinnovations/laya": {
    "first": "2026-09-20T00:38:00.598983+00:00",
@@ -2010,9 +1836,9 @@
   },
   "hfpaper:2609.23377": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "hfpaper:2609.23863": {
    "first": "2026-09-22T07:38:32.930217+00:00",
@@ -3660,9 +3486,9 @@
   },
   "reddit:1wmsdag": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "reddit:1wmxfjs": {
    "first": "2026-09-22T05:07:45.500458+00:00",
@@ -3786,9 +3612,9 @@
   },
   "rss:https://huggingface.co/blog/evaleval-aisi": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://huggingface.co/blog/gradio-workflow-1111": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -5238,27 +5064,27 @@
   },
   "rss:https://news.hada.io/topic?id=34135": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://news.hada.io/topic?id=34136": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://news.hada.io/topic?id=34138": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://news.hada.io/topic?id=34139": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://news.hada.io/topic?id=34140": {
    "first": "2026-09-22T22:53:25.239118+00:00",
@@ -5322,9 +5148,9 @@
   },
   "rss:https://openai.com/index/better-prompt-caching-for-gpt-6": {
    "first": "2026-09-22T22:53:25.239118+00:00",
-   "last": "2026-09-22T22:53:25.239118+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://openai.com/index/building-standards-next-phase-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
@@ -5430,9 +5256,9 @@
   },
   "rss:https://openai.com/index/priorities-principles-third-party-assessments": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://openai.com/index/put-data-to-work": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5736,9 +5562,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/22/therealcornpop": {
    "first": "2026-09-22T19:54:54.134414+00:00",
-   "last": "2026-09-22T19:54:54.134414+00:00",
+   "last": "2026-09-23T01:28:09.169571+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-23T01:28:09.169571+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5820,10 +5646,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T04:22:27.816429+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T05:37:43.272132+00:00",
    "count": 6
@@ -6618,6 +6440,10 @@
   },
   {
    "at": "2026-09-23T01:25:45.723494+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-23T01:28:09.169571+00:00",
    "count": 12
   }
  ],
