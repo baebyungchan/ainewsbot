@@ -1,7 +1,346 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-23T12:05:24.172527+00:00",
- "pending": [],
+ "last_run": "2026-09-23T16:50:47.122106+00:00",
+ "pending": [
+  {
+   "key": "hn:49814947",
+   "meta": {
+    "comments": 199,
+    "discussion_url": "https://news.ycombinator.com/item?id=49814947",
+    "hn_id": "49814947"
+   },
+   "published_at": "2026-09-23T12:15:33+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 353.0,
+   "signal": "🟠 HN 353 pts · 💬 199",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+  },
+  {
+   "key": "gh:dream-num/univer",
+   "meta": {
+    "ai": true,
+    "language": "TypeScript",
+    "stars_today": 1140,
+    "stars_total": 16177
+   },
+   "published_at": null,
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1140.0,
+   "signal": "★ +1,140 today · 16,177 total · TypeScript",
+   "source": "github_trending",
+   "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+   "threshold": 500.0,
+   "title": "dream-num/univer",
+   "url": "https://github.com/dream-num/univer"
+  },
+  {
+   "key": "hn:49815127",
+   "meta": {
+    "comments": 187,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815127",
+    "hn_id": "49815127"
+   },
+   "published_at": "2026-09-23T12:32:00+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 190.0,
+   "signal": "🟠 HN 190 pts · 💬 187",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9"
+  },
+  {
+   "key": "gh:browser-use/video-use",
+   "meta": {
+    "ai": true,
+    "language": "Python",
+    "stars_today": 745,
+    "stars_total": 26363
+   },
+   "published_at": null,
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 745.0,
+   "signal": "★ +745 today · 26,363 total · Python",
+   "source": "github_trending",
+   "summary": "Edit videos with coding agents",
+   "threshold": 500.0,
+   "title": "browser-use/video-use",
+   "url": "https://github.com/browser-use/video-use"
+  },
+  {
+   "key": "hn:49817404",
+   "meta": {
+    "comments": 101,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817404",
+    "hn_id": "49817404"
+   },
+   "published_at": "2026-09-23T15:14:22+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 137.0,
+   "signal": "🟠 HN 137 pts · 💬 101",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "url": "https://drivingbench.com/"
+  },
+  {
+   "key": "gh:agent-substrate/substrate",
+   "meta": {
+    "ai": true,
+    "language": "Go",
+    "stars_today": 560,
+    "stars_total": 3353
+   },
+   "published_at": null,
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 560.0,
+   "signal": "★ +560 today · 3,353 total · Go",
+   "source": "github_trending",
+   "summary": "Agent Substrate: the core system",
+   "threshold": 500.0,
+   "title": "agent-substrate/substrate",
+   "url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+   "key": "hn:49808816",
+   "meta": {
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=49808816",
+    "hn_id": "49808816"
+   },
+   "published_at": "2026-09-22T22:03:46+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 112.0,
+   "signal": "🟠 HN 112 pts · 💬 49",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "The current balance of power in open models",
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
+  },
+  {
+   "key": "reddit:1wnpit2",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-22T23:29:09+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "I just have to say - what a relief it is to finally have Claude sound like the real Claude again. I was always a big Claude fan but the models starting with Opus 4.7 were just unbearable. I've been using Opus 5.5 the last few hours and it feels like Claude is finally back to being a collaborator instead of being a paranoid load-bearing footgun. Big thank you to Anthropic for addressing the tone problem!",
+   "threshold": 150.0,
+   "title": "Claude is BACK!",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/"
+  },
+  {
+   "key": "gh:superdesigndev/treg",
+   "meta": {
+    "ai": true,
+    "language": "Python",
+    "stars_today": 502,
+    "stars_total": 2576
+   },
+   "published_at": null,
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 502.0,
+   "signal": "★ +502 today · 2,576 total · Python",
+   "source": "github_trending",
+   "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+   "threshold": 500.0,
+   "title": "superdesigndev/treg",
+   "url": "https://github.com/superdesigndev/treg"
+  },
+  {
+   "key": "rss:https://openai.com/index/ringg",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-24T12:00:00+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+   "threshold": 1.0,
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg"
+  },
+  {
+   "key": "rss:https://openai.com/index/two-years-of-openai-academy",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-23T16:00:00+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "threshold": 1.0,
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy"
+  },
+  {
+   "key": "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-23T13:00:00+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+   "threshold": 1.0,
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+  },
+  {
+   "key": "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+   "meta": {
+    "feed": "Google DeepMind"
+   },
+   "published_at": "2026-09-23T16:00:57+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 Google DeepMind",
+   "source": "rss",
+   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "threshold": 1.0,
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+  },
+  {
+   "key": "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+   "meta": {
+    "feed": "Google DeepMind"
+   },
+   "published_at": "2026-09-23T15:25:14+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 Google DeepMind",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/nvidia/nemotron-diarization",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-09-23T13:17:01+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization"
+  },
+  {
+   "key": "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+   "meta": {
+    "feed": "Microsoft Research"
+   },
+   "published_at": "2026-09-23T16:01:36+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🔬 Microsoft Research",
+   "source": "rss",
+   "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research .",
+   "threshold": 1.0,
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/"
+  },
+  {
+   "key": "rss:https://tldr.tech/ai/2026-09-23",
+   "meta": {
+    "feed": "TLDR AI"
+   },
+   "published_at": "2026-09-23T00:00:00+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🗞 TLDR AI",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "GPT-6 ⚡, Opus 5.5 🧠, AI leaders at UN 🌐",
+   "url": "https://tldr.tech/ai/2026-09-23"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34181",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T15:38:49+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+   "threshold": 1.0,
+   "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+   "url": "https://news.hada.io/topic?id=34181"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34180",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T15:35:49+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI가 크리에이터 마케팅 을 확대하며 ChatGPT의 업무와 일상 활용 사례를 홍보함. AI 안전 우려를 직접 해소하기보다는 ChatGPT가 매력적이고 세상에 이로운 일을 도울 수 있다는 메시지에 집중함 HypeAuditor 집계에서 ChatGPT를 홍보하는 Instagram 협찬 게시물",
+   "threshold": 1.0,
+   "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
+   "url": "https://news.hada.io/topic?id=34180"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34179",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T14:33:28+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Claude Code 2.1.277에 추가된 AGENTS.md 지원 은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false 를 사용...",
+   "threshold": 1.0,
+   "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+   "url": "https://news.hada.io/topic?id=34179"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34174",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-23T13:02:07+00:00",
+   "queued_at": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전 을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트 사용을 모두 중단 하는...",
+   "threshold": 1.0,
+   "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
+   "url": "https://news.hada.io/topic?id=34174"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -37,6 +376,13 @@
    "score": 1046.0,
    "sent": "2026-09-16T11:41:30.920018+00:00",
    "stars_total": 259697
+  },
+  "gh:agent-substrate/substrate": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 560.0,
+   "sent": null,
+   "stars_total": 3353
   },
   "gh:agentverse-os/agentverse-os": {
    "first": "2026-09-15T13:35:56.698729+00:00",
@@ -143,6 +489,13 @@
    "sent": "2026-09-21T13:56:34.315757+00:00",
    "stars_total": 14520
   },
+  "gh:browser-use/video-use": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 745.0,
+   "sent": null,
+   "stars_total": 26363
+  },
   "gh:builderio/agent-native": {
    "first": "2026-09-21T12:26:12.929467+00:00",
    "last": "2026-09-21T12:26:12.929467+00:00",
@@ -240,6 +593,13 @@
    "score": 591.0,
    "sent": null,
    "stars_total": 63928
+  },
+  "gh:dream-num/univer": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1140.0,
+   "sent": null,
+   "stars_total": 16177
   },
   "gh:eternityspring/reelbench-skills": {
    "first": "2026-09-14T04:14:47.063120+00:00",
@@ -555,6 +915,13 @@
    "score": 586.0,
    "sent": "2026-09-18T10:37:41.089572+00:00",
    "stars_total": 109942
+  },
+  "gh:superdesigndev/treg": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 502.0,
+   "sent": null,
+   "stars_total": 2576
   },
   "gh:tamaratran/fast-jev-compaction": {
    "first": "2026-09-18T02:50:59.472509+00:00",
@@ -2737,11 +3104,35 @@
    "score": 129.0,
    "sent": "2026-09-23T01:13:03.747174+00:00"
   },
+  "hn:49808816": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 112.0,
+   "sent": null
+  },
   "hn:49812769": {
    "first": "2026-09-23T09:17:11.531544+00:00",
    "last": "2026-09-23T09:17:11.531544+00:00",
    "score": 101.0,
    "sent": "2026-09-23T09:17:11.531544+00:00"
+  },
+  "hn:49814947": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 353.0,
+   "sent": null
+  },
+  "hn:49815127": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 190.0,
+   "sent": null
+  },
+  "hn:49817404": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 137.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3457,6 +3848,12 @@
    "score": 330.0,
    "sent": "2026-09-23T09:17:11.531544+00:00"
   },
+  "reddit:1wnpit2": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 165.0,
+   "sent": null
+  },
   "reddit:1wnq2cb": {
    "first": "2026-09-23T04:08:33.896482+00:00",
    "last": "2026-09-23T04:08:33.896482+00:00",
@@ -3547,11 +3944,23 @@
    "score": 1.0,
    "sent": "2026-09-10T23:12:57.862686+00:00"
   },
+  "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
    "first": "2026-09-15T17:14:59.741496+00:00",
    "last": "2026-09-15T23:16:25.533717+00:00",
    "score": 1.0,
    "sent": "2026-09-15T23:16:25.533717+00:00"
+  },
+  "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
    "first": "2026-09-21T13:56:34.315757+00:00",
@@ -3580,6 +3989,12 @@
   "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://huggingface.co/blog/nvidia/nemotron-diarization": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -3690,6 +4105,12 @@
    "last": "2026-09-11T02:46:31.444772+00:00",
    "score": 1.0,
    "sent": "2026-09-11T02:46:31.444772+00:00"
+  },
+  "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://mistral.ai/news/legacy-code-modernization": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5101,6 +5522,30 @@
    "score": 1.0,
    "sent": "2026-09-23T12:05:24.172527+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34174": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34179": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34180": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34181": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -5215,6 +5660,12 @@
    "score": 1.0,
    "sent": "2026-09-17T04:23:46.206684+00:00"
   },
+  "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
    "first": "2026-09-22T22:53:25.239118+00:00",
    "last": "2026-09-23T01:43:14.239799+00:00",
@@ -5251,11 +5702,23 @@
    "score": 1.0,
    "sent": "2026-09-16T14:50:46.597584+00:00"
   },
+  "rss:https://openai.com/index/ringg": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
    "first": "2026-09-11T17:04:52.413216+00:00",
    "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
    "sent": "2026-09-11T23:21:15.126656+00:00"
+  },
+  "rss:https://openai.com/index/two-years-of-openai-academy": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/unlocking-new-ways-of-working": {
    "first": "2026-09-16T17:27:55.149031+00:00",
@@ -5622,6 +6085,12 @@
    "last": "2026-09-23T01:25:45.723494+00:00",
    "score": 1.0,
    "sent": "2026-09-23T01:25:45.723494+00:00"
+  },
+  "rss:https://tldr.tech/ai/2026-09-23": {
+   "first": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-23T16:50:47.122106+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
