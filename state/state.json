@@ -1,139 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-24T01:18:24.938143+00:00",
+ "last_run": "2026-09-24T05:13:36.765780+00:00",
  "pending": [
-  {
-   "key": "hn:49823582",
-   "meta": {
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=49823582",
-    "hn_id": "49823582"
-   },
-   "published_at": "2026-09-23T22:38:16+00:00",
-   "queued_at": "2026-09-24T01:18:24.938143+00:00",
-   "score": 123.0,
-   "signal": "🟠 HN 123 pts · 💬 60",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Linux support is coming to Snapdragon X2 Series",
-   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
-  },
-  {
-   "key": "hn:49822555",
-   "meta": {
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49822555",
-    "hn_id": "49822555"
-   },
-   "published_at": "2026-09-23T21:01:48+00:00",
-   "queued_at": "2026-09-24T01:18:24.938143+00:00",
-   "score": 118.0,
-   "signal": "🟠 HN 118 pts · 💬 80",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "VSCode's SSH Agent Is Bananas (2025)",
-   "url": "https://fly.io/blog/vscode-ssh-wtf/"
-  },
-  {
-   "key": "gh:agent-substrate/substrate",
-   "meta": {
-    "ai": true,
-    "language": "Go",
-    "stars_today": 560,
-    "stars_total": 3353
-   },
-   "published_at": null,
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 560.0,
-   "signal": "★ +560 today · 3,353 total · Go",
-   "source": "github_trending",
-   "summary": "Agent Substrate: the core system",
-   "threshold": 500.0,
-   "title": "agent-substrate/substrate",
-   "url": "https://github.com/agent-substrate/substrate"
-  },
-  {
-   "key": "hn:49808816",
-   "meta": {
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=49808816",
-    "hn_id": "49808816"
-   },
-   "published_at": "2026-09-22T22:03:46+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 112.0,
-   "signal": "🟠 HN 112 pts · 💬 49",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "The current balance of power in open models",
-   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
-  },
-  {
-   "key": "gh:freestylefly/wechatbridge",
-   "meta": {
-    "age_days": 2.9,
-    "language": "Swift",
-    "stars_total": 551,
-    "topics": [
-     "ai-agent",
-     "chat-history",
-     "macos",
-     "obsidian",
-     "share-extension",
-     "swift",
-     "wechat"
-    ]
-   },
-   "published_at": "2026-09-21T02:54:51Z",
-   "queued_at": "2026-09-24T01:18:24.938143+00:00",
-   "score": 551.0,
-   "signal": "🆕 551 stars in 3d · Swift",
-   "source": "github_new",
-   "summary": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-   "threshold": 500.0,
-   "title": "freestylefly/WeChatBridge",
-   "url": "https://github.com/freestylefly/WeChatBridge"
-  },
-  {
-   "key": "reddit:1wnpit2",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-22T23:29:09+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "I just have to say - what a relief it is to finally have Claude sound like the real Claude again. I was always a big Claude fan but the models starting with Opus 4.7 were just unbearable. I've been using Opus 5.5 the last few hours and it feels like Claude is finally back to being a collaborator instead of being a paranoid load-bearing footgun. Big thank you to Anthropic for addressing the tone problem!",
-   "threshold": 150.0,
-   "title": "Claude is BACK!",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/"
-  },
-  {
-   "key": "reddit:1wnxhji",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-23T05:50:38+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Pirate Face - pirate bay for LLMs",
-   "url": "https://pirateface.co/"
-  },
   {
    "key": "reddit:1wo9lbs",
    "meta": {
@@ -170,6 +38,23 @@
    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
   },
   {
+   "key": "hn:49822864",
+   "meta": {
+    "comments": 46,
+    "discussion_url": "https://news.ycombinator.com/item?id=49822864",
+    "hn_id": "49822864"
+   },
+   "published_at": "2026-09-23T21:31:04+00:00",
+   "queued_at": "2026-09-24T05:13:36.765780+00:00",
+   "score": 107.0,
+   "signal": "🟠 HN 107 pts · 💬 46",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude's Load-Bearing Seams",
+   "url": "https://madradavid.com/claudes-load-bearing-seams/"
+  },
+  {
    "key": "hfpaper:2609.26550",
    "meta": {
     "arxiv_id": "2609.26550",
@@ -185,6 +70,23 @@
    "threshold": 15.0,
    "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
    "url": "https://huggingface.co/papers/2609.26550"
+  },
+  {
+   "key": "hfpaper:2609.24308",
+   "meta": {
+    "arxiv_id": "2609.24308",
+    "discussion_url": "https://arxiv.org/abs/2609.24308",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-20T20:00:00.000Z",
+   "queued_at": "2026-09-24T05:13:36.765780+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Zhiqi Bai, Junai Cai 외",
+   "source": "hf_paper",
+   "summary": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWorld-Bench, a comprehensive benchmark that evaluates whether generated worlds remain reliable as agents interact with them. Our design is built on a hierarchical capability framework of six world capabilities (W1-W6), from generative construction to unified world modeling, instantiated across three independent evaluation tracks: video world models, spatial world models, and embodied world models. H…",
+   "threshold": 15.0,
+   "title": "HappyWorld-Bench",
+   "url": "https://huggingface.co/papers/2609.24308"
   },
   {
    "key": "gh:riba2534/claude-opus-5-5-demo",
@@ -744,6 +646,21 @@
    "threshold": 1.0,
    "title": "사람을 위한 KDE",
    "url": "https://news.hada.io/topic?id=34201"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34212",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T04:32:51+00:00",
+   "queued_at": "2026-09-24T05:13:36.765780+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "VSCode의 SSH 원격 편집 은 원격 환경의 기존 명령만 활용하는 대신, Bash 코드로 Node 바이너리를 포함한 에이전트 를 내려받아 실행함 원격 에이전트는 SSH 포트 포워딩 을 거쳐 로컬 VSCode 프런트엔드와 WebSocket으로 연결되며, 파일 탐색과 임...",
+   "threshold": 1.0,
+   "title": "VSCode의 SSH 에이전트는 제정신이 아니다 (2025)",
+   "url": "https://news.hada.io/topic?id=34212"
   }
  ],
  "seen": {
@@ -784,9 +701,9 @@
   },
   "gh:agent-substrate/substrate": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 560.0,
-   "sent": null,
+   "sent": "2026-09-24T05:13:36.765780+00:00",
    "stars_total": 3353
   },
   "gh:agentverse-os/agentverse-os": {
@@ -1022,9 +939,9 @@
   },
   "gh:freestylefly/wechatbridge": {
    "first": "2026-09-24T01:18:24.938143+00:00",
-   "last": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 551.0,
-   "sent": null,
+   "sent": "2026-09-24T05:13:36.765780+00:00",
    "stars_total": 551
   },
   "gh:gangtailorupgrade/undress-service": {
@@ -1477,10 +1394,10 @@
   },
   "gh:yibie/awesome-jev": {
    "first": "2026-09-20T13:12:24.376828+00:00",
-   "last": "2026-09-20T13:12:24.376828+00:00",
-   "score": 500.0,
-   "sent": "2026-09-20T13:12:24.376828+00:00",
-   "stars_total": 500
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 1530.0,
+   "sent": "2026-09-24T05:13:36.765780+00:00",
+   "stars_total": 1530
   },
   "gh:yilujian/easy-writing": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2461,6 +2378,12 @@
    "score": 19.0,
    "sent": "2026-09-22T00:00:50.189080+00:00"
   },
+  "hfpaper:2609.22947": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 18.0,
+   "sent": "2026-09-24T05:13:36.765780+00:00"
+  },
   "hfpaper:2609.22966": {
    "first": "2026-09-22T04:15:14.046985+00:00",
    "last": "2026-09-22T04:15:14.046985+00:00",
@@ -2502,6 +2425,12 @@
    "last": "2026-09-22T07:53:29.287572+00:00",
    "score": 16.0,
    "sent": "2026-09-22T07:53:29.287572+00:00"
+  },
+  "hfpaper:2609.24308": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 16.0,
+   "sent": null
   },
   "hfpaper:2609.24657": {
    "first": "2026-09-23T03:53:29.951056+00:00",
@@ -2580,6 +2509,18 @@
    "last": "2026-09-23T08:55:59.179427+00:00",
    "score": 15.0,
    "sent": "2026-09-23T08:55:59.179427+00:00"
+  },
+  "hfpaper:2609.26780": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 19.0,
+   "sent": "2026-09-24T05:13:36.765780+00:00"
+  },
+  "hfpaper:2609.28466": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 26.0,
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -3537,9 +3478,9 @@
   },
   "hn:49808816": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 112.0,
-   "sent": null
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "hn:49812769": {
    "first": "2026-09-23T09:17:11.531544+00:00",
@@ -3591,9 +3532,9 @@
   },
   "hn:49822555": {
    "first": "2026-09-24T01:18:24.938143+00:00",
-   "last": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 118.0,
-   "sent": null
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "hn:49822556": {
    "first": "2026-09-23T22:54:21.767244+00:00",
@@ -3601,11 +3542,23 @@
    "score": 108.0,
    "sent": null
   },
+  "hn:49822864": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 107.0,
+   "sent": null
+  },
   "hn:49823582": {
    "first": "2026-09-24T01:18:24.938143+00:00",
-   "last": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 123.0,
-   "sent": null
+   "sent": "2026-09-24T05:13:36.765780+00:00"
+  },
+  "hn:49824686": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 165.0,
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4335,9 +4288,9 @@
   },
   "reddit:1wnpit2": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "reddit:1wnq2cb": {
    "first": "2026-09-23T04:08:33.896482+00:00",
@@ -4347,9 +4300,9 @@
   },
   "reddit:1wnxhji": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-09-24T05:13:36.765780+00:00"
   },
   "reddit:1wo6o0f": {
    "first": "2026-09-23T22:54:21.767244+00:00",
@@ -6139,6 +6092,12 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34212": {
+   "first": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -6723,10 +6682,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T13:39:29.419271+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T14:09:31.660780+00:00",
    "count": 1
@@ -7521,6 +7476,10 @@
   },
   {
    "at": "2026-09-24T01:18:24.938143+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-24T05:13:36.765780+00:00",
    "count": 12
   }
  ],
