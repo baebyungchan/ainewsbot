@@ -1,204 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-24T05:13:36.765780+00:00",
+ "last_run": "2026-09-24T05:28:42.454423+00:00",
  "pending": [
-  {
-   "key": "reddit:1wo9lbs",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-23T15:44:53+00:00",
-   "queued_at": "2026-09-24T01:18:24.938143+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "Hats off to Claude, finally I don't get the: >User: \"Hey Fable, build x,y and z\" >Fable: \"Sure, I will get on to it right now\" >5 minutes later... >Fable: \"I am done, here is the result!\" >User: \"But it doesn't work?\" >Fable: \"Right that is my mistake entirely, I will fix it right away!\" This really feels like Opus 4.6, but much much better. Love this model!",
-   "threshold": 150.0,
-   "title": "OPUS 5.5 IS THE NEW 4.6!",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/"
-  },
-  {
-   "key": "hn:49822556",
-   "meta": {
-    "comments": 56,
-    "discussion_url": "https://news.ycombinator.com/item?id=49822556",
-    "hn_id": "49822556"
-   },
-   "published_at": "2026-09-23T21:01:48+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 108.0,
-   "signal": "🟠 HN 108 pts · 💬 56",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenAI breaches Medicare, Albanese reveals",
-   "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
-  },
-  {
-   "key": "hn:49822864",
-   "meta": {
-    "comments": 46,
-    "discussion_url": "https://news.ycombinator.com/item?id=49822864",
-    "hn_id": "49822864"
-   },
-   "published_at": "2026-09-23T21:31:04+00:00",
-   "queued_at": "2026-09-24T05:13:36.765780+00:00",
-   "score": 107.0,
-   "signal": "🟠 HN 107 pts · 💬 46",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude's Load-Bearing Seams",
-   "url": "https://madradavid.com/claudes-load-bearing-seams/"
-  },
-  {
-   "key": "hfpaper:2609.26550",
-   "meta": {
-    "arxiv_id": "2609.26550",
-    "discussion_url": "https://arxiv.org/abs/2609.26550",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-21T20:00:00.000Z",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Yubo Li, Yidi Miao 외",
-   "source": "hf_paper",
-   "summary": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first pass and identify when stronger evaluation is needed. Comparing jev-as-a-judge with sixteen generative and reward-model judges, with blinded human adjudication, we find it within three percentage points of a state-of-the-art LLM judge, our strongest comparator, on ordinary preference and evidence-grounded factuality at 0.36% of the comparator's fee. Larger gaps arise when judgments require checkin…",
-   "threshold": 15.0,
-   "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
-   "url": "https://huggingface.co/papers/2609.26550"
-  },
-  {
-   "key": "hfpaper:2609.24308",
-   "meta": {
-    "arxiv_id": "2609.24308",
-    "discussion_url": "https://arxiv.org/abs/2609.24308",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-20T20:00:00.000Z",
-   "queued_at": "2026-09-24T05:13:36.765780+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Zhiqi Bai, Junai Cai 외",
-   "source": "hf_paper",
-   "summary": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWorld-Bench, a comprehensive benchmark that evaluates whether generated worlds remain reliable as agents interact with them. Our design is built on a hierarchical capability framework of six world capabilities (W1-W6), from generative construction to unified world modeling, instantiated across three independent evaluation tracks: video world models, spatial world models, and embodied world models. H…",
-   "threshold": 15.0,
-   "title": "HappyWorld-Bench",
-   "url": "https://huggingface.co/papers/2609.24308"
-  },
-  {
-   "key": "gh:riba2534/claude-opus-5-5-demo",
-   "meta": {
-    "age_days": 0.6,
-    "language": "JavaScript",
-    "stars_total": 532,
-    "topics": []
-   },
-   "published_at": "2026-09-23T06:31:00Z",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 532.0,
-   "signal": "🆕 532 stars in 1d · JavaScript",
-   "source": "github_new",
-   "summary": "claude-opus-5-5-demo",
-   "threshold": 500.0,
-   "title": "riba2534/claude-opus-5-5-demo",
-   "url": "https://github.com/riba2534/claude-opus-5-5-demo"
-  },
-  {
-   "key": "gh:superdesigndev/treg",
-   "meta": {
-    "ai": true,
-    "language": "Python",
-    "stars_today": 502,
-    "stars_total": 2576
-   },
-   "published_at": null,
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 502.0,
-   "signal": "★ +502 today · 2,576 total · Python",
-   "source": "github_trending",
-   "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-   "threshold": 500.0,
-   "title": "superdesigndev/treg",
-   "url": "https://github.com/superdesigndev/treg"
-  },
-  {
-   "key": "rss:https://openai.com/index/ringg",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-24T12:00:00+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-   "threshold": 1.0,
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "url": "https://openai.com/index/ringg"
-  },
-  {
-   "key": "rss:https://openai.com/index/two-years-of-openai-academy",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-23T16:00:00+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-   "threshold": 1.0,
-   "title": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy"
-  },
-  {
-   "key": "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-23T13:00:00+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-   "threshold": 1.0,
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-  },
-  {
-   "key": "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "meta": {
-    "feed": "Google DeepMind"
-   },
-   "published_at": "2026-09-23T16:00:57+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 Google DeepMind",
-   "source": "rss",
-   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "threshold": 1.0,
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
-  },
-  {
-   "key": "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-   "meta": {
-    "feed": "Google DeepMind"
-   },
-   "published_at": "2026-09-23T15:25:14+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 Google DeepMind",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
-  },
   {
    "key": "rss:https://huggingface.co/blog/nvidia/nemotron-diarization",
    "meta": {
@@ -1184,9 +987,9 @@
   },
   "gh:riba2534/claude-opus-5-5-demo": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 532.0,
-   "sent": null,
+   "sent": "2026-09-24T05:28:42.454423+00:00",
    "stars_total": 532
   },
   "gh:rizqinrr/viserys-agent": {
@@ -1254,9 +1057,9 @@
   },
   "gh:superdesigndev/treg": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 502.0,
-   "sent": null,
+   "sent": "2026-09-24T05:28:42.454423+00:00",
    "stars_total": 2576
   },
   "gh:tamaratran/fast-jev-compaction": {
@@ -2428,9 +2231,9 @@
   },
   "hfpaper:2609.24308": {
    "first": "2026-09-24T05:13:36.765780+00:00",
-   "last": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "hfpaper:2609.24657": {
    "first": "2026-09-23T03:53:29.951056+00:00",
@@ -2500,9 +2303,9 @@
   },
   "hfpaper:2609.26550": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "hfpaper:2609.26774": {
    "first": "2026-09-23T08:55:59.179427+00:00",
@@ -3538,15 +3341,15 @@
   },
   "hn:49822556": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 108.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "hn:49822864": {
    "first": "2026-09-24T05:13:36.765780+00:00",
-   "last": "2026-09-24T05:13:36.765780+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 107.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "hn:49823582": {
    "first": "2026-09-24T01:18:24.938143+00:00",
@@ -4312,9 +4115,9 @@
   },
   "reddit:1wo9lbs": {
    "first": "2026-09-24T01:18:24.938143+00:00",
-   "last": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "reddit:1wogab3": {
    "first": "2026-09-24T01:18:24.938143+00:00",
@@ -4420,9 +4223,9 @@
   },
   "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
    "first": "2026-09-15T17:14:59.741496+00:00",
@@ -4432,9 +4235,9 @@
   },
   "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
    "first": "2026-09-21T13:56:34.315757+00:00",
@@ -6226,9 +6029,9 @@
   },
   "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "rss:https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
    "first": "2026-09-22T22:53:25.239118+00:00",
@@ -6268,9 +6071,9 @@
   },
   "rss:https://openai.com/index/ringg": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "rss:https://openai.com/index/sam-altman-un-security-council-remarks": {
    "first": "2026-09-23T22:54:21.767244+00:00",
@@ -6286,9 +6089,9 @@
   },
   "rss:https://openai.com/index/two-years-of-openai-academy": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:28:42.454423+00:00"
   },
   "rss:https://openai.com/index/unlocking-new-ways-of-working": {
    "first": "2026-09-16T17:27:55.149031+00:00",
@@ -6682,10 +6485,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T14:09:31.660780+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T14:54:45.540371+00:00",
    "count": 1
@@ -7480,6 +7279,10 @@
   },
   {
    "at": "2026-09-24T05:13:36.765780+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-24T05:28:42.454423+00:00",
    "count": 12
   }
  ],
