@@ -1,93 +1,40 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-23T22:54:21.767244+00:00",
+ "last_run": "2026-09-24T01:18:24.938143+00:00",
  "pending": [
   {
-   "key": "hn:49814947",
+   "key": "hn:49823582",
    "meta": {
-    "comments": 199,
-    "discussion_url": "https://news.ycombinator.com/item?id=49814947",
-    "hn_id": "49814947"
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=49823582",
+    "hn_id": "49823582"
    },
-   "published_at": "2026-09-23T12:15:33+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 353.0,
-   "signal": "🟠 HN 353 pts · 💬 199",
+   "published_at": "2026-09-23T22:38:16+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 123.0,
+   "signal": "🟠 HN 123 pts · 💬 60",
    "source": "hn",
    "summary": "",
    "threshold": 100.0,
-   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+   "title": "Linux support is coming to Snapdragon X2 Series",
+   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
   },
   {
-   "key": "gh:dream-num/univer",
+   "key": "hn:49822555",
    "meta": {
-    "ai": true,
-    "language": "TypeScript",
-    "stars_today": 1140,
-    "stars_total": 16177
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=49822555",
+    "hn_id": "49822555"
    },
-   "published_at": null,
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1140.0,
-   "signal": "★ +1,140 today · 16,177 total · TypeScript",
-   "source": "github_trending",
-   "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-   "threshold": 500.0,
-   "title": "dream-num/univer",
-   "url": "https://github.com/dream-num/univer"
-  },
-  {
-   "key": "hn:49815127",
-   "meta": {
-    "comments": 187,
-    "discussion_url": "https://news.ycombinator.com/item?id=49815127",
-    "hn_id": "49815127"
-   },
-   "published_at": "2026-09-23T12:32:00+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 190.0,
-   "signal": "🟠 HN 190 pts · 💬 187",
+   "published_at": "2026-09-23T21:01:48+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 118.0,
+   "signal": "🟠 HN 118 pts · 💬 80",
    "source": "hn",
    "summary": "",
    "threshold": 100.0,
-   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9"
-  },
-  {
-   "key": "gh:browser-use/video-use",
-   "meta": {
-    "ai": true,
-    "language": "Python",
-    "stars_today": 745,
-    "stars_total": 26363
-   },
-   "published_at": null,
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 745.0,
-   "signal": "★ +745 today · 26,363 total · Python",
-   "source": "github_trending",
-   "summary": "Edit videos with coding agents",
-   "threshold": 500.0,
-   "title": "browser-use/video-use",
-   "url": "https://github.com/browser-use/video-use"
-  },
-  {
-   "key": "hn:49817404",
-   "meta": {
-    "comments": 101,
-    "discussion_url": "https://news.ycombinator.com/item?id=49817404",
-    "hn_id": "49817404"
-   },
-   "published_at": "2026-09-23T15:14:22+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 137.0,
-   "signal": "🟠 HN 137 pts · 💬 101",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GPT-6 Astra has gained the ability to drive a car",
-   "url": "https://drivingbench.com/"
+   "title": "VSCode's SSH Agent Is Bananas (2025)",
+   "url": "https://fly.io/blog/vscode-ssh-wtf/"
   },
   {
    "key": "gh:agent-substrate/substrate",
@@ -125,6 +72,32 @@
    "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
   },
   {
+   "key": "gh:freestylefly/wechatbridge",
+   "meta": {
+    "age_days": 2.9,
+    "language": "Swift",
+    "stars_total": 551,
+    "topics": [
+     "ai-agent",
+     "chat-history",
+     "macos",
+     "obsidian",
+     "share-extension",
+     "swift",
+     "wechat"
+    ]
+   },
+   "published_at": "2026-09-21T02:54:51Z",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 551.0,
+   "signal": "🆕 551 stars in 3d · Swift",
+   "source": "github_new",
+   "summary": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+   "threshold": 500.0,
+   "title": "freestylefly/WeChatBridge",
+   "url": "https://github.com/freestylefly/WeChatBridge"
+  },
+  {
    "key": "reddit:1wnpit2",
    "meta": {
     "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/",
@@ -141,6 +114,95 @@
    "threshold": 150.0,
    "title": "Claude is BACK!",
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnpit2/claude_is_back/"
+  },
+  {
+   "key": "reddit:1wnxhji",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-09-23T05:50:38+00:00",
+   "queued_at": "2026-09-23T22:54:21.767244+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Pirate Face - pirate bay for LLMs",
+   "url": "https://pirateface.co/"
+  },
+  {
+   "key": "reddit:1wo9lbs",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-23T15:44:53+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "Hats off to Claude, finally I don't get the: >User: \"Hey Fable, build x,y and z\" >Fable: \"Sure, I will get on to it right now\" >5 minutes later... >Fable: \"I am done, here is the result!\" >User: \"But it doesn't work?\" >Fable: \"Right that is my mistake entirely, I will fix it right away!\" This really feels like Opus 4.6, but much much better. Love this model!",
+   "threshold": 150.0,
+   "title": "OPUS 5.5 IS THE NEW 4.6!",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/"
+  },
+  {
+   "key": "hn:49822556",
+   "meta": {
+    "comments": 56,
+    "discussion_url": "https://news.ycombinator.com/item?id=49822556",
+    "hn_id": "49822556"
+   },
+   "published_at": "2026-09-23T21:01:48+00:00",
+   "queued_at": "2026-09-23T22:54:21.767244+00:00",
+   "score": 108.0,
+   "signal": "🟠 HN 108 pts · 💬 56",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenAI breaches Medicare, Albanese reveals",
+   "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+  },
+  {
+   "key": "hfpaper:2609.26550",
+   "meta": {
+    "arxiv_id": "2609.26550",
+    "discussion_url": "https://arxiv.org/abs/2609.26550",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-21T20:00:00.000Z",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Yubo Li, Yidi Miao 외",
+   "source": "hf_paper",
+   "summary": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first pass and identify when stronger evaluation is needed. Comparing jev-as-a-judge with sixteen generative and reward-model judges, with blinded human adjudication, we find it within three percentage points of a state-of-the-art LLM judge, our strongest comparator, on ordinary preference and evidence-grounded factuality at 0.36% of the comparator's fee. Larger gaps arise when judgments require checkin…",
+   "threshold": 15.0,
+   "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
+   "url": "https://huggingface.co/papers/2609.26550"
+  },
+  {
+   "key": "gh:riba2534/claude-opus-5-5-demo",
+   "meta": {
+    "age_days": 0.6,
+    "language": "JavaScript",
+    "stars_total": 532,
+    "topics": []
+   },
+   "published_at": "2026-09-23T06:31:00Z",
+   "queued_at": "2026-09-23T19:53:39.928136+00:00",
+   "score": 532.0,
+   "signal": "🆕 532 stars in 1d · JavaScript",
+   "source": "github_new",
+   "summary": "claude-opus-5-5-demo",
+   "threshold": 500.0,
+   "title": "riba2534/claude-opus-5-5-demo",
+   "url": "https://github.com/riba2534/claude-opus-5-5-demo"
   },
   {
    "key": "gh:superdesigndev/treg",
@@ -341,95 +403,6 @@
    "url": "https://news.hada.io/topic?id=34174"
   },
   {
-   "key": "hn:49817615",
-   "meta": {
-    "comments": 91,
-    "discussion_url": "https://news.ycombinator.com/item?id=49817615",
-    "hn_id": "49817615"
-   },
-   "published_at": "2026-09-23T15:29:23+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 178.0,
-   "signal": "🟠 HN 178 pts · 💬 91",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Gemini 3.8 text-to-speech",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
-  },
-  {
-   "key": "hn:49820134",
-   "meta": {
-    "also": [
-     "rss"
-    ],
-    "comments": 134,
-    "discussion_url": "https://news.ycombinator.com/item?id=49820134",
-    "hn_id": "49820134"
-   },
-   "published_at": "2026-09-23T18:06:47+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 167.0,
-   "signal": "🟠 HN 167 pts · 💬 134 · 📰 Anthropic",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-  },
-  {
-   "key": "hn:49815982",
-   "meta": {
-    "comments": 93,
-    "discussion_url": "https://news.ycombinator.com/item?id=49815982",
-    "hn_id": "49815982"
-   },
-   "published_at": "2026-09-23T13:38:00+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 142.0,
-   "signal": "🟠 HN 142 pts · 💬 93",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Stripe's Knowledge AI Platform",
-   "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
-  },
-  {
-   "key": "hfpaper:2609.26550",
-   "meta": {
-    "arxiv_id": "2609.26550",
-    "discussion_url": "https://arxiv.org/abs/2609.26550",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-21T20:00:00.000Z",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Yubo Li, Yidi Miao 외",
-   "source": "hf_paper",
-   "summary": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first pass and identify when stronger evaluation is needed. Comparing jev-as-a-judge with sixteen generative and reward-model judges, with blinded human adjudication, we find it within three percentage points of a state-of-the-art LLM judge, our strongest comparator, on ordinary preference and evidence-grounded factuality at 0.36% of the comparator's fee. Larger gaps arise when judgments require checkin…",
-   "threshold": 15.0,
-   "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
-   "url": "https://huggingface.co/papers/2609.26550"
-  },
-  {
-   "key": "gh:riba2534/claude-opus-5-5-demo",
-   "meta": {
-    "age_days": 0.6,
-    "language": "JavaScript",
-    "stars_total": 532,
-    "topics": []
-   },
-   "published_at": "2026-09-23T06:31:00Z",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 532.0,
-   "signal": "🆕 532 stars in 1d · JavaScript",
-   "source": "github_new",
-   "summary": "claude-opus-5-5-demo",
-   "threshold": 500.0,
-   "title": "riba2534/claude-opus-5-5-demo",
-   "url": "https://github.com/riba2534/claude-opus-5-5-demo"
-  },
-  {
    "key": "reddit:1wnkgie",
    "meta": {
     "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/",
@@ -538,77 +511,6 @@
    "threshold": 15.0,
    "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
    "url": "https://huggingface.co/papers/2609.23986"
-  },
-  {
-   "key": "reddit:1wo6o0f",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-23T13:54:12+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 390.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #3",
-   "source": "reddit",
-   "summary": "Jev is a paid product that dumped a lot of venture capitol money into shill their product here and in other subreddits. Obvious shill posts are obvious.",
-   "threshold": 300.0,
-   "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/"
-  },
-  {
-   "key": "hn:49821196",
-   "meta": {
-    "comments": 81,
-    "discussion_url": "https://news.ycombinator.com/item?id=49821196",
-    "hn_id": "49821196"
-   },
-   "published_at": "2026-09-23T19:23:40+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 128.0,
-   "signal": "🟠 HN 128 pts · 💬 81",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Once Claude can measure something, it can make it faster",
-   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/"
-  },
-  {
-   "key": "reddit:1wnxhji",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-23T05:50:38+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Pirate Face - pirate bay for LLMs",
-   "url": "https://pirateface.co/"
-  },
-  {
-   "key": "hn:49822556",
-   "meta": {
-    "comments": 56,
-    "discussion_url": "https://news.ycombinator.com/item?id=49822556",
-    "hn_id": "49822556"
-   },
-   "published_at": "2026-09-23T21:01:48+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 108.0,
-   "signal": "🟠 HN 108 pts · 💬 56",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenAI breaches Medicare, Albanese reveals",
-   "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
   },
   {
    "key": "reddit:1wnoqmh",
@@ -763,6 +665,85 @@
    "threshold": 1.0,
    "title": "Hacker News는 왜 그런가?",
    "url": "https://news.hada.io/topic?id=34188"
+  },
+  {
+   "key": "reddit:1wok9tq",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wok9tq/i_asked_claude_to_show_me_the_inside_of_its_own/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wok9tq/i_asked_claude_to_show_me_the_inside_of_its_own/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-23T22:27:28+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "I asked Claude to show me the inside of its own mind. Built by Opus 5.5",
+   "url": "https://v.redd.it/vqd4px9yicrh1"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34206",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T00:36:55+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "claude.ai와 Claude 데스크톱 앱의 핵심 사용자 경험을 2주 만에 약 3배 빠르게 개선함. 사용자 활동의 95%를 차지하는 네 가지 이용 흐름에 집중했으며, 매일 수만 시간의 대기 시간을 줄인 것으로 추산함 Claude Tag 가 병목 탐색, 벤치마크 구축, 최적화 구현, 배...",
+   "threshold": 1.0,
+   "title": "Claude는 측정할 수 있는 것을 더 빠르게 만들 수 있다",
+   "url": "https://news.hada.io/topic?id=34206"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34204",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T00:30:02+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Tailscale처럼 여러 컴퓨터를 하나의 암호화된 사설망으로 연결 하고, SSH 접속과 내부 서비스 공유, 공개 터널, 파일 전송을 같은 계정과 접근 정책으로 관리 장치에 설치하는 에이전트뿐 아니라 관리 서버, 대시보드와 릴레이까지 공개 해, 외부 업체의 제어 서버에...",
+   "threshold": 1.0,
+   "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+   "url": "https://news.hada.io/topic?id=34204"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34202",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T00:13:16+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "GNOME의 LLM 정책은 개발 작업 방식을 세세하게 관리하기보다, 공동체가 환영하고 거부하는 행동을 알리는 사회적 규범 이어야 한다는 개인 제안임 제안된 정책은 GNOME에 제출하거나 GNOME 인프라에 호스팅하는 모든 것을 LLM으로 생성하거나 수정하는 행위 를 금지...",
+   "threshold": 1.0,
+   "title": "내가 바라는 GNOME의 LLM 정책",
+   "url": "https://news.hada.io/topic?id=34202"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34201",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T00:10:16+00:00",
+   "queued_at": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "KDE 사용자와 기여자 모임이 KDE Plasma Desktop과 관련 구성 요소에서 생성형 AI를 금지하는 정책 채택을 요구함 금지 요구는 개별 커밋의 AI 사용 비율을 정확히 가려내기보다, 사람 중심의 공동체 와 개인정보 보호, 통제권이라는 KDE의 가치를 지키는 데 초점을...",
+   "threshold": 1.0,
+   "title": "사람을 위한 KDE",
+   "url": "https://news.hada.io/topic?id=34201"
   }
  ],
  "seen": {
@@ -915,9 +896,9 @@
   },
   "gh:browser-use/video-use": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 745.0,
-   "sent": null,
+   "sent": "2026-09-24T01:18:24.938143+00:00",
    "stars_total": 26363
   },
   "gh:builderio/agent-native": {
@@ -1020,9 +1001,9 @@
   },
   "gh:dream-num/univer": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 1140.0,
-   "sent": null,
+   "sent": "2026-09-24T01:18:24.938143+00:00",
    "stars_total": 16177
   },
   "gh:eternityspring/reelbench-skills": {
@@ -1038,6 +1019,13 @@
    "score": 957.0,
    "sent": null,
    "stars_total": 30688
+  },
+  "gh:freestylefly/wechatbridge": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 551.0,
+   "sent": null,
+   "stars_total": 551
   },
   "gh:gangtailorupgrade/undress-service": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -1118,10 +1106,10 @@
   },
   "gh:jev-chat/jev-chat-jarvis": {
    "first": "2026-09-22T01:14:57.132219+00:00",
-   "last": "2026-09-22T01:14:57.132219+00:00",
-   "score": 1077.0,
-   "sent": "2026-09-22T01:14:57.132219+00:00",
-   "stars_total": 1077
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 5261.0,
+   "sent": "2026-09-24T01:18:24.938143+00:00",
+   "stars_total": 5261
   },
   "gh:jtydhr88/screenwriting-skills": {
    "first": "2026-09-14T04:14:47.063120+00:00",
@@ -3561,50 +3549,62 @@
   },
   "hn:49814947": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 353.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49815127": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 190.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49815982": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 142.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49817404": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 137.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49817615": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 178.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49820134": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 167.0,
-   "sent": null
+   "sent": "2026-09-24T01:18:24.938143+00:00"
   },
   "hn:49821196": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 128.0,
+   "sent": "2026-09-24T01:18:24.938143+00:00"
+  },
+  "hn:49822555": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 118.0,
    "sent": null
   },
   "hn:49822556": {
    "first": "2026-09-23T22:54:21.767244+00:00",
    "last": "2026-09-23T22:54:21.767244+00:00",
    "score": 108.0,
+   "sent": null
+  },
+  "hn:49823582": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 123.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -4353,8 +4353,26 @@
   },
   "reddit:1wo6o0f": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
    "score": 390.0,
+   "sent": "2026-09-24T01:18:24.938143+00:00"
+  },
+  "reddit:1wo9lbs": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 165.0,
+   "sent": null
+  },
+  "reddit:1wogab3": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 195.0,
+   "sent": "2026-09-24T01:18:24.938143+00:00"
+  },
+  "reddit:1wok9tq": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 300.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
@@ -6097,6 +6115,30 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34201": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34202": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34204": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34206": {
+   "first": "2026-09-24T01:18:24.938143+00:00",
+   "last": "2026-09-24T01:18:24.938143+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -6681,10 +6723,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T12:09:08.745595+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T13:39:29.419271+00:00",
    "count": 1
@@ -7480,6 +7518,10 @@
   {
    "at": "2026-09-23T12:05:24.172527+00:00",
    "count": 6
+  },
+  {
+   "at": "2026-09-24T01:18:24.938143+00:00",
+   "count": 12
   }
  ],
  "version": 1
