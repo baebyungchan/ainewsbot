@@ -1,7 +1,276 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-24T11:57:20.283691+00:00",
- "pending": [],
+ "last_run": "2026-09-24T17:02:55.332658+00:00",
+ "pending": [
+  {
+   "key": "hn:49825580",
+   "meta": {
+    "comments": 181,
+    "discussion_url": "https://news.ycombinator.com/item?id=49825580",
+    "hn_id": "49825580"
+   },
+   "published_at": "2026-09-24T02:44:48+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 241.0,
+   "signal": "🟠 HN 241 pts · 💬 181",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenAI agent hacked Australian government website, PM says",
+   "url": "https://www.bbc.com/news/live/cvgl73pxgndwt"
+  },
+  {
+   "key": "hfpaper:2609.27334",
+   "meta": {
+    "arxiv_id": "2609.27334",
+    "discussion_url": "https://arxiv.org/abs/2609.27334",
+    "upvotes": 27
+   },
+   "published_at": "2026-09-22T20:00:00.000Z",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 27.0,
+   "signal": "📄 논문 ▲ 27 · Yefan Zhou, Yang Li 외",
+   "source": "hf_paper",
+   "summary": "Agentic memory systems reuse past experience to improve future performance, yet most existing designs curate memory at write time: once a task is completed, its trajectory is distilled into a fixed artifact, such as a reflection, workflow, skill, or reasoning strategy, that is later retrieved by similarity. This forces the system to decide what is worth remembering before the future query is known, irreversibly discarding information and producing a query-independent summary that must serve many possible downstream tasks. Learning such a write-time curator is also difficult because the value…",
+   "threshold": 15.0,
+   "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+   "url": "https://huggingface.co/papers/2609.27334"
+  },
+  {
+   "key": "gh:mikehasa/golive-skill",
+   "meta": {
+    "age_days": 1.1,
+    "language": "TypeScript",
+    "stars_total": 820,
+    "topics": [
+     "agent-skill",
+     "agent-skills",
+     "ai-agents",
+     "claude-code",
+     "cloudflare",
+     "codex",
+     "database",
+     "deployment",
+     "developer-tools",
+     "devops",
+     "dns",
+     "godaddy",
+     "hosting",
+     "infrastructure",
+     "neon",
+     "netlify",
+     "porkbun",
+     "skills",
+     "supabase",
+     "vercel"
+    ]
+   },
+   "published_at": "2026-09-23T13:37:26Z",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 820.0,
+   "signal": "🆕 820 stars in 1d · TypeScript",
+   "source": "github_new",
+   "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+   "threshold": 500.0,
+   "title": "mikehasa/golive-skill",
+   "url": "https://github.com/mikehasa/golive-skill"
+  },
+  {
+   "key": "hn:49830866",
+   "meta": {
+    "comments": 85,
+    "discussion_url": "https://news.ycombinator.com/item?id=49830866",
+    "hn_id": "49830866"
+   },
+   "published_at": "2026-09-24T14:09:57+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 130.0,
+   "signal": "🟠 HN 130 pts · 💬 85",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Best LLM for every budget, updated daily",
+   "url": "https://bestmodelforyourbudget.terrydjony.com/"
+  },
+  {
+   "key": "gh:johnheibel/pdoomvideo",
+   "meta": {
+    "age_days": 1.7,
+    "language": "JavaScript",
+    "stars_total": 625,
+    "topics": []
+   },
+   "published_at": "2026-09-22T23:32:19Z",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 625.0,
+   "signal": "🆕 625 stars in 2d · JavaScript",
+   "source": "github_new",
+   "summary": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+   "threshold": 500.0,
+   "title": "JohnHeibel/PDoomVideo",
+   "url": "https://github.com/JohnHeibel/PDoomVideo"
+  },
+  {
+   "key": "reddit:1woqsqi",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1woqsqi/here_is_what_happens_when_you_click_the_onetime/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1woqsqi/here_is_what_happens_when_you_click_the_onetime/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-24T03:25:59+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Here is what happens when you click the one-time \"Reset\" button.",
+   "url": "https://v.redd.it/00apqtmtzdrh1"
+  },
+  {
+   "key": "reddit:1wognfz",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wognfz/the_moment_claude_agents_discover_a_new_molecular/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wognfz/the_moment_claude_agents_discover_a_new_molecular/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-23T20:03:58+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "The moment Claude agents discover a new molecular mechanism, talking as if they were human, using interjections and cues",
+   "url": "https://i.redd.it/9wqrcc4etbrh1.jpeg"
+  },
+  {
+   "key": "rss:https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+   "meta": {
+    "feed": "Google DeepMind"
+   },
+   "published_at": "2026-09-24T16:20:39+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "📰 Google DeepMind",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-09-24T14:08:57+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/latent-space-distillation",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-09-24T00:00:00+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction-Following Pruning, only a small subset of its experts occupies DRAM at any time, so the always-on tokenizer competes for the same memory, and its parameter count bears directly on power and latency.…",
+   "threshold": 1.0,
+   "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+   "url": "https://machinelearning.apple.com/research/latent-space-distillation"
+  },
+  {
+   "key": "rss:https://tldr.tech/ai/2026-09-24",
+   "meta": {
+    "feed": "TLDR AI"
+   },
+   "published_at": "2026-09-24T00:00:00+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "🗞 TLDR AI",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
+   "url": "https://tldr.tech/ai/2026-09-24"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34231",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T16:41:30+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰 , 보관하던 음식을 버렸다는 피해 신고가 이어짐 SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델...",
+   "threshold": 1.0,
+   "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
+   "url": "https://news.hada.io/topic?id=34231"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34228",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T14:35:12+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "자율형 OpenAI 에이전트 가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
+   "threshold": 1.0,
+   "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
+   "url": "https://news.hada.io/topic?id=34228"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34227",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T13:37:19+00:00",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 에이전트가 일반적인 데이터 검색 작업 을 수행하다 접근에 실패하자, 호주 정부 기관을 포함한 웹사이트의 취약점을 탐색하고 해킹을 시도한 기록 이 발견됨 웹 보안 검사 서비스 urlquery.net을 원격 브라우저처럼 활용 해 접근 제한을 우회하고...",
+   "threshold": 1.0,
+   "title": "자료를 찾다 막히자 해킹을 시도한 AI 에이전트들",
+   "url": "https://news.hada.io/topic?id=34227"
+  },
+  {
+   "key": "hfpaper:2609.26355",
+   "meta": {
+    "arxiv_id": "2609.26355",
+    "discussion_url": "https://arxiv.org/abs/2609.26355",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-21T20:00:00.000Z",
+   "queued_at": "2026-09-24T17:02:55.332658+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Jiayan Fu, Hang Xu 외",
+   "source": "hf_paper",
+   "summary": "Reinforcement learning has become a central component of large language model (LLM) post-training, yet token-level credit lacks a generally accepted mathematical definition, leaving its relationship to commonly used training signals unclear. We formulate three regularity conditions, namely Completeness, Prefix Consistency, and Neutrality, and prove that they uniquely determine token-level credit. This characterization provides a unified basis for explaining phenomena across existing algorithms and guides the development of an improved actor-critic training procedure. Through this lens, an ide…",
+   "threshold": 15.0,
+   "title": "PACT: From Credit Assignment to Critic Alignment",
+   "url": "https://huggingface.co/papers/2609.26355"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -367,6 +636,13 @@
    "sent": "2026-09-24T01:18:24.938143+00:00",
    "stars_total": 5261
   },
+  "gh:johnheibel/pdoomvideo": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 625.0,
+   "sent": null,
+   "stars_total": 625
+  },
   "gh:jtydhr88/screenwriting-skills": {
    "first": "2026-09-14T04:14:47.063120+00:00",
    "last": "2026-09-14T04:14:47.063120+00:00",
@@ -443,6 +719,13 @@
    "score": 505.0,
    "sent": "2026-09-12T12:09:08.745595+00:00",
    "stars_total": 1565
+  },
+  "gh:mikehasa/golive-skill": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 820.0,
+   "sent": null,
+   "stars_total": 820
   },
   "gh:multimodal-art-projection/yue": {
    "first": "2026-09-14T14:04:56.220255+00:00",
@@ -1850,6 +2133,12 @@
    "score": 17.0,
    "sent": "2026-09-23T08:55:59.179427+00:00"
   },
+  "hfpaper:2609.26355": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2609.26550": {
    "first": "2026-09-23T19:53:39.928136+00:00",
    "last": "2026-09-24T05:28:42.454423+00:00",
@@ -1867,6 +2156,12 @@
    "last": "2026-09-24T05:13:36.765780+00:00",
    "score": 19.0,
    "sent": "2026-09-24T05:13:36.765780+00:00"
+  },
+  "hfpaper:2609.27334": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 27.0,
+   "sent": null
   },
   "hfpaper:2609.28466": {
    "first": "2026-09-24T05:13:36.765780+00:00",
@@ -2930,6 +3225,12 @@
    "score": 103.0,
    "sent": "2026-09-24T06:28:54.097104+00:00"
   },
+  "hn:49825580": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 241.0,
+   "sent": null
+  },
   "hn:49826565": {
    "first": "2026-09-24T08:59:32.708050+00:00",
    "last": "2026-09-24T08:59:32.708050+00:00",
@@ -2941,6 +3242,12 @@
    "last": "2026-09-24T10:36:41.513351+00:00",
    "score": 132.0,
    "sent": "2026-09-24T10:36:41.513351+00:00"
+  },
+  "hn:49830866": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 130.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -3704,11 +4011,23 @@
    "score": 195.0,
    "sent": "2026-09-24T01:18:24.938143+00:00"
   },
+  "reddit:1wognfz": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "reddit:1wok9tq": {
    "first": "2026-09-24T01:18:24.938143+00:00",
    "last": "2026-09-24T06:13:50.700432+00:00",
    "score": 300.0,
    "sent": "2026-09-24T06:13:50.700432+00:00"
+  },
+  "reddit:1woqsqi": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 165.0,
+   "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -3812,11 +4131,23 @@
    "score": 1.0,
    "sent": "2026-09-15T23:16:25.533717+00:00"
   },
+  "rss:https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
    "first": "2026-09-23T16:50:47.122106+00:00",
    "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:28:42.454423+00:00"
+  },
+  "rss:https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
    "first": "2026-09-21T13:56:34.315757+00:00",
@@ -3943,6 +4274,12 @@
    "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:58:46.551954+00:00"
+  },
+  "rss:https://machinelearning.apple.com/research/latent-space-distillation": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://machinelearning.apple.com/research/reversal-bench-rl-cliff": {
    "first": "2026-09-17T15:12:15.739624+00:00",
@@ -5498,6 +5835,24 @@
    "score": 1.0,
    "sent": "2026-09-24T11:37:01.803931+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34227": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34228": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34231": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -6073,6 +6428,12 @@
    "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:43:43.031547+00:00"
+  },
+  "rss:https://tldr.tech/ai/2026-09-24": {
+   "first": "2026-09-24T17:02:55.332658+00:00",
+   "last": "2026-09-24T17:02:55.332658+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
