@@ -1,190 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-24T05:28:42.454423+00:00",
+ "last_run": "2026-09-24T05:43:43.031547+00:00",
  "pending": [
-  {
-   "key": "rss:https://huggingface.co/blog/nvidia/nemotron-diarization",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-23T13:17:01+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-diarization"
-  },
-  {
-   "key": "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
-   "meta": {
-    "feed": "Microsoft Research"
-   },
-   "published_at": "2026-09-23T16:01:36+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🔬 Microsoft Research",
-   "source": "rss",
-   "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research .",
-   "threshold": 1.0,
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/"
-  },
-  {
-   "key": "rss:https://tldr.tech/ai/2026-09-23",
-   "meta": {
-    "feed": "TLDR AI"
-   },
-   "published_at": "2026-09-23T00:00:00+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🗞 TLDR AI",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "GPT-6 ⚡, Opus 5.5 🧠, AI leaders at UN 🌐",
-   "url": "https://tldr.tech/ai/2026-09-23"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34181",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T15:38:49+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
-   "threshold": 1.0,
-   "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
-   "url": "https://news.hada.io/topic?id=34181"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34180",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T15:35:49+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenAI가 크리에이터 마케팅 을 확대하며 ChatGPT의 업무와 일상 활용 사례를 홍보함. AI 안전 우려를 직접 해소하기보다는 ChatGPT가 매력적이고 세상에 이로운 일을 도울 수 있다는 메시지에 집중함 HypeAuditor 집계에서 ChatGPT를 홍보하는 Instagram 협찬 게시물",
-   "threshold": 1.0,
-   "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
-   "url": "https://news.hada.io/topic?id=34180"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34179",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T14:33:28+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude Code 2.1.277에 추가된 AGENTS.md 지원 은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false 를 사용...",
-   "threshold": 1.0,
-   "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
-   "url": "https://news.hada.io/topic?id=34179"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34174",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T13:02:07+00:00",
-   "queued_at": "2026-09-23T16:50:47.122106+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전 을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트 사용을 모두 중단 하는...",
-   "threshold": 1.0,
-   "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
-   "url": "https://news.hada.io/topic?id=34174"
-  },
-  {
-   "key": "reddit:1wnkgie",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-22T20:08:49+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "I do an open-ended \"interview\" with all new models that come out from the major labs. This is a vibe check , not a benchmark. The purpose is not to produce \"gotchas\" or figure out what the model can and can't do. This is a way to get an initial understanding of the shape of the model, its leanings and underlying tendencies. The goal is to help you to consciously shape the way you interact with the model, to get the best possible results. My method: Socratic questioning and classic psychoanalytic mirroring. Model: Opus 5.5 medium, incognito mode First impressions This is a model with polish an…",
-   "threshold": 150.0,
-   "title": "Opus 5.5: First impressions by a trained philosopher",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/"
-  },
-  {
-   "key": "rss:https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-23T12:00:00+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-   "threshold": 1.0,
-   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-  },
-  {
-   "key": "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-23T12:00:00+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-   "threshold": 1.0,
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-  },
-  {
-   "key": "rss:https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-   "meta": {
-    "feed": "Google AI"
-   },
-   "published_at": "2026-09-23T18:00:00+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 1.0,
-   "signal": "📰 Google AI",
-   "source": "rss",
-   "summary": "Google Beam promotional animation",
-   "threshold": 1.0,
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-23T18:41:40+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=34187",
    "meta": {
@@ -464,6 +281,21 @@
    "threshold": 1.0,
    "title": "VSCode의 SSH 에이전트는 제정신이 아니다 (2025)",
    "url": "https://news.hada.io/topic?id=34212"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34213",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-24T05:34:37+00:00",
+   "queued_at": "2026-09-24T05:43:43.031547+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Trump 행정부 가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부 도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구...",
+   "threshold": 1.0,
+   "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
+   "url": "https://news.hada.io/topic?id=34213"
   }
  ],
  "seen": {
@@ -4067,9 +3899,9 @@
   },
   "reddit:1wnkgie": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "reddit:1wnkvys": {
    "first": "2026-09-23T09:17:11.531544+00:00",
@@ -4205,9 +4037,9 @@
   },
   "rss:https://blog.google/innovation-and-ai/technology/research/google-beam-expansion": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://blog.google/products-and-platforms/products/search/football-features-google-search": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4271,15 +4103,15 @@
   },
   "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://huggingface.co/blog/nvidia/nemotron-diarization": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://huggingface.co/blog/omlx": {
    "first": "2026-09-22T06:53:17.943108+00:00",
@@ -4397,9 +4229,9 @@
   },
   "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://mistral.ai/news/legacy-code-modernization": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5813,27 +5645,27 @@
   },
   "rss:https://news.hada.io/topic?id=34174": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://news.hada.io/topic?id=34179": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://news.hada.io/topic?id=34180": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://news.hada.io/topic?id=34181": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://news.hada.io/topic?id=34187": {
    "first": "2026-09-23T19:53:39.928136+00:00",
@@ -5898,6 +5730,12 @@
   "rss:https://news.hada.io/topic?id=34212": {
    "first": "2026-09-24T05:13:36.765780+00:00",
    "last": "2026-09-24T05:13:36.765780+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34213": {
+   "first": "2026-09-24T05:43:43.031547+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -5975,9 +5813,9 @@
   },
   "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
    "first": "2026-09-16T17:27:55.149031+00:00",
@@ -6017,9 +5855,9 @@
   },
   "rss:https://openai.com/index/invideo-builds-with-gpt-6-astra": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://openai.com/index/model-misalignment-reporting-framework": {
    "first": "2026-09-16T23:53:51.201555+00:00",
@@ -6473,9 +6311,9 @@
   },
   "rss:https://tldr.tech/ai/2026-09-23": {
    "first": "2026-09-23T16:50:47.122106+00:00",
-   "last": "2026-09-23T16:50:47.122106+00:00",
+   "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:43:43.031547+00:00"
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
@@ -6485,10 +6323,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T14:54:45.540371+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-12T23:13:05.789362+00:00",
    "count": 12
@@ -7283,6 +7117,10 @@
   },
   {
    "at": "2026-09-24T05:28:42.454423+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-24T05:43:43.031547+00:00",
    "count": 12
   }
  ],
