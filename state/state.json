@@ -1,193 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-24T05:43:43.031547+00:00",
+ "last_run": "2026-09-24T05:58:46.551954+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34187",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T17:38:33+00:00",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "DrivingBench 는 최신 언어 모델에 실제 Toyota Corolla의 조향, 가속, 제동 제어권을 주고 고정된 콘 코스에서 주행 능력을 평가함 GPT-6 Astra 는 첫 시도에서 진행률 49%를 기록한 뒤 두 번째 시도에서 5분 22초 만에 코스를 완주함 나...",
-   "threshold": 1.0,
-   "title": "GPT-6 Astra가 자동차를 운전할 능력을 갖추게 됨",
-   "url": "https://news.hada.io/topic?id=34187"
-  },
-  {
-   "key": "hfpaper:2609.23986",
-   "meta": {
-    "arxiv_id": "2609.23986",
-    "discussion_url": "https://arxiv.org/abs/2609.23986",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-20T20:00:00.000Z",
-   "queued_at": "2026-09-23T19:53:39.928136+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Dongming Jiang, Yi Li 외",
-   "source": "hf_paper",
-   "summary": "Agentic memory is becoming essential for long-horizon AI agents, yet many existing systems rely on autoregressive LLMs to control how memories are organized, retrieved, and used, placing expensive generation on the critical path of memory operations. We introduce \\method, a new agentic memory architecture inspired by System-One/System-Two cognition. System One captures fast, lightweight decision-making, whereas System Two performs slower, deliberative reasoning. Jev-Mem brings this division of labor to agentic memory through a dedicated System-One control plane, a structured multi-relational…",
-   "threshold": 15.0,
-   "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
-   "url": "https://huggingface.co/papers/2609.23986"
-  },
-  {
-   "key": "reddit:1wnoqmh",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wnoqmh/opus_55_built_me_a_website_that_turns_any_photo/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wnoqmh/opus_55_built_me_a_website_that_turns_any_photo/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-22T22:55:22+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Opus 5.5 built me a website that turns any photo into one-line art. It also films the line being drawn.",
-   "url": "https://v.redd.it/ugqnvnuzi5rh1"
-  },
-  {
-   "key": "rss:https://openai.com/index/sam-altman-un-security-council-remarks",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-23T12:00:00+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-   "threshold": 1.0,
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
-  },
-  {
-   "key": "rss:https://machinelearning.apple.com/research/guide-language-flow",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-09-23T00:00:00+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a similar principle as autoguidance, but eliminates the need for an additional forward pass at inference time and provides a reliable path to ensure that the weak and strong model share similar dynamics. We apply and benchmark this method on continuous diffusion language models, where…",
-   "threshold": 1.0,
-   "title": "How to Guide Your Language Flow",
-   "url": "https://machinelearning.apple.com/research/guide-language-flow"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/23/gemini-tts-playground",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-23T17:12:27+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your voice or a voice you have the rights to use\". I vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API. A notable feature of the AP…",
-   "threshold": 1.0,
-   "title": "Gemini 3.8 TTS Playground",
-   "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/23/shadow-roots",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-23T16:37:18+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
-   "threshold": 1.0,
-   "title": "Shadow roots, explained with live examples",
-   "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34198",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T22:37:09+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Stripe는 영업 전 고객 조사, 재무 분석, 규정 준수 검토 등을 돕는 사내 AI 플랫폼 Kai 를 구축했으며, 발표 시점 기준 직원 83%가 매주 사용 하고 있음 기존 도구로 만든 4,000개 이상의 에이전트 는 비슷한 프롬프트를 중복 작성하고 품질과 유지...",
-   "threshold": 1.0,
-   "title": "Stripe의 사내 업무용 AI 플랫폼, Kai",
-   "url": "https://news.hada.io/topic?id=34198"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34195",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T20:34:35+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "대규모 DNA 데이터베이스에서 이미 알려진 효소 주변의 반복 서열과 보조 단백질을 연결 해, 이전에 규명되지 않았던 효소 시스템 ART 를 찾아냄 약 950개 Claude 에이전트가 21시간 동안 2억 1,000만 토큰을 사용해 역전사효소 20만 개 이상을 조사...",
-   "threshold": 1.0,
-   "title": "Claude, CRISPR 유사 반복 서열을 가진 새로운 효소 시스템 발견",
-   "url": "https://news.hada.io/topic?id=34195"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34194",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T19:58:51+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "원하는 목소리와 말투를 자연어로 만들고 대사별로 연기를 지시하는 Gemini 3.8 Flash TTS 와, 대량 음성 생성의 비용 효율성을 높인 Flash-Lite TTS 를 공개함 Flash TTS는 2,000개 이상의 목소리 를 제공하며, 새로운 목소리를 직접 설계하거나 사...",
-   "threshold": 1.0,
-   "title": "Google, 목소리를 만들고 연기까지 지시하는 Gemini 3.8 TTS 공개",
-   "url": "https://news.hada.io/topic?id=34194"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34193",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T19:55:51+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI 사용 비용이 계속 내려가면, 토큰을 얼마나 쓰느냐보다 원하는 품질을 얻을 수 있느냐 가 중요해지고 AI는 별도 제품을 넘어 컴퓨팅의 기본 인프라로 들어갈 수 있음 최상위 모델의 토큰 단가가 항상 내려가는 것은 아니지만, 모델과 GPU, 추론 소프트웨어의 개선으로 같은...",
-   "threshold": 1.0,
-   "title": "일일이 과금하기엔 너무 저렴한 토큰",
-   "url": "https://news.hada.io/topic?id=34193"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34188",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-23T18:39:03+00:00",
-   "queued_at": "2026-09-23T22:54:21.767244+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Drew DeVault가 Hacker News의 ‘비정치적’ 운영에 의문을 제기 하며, 기술 기업의 성과는 자유롭게 논의하면서 그 기업의 정치적 영향과 윤리 문제는 배제하는 구조를 비판함 Grok 출시 토론에서는 성능과 가격을 논의하는 댓글은 남았지만, Musk의 정치적 행보와 제품의 윤...",
-   "threshold": 1.0,
-   "title": "Hacker News는 왜 그런가?",
-   "url": "https://news.hada.io/topic?id=34188"
-  },
   {
    "key": "reddit:1wok9tq",
    "meta": {
@@ -2045,9 +1859,9 @@
   },
   "hfpaper:2609.23986": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "hfpaper:2609.24058": {
    "first": "2026-09-23T06:30:33.530636+00:00",
@@ -3917,9 +3731,9 @@
   },
   "reddit:1wnoqmh": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "reddit:1wnpit2": {
    "first": "2026-09-23T16:50:47.122106+00:00",
@@ -4193,9 +4007,9 @@
   },
   "rss:https://machinelearning.apple.com/research/guide-language-flow": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://machinelearning.apple.com/research/reversal-bench-rl-cliff": {
    "first": "2026-09-17T15:12:15.739624+00:00",
@@ -5669,39 +5483,39 @@
   },
   "rss:https://news.hada.io/topic?id=34187": {
    "first": "2026-09-23T19:53:39.928136+00:00",
-   "last": "2026-09-23T19:53:39.928136+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34188": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34193": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34194": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34195": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34198": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://news.hada.io/topic?id=34201": {
    "first": "2026-09-24T01:18:24.938143+00:00",
@@ -5915,9 +5729,9 @@
   },
   "rss:https://openai.com/index/sam-altman-un-security-council-remarks": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
    "first": "2026-09-11T17:04:52.413216+00:00",
@@ -6227,15 +6041,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/23/gemini-tts-playground": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/23/shadow-roots": {
    "first": "2026-09-23T22:54:21.767244+00:00",
-   "last": "2026-09-23T22:54:21.767244+00:00",
+   "last": "2026-09-24T05:58:46.551954+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-24T05:58:46.551954+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6323,10 +6137,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-12T23:13:05.789362+00:00",
-   "count": 12
-  },
   {
    "at": "2026-09-12T23:18:36.003592+00:00",
    "count": 9
@@ -7121,6 +6931,10 @@
   },
   {
    "at": "2026-09-24T05:43:43.031547+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-24T05:58:46.551954+00:00",
    "count": 12
   }
  ],
