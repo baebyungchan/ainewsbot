@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-25T17:20:50.285965+00:00",
+ "last_run": "2026-09-25T20:34:08.851162+00:00",
  "pending": [
   {
    "key": "reddit:1wp2ldw",
@@ -403,6 +403,98 @@
    "threshold": 1.0,
    "title": "“완전 AI 같아!” 알파 세대의 욕이 된 AI",
    "url": "https://news.hada.io/topic?id=34264"
+  },
+  {
+   "key": "hn:49848269",
+   "meta": {
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=49848269",
+    "hn_id": "49848269"
+   },
+   "published_at": "2026-09-25T18:33:50+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 149.0,
+   "signal": "🟠 HN 149 pts · 💬 43",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "url": "https://ollaya.dev/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/25/john-gruber",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-25T17:22:01+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a pow…",
+   "threshold": 1.0,
+   "title": "Quoting John Gruber",
+   "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34281",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T19:45:59+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "기밀 추산을 아는 소식통 2명에 따르면, NSA 는 올해 첨단 AI 모델 평가와 테스트에 수십억 달러의 세금 을 쓰고 있다고 의원들에게 알림 잇따른 해킹과 보안 사고 이후 NSA의 Artificial Intelligence Security Center 가 최첨단 모델의 잠재적 국가...",
+   "threshold": 1.0,
+   "title": "기밀 추산으로 드러난 NSA의 수십억 달러 규모 AI 모델 테스트 지출",
+   "url": "https://news.hada.io/topic?id=34281"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34280",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T18:51:47+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Web Agent를 실제 브라우저에서 돌려보면 자주 부딪히는 문제가 있습니다. 그건 바로 CAPTCHA입니다. 최신 AI 모델은 CAPTCHA를 통과하는 작업을 보안상의 이유로 꺼리는 경우가 많습니다. 그렇기에 CAPTCHA 하나 때문에 웹 자동화 전체가 막힐 수 있습니다. 이번에 업데이트한 browser-",
+   "threshold": 1.0,
+   "title": "웹에이전트가 CAPTCHA 차단을 뚫는 간단한 아이디어",
+   "url": "https://news.hada.io/topic?id=34280"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34279",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T18:40:14+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Mercury 2.5 는 Inception API 기준 초당 780.8토큰 을 출력하며, 비슷한 가격대 추론 모델의 중앙값인 111.9토큰/초를 크게 웃돎 Artificial Analysis Intelligence Index는 12점 으로 비교 대상 중앙값 13점보다 낮으며, 빠른 출력 속도와 지능 평...",
+   "threshold": 1.0,
+   "title": "Mercury 2.5 LLM, 초당 770토큰 달성",
+   "url": "https://news.hada.io/topic?id=34279"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34275",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T17:39:16+00:00",
+   "queued_at": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "워싱턴 D.C. 연방항소법원이 2대 1 판결 로 국방부의 Anthropic 공급망 위험 지정을 유지하고, Claude 사용 금지가 자의적이고 권한을 벗어났으며 위헌이라는 회사 측 주장을 받아들이지 않음 공급망 위험 지정 은 미군의 Anthropic 모델 사용을 금지하며, 방산 계약...",
+   "threshold": 1.0,
+   "title": "미국 항소법원, Anthropic의 공급망 위험 지정 유지",
+   "url": "https://news.hada.io/topic?id=34275"
   }
  ],
  "seen": {
@@ -3521,6 +3613,12 @@
    "score": 145.0,
    "sent": null
   },
+  "hn:49848269": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
+   "score": 149.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -6281,6 +6379,30 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34275": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34279": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34280": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34281": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -6806,6 +6928,12 @@
   "rss:https://simonwillison.net/2026/Sep/24/harder": {
    "first": "2026-09-25T17:20:50.285965+00:00",
    "last": "2026-09-25T17:20:50.285965+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://simonwillison.net/2026/Sep/25/john-gruber": {
+   "first": "2026-09-25T20:34:08.851162+00:00",
+   "last": "2026-09-25T20:34:08.851162+00:00",
    "score": 1.0,
    "sent": null
   },
