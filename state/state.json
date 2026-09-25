@@ -1,112 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-25T06:43:51.272315+00:00",
+ "last_run": "2026-09-25T12:20:42.832459+00:00",
  "pending": [
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/24/commit-rewriter",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-24T20:06:53+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
-   "threshold": 1.0,
-   "title": "commit-rewriter 0.2",
-   "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/24/datasette",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-24T19:15:23+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry",
-   "threshold": 1.0,
-   "title": "datasette 1.0a41",
-   "url": "https://simonwillison.net/2026/Sep/24/datasette/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34245",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-24T22:42:05+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Whiteboard 는 사람과 코딩 에이전트가 공통 작업 공간에서 소프트웨어를 함께 설계하는 데스크톱 앱으로, Claude Code나 Codex에 연결해 에이전트가 SDK로 캔버스에 작업 내용을 그리게 함 다이어그램과 코드 탐색 을 연결해 시퀀스 다이어그램, 개체 관계 다이어그...",
-   "threshold": 1.0,
-   "title": "Whiteboard (YC W26) - 신중한 소프트웨어 설계를 위한 오픈소스 IDE",
-   "url": "https://news.hada.io/topic?id=34245"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34243",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-24T21:37:20+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "DHH는 AI 에이전트가 코드 작성의 경제성을 바꾸고 있다 며, 개발자의 역할이 코드를 직접 쓰는 일에서 원하는 결과를 정의하고 만드는 일로 이동한다고 봄 37signals는 수작업 코드 작성을 예외로 취급하는 방식으로 전환 했으며, 에이전트가 원하는 코드를 만들지 ...",
-   "threshold": 1.0,
-   "title": "Rails World 2026 개막 기조연설 [영상]",
-   "url": "https://news.hada.io/topic?id=34243"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34242",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-24T20:38:33+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Artificial Analysis Intelligence Index 점수와 API 가격을 비교해, 더 저렴하면서 성능이 같거나 높은 대안이 없는 모델을 가성비 경계선(value frontier) 으로 추림 비용은 입력:출력 토큰 3:1 비율의 100만 토큰당 혼합 가격으로 비교하며, 캐...",
-   "threshold": 1.0,
-   "title": "예산별 최고의 LLM, 매일 업데이트",
-   "url": "https://news.hada.io/topic?id=34242"
-  },
-  {
-   "key": "rss:https://youtube.com/watch?v=R9momwXV9w4",
-   "meta": {
-    "feed": "AI Explained (YouTube)"
-   },
-   "published_at": "2026-09-24T22:51:54+00:00",
-   "queued_at": "2026-09-24T23:23:43.389178+00:00",
-   "score": 1.0,
-   "signal": "▶️ AI Explained (YouTube)",
-   "source": "rss",
-   "summary": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summary in this description would get too long. AI Insiders ($9!): https://www.patreon.com/AIExplained…",
-   "threshold": 1.0,
-   "title": "Opus 5.5: How Close Are We to Automated AI Research?",
-   "url": "https://www.youtube.com/watch?v=R9momwXV9w4"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34248",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-25T00:30:02+00:00",
-   "queued_at": "2026-09-25T01:50:53.988780+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램 을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명...",
-   "threshold": 1.0,
-   "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
-   "url": "https://news.hada.io/topic?id=34248"
-  },
   {
    "key": "reddit:1wp2ldw",
    "meta": {
@@ -189,6 +84,54 @@
    "threshold": 15.0,
    "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
    "url": "https://huggingface.co/papers/2609.27891"
+  },
+  {
+   "key": "reddit:1wp7ofj",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-24T17:18:50+00:00",
+   "queued_at": "2026-09-25T12:20:42.832459+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "A new quota appeared today on my Pro account. Looks like Anthropic is going to include back (at least some) usage of Fable 5 in Pro plans. https://preview.redd.it/u0yqb7vh4irh1.png?width=798&format=png&auto=webp&s=110bae3dc4cb751f2e3388bd37f4086a6e82badd",
+   "threshold": 150.0,
+   "title": "Anthropic to include Fable 5 usage in Pro plans",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34259",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T08:34:09+00:00",
+   "queued_at": "2026-09-25T12:20:42.832459+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Google에서 칩 설계 도구를 개발하던 Robert O'Callahan이 AI 발전을 가속하는 일에 대한 우려 로 퇴사를 결정함. AI의 발전 속도가 사람들이 이해하고 적응할 수 있는 수준을 이미 크게 넘어섰다고 판단함 직접 AI 모델을 개발하지 않더라도 칩 설계 도구 개선 은 A...",
+   "threshold": 1.0,
+   "title": "Google에 작별을 고하며",
+   "url": "https://news.hada.io/topic?id=34259"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34256",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-25T07:33:40+00:00",
+   "queued_at": "2026-09-25T12:20:42.832459+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Project Suncatcher 는 우주에서 확장 가능한 머신러닝 인프라를 운영할 수 있는지 탐구하는 장기 연구로, 첫 시제품 위성을 발사해 Google TPU의 우주 환경 작동 여부를 시험할 예정임 저궤도 위성 은 거의 끊임없이 햇빛을 받아 지상보다 최대 8배 많은 태양광 전력...",
+   "threshold": 1.0,
+   "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
+   "url": "https://news.hada.io/topic?id=34256"
   }
  ],
  "seen": {
@@ -626,6 +569,13 @@
    "sent": "2026-09-23T01:25:45.723494+00:00",
    "stars_total": 529
   },
+  "gh:mattpocock/skills": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 671.0,
+   "sent": "2026-09-25T12:20:42.832459+00:00",
+   "stars_total": 269395
+  },
   "gh:mcncarl/jianying-headless": {
    "first": "2026-09-18T08:37:18.571711+00:00",
    "last": "2026-09-20T11:25:19.164353+00:00",
@@ -709,6 +659,20 @@
    "score": 640.0,
    "sent": "2026-09-14T10:49:16.397921+00:00",
    "stars_total": 80701
+  },
+  "gh:paperclipai/paperclip": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 1853.0,
+   "sent": "2026-09-25T12:20:42.832459+00:00",
+   "stars_total": 83422
+  },
+  "gh:pbakaus/impeccable": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 527.0,
+   "sent": "2026-09-25T12:20:42.832459+00:00",
+   "stars_total": 70929
   },
   "gh:player-yn/pawwork_zhuazhua": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4058,11 +4022,29 @@
    "score": 300.0,
    "sent": null
   },
+  "reddit:1wp7ofj": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 150.0,
+   "sent": null
+  },
   "reddit:1wpg5k8": {
    "first": "2026-09-25T06:43:51.272315+00:00",
    "last": "2026-09-25T06:43:51.272315+00:00",
    "score": 320.0,
    "sent": "2026-09-25T06:43:51.272315+00:00"
+  },
+  "reddit:1wpgntb": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 390.0,
+   "sent": "2026-09-25T12:20:42.832459+00:00"
+  },
+  "reddit:1wpi9b4": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 480.0,
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5908,27 +5890,27 @@
   },
   "rss:https://news.hada.io/topic?id=34242": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://news.hada.io/topic?id=34243": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://news.hada.io/topic?id=34245": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://news.hada.io/topic?id=34248": {
    "first": "2026-09-25T01:50:53.988780+00:00",
-   "last": "2026-09-25T01:50:53.988780+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://news.hada.io/topic?id=34251": {
    "first": "2026-09-25T06:43:51.272315+00:00",
@@ -5939,6 +5921,18 @@
   "rss:https://news.hada.io/topic?id=34253": {
    "first": "2026-09-25T06:43:51.272315+00:00",
    "last": "2026-09-25T06:43:51.272315+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34256": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34259": {
+   "first": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -6448,15 +6442,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/24/commit-rewriter": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/24/datasette": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6550,16 +6544,12 @@
   },
   "rss:https://youtube.com/watch?v=R9momwXV9w4": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
+   "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-25T12:20:42.832459+00:00"
   }
  },
  "sends": [
-  {
-   "at": "2026-09-14T04:58:19.625998+00:00",
-   "count": 5
-  },
   {
    "at": "2026-09-14T05:28:28.963415+00:00",
    "count": 1
@@ -7354,6 +7344,10 @@
   },
   {
    "at": "2026-09-25T06:43:51.272315+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-25T12:20:42.832459+00:00",
    "count": 12
   }
  ],
