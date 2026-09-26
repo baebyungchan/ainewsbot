@@ -1,42 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-26T03:36:55.893041+00:00",
- "pending": [
-  {
-   "key": "reddit:1wq9wtj",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wq9wtj/opus_55_cut_out_em_dashes_almost_entirely/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wq9wtj/opus_55_cut_out_em_dashes_almost_entirely/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-25T22:30:07+00:00",
-   "queued_at": "2026-09-26T03:36:55.893041+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Opus 5.5 cut out em dashes almost entirely",
-   "url": "https://i.redd.it/z6utim0psqrh1.png"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34304",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-26T03:34:30+00:00",
-   "queued_at": "2026-09-26T03:36:55.893041+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI 코딩 도구의 계획 모드 가 맡아 온 두 역할 중 에이전트에 정밀한 지시를 전달하는 역할은 모델 성능 향상으로 빠르게 불필요해지고 있음. 사람이 무엇을 만드는지 이해하도록 돕는 역할은 더 중요해졌지만, 계획 모드는 이에 적합한 방식이 아님 구현 전에 생각을 정리하...",
-   "threshold": 1.0,
-   "title": "계획 모드는 죽었다",
-   "url": "https://news.hada.io/topic?id=34304"
-  }
- ],
+ "last_run": "2026-09-26T03:51:56.721696+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4076,9 +4041,9 @@
   },
   "reddit:1wq9wtj": {
    "first": "2026-09-26T03:36:55.893041+00:00",
-   "last": "2026-09-26T03:36:55.893041+00:00",
+   "last": "2026-09-26T03:51:56.721696+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-26T03:51:56.721696+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6062,9 +6027,9 @@
   },
   "rss:https://news.hada.io/topic?id=34304": {
    "first": "2026-09-26T03:36:55.893041+00:00",
-   "last": "2026-09-26T03:36:55.893041+00:00",
+   "last": "2026-09-26T03:51:56.721696+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T03:51:56.721696+00:00"
   },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
@@ -6710,10 +6675,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-14T08:19:34.973124+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-14T09:48:53.643975+00:00",
    "count": 1
@@ -7509,6 +7470,10 @@
   {
    "at": "2026-09-26T03:36:55.893041+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-26T03:51:56.721696+00:00",
+   "count": 2
   }
  ],
  "version": 1
