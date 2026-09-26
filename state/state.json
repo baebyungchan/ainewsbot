@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-26T21:23:12.661804+00:00",
+ "last_run": "2026-09-26T21:49:03.463300+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34323",
@@ -85,6 +85,21 @@
    "threshold": 500.0,
    "title": "Rizzo-AI-Academy/rizzo-flow",
    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34336",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T21:40:53+00:00",
+   "queued_at": "2026-09-26T21:49:03.463300+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "코딩은 사람이 맡고 , LLM에는 계획 정리, 조사, 검토 등 주변 작업을 맡기는 방식으로 프로그래밍의 즐거움과 적당한 생산성 향상을 함께 추구할 수 있음 코드베이스에 대한 이해와 주도권 을 유지하려면 직접 코드를 계속 작성해야 함. 모든 구현을 에이전트에 넘기...",
+   "threshold": 1.0,
+   "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
+   "url": "https://news.hada.io/topic?id=34336"
   }
  ],
  "seen": {
@@ -6246,6 +6261,12 @@
   "rss:https://news.hada.io/topic?id=34327": {
    "first": "2026-09-26T17:05:16.539750+00:00",
    "last": "2026-09-26T17:05:16.539750+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34336": {
+   "first": "2026-09-26T21:49:03.463300+00:00",
+   "last": "2026-09-26T21:49:03.463300+00:00",
    "score": 1.0,
    "sent": null
   },
