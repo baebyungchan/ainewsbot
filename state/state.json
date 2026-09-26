@@ -1,159 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-26T22:40:35.066021+00:00",
- "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34323",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-26T15:36:43+00:00",
-   "queued_at": "2026-09-26T15:48:03.417411+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "업무에서 AI 코딩 에이전트 에 구현과 테스트, 커밋까지 맡기던 개발자가 코드에 대한 통제력을 잃었다고 느껴 사용을 중단하고, 한 달 동안 직접 개발하는 방식으로 돌아옴 여러 에이전트를 병렬로 실행하자 코드 생성은 빨라졌지만, 검토 부담과 문맥 전환 이 쌓여...",
-   "threshold": 1.0,
-   "title": "AI 없이 보낸 한 달",
-   "url": "https://news.hada.io/topic?id=34323"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34327",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-26T16:49:52+00:00",
-   "queued_at": "2026-09-26T17:05:16.539750+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LLM에 선택지를 문자로 제시하고 토큰 로그 확률 을 읽어, 분류 결과와 참일 확률, 순서형 점수를 반환하는 단일 Python 함수 score() 를 구현함 긴 답변 대신 선택지 문자 하나 를 생성하도록 요청해 출력 시간을 줄임. 입력 처리 비용은 남지만, 백엔드...",
-   "threshold": 1.0,
-   "title": "비전 모델을 포함한 LLM용 단일 함수 Jev 스타일 래퍼",
-   "url": "https://news.hada.io/topic?id=34327"
-  },
-  {
-   "key": "reddit:1wqmxk3",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-09-26T10:15:17+00:00",
-   "queued_at": "2026-09-26T19:14:20.692784+00:00",
-   "score": 220.00000000000003,
-   "signal": "🏆 r/OpenAI 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
-   "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
-  },
-  {
-   "key": "hn:49854875",
-   "meta": {
-    "comments": 150,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854875",
-    "hn_id": "49854875"
-   },
-   "published_at": "2026-09-26T09:41:58+00:00",
-   "queued_at": "2026-09-26T20:31:51.714745+00:00",
-   "score": 104.0,
-   "signal": "🟠 HN 104 pts · 💬 150",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "How to keep enjoying programming in a world of LLMs",
-   "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
-  },
-  {
-   "key": "gh:rizzo-ai-academy/rizzo-flow",
-   "meta": {
-    "age_days": 5.9,
-    "language": "Python",
-    "stars_total": 615,
-    "topics": []
-   },
-   "published_at": "2026-09-21T00:00:02Z",
-   "queued_at": "2026-09-26T21:23:12.661804+00:00",
-   "score": 615.0,
-   "signal": "🆕 615 stars in 6d · Python",
-   "source": "github_new",
-   "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-   "threshold": 500.0,
-   "title": "Rizzo-AI-Academy/rizzo-flow",
-   "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34336",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-26T21:40:53+00:00",
-   "queued_at": "2026-09-26T21:49:03.463300+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "코딩은 사람이 맡고 , LLM에는 계획 정리, 조사, 검토 등 주변 작업을 맡기는 방식으로 프로그래밍의 즐거움과 적당한 생산성 향상을 함께 추구할 수 있음 코드베이스에 대한 이해와 주도권 을 유지하려면 직접 코드를 계속 작성해야 함. 모든 구현을 에이전트에 넘기...",
-   "threshold": 1.0,
-   "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
-   "url": "https://news.hada.io/topic?id=34336"
-  },
-  {
-   "key": "hn:49858513",
-   "meta": {
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49858513",
-    "hn_id": "49858513"
-   },
-   "published_at": "2026-09-26T17:10:40+00:00",
-   "queued_at": "2026-09-26T22:10:20.196614+00:00",
-   "score": 109.0,
-   "signal": "🟠 HN 109 pts · 💬 31",
-   "source": "hn",
-   "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate). I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like. I also wanted this to work well for humans and agents. On the Github link, there&#x27;s a playground where you can try it…",
-   "threshold": 100.0,
-   "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-   "url": "https://github.com/reladraw/reladraw"
-  },
-  {
-   "key": "hn:49854945",
-   "meta": {
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854945",
-    "hn_id": "49854945"
-   },
-   "published_at": "2026-09-26T09:55:38+00:00",
-   "queued_at": "2026-09-26T22:10:20.196614+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 63",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "The Copilot+ PC brand is dead",
-   "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
-  },
-  {
-   "key": "reddit:1wqcara",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wqcara/aight_i_get_it_opus_55_is_actually_peak/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-26T00:18:15+00:00",
-   "queued_at": "2026-09-26T22:40:35.066021+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "I didn't understand what everybody was talking about, it felt better and stopped pushing back artificially like previous models, but the quality of the code and the model's understanding didn't seem that special... Tonight I was bored and asked it to do a product video for the thing I've been building for a few months and I was shocked by the results. Aside from the first few seconds this is legit high quality marketing material. The craziest part is that this is with a simple prompt. I'm used to direct every step with Claude but this time I just told it \"Use every asset from the current proj…",
-   "threshold": 150.0,
-   "title": "Aight I get it, Opus 5.5 is actually peak",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqcara/aight_i_get_it_opus_55_is_actually_peak/"
-  }
- ],
+ "last_run": "2026-09-26T23:06:11.953728+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -738,9 +586,9 @@
   },
   "gh:rizzo-ai-academy/rizzo-flow": {
    "first": "2026-09-26T21:23:12.661804+00:00",
-   "last": "2026-09-26T21:23:12.661804+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 615.0,
-   "sent": null,
+   "sent": "2026-09-26T23:06:11.953728+00:00",
    "stars_total": 615
   },
   "gh:rmalde/minecraft-agent": {
@@ -3360,15 +3208,15 @@
   },
   "hn:49854875": {
    "first": "2026-09-26T20:31:51.714745+00:00",
-   "last": "2026-09-26T20:31:51.714745+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 104.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "hn:49854945": {
    "first": "2026-09-26T22:10:20.196614+00:00",
-   "last": "2026-09-26T22:10:20.196614+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "hn:49855018": {
    "first": "2026-09-26T14:05:16.341268+00:00",
@@ -3378,9 +3226,15 @@
   },
   "hn:49858513": {
    "first": "2026-09-26T22:10:20.196614+00:00",
-   "last": "2026-09-26T22:10:20.196614+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 109.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
+  },
+  "hn:49859112": {
+   "first": "2026-09-26T23:06:11.953728+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
+   "score": 106.0,
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4272,9 +4126,9 @@
   },
   "reddit:1wqcara": {
    "first": "2026-09-26T22:40:35.066021+00:00",
-   "last": "2026-09-26T22:40:35.066021+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "reddit:1wqgg66": {
    "first": "2026-09-26T14:05:16.341268+00:00",
@@ -4284,9 +4138,15 @@
   },
   "reddit:1wqmxk3": {
    "first": "2026-09-26T19:14:20.692784+00:00",
-   "last": "2026-09-26T19:14:20.692784+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 220.00000000000003,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
+  },
+  "reddit:1wqwcqe": {
+   "first": "2026-09-26T23:06:11.953728+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
+   "score": 300.0,
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6324,21 +6184,21 @@
   },
   "rss:https://news.hada.io/topic?id=34323": {
    "first": "2026-09-26T15:48:03.417411+00:00",
-   "last": "2026-09-26T15:48:03.417411+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "rss:https://news.hada.io/topic?id=34327": {
    "first": "2026-09-26T17:05:16.539750+00:00",
-   "last": "2026-09-26T17:05:16.539750+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "rss:https://news.hada.io/topic?id=34336": {
    "first": "2026-09-26T21:49:03.463300+00:00",
-   "last": "2026-09-26T21:49:03.463300+00:00",
+   "last": "2026-09-26T23:06:11.953728+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T23:06:11.953728+00:00"
   },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
@@ -6984,10 +6844,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-14T12:49:37.186329+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-14T13:34:45.399410+00:00",
    "count": 2
@@ -7783,6 +7639,10 @@
   {
    "at": "2026-09-26T14:05:16.341268+00:00",
    "count": 5
+  },
+  {
+   "at": "2026-09-26T23:06:11.953728+00:00",
+   "count": 11
   }
  ],
  "version": 1
