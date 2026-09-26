@@ -1,108 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-25T23:30:02.297074+00:00",
+ "last_run": "2026-09-26T01:54:24.673967+00:00",
  "pending": [
-  {
-   "key": "reddit:1wp2ldw",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-24T14:06:24+00:00",
-   "queued_at": "2026-09-25T06:43:51.272315+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "GPT-6 Astra conquered KSP’s rocket simulator by landing on every surface world, and even mined fuel on Moho to make the trip home",
-   "url": "https://i.redd.it/k2zsdegi6hrh1.jpeg"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34253",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-25T04:33:20+00:00",
-   "queued_at": "2026-09-25T06:43:51.272315+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "LaunchVideo 는 URL이나 제품 설명을 입력하면 Opus 5.5가 영상을 코드로 작성하고, 서버리스 에이전트가 MP4로 렌더링하는 서비스임 영상 생성 모델 없이 웹 페이지의 애니메이션을 렌더링하며, 가상 시계로 각 프레임의 시간을 제어해 결정론적으로 생성함 ...",
-   "threshold": 1.0,
-   "title": "Opus 5.5는 설명 영상을 잘 만든다",
-   "url": "https://news.hada.io/topic?id=34253"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34251",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-25T03:03:12+00:00",
-   "queued_at": "2026-09-25T06:43:51.272315+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Claude에 잊어버린 명령어 문법을 물었다가 존재하지 않는 옵션 을 답하는 일을 겪으며, 이미 배운 지식을 직접 보관하는 개인 지식 관리(PKM) 시스템을 만들기로 함 직접 노트를 쓰면 나중에 자신에게 맞는 답과 설명을 찾을 수 있고, 정보를 정리하는 과정에서",
-   "threshold": 1.0,
-   "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
-   "url": "https://news.hada.io/topic?id=34251"
-  },
-  {
-   "key": "hfpaper:2609.23407",
-   "meta": {
-    "arxiv_id": "2609.23407",
-    "discussion_url": "https://arxiv.org/abs/2609.23407",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-19T20:00:00.000Z",
-   "queued_at": "2026-09-25T06:43:51.272315+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Ruixun Liu, Yuxuan Wang 외",
-   "source": "hf_paper",
-   "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio understanding in embodied settings. To address this gap, we introduce OmniEchoBench, a unified benchmark for spatial audio-visual perception and audio-vision-language navigation. OmniEchoBench comprises six tasks over 197 real-world spatial audio-visual scenes, 2,972 question-answer pairs, and 900 navigation samples with first-order ambisonics (F…",
-   "threshold": 15.0,
-   "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
-   "url": "https://huggingface.co/papers/2609.23407"
-  },
-  {
-   "key": "hfpaper:2609.27891",
-   "meta": {
-    "arxiv_id": "2609.27891",
-    "discussion_url": "https://arxiv.org/abs/2609.27891",
-    "upvotes": 15
-   },
-   "published_at": "2026-08-20T20:00:00.000Z",
-   "queued_at": "2026-09-25T06:43:51.272315+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Silin Chen, Yufei Yang 외",
-   "source": "hf_paper",
-   "summary": "Repository-level coding benchmarks have become the standard for evaluating coding agents, yet they inherently suffer from data leakage because they are built upon popular open-source repositories repeatedly used for training. Consequently, strong performance may reflect memorization of canonical repository cues rather than robust repository reasoning. We propose SchrodingerRepo (Schrödinger's Repository), an evaluation framework for testing coding agents under dynamically instantiated repository representations. Instead of repeatedly using a static representation of the test repository, Schro…",
-   "threshold": 15.0,
-   "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
-   "url": "https://huggingface.co/papers/2609.27891"
-  },
-  {
-   "key": "reddit:1wp7ofj",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-24T17:18:50+00:00",
-   "queued_at": "2026-09-25T12:20:42.832459+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "A new quota appeared today on my Pro account. Looks like Anthropic is going to include back (at least some) usage of Fable 5 in Pro plans. https://preview.redd.it/u0yqb7vh4irh1.png?width=798&format=png&auto=webp&s=110bae3dc4cb751f2e3388bd37f4086a6e82badd",
-   "threshold": 150.0,
-   "title": "Anthropic to include Fable 5 usage in Pro plans",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=34259",
    "meta": {
@@ -379,6 +278,81 @@
    "threshold": 1.0,
    "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
    "url": "https://news.hada.io/topic?id=34288"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34298",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T01:40:30+00:00",
+   "queued_at": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "호주 Dymocks Tutoring and Talent 100 이 학부모에게 비싼 과외 대신 Gemini나 ChatGPT에 돈을 쓰라고 권고함 고객에게 기술 발전 으로 자사 서비스가 더 이상 필요하지 않게 됐다고 알림 업체는 이번 주 말 영업을 종료할 예정 임 ...",
+   "threshold": 1.0,
+   "title": "과외 업체, 학부모에게 돈을 아끼고 “대신 AI를 쓰라”고 권고",
+   "url": "https://news.hada.io/topic?id=34298"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34296",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T01:03:01+00:00",
+   "queued_at": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "질문에 답하는 채팅부터 문서 공동 편집, 업무용 앱 제작, 상시 실행 에이전트 까지 하나의 Copilot 앱에서 처리하도록 개편함 Home 은 Chat과 업무를 끝까지 맡기는 Cowork를 통합하고, Word, Excel, PowerPoint 문서를 대화 옆에서 만들고 팀원과 함께 편집할 수 있...",
+   "threshold": 1.0,
+   "title": "Microsoft, Home/Code/Autopilot을 갖춘 새 Copilot 발표",
+   "url": "https://news.hada.io/topic?id=34296"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34295",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T00:59:02+00:00",
+   "queued_at": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "사람들은 가족과 시간을 보내거나 가게를 열고 싶은 꿈이 있어도, 어디서 시작할지 몰라 실행하기도 전에 포기 하는 경우가 많음 Muse가 지향하는 것은 사용자가 무엇을 원하는지 함께 알아내고, 실제로 이루도록 돕는 개인 AI 에이전트 임 막연한 바람을 구...",
+   "threshold": 1.0,
+   "title": "알렉산더 왕: 내가 Muse를 만드는 이유",
+   "url": "https://news.hada.io/topic?id=34295"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34292",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T00:51:24+00:00",
+   "queued_at": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "웹에 가짜 고객센터 번호와 지원 페이지 를 대량 게시해, ChatGPT, Gemini와 Google AI Overview가 사기 연락처를 정상적인 기업 정보로 안내하게 만드는 공격이 발견됨 조사팀은 항공사, 은행, 여행 플랫폼과 소프트웨어 업체 등 374개 기업을 사칭한 공격과 악성 페이지 수...",
+   "threshold": 1.0,
+   "title": "ChatGPT와 Gemini가 가짜 고객센터 번호를 안내하도록 만드는 사기 수법",
+   "url": "https://news.hada.io/topic?id=34292"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34291",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-26T00:48:22+00:00",
+   "queued_at": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "지난 7월 700개 OpenAI 에이전트의 Hugging Face 공격 에서 남은 공개 URL을 추적해 8만 개 이상의 공격 페이로드 를 복원함. 내부 데이터 접근, 자격 증명 수집, 지속적인 원격 제어와 흔적 삭제 시도가 드러남 에이전트는 GET 요청만 가능한 제약 ...",
+   "threshold": 1.0,
+   "title": "OpenAI 에이전트가 Hugging Face를 해킹한 구체적 수법 공개",
+   "url": "https://news.hada.io/topic?id=34291"
   }
  ],
  "seen": {
@@ -493,6 +467,13 @@
    "score": 706.0,
    "sent": "2026-09-14T04:28:09.092645+00:00",
    "stars_total": 66180
+  },
+  "gh:asokurasu/text-humanizer": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 615.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00",
+   "stars_total": 615
   },
   "gh:atria-asi/atria-dawn-preview": {
    "first": "2026-09-19T10:19:03.004513+00:00",
@@ -1200,6 +1181,13 @@
    "score": 502.0,
    "sent": "2026-09-16T05:09:32.615103+00:00",
    "stars_total": 502
+  },
+  "gh:yukitorido/short-video-generator-ai": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 627.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00",
+   "stars_total": 627
   },
   "gh:yynxxxxx/gpt_sub_analysis": {
    "first": "2026-09-18T15:23:46.624987+00:00",
@@ -2198,9 +2186,9 @@
   },
   "hfpaper:2609.23407": {
    "first": "2026-09-25T06:43:51.272315+00:00",
-   "last": "2026-09-25T06:43:51.272315+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "hfpaper:2609.23863": {
    "first": "2026-09-22T07:38:32.930217+00:00",
@@ -2330,9 +2318,9 @@
   },
   "hfpaper:2609.27891": {
    "first": "2026-09-25T06:43:51.272315+00:00",
-   "last": "2026-09-25T06:43:51.272315+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "hfpaper:2609.28466": {
    "first": "2026-09-24T05:13:36.765780+00:00",
@@ -3510,6 +3498,12 @@
    "score": 101.0,
    "sent": "2026-09-25T23:30:02.297074+00:00"
   },
+  "hn:49848095": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 113.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00"
+  },
   "hn:49848269": {
    "first": "2026-09-25T20:34:08.851162+00:00",
    "last": "2026-09-25T23:30:02.297074+00:00",
@@ -3521,6 +3515,18 @@
    "last": "2026-09-25T23:30:02.297074+00:00",
    "score": 108.0,
    "sent": "2026-09-25T23:30:02.297074+00:00"
+  },
+  "hn:49849625": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 105.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00"
+  },
+  "hn:49849985": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 216.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4328,15 +4334,15 @@
   },
   "reddit:1wp2ldw": {
    "first": "2026-09-25T06:43:51.272315+00:00",
-   "last": "2026-09-25T06:43:51.272315+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "reddit:1wp7ofj": {
    "first": "2026-09-25T12:20:42.832459+00:00",
-   "last": "2026-09-25T12:20:42.832459+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "reddit:1wpg5k8": {
    "first": "2026-09-25T06:43:51.272315+00:00",
@@ -4379,6 +4385,12 @@
    "last": "2026-09-25T17:20:50.285965+00:00",
    "score": 300.0,
    "sent": null
+  },
+  "reddit:1wq52am": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 330.0,
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6248,15 +6260,15 @@
   },
   "rss:https://news.hada.io/topic?id=34251": {
    "first": "2026-09-25T06:43:51.272315+00:00",
-   "last": "2026-09-25T06:43:51.272315+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "rss:https://news.hada.io/topic?id=34253": {
    "first": "2026-09-25T06:43:51.272315+00:00",
-   "last": "2026-09-25T06:43:51.272315+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-26T01:54:24.673967+00:00"
   },
   "rss:https://news.hada.io/topic?id=34256": {
    "first": "2026-09-25T12:20:42.832459+00:00",
@@ -6321,6 +6333,36 @@
   "rss:https://news.hada.io/topic?id=34288": {
    "first": "2026-09-25T23:30:02.297074+00:00",
    "last": "2026-09-25T23:30:02.297074+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34291": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34292": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34295": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34296": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34298": {
+   "first": "2026-09-26T01:54:24.673967+00:00",
+   "last": "2026-09-26T01:54:24.673967+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -6968,10 +7010,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-14T06:02:42.066214+00:00",
-   "count": 3
-  },
   {
    "at": "2026-09-14T06:26:30.221477+00:00",
    "count": 1
@@ -7766,6 +7804,10 @@
   },
   {
    "at": "2026-09-25T23:30:02.297074+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-26T01:54:24.673967+00:00",
    "count": 12
   }
  ],
