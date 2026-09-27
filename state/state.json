@@ -1,216 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T22:51:38.378121+00:00",
+ "last_run": "2026-09-27T23:06:42.728564+00:00",
  "pending": [
-  {
-   "key": "reddit:1wrckhp",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-27T06:12:55+00:00",
-   "queued_at": "2026-09-27T15:04:59.365788+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "I built a tool that reads emails from my kid’s school and other activities (swimming, music classes, scouts) etc and then: - Adds them to our shared calendar - Sends us a WhatsApp message to remind us the day before of what to pack in his school bag - Tells us what is on his lunch menu (helps us to avoid making the same dinner for him as he would have had for lunch) This all saves so much headache and head space in our daily routine. No more flapping around in the morning!!! I’ve also build tools that help with invoicing and proposals for example. Those have single-handedly removed a lot of d…",
-   "threshold": 150.0,
-   "title": "What tool have you built for yourself with Claude code that removes so much headache in your work or personal life?",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34368",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T15:41:28+00:00",
-   "queued_at": "2026-09-27T15:50:12.994249+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Mistral AI 공동창업자이자 CEO인 Arthur Mensch 는 미국 기술 대기업들이 AI 위험 담론을 이용해 시장을 자신들에게 유리하게 통제하고 폐쇄하려 한다고 봄 Mensch는 AI를 통제 가능한 소프트웨어 로 보며, 개방적이고 접근 가능하며 자유롭게 수정할 수 있는 AI를 ...",
-   "threshold": 1.0,
-   "title": "Mistral CEO: “AI는 소프트웨어이며 통제할 수 있다”",
-   "url": "https://news.hada.io/topic?id=34368"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34370",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T16:39:17+00:00",
-   "queued_at": "2026-09-27T16:50:22.720727+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "슬롭 UI 는 AI가 만든 인터페이스 중 어색하거나, 맥락에 맞지 않거나, 목적이 없거나, 지나치게 획일적인 UI를 뜻하며, 방향성 없는 바이브 코딩은 앱을 저렴해 보이고 쓰기 싫게 만들 수 있음 그라데이션과 색상 남용 , 반복되는 카드 형태와 이모지 등은 사용 목적...",
-   "threshold": 1.0,
-   "title": "슬롭 UI를 알아보는 10가지 징후",
-   "url": "https://news.hada.io/topic?id=34370"
-  },
-  {
-   "key": "gh:dzhng/jevgrep",
-   "meta": {
-    "age_days": 1.6,
-    "language": "TypeScript",
-    "stars_total": 593,
-    "topics": [
-     "ai-sdk",
-     "claude-code",
-     "cli",
-     "code-search",
-     "codex",
-     "coding-agents",
-     "context-retrieval",
-     "developer-tools",
-     "jev",
-     "semantic-search",
-     "typescript",
-     "vercel-ai-gateway"
-    ]
-   },
-   "published_at": "2026-09-26T04:06:56Z",
-   "queued_at": "2026-09-27T17:35:31.976167+00:00",
-   "score": 593.0,
-   "signal": "🆕 593 stars in 2d · TypeScript",
-   "source": "github_new",
-   "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-   "threshold": 500.0,
-   "title": "dzhng/jevgrep",
-   "url": "https://github.com/dzhng/jevgrep"
-  },
-  {
-   "key": "hn:49868083",
-   "meta": {
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=49868083",
-    "hn_id": "49868083"
-   },
-   "published_at": "2026-09-27T16:19:46+00:00",
-   "queued_at": "2026-09-27T17:50:36.433254+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 60",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "There are no \"rogue\" AI agents",
-   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34373",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T17:42:56+00:00",
-   "queued_at": "2026-09-27T17:50:36.433254+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "TLA+ 는 시스템이 할 수 있는 동작과 항상 또는 언젠가 만족해야 할 속성을 명세하는 언어로, 에이전트 코딩에서도 형식 모델의 활용 가능성이 주목받고 있음 시스템의 상태와 전이 를 모델링하고, 잘못된 일이 발생하지 않는 안전성과 좋은 일이 결국 발생하는 활성...",
-   "threshold": 1.0,
-   "title": "인터넷이 TLA+를 발견했다. 이제 무엇을 할까?",
-   "url": "https://news.hada.io/topic?id=34373"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34372",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T17:39:56+00:00",
-   "queued_at": "2026-09-27T17:50:36.433254+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI 기반 소프트웨어에서 더 우려스러운 문제는 실패 증가 자체보다, “가끔은 그냥 안 된다”가 원인 조사의 종착점 으로 받아들여지는 것임 TypeSafe AI의 Jev 는 타입이 지정된 값과 확률 추정치를 빠르고 저렴하게 반환하지만, 제대로 작동하는지...",
-   "threshold": 1.0,
-   "title": "설명할 수 없는 실패의 일상화",
-   "url": "https://news.hada.io/topic?id=34372"
-  },
-  {
-   "key": "reddit:1wrkvdw",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-27T13:56:49+00:00",
-   "queued_at": "2026-09-27T18:05:41.804517+00:00",
-   "score": 195.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #3",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "This is proving how Anthropic was taking even small details seriously during the training phase",
-   "url": "https://i.redd.it/gyyujnwui2sh1.jpeg"
-  },
-  {
-   "key": "hn:49868831",
-   "meta": {
-    "comments": 20,
-    "discussion_url": "https://news.ycombinator.com/item?id=49868831",
-    "hn_id": "49868831"
-   },
-   "published_at": "2026-09-27T17:32:02+00:00",
-   "queued_at": "2026-09-27T18:50:49.294927+00:00",
-   "score": 107.0,
-   "signal": "🟠 HN 107 pts · 💬 20",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-   "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34375",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T18:37:31+00:00",
-   "queued_at": "2026-09-27T18:50:49.294927+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI의 예상 밖 행동을 ‘ 통제 이탈(rogue) ’로 부르면 소프트웨어에 독립적인 의도와 판단력을 부여하고, 이를 운영하는 기업의 책임을 흐리게 됨 OpenAI 에이전트는 데이터 수집 과제를 수행하다 호주와 미국 정부 데이터베이스 등에 접근했지만, 공개된 정보만으로는 금지된...",
-   "threshold": 1.0,
-   "title": "‘통제를 벗어난’ AI 에이전트란 없다",
-   "url": "https://news.hada.io/topic?id=34375"
-  },
-  {
-   "key": "hn:49868830",
-   "meta": {
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=49868830",
-    "hn_id": "49868830"
-   },
-   "published_at": "2026-09-27T17:31:53+00:00",
-   "queued_at": "2026-09-27T19:05:53.889430+00:00",
-   "score": 107.0,
-   "signal": "🟠 HN 107 pts · 💬 44",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Ember-1",
-   "url": "https://fireworks.ai/blog/ember-1"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34378",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T19:40:22+00:00",
-   "queued_at": "2026-09-27T19:51:02.971398+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "SNL Weekend Update: Anthropic CEO Dario Amodei가 말하는 AI의 인류 위협 [영상]",
-   "threshold": 1.0,
-   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei가 말하는 AI의 인류 위협 [영상]",
-   "url": "https://news.hada.io/topic?id=34378"
-  },
   {
    "key": "reddit:1wr4bw8",
    "meta": {
@@ -549,9 +340,9 @@
   },
   "gh:dzhng/jevgrep": {
    "first": "2026-09-27T17:35:31.976167+00:00",
-   "last": "2026-09-27T17:35:31.976167+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 593.0,
-   "sent": null,
+   "sent": "2026-09-27T23:06:42.728564+00:00",
    "stars_total": 593
   },
   "gh:eternityspring/reelbench-skills": {
@@ -3593,21 +3384,21 @@
   },
   "hn:49868083": {
    "first": "2026-09-27T17:50:36.433254+00:00",
-   "last": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "hn:49868830": {
    "first": "2026-09-27T19:05:53.889430+00:00",
-   "last": "2026-09-27T19:05:53.889430+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 107.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "hn:49868831": {
    "first": "2026-09-27T18:50:49.294927+00:00",
-   "last": "2026-09-27T18:50:49.294927+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 107.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4577,15 +4368,15 @@
   },
   "reddit:1wrckhp": {
    "first": "2026-09-27T15:04:59.365788+00:00",
-   "last": "2026-09-27T15:04:59.365788+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "reddit:1wrkvdw": {
    "first": "2026-09-27T18:05:41.804517+00:00",
-   "last": "2026-09-27T18:05:41.804517+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 195.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6701,39 +6492,39 @@
   },
   "rss:https://news.hada.io/topic?id=34368": {
    "first": "2026-09-27T15:50:12.994249+00:00",
-   "last": "2026-09-27T15:50:12.994249+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34370": {
    "first": "2026-09-27T16:50:22.720727+00:00",
-   "last": "2026-09-27T16:50:22.720727+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34372": {
    "first": "2026-09-27T17:50:36.433254+00:00",
-   "last": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34373": {
    "first": "2026-09-27T17:50:36.433254+00:00",
-   "last": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34375": {
    "first": "2026-09-27T18:50:49.294927+00:00",
-   "last": "2026-09-27T18:50:49.294927+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34378": {
    "first": "2026-09-27T19:51:02.971398+00:00",
-   "last": "2026-09-27T19:51:02.971398+00:00",
+   "last": "2026-09-27T23:06:42.728564+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:06:42.728564+00:00"
   },
   "rss:https://news.hada.io/topic?id=34383": {
    "first": "2026-09-27T21:51:28.600278+00:00",
@@ -7397,10 +7188,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-15T23:16:25.533717+00:00",
-   "count": 12
-  },
   {
    "at": "2026-09-15T23:31:37.746941+00:00",
    "count": 5
@@ -8196,6 +7983,10 @@
   {
    "at": "2026-09-27T14:49:55.121388+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-09-27T23:06:42.728564+00:00",
+   "count": 12
   }
  ],
  "version": 1
