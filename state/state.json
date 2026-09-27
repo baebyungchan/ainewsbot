@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T16:35:17.500122+00:00",
+ "last_run": "2026-09-27T16:50:22.720727+00:00",
  "pending": [
   {
    "key": "reddit:1wrckhp",
@@ -34,6 +34,21 @@
    "threshold": 1.0,
    "title": "Mistral CEO: “AI는 소프트웨어이며 통제할 수 있다”",
    "url": "https://news.hada.io/topic?id=34368"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34370",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T16:39:17+00:00",
+   "queued_at": "2026-09-27T16:50:22.720727+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "슬롭 UI 는 AI가 만든 인터페이스 중 어색하거나, 맥락에 맞지 않거나, 목적이 없거나, 지나치게 획일적인 UI를 뜻하며, 방향성 없는 바이브 코딩은 앱을 저렴해 보이고 쓰기 싫게 만들 수 있음 그라데이션과 색상 남용 , 반복되는 카드 형태와 이모지 등은 사용 목적...",
+   "threshold": 1.0,
+   "title": "슬롭 UI를 알아보는 10가지 징후",
+   "url": "https://news.hada.io/topic?id=34370"
   }
  ],
  "seen": {
@@ -6415,6 +6430,12 @@
   "rss:https://news.hada.io/topic?id=34368": {
    "first": "2026-09-27T15:50:12.994249+00:00",
    "last": "2026-09-27T15:50:12.994249+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34370": {
+   "first": "2026-09-27T16:50:22.720727+00:00",
+   "last": "2026-09-27T16:50:22.720727+00:00",
    "score": 1.0,
    "sent": null
   },
