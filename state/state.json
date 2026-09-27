@@ -1,76 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T23:06:42.728564+00:00",
- "pending": [
-  {
-   "key": "reddit:1wr4bw8",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wr4bw8/at_least_the_ai_takeover_will_come_with_sick_music/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wr4bw8/at_least_the_ai_takeover_will_come_with_sick_music/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-26T23:06:59+00:00",
-   "queued_at": "2026-09-27T20:06:06.478178+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "At least the AI takeover will come with sick music",
-   "url": "https://v.redd.it/09edducq4yrh1"
-  },
-  {
-   "key": "reddit:1wr5ylm",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-27T00:23:41+00:00",
-   "queued_at": "2026-09-27T20:51:13.456177+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
-   "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34384",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T21:42:38+00:00",
-   "queued_at": "2026-09-27T21:51:28.600278+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "채팅 템플릿 은 LLM이 자신에 대해 답하는 말투를 바꿈. 실험한 8개 지시 튜닝 모델 모두에서 템플릿을 적용하면 “저는 AI일 뿐입니다” 같은 한계 고지형 응답이 늘고, “저는 느낍니다” 같은 경험 서술형 응답은 줄어듦 템플릿을 제거하자 한계 고지형 응답 비율은 53%에...",
-   "threshold": 1.0,
-   "title": "“언어 모델로서”: 채팅 템플릿이 LLM의 자기 언급 말투를 전환함",
-   "url": "https://news.hada.io/topic?id=34384"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34383",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-27T21:39:38+00:00",
-   "queued_at": "2026-09-27T21:51:28.600278+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "오래된 농구 팬 밈을 찾으려던 Google 검색 에, Dario라는 남자에게 거절당한 사람을 위로하는 듯한 AI Overview 가 나타남 검색어 hes never coming over dario 는 Dario Saric 의 미국 합류를 기다리던 Philadelphia 76ers 팬들의 농담...",
-   "threshold": 1.0,
-   "title": "Google은 언제부터 이렇게 이상해졌을까?",
-   "url": "https://news.hada.io/topic?id=34383"
-  }
- ],
+ "last_run": "2026-09-27T23:21:45.042095+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4350,21 +4281,27 @@
   },
   "reddit:1wr4bw8": {
    "first": "2026-09-27T20:06:06.478178+00:00",
-   "last": "2026-09-27T20:06:06.478178+00:00",
+   "last": "2026-09-27T23:21:45.042095+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-27T23:21:45.042095+00:00"
   },
   "reddit:1wr5ylm": {
    "first": "2026-09-27T20:51:13.456177+00:00",
-   "last": "2026-09-27T20:51:13.456177+00:00",
+   "last": "2026-09-27T23:21:45.042095+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-27T23:21:45.042095+00:00"
   },
   "reddit:1wr8r6g": {
    "first": "2026-09-27T09:20:18.452665+00:00",
    "last": "2026-09-27T09:20:18.452665+00:00",
    "score": 220.00000000000003,
    "sent": "2026-09-27T09:20:18.452665+00:00"
+  },
+  "reddit:1wr9enj": {
+   "first": "2026-09-27T23:21:45.042095+00:00",
+   "last": "2026-09-27T23:21:45.042095+00:00",
+   "score": 300.0,
+   "sent": "2026-09-27T23:21:45.042095+00:00"
   },
   "reddit:1wrckhp": {
    "first": "2026-09-27T15:04:59.365788+00:00",
@@ -6528,15 +6465,15 @@
   },
   "rss:https://news.hada.io/topic?id=34383": {
    "first": "2026-09-27T21:51:28.600278+00:00",
-   "last": "2026-09-27T21:51:28.600278+00:00",
+   "last": "2026-09-27T23:21:45.042095+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:21:45.042095+00:00"
   },
   "rss:https://news.hada.io/topic?id=34384": {
    "first": "2026-09-27T21:51:28.600278+00:00",
-   "last": "2026-09-27T21:51:28.600278+00:00",
+   "last": "2026-09-27T23:21:45.042095+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-27T23:21:45.042095+00:00"
   },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
@@ -7188,10 +7125,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-15T23:31:37.746941+00:00",
-   "count": 5
-  },
   {
    "at": "2026-09-16T00:01:30.318950+00:00",
    "count": 1
@@ -7987,6 +7920,10 @@
   {
    "at": "2026-09-27T23:06:42.728564+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-27T23:21:45.042095+00:00",
+   "count": 5
   }
  ],
  "version": 1
