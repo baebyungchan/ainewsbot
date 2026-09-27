@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T21:36:26.806335+00:00",
+ "last_run": "2026-09-27T21:51:28.600278+00:00",
  "pending": [
   {
    "key": "reddit:1wrckhp",
@@ -248,6 +248,36 @@
    "threshold": 300.0,
    "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34384",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T21:42:38+00:00",
+   "queued_at": "2026-09-27T21:51:28.600278+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "채팅 템플릿 은 LLM이 자신에 대해 답하는 말투를 바꿈. 실험한 8개 지시 튜닝 모델 모두에서 템플릿을 적용하면 “저는 AI일 뿐입니다” 같은 한계 고지형 응답이 늘고, “저는 느낍니다” 같은 경험 서술형 응답은 줄어듦 템플릿을 제거하자 한계 고지형 응답 비율은 53%에...",
+   "threshold": 1.0,
+   "title": "“언어 모델로서”: 채팅 템플릿이 LLM의 자기 언급 말투를 전환함",
+   "url": "https://news.hada.io/topic?id=34384"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34383",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T21:39:38+00:00",
+   "queued_at": "2026-09-27T21:51:28.600278+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "오래된 농구 팬 밈을 찾으려던 Google 검색 에, Dario라는 남자에게 거절당한 사람을 위로하는 듯한 AI Overview 가 나타남 검색어 hes never coming over dario 는 Dario Saric 의 미국 합류를 기다리던 Philadelphia 76ers 팬들의 농담...",
+   "threshold": 1.0,
+   "title": "Google은 언제부터 이렇게 이상해졌을까?",
+   "url": "https://news.hada.io/topic?id=34383"
   }
  ],
  "seen": {
@@ -6702,6 +6732,18 @@
   "rss:https://news.hada.io/topic?id=34378": {
    "first": "2026-09-27T19:51:02.971398+00:00",
    "last": "2026-09-27T19:51:02.971398+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34383": {
+   "first": "2026-09-27T21:51:28.600278+00:00",
+   "last": "2026-09-27T21:51:28.600278+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34384": {
+   "first": "2026-09-27T21:51:28.600278+00:00",
+   "last": "2026-09-27T21:51:28.600278+00:00",
    "score": 1.0,
    "sent": null
   },
