@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T17:35:31.976167+00:00",
+ "last_run": "2026-09-27T17:50:36.433254+00:00",
  "pending": [
   {
    "key": "reddit:1wrckhp",
@@ -80,6 +80,53 @@
    "threshold": 500.0,
    "title": "dzhng/jevgrep",
    "url": "https://github.com/dzhng/jevgrep"
+  },
+  {
+   "key": "hn:49868083",
+   "meta": {
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=49868083",
+    "hn_id": "49868083"
+   },
+   "published_at": "2026-09-27T16:19:46+00:00",
+   "queued_at": "2026-09-27T17:50:36.433254+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 60",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "There are no \"rogue\" AI agents",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34373",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T17:42:56+00:00",
+   "queued_at": "2026-09-27T17:50:36.433254+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "TLA+ 는 시스템이 할 수 있는 동작과 항상 또는 언젠가 만족해야 할 속성을 명세하는 언어로, 에이전트 코딩에서도 형식 모델의 활용 가능성이 주목받고 있음 시스템의 상태와 전이 를 모델링하고, 잘못된 일이 발생하지 않는 안전성과 좋은 일이 결국 발생하는 활성...",
+   "threshold": 1.0,
+   "title": "인터넷이 TLA+를 발견했다. 이제 무엇을 할까?",
+   "url": "https://news.hada.io/topic?id=34373"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34372",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T17:39:56+00:00",
+   "queued_at": "2026-09-27T17:50:36.433254+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 기반 소프트웨어에서 더 우려스러운 문제는 실패 증가 자체보다, “가끔은 그냥 안 된다”가 원인 조사의 종착점 으로 받아들여지는 것임 TypeSafe AI의 Jev 는 타입이 지정된 값과 확률 추정치를 빠르고 저렴하게 반환하지만, 제대로 작동하는지...",
+   "threshold": 1.0,
+   "title": "설명할 수 없는 실패의 일상화",
+   "url": "https://news.hada.io/topic?id=34372"
   }
  ],
  "seen": {
@@ -3393,6 +3440,12 @@
    "score": 107.0,
    "sent": "2026-09-27T09:20:18.452665+00:00"
   },
+  "hn:49868083": {
+   "first": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T17:50:36.433254+00:00",
+   "score": 102.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -6474,6 +6527,18 @@
   "rss:https://news.hada.io/topic?id=34370": {
    "first": "2026-09-27T16:50:22.720727+00:00",
    "last": "2026-09-27T16:50:22.720727+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34372": {
+   "first": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T17:50:36.433254+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34373": {
+   "first": "2026-09-27T17:50:36.433254+00:00",
+   "last": "2026-09-27T17:50:36.433254+00:00",
    "score": 1.0,
    "sent": null
   },
