@@ -1,7 +1,26 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T14:49:55.121388+00:00",
- "pending": [],
+ "last_run": "2026-09-27T15:04:59.365788+00:00",
+ "pending": [
+  {
+   "key": "reddit:1wrckhp",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-27T06:12:55+00:00",
+   "queued_at": "2026-09-27T15:04:59.365788+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "I built a tool that reads emails from my kid’s school and other activities (swimming, music classes, scouts) etc and then: - Adds them to our shared calendar - Sends us a WhatsApp message to remind us the day before of what to pack in his school bag - Tells us what is on his lunch menu (helps us to avoid making the same dinner for him as he would have had for lunch) This all saves so much headache and head space in our daily routine. No more flapping around in the morning!!! I’ve also build tools that help with invoicing and proposals for example. Those have single-handedly removed a lot of d…",
+   "threshold": 150.0,
+   "title": "What tool have you built for yourself with Claude code that removes so much headache in your work or personal life?",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4259,6 +4278,12 @@
    "last": "2026-09-27T09:20:18.452665+00:00",
    "score": 220.00000000000003,
    "sent": "2026-09-27T09:20:18.452665+00:00"
+  },
+  "reddit:1wrckhp": {
+   "first": "2026-09-27T15:04:59.365788+00:00",
+   "last": "2026-09-27T15:04:59.365788+00:00",
+   "score": 150.0,
+   "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
