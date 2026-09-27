@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-27T15:37:01.504387+00:00",
+ "last_run": "2026-09-27T15:50:12.994249+00:00",
  "pending": [
   {
    "key": "reddit:1wrckhp",
@@ -19,6 +19,21 @@
    "threshold": 150.0,
    "title": "What tool have you built for yourself with Claude code that removes so much headache in your work or personal life?",
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34368",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-27T15:41:28+00:00",
+   "queued_at": "2026-09-27T15:50:12.994249+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Mistral AI 공동창업자이자 CEO인 Arthur Mensch 는 미국 기술 대기업들이 AI 위험 담론을 이용해 시장을 자신들에게 유리하게 통제하고 폐쇄하려 한다고 봄 Mensch는 AI를 통제 가능한 소프트웨어 로 보며, 개방적이고 접근 가능하며 자유롭게 수정할 수 있는 AI를 ...",
+   "threshold": 1.0,
+   "title": "Mistral CEO: “AI는 소프트웨어이며 통제할 수 있다”",
+   "url": "https://news.hada.io/topic?id=34368"
   }
  ],
  "seen": {
@@ -6396,6 +6411,12 @@
    "last": "2026-09-27T14:49:55.121388+00:00",
    "score": 1.0,
    "sent": "2026-09-27T14:49:55.121388+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=34368": {
+   "first": "2026-09-27T15:50:12.994249+00:00",
+   "last": "2026-09-27T15:50:12.994249+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
