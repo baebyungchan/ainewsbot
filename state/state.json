@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-28T17:03:12.688400+00:00",
+ "last_run": "2026-09-28T20:45:28.608150+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34435",
@@ -91,6 +91,230 @@
    "threshold": 1.0,
    "title": "Faster Rates for Federated Variational Inequalities",
    "url": "https://machinelearning.apple.com/research/federated-variational-inequalities"
+  },
+  {
+   "key": "hn:49881850",
+   "meta": {
+    "comments": 257,
+    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
+    "hn_id": "49881850"
+   },
+   "published_at": "2026-09-28T17:58:11+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 390.0,
+   "signal": "🟠 HN 390 pts · 💬 257",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Sonnet 5.5",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5"
+  },
+  {
+   "key": "hfpaper:2609.26333",
+   "meta": {
+    "arxiv_id": "2609.26333",
+    "discussion_url": "https://arxiv.org/abs/2609.26333",
+    "upvotes": 38
+   },
+   "published_at": "2026-09-21T20:00:00.000Z",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 38.0,
+   "signal": "📄 논문 ▲ 38 · Andrei Panferov, Maximilian Kleinegger 외",
+   "source": "hf_paper",
+   "summary": "Prefill and decode reward different approaches to quantization: low-precision arithmetic accelerates prompt processing, while compact weights reduce memory traffic during generation. We propose \"disaggregated quantization\" (DQ), which specializes computation formats, weights and storage placement to both of these phases. On Qwen 3 and Gemma 3, removing activation quantization specifically on decode improves accuracy on decode-heavy tasks without increasing inference cost. Training separate compute-native prefill weights accelerates prompt processing relative to weight-only inference while mat…",
+   "threshold": 15.0,
+   "title": "Disaggregated Quantization: Specializing LLM Prefill and Decode",
+   "url": "https://huggingface.co/papers/2609.26333"
+  },
+  {
+   "key": "reddit:1wslxzs",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
+    "rank": 3,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-09-28T18:03:31+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 195.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #3",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family",
+   "url": "https://v.redd.it/ml5pptqksash1"
+  },
+  {
+   "key": "hn:49879401",
+   "meta": {
+    "comments": 63,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
+    "hn_id": "49879401"
+   },
+   "published_at": "2026-09-28T15:16:13+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 113.0,
+   "signal": "🟠 HN 113 pts · 💬 63",
+   "source": "hn",
+   "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link. While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than p…",
+   "threshold": 100.0,
+   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+   "url": "https://hn.watch/"
+  },
+  {
+   "key": "hn:49875801",
+   "meta": {
+    "comments": 51,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875801",
+    "hn_id": "49875801"
+   },
+   "published_at": "2026-09-28T10:14:41+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 113.0,
+   "signal": "🟠 HN 113 pts · 💬 51",
+   "source": "hn",
+   "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible for way more than a shopping list, this is just what I built first. This firmware only uses Wi-Fi. Fully vibe-coded with Claude Code, I didn&#x27;t hand-write this. I wanted to see how Claude would get on with building something useful for a new hardware device. As it&#x27;s stuck to the fridge it&#x27;s easy for the family to use, and it&#x27;s already being…",
+   "threshold": 100.0,
+   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+   "url": "https://github.com/seamusc/papermono-shopping-list"
+  },
+  {
+   "key": "hn:49876148",
+   "meta": {
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=49876148",
+    "hn_id": "49876148"
+   },
+   "published_at": "2026-09-28T11:02:12+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 103.0,
+   "signal": "🟠 HN 103 pts · 💬 40",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "What would a serious AI product look like?",
+   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
+  },
+  {
+   "key": "rss:https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "threshold": 1.0,
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+  },
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-09-28T19:00:00+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "threshold": 1.0,
+   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+  },
+  {
+   "key": "rss:https://mistral.ai/news/hallo-deutschland",
+   "meta": {
+    "feed": "Mistral"
+   },
+   "published_at": "2026-09-28T15:57:59+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "📰 Mistral",
+   "source": "rss",
+   "summary": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
+   "threshold": 1.0,
+   "title": "Hallo, Deutschland!",
+   "url": "https://mistral.ai/news/hallo-deutschland/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/28/joedaroo",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-28T19:11:42+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden…",
+   "threshold": 1.0,
+   "title": "Quoting @joedaroo",
+   "url": "https://simonwillison.net/2026/Sep/28/joedaroo/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34446",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T19:40:31+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Windows 11½ 는 Windows 데스크톱을 흉내 내며 구독, 광고, AI 기능, 업데이트, 저장 공간 경고를 풍자하는 비공식 패러디 사이트임 Edge의 다른 브라우저 설치 만류, 유효한 구독의 재인증 요구, 계산에도 업그레이드를 요구하는 Excel 등으로 소프트웨어 사용의 번거로움...",
+   "threshold": 1.0,
+   "title": "Windows 11½",
+   "url": "https://news.hada.io/topic?id=34446"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34444",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T18:45:21+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Claude Sonnet 5.5 는 범위가 명확한 일상 업무, 버그 수정, 문서/슬라이드/스프레드시트 제작에 강점을 둔 모델로, 복잡하고 지속적인 판단이 필요한 작업용 Opus 5.5를 보완함 Sonnet 5보다 출력 생성 속도가 30% 이상 빠르며 , 토큰 단가는 같지만 같은 작업에 필...",
+   "threshold": 1.0,
+   "title": "Claude Sonnet 5.5",
+   "url": "https://news.hada.io/topic?id=34444"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34440",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T17:46:43+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "MongoDB CEO Chirantan &quot;CJ&quot; Desai 가 취임 1년도 되지 않아 사임하고, Meta의 기업 고객 대상 AI 사업을 이끌기 위해 합류함 신설된 최고 기업 플랫폼 책임자 로서 Mark Zuckerberg CEO에게 직접 보고하며, Meta의 AI 기술 스택을 기업이 도입할 수 있는 ...",
+   "threshold": 1.0,
+   "title": "MongoDB CEO, Meta 합류 위해 사임",
+   "url": "https://news.hada.io/topic?id=34440"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34439",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T17:43:43+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI가 만드는 코드의 품질보다 더 큰 문제는 팀이 시스템 아키텍처와 선택의 의도 를 이해하지 못한 채 Claude에만 의존하고, 계획 없이 개발하는 데 있음 출시량만 압박하는 조직 에서는 AI가 명세부터 코드와 보고서까지 만들지만, 사람이 결과를 읽고 코드의 동작을...",
+   "threshold": 1.0,
+   "title": "문제는 AI 코드가 아니라 시스템 아키텍처와 설계 의도를 모르는 데 있음",
+   "url": "https://news.hada.io/topic?id=34439"
   }
  ],
  "seen": {
@@ -2106,6 +2330,12 @@
    "score": 17.0,
    "sent": "2026-09-23T08:55:59.179427+00:00"
   },
+  "hfpaper:2609.26333": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 38.0,
+   "sent": null
+  },
   "hfpaper:2609.26355": {
    "first": "2026-09-24T17:02:55.332658+00:00",
    "last": "2026-09-25T06:43:51.272315+00:00",
@@ -3522,10 +3752,34 @@
    "score": 112.0,
    "sent": "2026-09-28T12:17:01.235576+00:00"
   },
+  "hn:49875801": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 113.0,
+   "sent": null
+  },
+  "hn:49876148": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 103.0,
+   "sent": null
+  },
+  "hn:49879401": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 113.0,
+   "sent": null
+  },
   "hn:49880312": {
    "first": "2026-09-28T16:48:10.278551+00:00",
    "last": "2026-09-28T16:48:10.278551+00:00",
    "score": 105.0,
+   "sent": null
+  },
+  "hn:49881850": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 390.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -4554,6 +4808,12 @@
    "score": 150.0,
    "sent": "2026-09-28T12:17:01.235576+00:00"
   },
+  "reddit:1wslxzs": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 195.0,
+   "sent": null
+  },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
    "last": "2026-09-19T01:30:41.389990+00:00",
@@ -4617,6 +4877,12 @@
   "rss:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -4859,6 +5125,12 @@
    "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:43:43.031547+00:00"
+  },
+  "rss:https://mistral.ai/news/hallo-deutschland": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://mistral.ai/news/legacy-code-modernization": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6840,6 +7112,30 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34439": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34440": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34444": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34446": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -6959,6 +7255,12 @@
    "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:43:43.031547+00:00"
+  },
+  "rss:https://openai.com/index/lenfest-ai-collaborative-expansion": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/model-misalignment-reporting-framework": {
    "first": "2026-09-16T23:53:51.201555+00:00",
@@ -7403,6 +7705,12 @@
    "last": "2026-09-28T02:07:23.920134+00:00",
    "score": 1.0,
    "sent": "2026-09-28T02:07:23.920134+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/28/joedaroo": {
+   "first": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T20:45:28.608150+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/28/muse-ai-agent": {
    "first": "2026-09-28T04:37:37.661938+00:00",
