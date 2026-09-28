@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-28T16:33:04.778927+00:00",
+ "last_run": "2026-09-28T16:48:10.278551+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34435",
@@ -59,6 +59,38 @@
    "threshold": 1.0,
    "title": "Imp - DSPy를 BEAM으로 완전히 포팅한 프로젝트",
    "url": "https://news.hada.io/topic?id=34438"
+  },
+  {
+   "key": "hn:49880312",
+   "meta": {
+    "comments": 53,
+    "discussion_url": "https://news.ycombinator.com/item?id=49880312",
+    "hn_id": "49880312"
+   },
+   "published_at": "2026-09-28T16:11:42+00:00",
+   "queued_at": "2026-09-28T16:48:10.278551+00:00",
+   "score": 105.0,
+   "signal": "🟠 HN 105 pts · 💬 53",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "The problem is not the AI code, but nobody knows anything anymore",
+   "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/federated-variational-inequalities",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-09-28T00:00:00+00:00",
+   "queued_at": "2026-09-28T16:48:10.278551+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap remains between existing convergence rates and the state-of-the-art bounds known for federated convex optimization. In this work, we address this limitation by establishing a series of improved convergence rates. First, we show that, for general smooth and monotone variational inequal…",
+   "threshold": 1.0,
+   "title": "Faster Rates for Federated Variational Inequalities",
+   "url": "https://machinelearning.apple.com/research/federated-variational-inequalities"
   }
  ],
  "seen": {
@@ -3490,6 +3522,12 @@
    "score": 112.0,
    "sent": "2026-09-28T12:17:01.235576+00:00"
   },
+  "hn:49880312": {
+   "first": "2026-09-28T16:48:10.278551+00:00",
+   "last": "2026-09-28T16:48:10.278551+00:00",
+   "score": 105.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -4755,6 +4793,12 @@
    "last": "2026-09-18T14:53:39.916510+00:00",
    "score": 1.0,
    "sent": "2026-09-18T14:53:39.916510+00:00"
+  },
+  "rss:https://machinelearning.apple.com/research/federated-variational-inequalities": {
+   "first": "2026-09-28T16:48:10.278551+00:00",
+   "last": "2026-09-28T16:48:10.278551+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://machinelearning.apple.com/research/glyph-column-description-tagging": {
    "first": "2026-09-16T21:39:09.110065+00:00",
