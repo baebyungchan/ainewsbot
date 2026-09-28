@@ -1,7 +1,41 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-28T20:45:28.608150+00:00",
+ "last_run": "2026-09-28T23:41:27.498113+00:00",
  "pending": [
+  {
+   "key": "hn:49876148",
+   "meta": {
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=49876148",
+    "hn_id": "49876148"
+   },
+   "published_at": "2026-09-28T11:02:12+00:00",
+   "queued_at": "2026-09-28T20:45:28.608150+00:00",
+   "score": 103.0,
+   "signal": "🟠 HN 103 pts · 💬 40",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "What would a serious AI product look like?",
+   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
+  },
+  {
+   "key": "hn:49882781",
+   "meta": {
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=49882781",
+    "hn_id": "49882781"
+   },
+   "published_at": "2026-09-28T18:58:53+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 47",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+   "url": "https://stateofutopia.com/experiments/microllmlab/"
+  },
   {
    "key": "rss:https://news.hada.io/topic?id=34435",
    "meta": {
@@ -16,34 +50,6 @@
    "threshold": 1.0,
    "title": "코딩은 해결된 문제가 아니다",
    "url": "https://news.hada.io/topic?id=34435"
-  },
-  {
-   "key": "gh:yihui-dev/awesome-opus5-5-videos",
-   "meta": {
-    "age_days": 1.4,
-    "language": null,
-    "stars_total": 638,
-    "topics": [
-     "ai-video",
-     "awesome",
-     "awesome-list",
-     "claude",
-     "claude-opus",
-     "creative-coding",
-     "motion-graphics",
-     "prompts",
-     "threejs"
-    ]
-   },
-   "published_at": "2026-09-27T06:19:36Z",
-   "queued_at": "2026-09-28T16:03:00.608760+00:00",
-   "score": 638.0,
-   "signal": "🆕 638 stars in 1d",
-   "source": "github_new",
-   "summary": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-   "threshold": 500.0,
-   "title": "yihui-dev/awesome-opus5-5-videos",
-   "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=34438",
@@ -61,23 +67,6 @@
    "url": "https://news.hada.io/topic?id=34438"
   },
   {
-   "key": "hn:49880312",
-   "meta": {
-    "comments": 53,
-    "discussion_url": "https://news.ycombinator.com/item?id=49880312",
-    "hn_id": "49880312"
-   },
-   "published_at": "2026-09-28T16:11:42+00:00",
-   "queued_at": "2026-09-28T16:48:10.278551+00:00",
-   "score": 105.0,
-   "signal": "🟠 HN 105 pts · 💬 53",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "The problem is not the AI code, but nobody knows anything anymore",
-   "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
-  },
-  {
    "key": "rss:https://machinelearning.apple.com/research/federated-variational-inequalities",
    "meta": {
     "feed": "Apple ML Research"
@@ -91,110 +80,6 @@
    "threshold": 1.0,
    "title": "Faster Rates for Federated Variational Inequalities",
    "url": "https://machinelearning.apple.com/research/federated-variational-inequalities"
-  },
-  {
-   "key": "hn:49881850",
-   "meta": {
-    "comments": 257,
-    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
-    "hn_id": "49881850"
-   },
-   "published_at": "2026-09-28T17:58:11+00:00",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 390.0,
-   "signal": "🟠 HN 390 pts · 💬 257",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Sonnet 5.5",
-   "url": "https://www.anthropic.com/claude-sonnet-5-5"
-  },
-  {
-   "key": "hfpaper:2609.26333",
-   "meta": {
-    "arxiv_id": "2609.26333",
-    "discussion_url": "https://arxiv.org/abs/2609.26333",
-    "upvotes": 38
-   },
-   "published_at": "2026-09-21T20:00:00.000Z",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 38.0,
-   "signal": "📄 논문 ▲ 38 · Andrei Panferov, Maximilian Kleinegger 외",
-   "source": "hf_paper",
-   "summary": "Prefill and decode reward different approaches to quantization: low-precision arithmetic accelerates prompt processing, while compact weights reduce memory traffic during generation. We propose \"disaggregated quantization\" (DQ), which specializes computation formats, weights and storage placement to both of these phases. On Qwen 3 and Gemma 3, removing activation quantization specifically on decode improves accuracy on decode-heavy tasks without increasing inference cost. Training separate compute-native prefill weights accelerates prompt processing relative to weight-only inference while mat…",
-   "threshold": 15.0,
-   "title": "Disaggregated Quantization: Specializing LLM Prefill and Decode",
-   "url": "https://huggingface.co/papers/2609.26333"
-  },
-  {
-   "key": "reddit:1wslxzs",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-09-28T18:03:31+00:00",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 195.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #3",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family",
-   "url": "https://v.redd.it/ml5pptqksash1"
-  },
-  {
-   "key": "hn:49879401",
-   "meta": {
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
-    "hn_id": "49879401"
-   },
-   "published_at": "2026-09-28T15:16:13+00:00",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 113.0,
-   "signal": "🟠 HN 113 pts · 💬 63",
-   "source": "hn",
-   "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link. While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than p…",
-   "threshold": 100.0,
-   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-   "url": "https://hn.watch/"
-  },
-  {
-   "key": "hn:49875801",
-   "meta": {
-    "comments": 51,
-    "discussion_url": "https://news.ycombinator.com/item?id=49875801",
-    "hn_id": "49875801"
-   },
-   "published_at": "2026-09-28T10:14:41+00:00",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 113.0,
-   "signal": "🟠 HN 113 pts · 💬 51",
-   "source": "hn",
-   "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible for way more than a shopping list, this is just what I built first. This firmware only uses Wi-Fi. Fully vibe-coded with Claude Code, I didn&#x27;t hand-write this. I wanted to see how Claude would get on with building something useful for a new hardware device. As it&#x27;s stuck to the fridge it&#x27;s easy for the family to use, and it&#x27;s already being…",
-   "threshold": 100.0,
-   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-   "url": "https://github.com/seamusc/papermono-shopping-list"
-  },
-  {
-   "key": "hn:49876148",
-   "meta": {
-    "comments": 40,
-    "discussion_url": "https://news.ycombinator.com/item?id=49876148",
-    "hn_id": "49876148"
-   },
-   "published_at": "2026-09-28T11:02:12+00:00",
-   "queued_at": "2026-09-28T20:45:28.608150+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 40",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "What would a serious AI product look like?",
-   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
   },
   {
    "key": "rss:https://openai.com/index/lenfest-ai-collaborative-expansion",
@@ -315,6 +200,159 @@
    "threshold": 1.0,
    "title": "문제는 AI 코드가 아니라 시스템 아키텍처와 설계 의도를 모르는 데 있음",
    "url": "https://news.hada.io/topic?id=34439"
+  },
+  {
+   "key": "rss:https://openai.com/form/codex-originals",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-28T00:00:00+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+   "threshold": 1.0,
+   "title": "Are you a Codex Original?",
+   "url": "https://openai.com/form/codex-originals"
+  },
+  {
+   "key": "rss:https://openai.com/index/basis-tax-workbook-with-astra",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-28T00:00:00+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+   "threshold": 1.0,
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+  },
+  {
+   "key": "rss:https://microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
+   "meta": {
+    "feed": "Microsoft Research"
+   },
+   "published_at": "2026-09-28T21:00:00+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🔬 Microsoft Research",
+   "source": "rss",
+   "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research .",
+   "threshold": 1.0,
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+   "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-28T22:07:38+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican i…",
+   "threshold": 1.0,
+   "title": "Claude Sonnet 5.5",
+   "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34458",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T22:40:38+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "World Labs가 AMD 합류를 위한 본계약을 체결 함. 규제 승인과 기타 통상적인 종결 조건 충족을 전제로 2026년 말까지 거래를 종결 할 것으로 예상됨 공간과 물리적 세계의 문제를 해결하는 AI 개발을 가속하기 위해 연구 규모와 도달 범위를 확대 하...",
+   "threshold": 1.0,
+   "title": "World Labs, AMD에 합류",
+   "url": "https://news.hada.io/topic?id=34458"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34457",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T22:37:38+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "미국 의회가 OpenAI와 Anthropic의 연구 활동 을 대상으로, 무엇을 어떻게 어떤 목적으로 연구하는지 공개적으로 사실관계를 조사해야 함 두 회사가 자사 기술의 위험을 부각하면서도 개발 중단 대신 정부의 잠재적 경쟁자 견제와 선도 연구소 주도의 개발 을 해법으...",
+   "threshold": 1.0,
+   "title": "AI 연구소를 조사할 때다",
+   "url": "https://news.hada.io/topic?id=34457"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34455",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T22:20:37+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "코딩 에이전트가 만든 PostgreSQL 인덱스는 개별 쿼리에는 적절했지만, 쓰기가 집중되는 테이블에 누적되는 비용 을 충분히 고려하지 못함 지원 도구의 tickets 벤치마크에서 인덱스가 16개인 생성 스키마는 수작업 기준 스키마보다 WAL을 1.8배 더 기록하고, 업...",
+   "threshold": 1.0,
+   "title": "인덱스 하나 더의 참을 수 없는 가벼움",
+   "url": "https://news.hada.io/topic?id=34455"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34453",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T22:08:08+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "PC, 이메일, 스마트폰은 업무 속도와 접근성을 높였지만, 절약한 시간은 직원에게 돌아오기보다 더 높은 업무 기대치 로 바뀌는 패턴을 보였음 AI는 업무를 빠르게 연결하는 데 그치지 않고 일부 업무를 직접 수행 한다는 점에서 다르며, 속도 향상으로 새로 생기는 ...",
+   "threshold": 1.0,
+   "title": "대부분의 기술 혁명은 직원들의 일을 더 힘들게 만들었다",
+   "url": "https://news.hada.io/topic?id=34453"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34452",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T21:37:32+00:00",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "“AI는 실수할 수 있으니 확인하세요”라고 요구한다면, 확인할 도구도 제공해야 함 . 오류 검증은 작은 면책 문구가 아니라 제품의 핵심 기능이어야 함 답변보다 원문 인용과 데이터 출처 를 앞세우고, 원본 자료·API에서 가져온 데이터와 모델이 생성하거나 가공한...",
+   "threshold": 1.0,
+   "title": "제대로 된 AI 제품은 어떤 모습이어야 할까?",
+   "url": "https://news.hada.io/topic?id=34452"
+  },
+  {
+   "key": "hfmodel:xingchen-agi/teleocr",
+   "meta": {
+    "downloads": 27904,
+    "likes": 778,
+    "pipeline": "image-text-to-text",
+    "rank": 5
+   },
+   "published_at": "2026-08-14T06:15:03.000Z",
+   "queued_at": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "signal": "🤗 트렌딩 #5 · ❤ 778 · ⬇ 27,904 · image-text-to-text",
+   "source": "hf_model",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "XingChen-AGI/TeleOCR",
+   "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
   }
  ],
  "seen": {
@@ -1188,9 +1226,9 @@
   },
   "gh:yihui-dev/awesome-opus5-5-videos": {
    "first": "2026-09-28T16:03:00.608760+00:00",
-   "last": "2026-09-28T16:03:00.608760+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 638.0,
-   "sent": null,
+   "sent": "2026-09-28T23:41:27.498113+00:00",
    "stars_total": 638
   },
   "gh:yilujian/easy-writing": {
@@ -1344,6 +1382,12 @@
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
    "score": 1.3,
+   "sent": null
+  },
+  "hfmodel:xingchen-agi/teleocr": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
    "sent": null
   },
   "hfmodel:xingchen-agi/xing4.0-29b-a4b": {
@@ -2332,9 +2376,9 @@
   },
   "hfpaper:2609.26333": {
    "first": "2026-09-28T20:45:28.608150+00:00",
-   "last": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 38.0,
-   "sent": null
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "hfpaper:2609.26355": {
    "first": "2026-09-24T17:02:55.332658+00:00",
@@ -3754,9 +3798,9 @@
   },
   "hn:49875801": {
    "first": "2026-09-28T20:45:28.608150+00:00",
-   "last": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 113.0,
-   "sent": null
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "hn:49876148": {
    "first": "2026-09-28T20:45:28.608150+00:00",
@@ -3766,21 +3810,45 @@
   },
   "hn:49879401": {
    "first": "2026-09-28T20:45:28.608150+00:00",
-   "last": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 113.0,
-   "sent": null
+   "sent": "2026-09-28T23:41:27.498113+00:00"
+  },
+  "hn:49879577": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 104.0,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "hn:49880312": {
    "first": "2026-09-28T16:48:10.278551+00:00",
-   "last": "2026-09-28T16:48:10.278551+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 105.0,
-   "sent": null
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "hn:49881850": {
    "first": "2026-09-28T20:45:28.608150+00:00",
-   "last": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 390.0,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
+  },
+  "hn:49882781": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 102.0,
    "sent": null
+  },
+  "hn:49883471": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 195.0,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
+  },
+  "hn:49883760": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 146.0,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -4808,11 +4876,23 @@
    "score": 150.0,
    "sent": "2026-09-28T12:17:01.235576+00:00"
   },
+  "reddit:1wsdji2": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 220.00000000000003,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
+  },
+  "reddit:1wsiepp": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 390.0,
+   "sent": "2026-09-28T23:41:27.498113+00:00"
+  },
   "reddit:1wslxzs": {
    "first": "2026-09-28T20:45:28.608150+00:00",
-   "last": "2026-09-28T20:45:28.608150+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
    "score": 195.0,
-   "sent": null
+   "sent": "2026-09-28T23:41:27.498113+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5125,6 +5205,12 @@
    "last": "2026-09-24T05:43:43.031547+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:43:43.031547+00:00"
+  },
+  "rss:https://microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://mistral.ai/news/hallo-deutschland": {
    "first": "2026-09-28T20:45:28.608150+00:00",
@@ -7136,6 +7222,42 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34452": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34453": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34455": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34457": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34458": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/form/codex-originals": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
    "first": "2026-09-21T19:19:03.791465+00:00",
    "last": "2026-09-22T01:14:57.132219+00:00",
@@ -7153,6 +7275,12 @@
    "last": "2026-09-19T05:32:56.876642+00:00",
    "score": 1.0,
    "sent": "2026-09-19T05:32:56.876642+00:00"
+  },
+  "rss:https://openai.com/index/basis-tax-workbook-with-astra": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/better-prompt-caching-for-gpt-6": {
    "first": "2026-09-22T22:53:25.239118+00:00",
@@ -7706,6 +7834,12 @@
    "score": 1.0,
    "sent": "2026-09-28T02:07:23.920134+00:00"
   },
+  "rss:https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5": {
+   "first": "2026-09-28T23:41:27.498113+00:00",
+   "last": "2026-09-28T23:41:27.498113+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/28/joedaroo": {
    "first": "2026-09-28T20:45:28.608150+00:00",
    "last": "2026-09-28T20:45:28.608150+00:00",
@@ -7828,10 +7962,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-17T09:40:53.926562+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-17T11:05:19.707590+00:00",
    "count": 3
@@ -8627,6 +8757,10 @@
   {
    "at": "2026-09-28T14:02:25.524266+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-09-28T23:41:27.498113+00:00",
+   "count": 12
   }
  ],
  "version": 1
