@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-28T16:18:03.145156+00:00",
+ "last_run": "2026-09-28T16:33:04.778927+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34435",
@@ -44,6 +44,21 @@
    "threshold": 500.0,
    "title": "yihui-dev/awesome-opus5-5-videos",
    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34438",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-28T16:31:47+00:00",
+   "queued_at": "2026-09-28T16:33:04.778927+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Imp 는 언어 모델 단계의 입력과 출력을 선언하고, 예제와 평가 지표로 프로그램을 개선하는 Elixir 프로젝트로, DSPy의 시그니처, 모듈, 최적화기, 에이전트 루프와 검색 기능을 OTP 의 신뢰성과 동시성 위에서 실행함 시그니처 로 프롬프트를 생성...",
+   "threshold": 1.0,
+   "title": "Imp - DSPy를 BEAM으로 완전히 포팅한 프로젝트",
+   "url": "https://news.hada.io/topic?id=34438"
   }
  ],
  "seen": {
@@ -6772,6 +6787,12 @@
   "rss:https://news.hada.io/topic?id=34435": {
    "first": "2026-09-28T15:47:56.918829+00:00",
    "last": "2026-09-28T15:47:56.918829+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34438": {
+   "first": "2026-09-28T16:33:04.778927+00:00",
+   "last": "2026-09-28T16:33:04.778927+00:00",
    "score": 1.0,
    "sent": null
   },
