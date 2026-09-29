@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T18:24:01.467889+00:00",
+ "last_run": "2026-09-29T18:35:30.549692+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -469,6 +469,23 @@
    "threshold": 1.0,
    "title": "DevDay 2026 Recap",
    "url": "https://openai.com/index/devday-2026-recap"
+  },
+  {
+   "key": "hn:49896975",
+   "meta": {
+    "comments": 89,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896975",
+    "hn_id": "49896975"
+   },
+   "published_at": "2026-09-29T17:26:27+00:00",
+   "queued_at": "2026-09-29T18:35:30.549692+00:00",
+   "score": 113.0,
+   "signal": "🟠 HN 113 pts · 💬 89",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "ChatGPT Pro 500",
+   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
   }
  ],
  "seen": {
@@ -4244,6 +4261,12 @@
    "first": "2026-09-29T17:38:51.596132+00:00",
    "last": "2026-09-29T17:38:51.596132+00:00",
    "score": 123.0,
+   "sent": null
+  },
+  "hn:49896975": {
+   "first": "2026-09-29T18:35:30.549692+00:00",
+   "last": "2026-09-29T18:35:30.549692+00:00",
+   "score": 113.0,
    "sent": null
   },
   "reddit:1wbphuo": {
