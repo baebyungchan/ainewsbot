@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T21:39:51.484432+00:00",
+ "last_run": "2026-09-29T21:54:53.650525+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -580,6 +580,36 @@
    "threshold": 1.0,
    "title": "OpenAI DevDay 2026 주요 발표 총정리",
    "url": "https://news.hada.io/topic?id=34505"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34509",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T21:49:36+00:00",
+   "queued_at": "2026-09-29T21:54:53.650525+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Bain은 AI 인프라 투자를 뒷받침하려면 2031년 연 매출 6조 달러 가 필요하다고 추산함. 연간 인프라 지출이 1조 5,000억 달러에 이르고, 이를 업계 매출의 약 25%로 유지한다는 조건임 가장 큰 매출원은 신제품 개발 로, 검색, 광고, 자율화, 물리적 AI 등의 혁신이...",
+   "threshold": 1.0,
+   "title": "AI, 데이터센터 투자 붐 정당화하려면 연 매출 6조 달러 필요",
+   "url": "https://news.hada.io/topic?id=34509"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34507",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T21:43:36+00:00",
+   "queued_at": "2026-09-29T21:54:53.650525+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Google이 새 Chromebook에 약속한 10년 업데이트 와 달리, 현재 구매하는 기기의 ChromeOS 업데이트를 2034년 에 종료한다고 밝혀 지원 기간이 8년으로 줄어듦 Chromebook을 대체하는 Googlebook 은 더 강력한 프로세서를 탑재하고, Gemini AI를 내장...",
+   "threshold": 1.0,
+   "title": "Google, ChromeOS 지원을 2년 일찍 종료",
+   "url": "https://news.hada.io/topic?id=34507"
   }
  ],
  "seen": {
@@ -7954,6 +7984,18 @@
   "rss:https://news.hada.io/topic?id=34505": {
    "first": "2026-09-29T21:39:51.484432+00:00",
    "last": "2026-09-29T21:39:51.484432+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34507": {
+   "first": "2026-09-29T21:54:53.650525+00:00",
+   "last": "2026-09-29T21:54:53.650525+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34509": {
+   "first": "2026-09-29T21:54:53.650525+00:00",
+   "last": "2026-09-29T21:54:53.650525+00:00",
    "score": 1.0,
    "sent": null
   },
