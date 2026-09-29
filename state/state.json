@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T18:39:06.641358+00:00",
+ "last_run": "2026-09-29T18:54:13.806946+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -501,6 +501,36 @@
    "threshold": 1.0,
    "title": "How Diffusion Controller unifies and simplifies AI image generation",
    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34502",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T18:43:37+00:00",
+   "queued_at": "2026-09-29T18:54:13.806946+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "온라인 스포츠 베팅 업체 DraftKings 가 고객의 베팅 기록으로 AI 모델을 학습해, 돈을 잃고 도박 판촉에 반응할 가능성이 높은 고객에게 재방문과 추가 베팅을 유도하는 광고를 보냄 자신과 재정, 인간관계에 피해가 생겨도 도박을 반복하는 문제성 도박 이용자 가 ...",
+   "threshold": 1.0,
+   "title": "DraftKings, AI로 상습 도박 이용자를 행동 기반 타기팅",
+   "url": "https://news.hada.io/topic?id=34502"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34501",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T18:40:37+00:00",
+   "queued_at": "2026-09-29T18:54:13.806946+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI가 GPT‑6 Astra 기반 Dots 를 출시함. 자체 클라우드 컴퓨터에서 24시간 목표를 향해 작업하고, 피드백을 통해 사용자의 선호와 업무 기준을 학습하는 에이전트임 4,000개 이상의 앱 에 플러그인으로 연결하고 여러 프로젝트를 동시에 수행할 수 있음. ChatGP...",
+   "threshold": 1.0,
+   "title": "Dots - 상시 작동하는 에이전트",
+   "url": "https://news.hada.io/topic?id=34501"
   }
  ],
  "seen": {
@@ -7845,6 +7875,18 @@
   "rss:https://news.hada.io/topic?id=34500": {
    "first": "2026-09-29T17:38:51.596132+00:00",
    "last": "2026-09-29T17:38:51.596132+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34501": {
+   "first": "2026-09-29T18:54:13.806946+00:00",
+   "last": "2026-09-29T18:54:13.806946+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34502": {
+   "first": "2026-09-29T18:54:13.806946+00:00",
+   "last": "2026-09-29T18:54:13.806946+00:00",
    "score": 1.0,
    "sent": null
   },
