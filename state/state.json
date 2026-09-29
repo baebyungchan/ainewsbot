@@ -1,201 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T23:10:15.307054+00:00",
+ "last_run": "2026-09-29T23:25:16.665203+00:00",
  "pending": [
-  {
-   "key": "hn:49897075",
-   "meta": {
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=49897075",
-    "hn_id": "49897075"
-   },
-   "published_at": "2026-09-29T17:31:26+00:00",
-   "queued_at": "2026-09-29T21:24:49.791970+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 79",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34483",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T09:01:08+00:00",
-   "queued_at": "2026-09-29T13:05:08.693680+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "■ 요즘 핫한 TypeSafe의 판정 모델 Jev를 LLM Wiki에 접목 Jev는 자연어로 던진 질문에 보정된 확률을 돌려줍니다. &quot;이 페이지에 결함이 있나?&quot; 하고 물으면 0~1 사이 값이 나옵니다. TypeSafe는 Jev를 &quot;지식 업무용 린터&quot;라고 소개했는데, LLM Wiki를 운영 중 마침 그런",
-   "threshold": 1.0,
-   "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
-   "url": "https://news.hada.io/topic?id=34483"
-  },
-  {
-   "key": "hfpaper:2609.33382",
-   "meta": {
-    "arxiv_id": "2609.33382",
-    "discussion_url": "https://arxiv.org/abs/2609.33382",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-26T20:00:00.000Z",
-   "queued_at": "2026-09-29T13:05:08.693680+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Baoyi Wang, Xingliang Wang 외",
-   "source": "hf_paper",
-   "summary": "Coding-agent evaluation has progressed from resolving individual issues to carrying out long-horizon development, yet task completion is still largely assessed within a single codebase. In software ecosystems, many features and bug fixes require coordinated changes across multiple repositories. We introduce WideSWE to evaluate coding agents on such cross-repository tasks. Mining and reviewing changes across 103 software ecosystems yields 120 real-world tasks, balanced between 60 bug fixes and 60 features. We derive prompts from related issues and pull requests. We systematically review and ad…",
-   "threshold": 15.0,
-   "title": "WideSWE: Can Coding Agents Coordinate Changes Across Repositories?",
-   "url": "https://huggingface.co/papers/2609.33382"
-  },
-  {
-   "key": "reddit:1wt5f4e",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-09-29T09:21:01+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
-   "url": "https://i.redd.it/zgrwz1cyffsh1.png"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-29T13:07:00+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
-  },
-  {
-   "key": "rss:https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-   "meta": {
-    "feed": "Microsoft Research"
-   },
-   "published_at": "2026-09-29T14:00:02+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 1.0,
-   "signal": "🔬 Microsoft Research",
-   "source": "rss",
-   "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing…",
-   "threshold": 1.0,
-   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/"
-  },
-  {
-   "key": "rss:https://machinelearning.apple.com/research/communication-bottleneck-serialization",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-09-29T00:00:00+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree-structured expressions. A generator converts a procedurally generated arithmetic expression into a word problem, a separate extractor recovers the expression from the word problem alone, and symbolic…",
-   "threshold": 1.0,
-   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
-   "url": "https://machinelearning.apple.com/research/communication-bottleneck-serialization"
-  },
-  {
-   "key": "rss:https://tldr.tech/ai/2026-09-29",
-   "meta": {
-    "feed": "TLDR AI"
-   },
-   "published_at": "2026-09-29T00:00:00+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 1.0,
-   "signal": "🗞 TLDR AI",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
-   "url": "https://tldr.tech/ai/2026-09-29"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/nvidia/kumo-tabular",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-29T15:30:38+00:00",
-   "queued_at": "2026-09-29T15:38:19.741397+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
-  },
-  {
-   "key": "hfpaper:2609.32540",
-   "meta": {
-    "arxiv_id": "2609.32540",
-    "discussion_url": "https://arxiv.org/abs/2609.32540",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-25T20:00:00.000Z",
-   "queued_at": "2026-09-29T16:08:24.956699+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Yikai Wang, Xiao Han 외",
-   "source": "hf_paper",
-   "summary": "Few-step autoregressive video diffusion generates a long video by splitting the video into temporal chunks and generating chunk-by-chunk, each through a short sequence of denoising stages. To memorize chunks that are already generated, previous methods reconstruct a clean or less-noisy key--value (KV) cache by additional forwards to build the cache without advancing an output latent. However, every denoising forward itself already computes the in-flight KV of the current chunk. We introduce FlashForward, which directly reuses this cache to avoid the heavy cache-update-only model forwards. Aft…",
-   "threshold": 15.0,
-   "title": "In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion",
-   "url": "https://huggingface.co/papers/2609.32540"
-  },
-  {
-   "key": "hfpaper:2609.32814",
-   "meta": {
-    "arxiv_id": "2609.32814",
-    "discussion_url": "https://arxiv.org/abs/2609.32814",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-25T20:00:00.000Z",
-   "queued_at": "2026-09-29T16:38:39.385478+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Ilya Koziev, Ivan Oseledets",
-   "source": "hf_paper",
-   "summary": "Fast matrix multiplication algorithms keep the product fixed and search for a cheaper way to evaluate it. We instead ask whether a Transformer's learned projections can use a different, cheaper product altogether. Building on an associative-algebra construction that replaces ordinary matrix multiplication with a sparser interaction table over the same weight blocks, we construct a family with quadratic arithmetic in the matrix dimension when the physical block size remains fixed, and derive finite-shape constraints for GPU execution. The construction is provably optimal for its bilinear rank…",
-   "threshold": 15.0,
-   "title": "Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers",
-   "url": "https://huggingface.co/papers/2609.32814"
-  },
-  {
-   "key": "hfpaper:2609.33203",
-   "meta": {
-    "arxiv_id": "2609.33203",
-    "discussion_url": "https://arxiv.org/abs/2609.33203",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-26T20:00:00.000Z",
-   "queued_at": "2026-09-29T16:38:39.385478+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Yuhe Liu, Xinyin Ma 외",
-   "source": "hf_paper",
-   "summary": "Diffusion Transformers (DiTs) have established themselves as a scalable backbone for high-fidelity image synthesis. However, unlike U-Net based diffusion models that rely on rigid, hand-crafted skip connections, DiTs predominantly use a uniform residual stream that integrates all preceding layers as a monolithic state. In this work, we rethink residual connections in diffusion transformers and propose to transform them from passive summation into an active retrieval mechanism optimized for image denoising. First, we conduct a systematic analysis of DiT's internal representation, revealing a l…",
-   "threshold": 15.0,
-   "title": "Structured Residual Connectivity Matters for Diffusion Transformers",
-   "url": "https://huggingface.co/papers/2609.33203"
-  },
   {
    "key": "rss:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog",
    "meta": {
@@ -2651,9 +2457,9 @@
   },
   "hfpaper:2609.32540": {
    "first": "2026-09-29T16:08:24.956699+00:00",
-   "last": "2026-09-29T16:08:24.956699+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "hfpaper:2609.32577": {
    "first": "2026-09-29T13:05:08.693680+00:00",
@@ -2663,9 +2469,9 @@
   },
   "hfpaper:2609.32814": {
    "first": "2026-09-29T16:38:39.385478+00:00",
-   "last": "2026-09-29T16:38:39.385478+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "hfpaper:2609.32862": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -2681,9 +2487,9 @@
   },
   "hfpaper:2609.33203": {
    "first": "2026-09-29T16:38:39.385478+00:00",
-   "last": "2026-09-29T16:38:39.385478+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "hfpaper:2609.33295": {
    "first": "2026-09-29T04:19:03.709447+00:00",
@@ -2705,9 +2511,9 @@
   },
   "hfpaper:2609.33382": {
    "first": "2026-09-29T13:05:08.693680+00:00",
-   "last": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "hfpaper:2609.33616": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -4241,9 +4047,9 @@
   },
   "hn:49897075": {
    "first": "2026-09-29T21:24:49.791970+00:00",
-   "last": "2026-09-29T21:24:49.791970+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "hn:49898952": {
    "first": "2026-09-29T20:39:38.422967+00:00",
@@ -5327,9 +5133,9 @@
   },
   "reddit:1wt5f4e": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "reddit:1wt8z16": {
    "first": "2026-09-29T17:08:38.899467+00:00",
@@ -5483,9 +5289,9 @@
   },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
    "first": "2026-09-21T13:56:34.315757+00:00",
@@ -5525,9 +5331,9 @@
   },
   "rss:https://huggingface.co/blog/nvidia/kumo-tabular": {
    "first": "2026-09-29T15:38:19.741397+00:00",
-   "last": "2026-09-29T15:38:19.741397+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://huggingface.co/blog/nvidia/nemotron-diarization": {
    "first": "2026-09-23T16:50:47.122106+00:00",
@@ -5591,9 +5397,9 @@
   },
   "rss:https://machinelearning.apple.com/research/communication-bottleneck-serialization": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
    "first": "2026-09-16T23:53:51.201555+00:00",
@@ -5681,9 +5487,9 @@
   },
   "rss:https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics": {
    "first": "2026-09-23T16:50:47.122106+00:00",
@@ -7787,9 +7593,9 @@
   },
   "rss:https://news.hada.io/topic?id=34483": {
    "first": "2026-09-29T13:05:08.693680+00:00",
-   "last": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://news.hada.io/topic?id=34489": {
    "first": "2026-09-29T13:05:08.693680+00:00",
@@ -8597,9 +8403,9 @@
   },
   "rss:https://tldr.tech/ai/2026-09-29": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:25:16.665203+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-29T23:25:16.665203+00:00"
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
@@ -8615,10 +8421,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T02:50:59.472509+00:00",
-   "count": 3
-  },
   {
    "at": "2026-09-18T03:21:08.740300+00:00",
    "count": 3
@@ -9413,6 +9215,10 @@
   },
   {
    "at": "2026-09-29T23:10:15.307054+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-29T23:25:16.665203+00:00",
    "count": 12
   }
  ],
