@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T17:23:46.294218+00:00",
+ "last_run": "2026-09-29T17:38:51.596132+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -371,6 +371,70 @@
    "threshold": 15.0,
    "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
    "url": "https://huggingface.co/papers/2609.35673"
+  },
+  {
+   "key": "hn:49896050",
+   "meta": {
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896050",
+    "hn_id": "49896050"
+   },
+   "published_at": "2026-09-29T16:30:48+00:00",
+   "queued_at": "2026-09-29T17:38:51.596132+00:00",
+   "score": 124.0,
+   "signal": "🟠 HN 124 pts · 💬 80",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+  },
+  {
+   "key": "hn:49896604",
+   "meta": {
+    "comments": 58,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896604",
+    "hn_id": "49896604"
+   },
+   "published_at": "2026-09-29T17:07:57+00:00",
+   "queued_at": "2026-09-29T17:38:51.596132+00:00",
+   "score": 123.0,
+   "signal": "🟠 HN 123 pts · 💬 58",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Dots",
+   "url": "https://openai.com/index/introducing-dots/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34500",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T17:37:48+00:00",
+   "queued_at": "2026-09-29T17:38:51.596132+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI가 GPT-6 Sol의 업그레이드 모델인 GPT-6.1 Sol을 공개했습니다. 코딩, 에이전트, 컴퓨터 사용, 전문 업무 및 과학 연구 전반의 성능을 크게 개선하면서, GPT-6 Astra에 근접한 성능을 훨씬 낮은 비용으로 제공하는 것이 특징입니다. DeepSWE v1.1에서 GPT-6 Astra와 대등한 수준의 성능을 약 1/5",
+   "threshold": 1.0,
+   "title": "OpenAI, GPT-6.1 Sol 공개",
+   "url": "https://news.hada.io/topic?id=34500"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34499",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T17:33:12+00:00",
+   "queued_at": "2026-09-29T17:38:51.596132+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI가 GPT‑6.1 Sol 을 공개함. 에이전트 코딩, 컴퓨터 사용, 전문 업무에서 GPT‑6 Astra에 근접하는 성능을 내는 GPT‑6 Sol 업그레이드로, 표준 입력/출력 토큰 가격은 Astra의 5분의 1 임 DeepSWE v1.1 에서 Astra와 같은 성능을 약 5분의 1 ...",
+   "threshold": 1.0,
+   "title": "GPT 6.1 Sol",
+   "url": "https://news.hada.io/topic?id=34499"
   }
  ],
  "seen": {
@@ -4130,10 +4194,22 @@
    "score": 112.0,
    "sent": null
   },
+  "hn:49896050": {
+   "first": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T17:38:51.596132+00:00",
+   "score": 124.0,
+   "sent": null
+  },
   "hn:49896586": {
    "first": "2026-09-29T17:23:46.294218+00:00",
    "last": "2026-09-29T17:23:46.294218+00:00",
    "score": 135.0,
+   "sent": null
+  },
+  "hn:49896604": {
+   "first": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T17:38:51.596132+00:00",
+   "score": 123.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -7679,6 +7755,18 @@
   "rss:https://news.hada.io/topic?id=34498": {
    "first": "2026-09-29T17:08:38.899467+00:00",
    "last": "2026-09-29T17:08:38.899467+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34499": {
+   "first": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T17:38:51.596132+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34500": {
+   "first": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T17:38:51.596132+00:00",
    "score": 1.0,
    "sent": null
   },
