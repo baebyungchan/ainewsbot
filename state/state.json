@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T15:53:25.566580+00:00",
+ "last_run": "2026-09-29T16:08:24.956699+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -188,6 +188,23 @@
    "threshold": 100.0,
    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
+  },
+  {
+   "key": "hfpaper:2609.32540",
+   "meta": {
+    "arxiv_id": "2609.32540",
+    "discussion_url": "https://arxiv.org/abs/2609.32540",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-25T20:00:00.000Z",
+   "queued_at": "2026-09-29T16:08:24.956699+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Yikai Wang, Xiao Han 외",
+   "source": "hf_paper",
+   "summary": "Few-step autoregressive video diffusion generates a long video by splitting the video into temporal chunks and generating chunk-by-chunk, each through a short sequence of denoising stages. To memorize chunks that are already generated, previous methods reconstruct a clean or less-noisy key--value (KV) cache by additional forwards to build the cache without advancing an output latent. However, every denoising forward itself already computes the in-flight KV of the current chunk. We introduce FlashForward, which directly reuses this cache to avoid the heavy cache-update-only model forwards. Aft…",
+   "threshold": 15.0,
+   "title": "In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion",
+   "url": "https://huggingface.co/papers/2609.32540"
   }
  ],
  "seen": {
@@ -2380,6 +2397,12 @@
    "last": "2026-09-29T08:48:37.406536+00:00",
    "score": 19.0,
    "sent": "2026-09-29T08:48:37.406536+00:00"
+  },
+  "hfpaper:2609.32540": {
+   "first": "2026-09-29T16:08:24.956699+00:00",
+   "last": "2026-09-29T16:08:24.956699+00:00",
+   "score": 15.0,
+   "sent": null
   },
   "hfpaper:2609.32577": {
    "first": "2026-09-29T13:05:08.693680+00:00",
