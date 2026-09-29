@@ -1,7 +1,24 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T22:55:09.954616+00:00",
+ "last_run": "2026-09-29T23:10:15.307054+00:00",
  "pending": [
+  {
+   "key": "hn:49897075",
+   "meta": {
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=49897075",
+    "hn_id": "49897075"
+   },
+   "published_at": "2026-09-29T17:31:26+00:00",
+   "queued_at": "2026-09-29T21:24:49.791970+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 79",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+  },
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
    "meta": {
@@ -33,50 +50,6 @@
    "threshold": 15.0,
    "title": "WideSWE: Can Coding Agents Coordinate Changes Across Repositories?",
    "url": "https://huggingface.co/papers/2609.33382"
-  },
-  {
-   "key": "gh:kaankiziltug/logo-design-skill",
-   "meta": {
-    "age_days": 3.3,
-    "language": "HTML",
-    "stars_total": 748,
-    "topics": [
-     "agent-skills",
-     "branding",
-     "claude",
-     "claude-skills",
-     "codex",
-     "gemini-cli",
-     "logo-design",
-     "svg"
-    ]
-   },
-   "published_at": "2026-09-26T08:23:34Z",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 748.0,
-   "signal": "🆕 748 stars in 3d · HTML",
-   "source": "github_new",
-   "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-   "threshold": 500.0,
-   "title": "kaankiziltug/logo-design-skill",
-   "url": "https://github.com/kaankiziltug/logo-design-skill"
-  },
-  {
-   "key": "hn:49893876",
-   "meta": {
-    "comments": 77,
-    "discussion_url": "https://news.ycombinator.com/item?id=49893876",
-    "hn_id": "49893876"
-   },
-   "published_at": "2026-09-29T14:25:41+00:00",
-   "queued_at": "2026-09-29T15:23:15.622607+00:00",
-   "score": 112.0,
-   "signal": "🟠 HN 112 pts · 💬 77",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Claude partial outage",
-   "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
   },
   {
    "key": "reddit:1wt5f4e",
@@ -173,23 +146,6 @@
    "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
   },
   {
-   "key": "hn:49893709",
-   "meta": {
-    "comments": 19,
-    "discussion_url": "https://news.ycombinator.com/item?id=49893709",
-    "hn_id": "49893709"
-   },
-   "published_at": "2026-09-29T14:15:24+00:00",
-   "queued_at": "2026-09-29T15:53:25.566580+00:00",
-   "score": 118.0,
-   "signal": "🟠 HN 118 pts · 💬 19",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-   "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
-  },
-  {
    "key": "hfpaper:2609.32540",
    "meta": {
     "arxiv_id": "2609.32540",
@@ -205,40 +161,6 @@
    "threshold": 15.0,
    "title": "In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion",
    "url": "https://huggingface.co/papers/2609.32540"
-  },
-  {
-   "key": "hfpaper:2609.33325",
-   "meta": {
-    "arxiv_id": "2609.33325",
-    "discussion_url": "https://arxiv.org/abs/2609.33325",
-    "upvotes": 106
-   },
-   "published_at": "2026-09-26T20:00:00.000Z",
-   "queued_at": "2026-09-29T16:38:39.385478+00:00",
-   "score": 106.0,
-   "signal": "📄 논문 ▲ 106 · Siran Peng, Tianshuo Zhang 외",
-   "source": "hf_paper",
-   "summary": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent state transitions, and Test-Time Training (TTT) layers that adapt an inner learner while processing an image. Across this progression, visual computation has become increasingly adaptive to each input, yet the rules governing that adaptation remain largely prescribed by the trained backbone. We introduce VisionHOPE, the first generic visual backbone formulated as a self-modifying learning system, i…",
-   "threshold": 15.0,
-   "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
-   "url": "https://huggingface.co/papers/2609.33325"
-  },
-  {
-   "key": "hfpaper:2609.34479",
-   "meta": {
-    "arxiv_id": "2609.34479",
-    "discussion_url": "https://arxiv.org/abs/2609.34479",
-    "upvotes": 24
-   },
-   "published_at": "2026-09-27T20:00:00.000Z",
-   "queued_at": "2026-09-29T16:38:39.385478+00:00",
-   "score": 24.0,
-   "signal": "📄 논문 ▲ 24 · Hangyul Yoon, Hyungyung Lee 외",
-   "source": "hf_paper",
-   "summary": "Vision-language (VL) pretraining using paired chest X-ray (CXR) images and radiology reports has shown strong potential for medical image understanding. However, existing methods often remain dependent on task-specific finetuning because radiology reports are lengthy, clinically dense, and difficult to align with simple zero-shot prompts. Recent sentence-level approaches partially address this limitation using clinical phrases extracted by large language models (LLMs), but they largely overlook the intrinsic characteristics of radiology discourse. In particular, limited positive-pair diversit…",
-   "threshold": 15.0,
-   "title": "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis",
-   "url": "https://huggingface.co/papers/2609.34479"
   },
   {
    "key": "hfpaper:2609.32814",
@@ -305,25 +227,6 @@
    "url": "https://news.hada.io/topic?id=34497"
   },
   {
-   "key": "reddit:1wt8z16",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wt8z16/stopped_getting_caught/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wt8z16/stopped_getting_caught/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-09-29T12:37:08+00:00",
-   "queued_at": "2026-09-29T17:08:38.899467+00:00",
-   "score": 260.0,
-   "signal": "🏆 r/OpenAI 오늘 #3",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "Stopped getting caught",
-   "url": "https://i.redd.it/81qh3qv1fgsh1.png"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=34498",
    "meta": {
     "feed": "GeekNews"
@@ -337,23 +240,6 @@
    "threshold": 1.0,
    "title": "Show GN: Blyck Video Understanding - Claude·Codex가 영상을 시각 근거와 함께 분석·검색하게 해주는 MCP",
    "url": "https://news.hada.io/topic?id=34498"
-  },
-  {
-   "key": "hn:49896586",
-   "meta": {
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896586",
-    "hn_id": "49896586"
-   },
-   "published_at": "2026-09-29T17:06:45+00:00",
-   "queued_at": "2026-09-29T17:23:46.294218+00:00",
-   "score": 135.0,
-   "signal": "🟠 HN 135 pts · 💬 63",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GPT 6.1 Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
   },
   {
    "key": "hfpaper:2609.35673",
@@ -371,40 +257,6 @@
    "threshold": 15.0,
    "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
    "url": "https://huggingface.co/papers/2609.35673"
-  },
-  {
-   "key": "hn:49896050",
-   "meta": {
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896050",
-    "hn_id": "49896050"
-   },
-   "published_at": "2026-09-29T16:30:48+00:00",
-   "queued_at": "2026-09-29T17:38:51.596132+00:00",
-   "score": 124.0,
-   "signal": "🟠 HN 124 pts · 💬 80",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
-  },
-  {
-   "key": "hn:49896604",
-   "meta": {
-    "comments": 58,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896604",
-    "hn_id": "49896604"
-   },
-   "published_at": "2026-09-29T17:07:57+00:00",
-   "queued_at": "2026-09-29T17:38:51.596132+00:00",
-   "score": 123.0,
-   "signal": "🟠 HN 123 pts · 💬 58",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Dots",
-   "url": "https://openai.com/index/introducing-dots/"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=34500",
@@ -471,23 +323,6 @@
    "url": "https://openai.com/index/devday-2026-recap"
   },
   {
-   "key": "hn:49896975",
-   "meta": {
-    "comments": 89,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896975",
-    "hn_id": "49896975"
-   },
-   "published_at": "2026-09-29T17:26:27+00:00",
-   "queued_at": "2026-09-29T18:35:30.549692+00:00",
-   "score": 113.0,
-   "signal": "🟠 HN 113 pts · 💬 89",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "ChatGPT Pro 500",
-   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
-  },
-  {
    "key": "rss:https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
    "meta": {
     "feed": "Google Research"
@@ -531,40 +366,6 @@
    "threshold": 1.0,
    "title": "Dots - 상시 작동하는 에이전트",
    "url": "https://news.hada.io/topic?id=34501"
-  },
-  {
-   "key": "hn:49898952",
-   "meta": {
-    "comments": 81,
-    "discussion_url": "https://news.ycombinator.com/item?id=49898952",
-    "hn_id": "49898952"
-   },
-   "published_at": "2026-09-29T19:21:25+00:00",
-   "queued_at": "2026-09-29T20:39:38.422967+00:00",
-   "score": 114.0,
-   "signal": "🟠 HN 114 pts · 💬 81",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "AI needs $6T in annual revenue to justify data centre boom",
-   "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
-  },
-  {
-   "key": "hn:49897075",
-   "meta": {
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=49897075",
-    "hn_id": "49897075"
-   },
-   "published_at": "2026-09-29T17:31:26+00:00",
-   "queued_at": "2026-09-29T21:24:49.791970+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 79",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=34505",
@@ -1073,9 +874,9 @@
   },
   "gh:kaankiziltug/logo-design-skill": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 748.0,
-   "sent": null,
+   "sent": "2026-09-29T23:10:15.307054+00:00",
    "stars_total": 748
   },
   "gh:kerpopule/hermes-jev-skills": {
@@ -2892,9 +2693,9 @@
   },
   "hfpaper:2609.33325": {
    "first": "2026-09-29T16:38:39.385478+00:00",
-   "last": "2026-09-29T16:38:39.385478+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 106.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hfpaper:2609.33378": {
    "first": "2026-09-29T13:05:08.693680+00:00",
@@ -2964,9 +2765,9 @@
   },
   "hfpaper:2609.34479": {
    "first": "2026-09-29T16:38:39.385478+00:00",
-   "last": "2026-09-29T16:38:39.385478+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 24.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hfpaper:2609.35347": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -4404,39 +4205,39 @@
   },
   "hn:49893709": {
    "first": "2026-09-29T15:53:25.566580+00:00",
-   "last": "2026-09-29T15:53:25.566580+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 118.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49893876": {
    "first": "2026-09-29T15:23:15.622607+00:00",
-   "last": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 112.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49896050": {
    "first": "2026-09-29T17:38:51.596132+00:00",
-   "last": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 124.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49896586": {
    "first": "2026-09-29T17:23:46.294218+00:00",
-   "last": "2026-09-29T17:23:46.294218+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 135.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49896604": {
    "first": "2026-09-29T17:38:51.596132+00:00",
-   "last": "2026-09-29T17:38:51.596132+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 123.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49896975": {
    "first": "2026-09-29T18:35:30.549692+00:00",
-   "last": "2026-09-29T18:35:30.549692+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 113.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "hn:49897075": {
    "first": "2026-09-29T21:24:49.791970+00:00",
@@ -4446,9 +4247,9 @@
   },
   "hn:49898952": {
    "first": "2026-09-29T20:39:38.422967+00:00",
-   "last": "2026-09-29T20:39:38.422967+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 114.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5532,15 +5333,21 @@
   },
   "reddit:1wt8z16": {
    "first": "2026-09-29T17:08:38.899467+00:00",
-   "last": "2026-09-29T17:08:38.899467+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 260.0,
-   "sent": null
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "reddit:1wtagdd": {
    "first": "2026-09-29T18:08:56.394424+00:00",
    "last": "2026-09-29T18:08:56.394424+00:00",
    "score": 150.0,
    "sent": null
+  },
+  "reddit:1wtiubh": {
+   "first": "2026-09-29T23:10:15.307054+00:00",
+   "last": "2026-09-29T23:10:15.307054+00:00",
+   "score": 330.0,
+   "sent": "2026-09-29T23:10:15.307054+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -8809,10 +8616,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-18T01:36:19.730790+00:00",
-   "count": 11
-  },
-  {
    "at": "2026-09-18T02:50:59.472509+00:00",
    "count": 3
   },
@@ -9606,6 +9409,10 @@
   },
   {
    "at": "2026-09-29T13:05:08.693680+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-29T23:10:15.307054+00:00",
    "count": 12
   }
  ],
