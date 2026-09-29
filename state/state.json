@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T21:09:45.899408+00:00",
+ "last_run": "2026-09-29T21:24:49.791970+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -548,6 +548,23 @@
    "threshold": 100.0,
    "title": "AI needs $6T in annual revenue to justify data centre boom",
    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
+  },
+  {
+   "key": "hn:49897075",
+   "meta": {
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=49897075",
+    "hn_id": "49897075"
+   },
+   "published_at": "2026-09-29T17:31:26+00:00",
+   "queued_at": "2026-09-29T21:24:49.791970+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 79",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
   }
  ],
  "seen": {
@@ -4329,6 +4346,12 @@
    "first": "2026-09-29T18:35:30.549692+00:00",
    "last": "2026-09-29T18:35:30.549692+00:00",
    "score": 113.0,
+   "sent": null
+  },
+  "hn:49897075": {
+   "first": "2026-09-29T21:24:49.791970+00:00",
+   "last": "2026-09-29T21:24:49.791970+00:00",
+   "score": 102.0,
    "sent": null
   },
   "hn:49898952": {
