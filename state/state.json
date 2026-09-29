@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T22:10:00.885699+00:00",
+ "last_run": "2026-09-29T22:25:03.727785+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -610,6 +610,21 @@
    "threshold": 1.0,
    "title": "Google, ChromeOS 지원을 2년 일찍 종료",
    "url": "https://news.hada.io/topic?id=34507"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-29T22:20:28+00:00",
+   "queued_at": "2026-09-29T22:25:03.727785+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them. &mdash; Anthropic Frontier Red Team , GLM-5.3 and the spread of advanced cyber capa…",
+   "threshold": 1.0,
+   "title": "Quoting Anthropic Frontier Red Team",
+   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
   }
  ],
  "seen": {
@@ -8622,6 +8637,12 @@
    "last": "2026-09-28T04:37:37.661938+00:00",
    "score": 1.0,
    "sent": "2026-09-28T04:37:37.661938+00:00"
+  },
+  "rss:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team": {
+   "first": "2026-09-29T22:25:03.727785+00:00",
+   "last": "2026-09-29T22:25:03.727785+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog": {
    "first": "2026-09-29T16:53:38.000205+00:00",
