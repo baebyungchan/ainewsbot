@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T13:05:08.693680+00:00",
+ "last_run": "2026-09-29T15:23:15.622607+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -33,6 +33,129 @@
    "threshold": 15.0,
    "title": "WideSWE: Can Coding Agents Coordinate Changes Across Repositories?",
    "url": "https://huggingface.co/papers/2609.33382"
+  },
+  {
+   "key": "gh:kaankiziltug/logo-design-skill",
+   "meta": {
+    "age_days": 3.3,
+    "language": "HTML",
+    "stars_total": 748,
+    "topics": [
+     "agent-skills",
+     "branding",
+     "claude",
+     "claude-skills",
+     "codex",
+     "gemini-cli",
+     "logo-design",
+     "svg"
+    ]
+   },
+   "published_at": "2026-09-26T08:23:34Z",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 748.0,
+   "signal": "🆕 748 stars in 3d · HTML",
+   "source": "github_new",
+   "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+   "threshold": 500.0,
+   "title": "kaankiziltug/logo-design-skill",
+   "url": "https://github.com/kaankiziltug/logo-design-skill"
+  },
+  {
+   "key": "hn:49893876",
+   "meta": {
+    "comments": 77,
+    "discussion_url": "https://news.ycombinator.com/item?id=49893876",
+    "hn_id": "49893876"
+   },
+   "published_at": "2026-09-29T14:25:41+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 112.0,
+   "signal": "🟠 HN 112 pts · 💬 77",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Claude partial outage",
+   "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
+  },
+  {
+   "key": "reddit:1wt5f4e",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-09-29T09:21:01+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+   "url": "https://i.redd.it/zgrwz1cyffsh1.png"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-09-29T13:07:00+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+  },
+  {
+   "key": "rss:https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
+   "meta": {
+    "feed": "Microsoft Research"
+   },
+   "published_at": "2026-09-29T14:00:02+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "signal": "🔬 Microsoft Research",
+   "source": "rss",
+   "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing…",
+   "threshold": 1.0,
+   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-09-29T00:00:00+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree-structured expressions. A generator converts a procedurally generated arithmetic expression into a word problem, a separate extractor recovers the expression from the word problem alone, and symbolic…",
+   "threshold": 1.0,
+   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
+   "url": "https://machinelearning.apple.com/research/communication-bottleneck-serialization"
+  },
+  {
+   "key": "rss:https://tldr.tech/ai/2026-09-29",
+   "meta": {
+    "feed": "TLDR AI"
+   },
+   "published_at": "2026-09-29T00:00:00+00:00",
+   "queued_at": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "signal": "🗞 TLDR AI",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
+   "url": "https://tldr.tech/ai/2026-09-29"
   }
  ],
  "seen": {
@@ -448,6 +571,13 @@
    "score": 2233.0,
    "sent": "2026-09-14T14:04:56.220255+00:00",
    "stars_total": 31252
+  },
+  "gh:kaankiziltug/logo-design-skill": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 748.0,
+   "sent": null,
+   "stars_total": 748
   },
   "gh:kerpopule/hermes-jev-skills": {
    "first": "2026-09-22T22:53:25.239118+00:00",
@@ -3737,6 +3867,12 @@
    "score": 207.0,
    "sent": "2026-09-29T13:05:08.693680+00:00"
   },
+  "hn:49893876": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 112.0,
+   "sent": null
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -4811,6 +4947,12 @@
    "score": 330.0,
    "sent": "2026-09-29T13:05:08.693680+00:00"
   },
+  "reddit:1wt5f4e": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
    "last": "2026-09-19T01:30:41.389990+00:00",
@@ -4943,6 +5085,12 @@
    "score": 1.0,
    "sent": "2026-09-25T01:50:53.988780+00:00"
   },
+  "rss:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
    "first": "2026-09-21T13:56:34.315757+00:00",
    "last": "2026-09-21T13:56:34.315757+00:00",
@@ -5039,6 +5187,12 @@
    "score": 1.0,
    "sent": "2026-09-19T23:07:03.869668+00:00"
   },
+  "rss:https://machinelearning.apple.com/research/communication-bottleneck-serialization": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
    "first": "2026-09-16T23:53:51.201555+00:00",
    "last": "2026-09-17T04:23:46.206684+00:00",
@@ -5122,6 +5276,12 @@
    "last": "2026-09-11T02:46:31.444772+00:00",
    "score": 1.0,
    "sent": "2026-09-11T02:46:31.444772+00:00"
+  },
+  "rss:https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics": {
    "first": "2026-09-23T16:50:47.122106+00:00",
@@ -7942,6 +8102,12 @@
    "last": "2026-09-28T13:32:18.228478+00:00",
    "score": 1.0,
    "sent": "2026-09-28T13:32:18.228478+00:00"
+  },
+  "rss:https://tldr.tech/ai/2026-09-29": {
+   "first": "2026-09-29T15:23:15.622607+00:00",
+   "last": "2026-09-29T15:23:15.622607+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
