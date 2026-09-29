@@ -1,7 +1,40 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T08:48:37.406536+00:00",
- "pending": [],
+ "last_run": "2026-09-29T13:05:08.693680+00:00",
+ "pending": [
+  {
+   "key": "rss:https://news.hada.io/topic?id=34483",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T09:01:08+00:00",
+   "queued_at": "2026-09-29T13:05:08.693680+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "■ 요즘 핫한 TypeSafe의 판정 모델 Jev를 LLM Wiki에 접목 Jev는 자연어로 던진 질문에 보정된 확률을 돌려줍니다. &quot;이 페이지에 결함이 있나?&quot; 하고 물으면 0~1 사이 값이 나옵니다. TypeSafe는 Jev를 &quot;지식 업무용 린터&quot;라고 소개했는데, LLM Wiki를 운영 중 마침 그런",
+   "threshold": 1.0,
+   "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
+   "url": "https://news.hada.io/topic?id=34483"
+  },
+  {
+   "key": "hfpaper:2609.33382",
+   "meta": {
+    "arxiv_id": "2609.33382",
+    "discussion_url": "https://arxiv.org/abs/2609.33382",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-26T20:00:00.000Z",
+   "queued_at": "2026-09-29T13:05:08.693680+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Baoyi Wang, Xingliang Wang 외",
+   "source": "hf_paper",
+   "summary": "Coding-agent evaluation has progressed from resolving individual issues to carrying out long-horizon development, yet task completion is still largely assessed within a single codebase. In software ecosystems, many features and bug fixes require coordinated changes across multiple repositories. We introduce WideSWE to evaluate coding agents on such cross-repository tasks. Mining and reviewing changes across 103 software ecosystems yields 120 real-world tasks, balanced between 60 bug fixes and 60 features. We derive prompts from related issues and pull requests. We systematically review and ad…",
+   "threshold": 15.0,
+   "title": "WideSWE: Can Coding Agents Coordinate Changes Across Repositories?",
+   "url": "https://huggingface.co/papers/2609.33382"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -542,6 +575,13 @@
    "sent": "2026-09-25T23:30:02.297074+00:00",
    "stars_total": 654
   },
+  "gh:nvidia/openshell": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 978.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00",
+   "stars_total": 10008
+  },
   "gh:nvlabs/sol-pi": {
    "first": "2026-09-11T20:50:43.285040+00:00",
    "last": "2026-09-11T23:06:13.180629+00:00",
@@ -822,6 +862,13 @@
    "sent": null,
    "stars_total": 2136
   },
+  "gh:vectifyai/pageindex": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 822.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00",
+   "stars_total": 36797
+  },
   "gh:vectorize-io/hindsight": {
    "first": "2026-09-24T11:06:51.529190+00:00",
    "last": "2026-09-24T11:06:51.529190+00:00",
@@ -859,10 +906,10 @@
   },
   "gh:yetone/magpie": {
    "first": "2026-09-24T23:23:43.389178+00:00",
-   "last": "2026-09-24T23:23:43.389178+00:00",
-   "score": 604.0,
-   "sent": "2026-09-24T23:23:43.389178+00:00",
-   "stars_total": 604
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 1949.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00",
+   "stars_total": 1949
   },
   "gh:yi1108/printfilm": {
    "first": "2026-09-16T17:27:55.149031+00:00",
@@ -2172,6 +2219,12 @@
    "score": 19.0,
    "sent": "2026-09-29T08:48:37.406536+00:00"
   },
+  "hfpaper:2609.32577": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 26.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
   "hfpaper:2609.32862": {
    "first": "2026-09-29T06:10:29.427305+00:00",
    "last": "2026-09-29T06:10:29.427305+00:00",
@@ -2189,6 +2242,18 @@
    "last": "2026-09-29T04:19:03.709447+00:00",
    "score": 39.0,
    "sent": "2026-09-29T04:19:03.709447+00:00"
+  },
+  "hfpaper:2609.33378": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 24.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
+  "hfpaper:2609.33382": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 15.0,
+   "sent": null
   },
   "hfpaper:2609.33616": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -2231,6 +2296,12 @@
    "last": "2026-09-29T06:10:29.427305+00:00",
    "score": 16.0,
    "sent": "2026-09-29T06:10:29.427305+00:00"
+  },
+  "hfpaper:2609.33848": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 19.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
   },
   "hfpaper:2609.34327": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -3654,6 +3725,18 @@
    "score": 146.0,
    "sent": "2026-09-28T23:41:27.498113+00:00"
   },
+  "hn:49884625": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 117.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
+  "hn:49890226": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 207.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -4698,6 +4781,12 @@
    "score": 220.00000000000003,
    "sent": "2026-09-28T23:41:27.498113+00:00"
   },
+  "reddit:1wshvj6": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 300.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
   "reddit:1wsiepp": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-28T23:41:27.498113+00:00",
@@ -4715,6 +4804,12 @@
    "last": "2026-09-29T06:10:29.427305+00:00",
    "score": 330.0,
    "sent": "2026-09-29T06:10:29.427305+00:00"
+  },
+  "reddit:1wswpv6": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 330.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5015,6 +5110,12 @@
    "last": "2026-09-11T14:04:10.474697+00:00",
    "score": 1.0,
    "sent": "2026-09-11T14:04:10.474697+00:00"
+  },
+  "rss:https://magazine.sebastianraschka.com/p/classifier-history-and-jev": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 1.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
   },
   "rss:https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": {
    "first": "2026-09-11T02:46:31.444772+00:00",
@@ -7122,6 +7223,18 @@
    "score": 1.0,
    "sent": "2026-09-29T06:10:29.427305+00:00"
   },
+  "rss:https://news.hada.io/topic?id=34483": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34489": {
+   "first": "2026-09-29T13:05:08.693680+00:00",
+   "last": "2026-09-29T13:05:08.693680+00:00",
+   "score": 1.0,
+   "sent": "2026-09-29T13:05:08.693680+00:00"
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -7844,10 +7957,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-17T23:59:10.385043+00:00",
-   "count": 12
-  },
   {
    "at": "2026-09-18T01:36:19.730790+00:00",
    "count": 11
@@ -8643,6 +8752,10 @@
   {
    "at": "2026-09-29T08:48:37.406536+00:00",
    "count": 9
+  },
+  {
+   "at": "2026-09-29T13:05:08.693680+00:00",
+   "count": 12
   }
  ],
  "version": 1
