@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-29T22:25:03.727785+00:00",
+ "last_run": "2026-09-29T22:34:21.890786+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34483",
@@ -625,6 +625,36 @@
    "threshold": 1.0,
    "title": "Quoting Anthropic Frontier Red Team",
    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34511",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T22:32:15+00:00",
+   "queued_at": "2026-09-29T22:34:21.890786+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "America.gov 는 정부 관련 사항을 질문하면 공식 정부 출처만으로 간단한 답변을 제공하는 미국 정부의 AI 서비스임 29,000개 웹사이트 를 한곳에 모으며, 모든 답변은 연방/주/지방 정부 웹사이트만을 출처로 사용함 무료이며 광고가 없고",
+   "threshold": 1.0,
+   "title": "America.gov",
+   "url": "https://news.hada.io/topic?id=34511"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34510",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-29T22:28:48+00:00",
+   "queued_at": "2026-09-29T22:34:21.890786+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "ChatGPT Pro에 월 500달러의 Pro 500 이 추가됐으며, 세 가지 Pro 요금제 중 가장 많은 기본 사용량과 Astra Ultrafast 를 제공함 Pro 요금제는 월 100달러, 200달러, 500달러 로 구성되며, Pro 200의 신규 가입도 다시 가능해짐 기존 조건...",
+   "threshold": 1.0,
+   "title": "ChatGPT Pro 500",
+   "url": "https://news.hada.io/topic?id=34510"
   }
  ],
  "seen": {
@@ -8011,6 +8041,18 @@
   "rss:https://news.hada.io/topic?id=34509": {
    "first": "2026-09-29T21:54:53.650525+00:00",
    "last": "2026-09-29T21:54:53.650525+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34510": {
+   "first": "2026-09-29T22:34:21.890786+00:00",
+   "last": "2026-09-29T22:34:21.890786+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34511": {
+   "first": "2026-09-29T22:34:21.890786+00:00",
+   "last": "2026-09-29T22:34:21.890786+00:00",
    "score": 1.0,
    "sent": null
   },
