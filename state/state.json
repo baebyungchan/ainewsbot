@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-30T17:28:16.874676+00:00",
+ "last_run": "2026-09-30T19:07:49.181562+00:00",
  "pending": [
   {
    "key": "rss:https://tldr.tech/ai/2026-09-30",
@@ -238,6 +238,104 @@
    "threshold": 1.0,
    "title": "텍스트 분류를 위한 언어 모델: Bag-of-Words에서 Jev까지",
    "url": "https://news.hada.io/topic?id=34551"
+  },
+  {
+   "key": "reddit:1wtzekf",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-30T08:21:37+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
+   "url": "https://v.redd.it/2w58o9xp9msh1"
+  },
+  {
+   "key": "reddit:1wtq09e",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-29T23:51:30+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "AI Gave my brother independence",
+   "url": "https://v.redd.it/dkvho04frjsh1"
+  },
+  {
+   "key": "rss:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-30T10:30:00+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+   "threshold": 1.0,
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34556",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T18:00:34+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "ESP32S3 7대 에 0.5B 언어 모델을 분할해 실행하는 분산 파이프라인 추론 엔진임 마스터 1대와 연산 노드 6대 로 구성되며, 마스터는 토큰화와 임베딩을, 연산 노드는 어텐션과 MLP를 처리함 노드 간에는 고속 SPI 데이지 체인 으로 은닉 상...",
+   "threshold": 1.0,
+   "title": "1.58비트(BitNet) 언어 모델을 실행하는 ESP32S3 클러스터",
+   "url": "https://news.hada.io/topic?id=34556"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34555",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T17:57:34+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Meta가 허용된 데이터에만 접근한다고 안내한 Muse 가, 사용자 허가 없이 Apple Messages 기록을 동기화하고 클라우드에 업로드했다는 사례가 나옴 Jason Aten에 따르면 전체 디스크 접근 권한이 꺼진 상태 에서도 Muse가 Messages 데이터베이스의 18만 7,00...",
+   "threshold": 1.0,
+   "title": "놀랍지도 않게, Meta의 새 Muse AI 에이전트가 사용자 권한 설정을 노골적으로 무시함",
+   "url": "https://news.hada.io/topic?id=34555"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34552",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T17:48:00+00:00",
+   "queued_at": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "서구 AI 기업은 중국 연구소의 모델 증류를 비판하면서도, 정작 중국이 공개한 추론 최적화 기술을 도입하고 있다는 비판 을 받음 DeepSeek의 KV 캐시 최적화 는 코딩처럼 긴 세션 문맥을 사용하는 특정 용도에서 캐시 메모리 사용량을 DeepSeek-V1 대비 약 437분의 ...",
+   "threshold": 1.0,
+   "title": "AI 경쟁이 난처해졌다",
+   "url": "https://news.hada.io/topic?id=34552"
   }
  ],
  "seen": {
@@ -5371,6 +5469,18 @@
    "score": 150.0,
    "sent": "2026-09-30T03:43:48.583240+00:00"
   },
+  "reddit:1wtq09e": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wtzekf": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 330.0,
+   "sent": null
+  },
   "reddit:1wu20hr": {
    "first": "2026-09-30T17:28:16.874676+00:00",
    "last": "2026-09-30T17:28:16.874676+00:00",
@@ -7981,6 +8091,24 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34552": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34555": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34556": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -8040,6 +8168,12 @@
    "last": "2026-09-30T01:25:27.273289+00:00",
    "score": 1.0,
    "sent": "2026-09-30T01:25:27.273289+00:00"
+  },
+  "rss:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+   "first": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T19:07:49.181562+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/expanding-ai-access-us-government": {
    "first": "2026-09-10T15:34:14.368488+00:00",
