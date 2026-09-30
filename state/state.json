@@ -1,7 +1,24 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-30T19:07:49.181562+00:00",
+ "last_run": "2026-09-30T23:04:28.649021+00:00",
  "pending": [
+  {
+   "key": "hfpaper:2607.11433",
+   "meta": {
+    "arxiv_id": "2607.11433",
+    "discussion_url": "https://arxiv.org/abs/2607.11433",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-23T20:00:00.000Z",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Ming Ma, Yi Zhu 외",
+   "source": "hf_paper",
+   "summary": "Omni-modal agents must seek evidence across video, audio, web pages, and computation to answer questions. Their main bottleneck is planning: noisy multimodal observations accumulate in conversation history and disrupt later decisions, while multimodal models have limited capacity for multi-step planning. Controlled backend replacements support this diagnosis: replacing the planner causes a much larger performance loss than replacing the perception backend. We present Omni-Decision, an omni-modal agent built on evidence-ledger planning: it replaces the growing dialogue history with an explicit…",
+   "threshold": 15.0,
+   "title": "Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents",
+   "url": "https://huggingface.co/papers/2607.11433"
+  },
   {
    "key": "rss:https://tldr.tech/ai/2026-09-30",
    "meta": {
@@ -95,40 +112,6 @@
    "threshold": 15.0,
    "title": "EVO-WAM: Evolving World Action Models through Video-Action Verification",
    "url": "https://huggingface.co/papers/2609.38057"
-  },
-  {
-   "key": "hn:49910553",
-   "meta": {
-    "comments": 304,
-    "discussion_url": "https://news.ycombinator.com/item?id=49910553",
-    "hn_id": "49910553"
-   },
-   "published_at": "2026-09-30T15:50:11+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 328.0,
-   "signal": "🟠 HN 328 pts · 💬 304",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "The AI Race Just Got Awkward",
-   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
-  },
-  {
-   "key": "hfpaper:2609.36322",
-   "meta": {
-    "arxiv_id": "2609.36322",
-    "discussion_url": "https://arxiv.org/abs/2609.36322",
-    "upvotes": 33
-   },
-   "published_at": "2026-09-27T20:00:00.000Z",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 33.0,
-   "signal": "📄 논문 ▲ 33 · Xingyu Zhu, Pu 외",
-   "source": "hf_paper",
-   "summary": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token's phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic variation in retrieval performance phase sensitivity. In large open-weight models with such compression,…",
-   "threshold": 15.0,
-   "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
-   "url": "https://huggingface.co/papers/2609.36322"
   },
   {
    "key": "reddit:1wu20hr",
@@ -240,25 +223,6 @@
    "url": "https://news.hada.io/topic?id=34551"
   },
   {
-   "key": "reddit:1wtzekf",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-30T08:21:37+00:00",
-   "queued_at": "2026-09-30T19:07:49.181562+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/singularity 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
-   "url": "https://v.redd.it/2w58o9xp9msh1"
-  },
-  {
    "key": "reddit:1wtq09e",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
@@ -336,6 +300,147 @@
    "threshold": 1.0,
    "title": "AI 경쟁이 난처해졌다",
    "url": "https://news.hada.io/topic?id=34552"
+  },
+  {
+   "key": "reddit:1wtr02p",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtr02p/ai_is_starting_to_do_science_from_first/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wtr02p/ai_is_starting_to_do_science_from_first/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-30T00:36:43+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "AI is starting to do science from first principles: one system built its own atom-by-atom simulator, ran experiments for days, and found graphene designs ~25% stronger at the same mass",
+   "url": "https://i.redd.it/stgitqrizjsh1.jpeg"
+  },
+  {
+   "key": "rss:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+   "meta": {
+    "feed": "Google DeepMind"
+   },
+   "published_at": "2026-09-30T20:01:45+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "📰 Google DeepMind",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-09-30T00:00:00+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and start, crons, and memory consolidation. Yet existing benchmarks and training frameworks schedule only the benchmark’s own events, leaving each benchmark and agent pair to build a custom scheduling loop. We present SCLATE, an execution substrate where benchmarks and unmodified ag…",
+   "threshold": 1.0,
+   "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
+   "url": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation"
+  },
+  {
+   "key": "rss:https://simonwillison.net/2026/Sep/30/he-built-this-city",
+   "meta": {
+    "feed": "Simon Willison"
+   },
+   "published_at": "2026-09-30T21:54:19+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "✍️ Simon Willison",
+   "source": "rss",
+   "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance. Tags: museums , new-york",
+   "threshold": 1.0,
+   "title": "He Built This City",
+   "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34569",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T22:38:39+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Anthropic 은 AI가 산업화, 전기, 인터넷보다 세계 경제를 더 크게 바꿀 것이라는 전망에 대규모 투자를 걸고 있으며, 향후 클라우드와 컴퓨팅, 인프라 관련 지출 의무가 5,180억 달러 에 달함 2025년 매출은 전년의 12배인 약 46억 달러 로 늘었지만...",
+   "threshold": 1.0,
+   "title": "Anthropic의 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+   "url": "https://news.hada.io/topic?id=34569"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34568",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T21:48:55+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI 안쓰고 쓴 글이라 두서가 없을수도 있습니다. AI slop 글에 피로를 느껴서 직접 작성합니다. 이게 뭐임 herdr(https://herdr.dev/) 를 브라우저, 폰에서 채팅이랑 터미널로 쓸 수 있는 웹 UI, PWA 입니다. https://github.com/devswha/herdr-web-ui",
+   "threshold": 1.0,
+   "title": "Show GN: herdr web ui - 폰이나 브라우저에서 herdr 사용하는 플러그인",
+   "url": "https://news.hada.io/topic?id=34568"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34566",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T21:42:44+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "프랑스 시골의 장제사였던 고조부 는 자동차가 등장한 뒤 정비사가 되었고, 말을 다루는 대신 엔진을 다루면서도 사람들이 이동하도록 돕는 목적을 이어감 AI 시대에 앞날을 걱정하는 개발자들의 불안은 트랙터와 자동차를 맞이했던 사람들 도 겪었던 경험임",
+   "threshold": 1.0,
+   "title": "지난번 우리 가족이 기술로 대체되었을 때",
+   "url": "https://news.hada.io/topic?id=34566"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34563",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-09-30T20:37:44+00:00",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Google이 복잡하고 장시간 이어지는 소프트웨어 개발, 기업 지식 업무, 사이버 방어를 위한 Gemini 4 Argon 을 발표하고, Fairwind Program을 통해 신뢰할 수 있는 사이버 방어 담당자들에게 순차 제공 중임 깊은 추론과 긴 다단계 작업을 지원하기 위해 출력 토큰 한도",
+   "threshold": 1.0,
+   "title": "Gemini 4 Argon",
+   "url": "https://news.hada.io/topic?id=34563"
+  },
+  {
+   "key": "hfpaper:2609.38157",
+   "meta": {
+    "arxiv_id": "2609.38157",
+    "discussion_url": "https://arxiv.org/abs/2609.38157",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-09-30T23:04:28.649021+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Kuan-Po Huang, Haohe Liu 외",
+   "source": "hf_paper",
+   "summary": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labeled speech training data. We therefore study vector steering, a training-free approach that modifies the internal representations of a frozen model. CoCoEmo, a conventional vector steering method for emotion TTS, treats each emotion vector as an indivisible direction controlled by a single global strength, limiting adherence to the requested emotion. In this work, we first discover that an emotion…",
+   "threshold": 15.0,
+   "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+   "url": "https://huggingface.co/papers/2609.38157"
   }
  ],
  "seen": {
@@ -829,6 +934,13 @@
    "sent": "2026-09-30T01:25:27.273289+00:00",
    "stars_total": 709
   },
+  "gh:louis-cfm/coucou": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1141.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00",
+   "stars_total": 1141
+  },
   "gh:lumid-off/aircard-windows": {
    "first": "2026-09-22T04:52:43.447314+00:00",
    "last": "2026-09-22T04:52:43.447314+00:00",
@@ -1003,6 +1115,13 @@
    "score": 503.0,
    "sent": "2026-09-21T06:09:24.638864+00:00",
    "stars_total": 503
+  },
+  "gh:rehan-remade/universal-modder": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 776.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00",
+   "stars_total": 776
   },
   "gh:riba2534/claude-opus-5-5-demo": {
    "first": "2026-09-23T19:53:39.928136+00:00",
@@ -1453,6 +1572,12 @@
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
    "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2607.11433": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 16.0,
    "sent": null
   },
   "hfpaper:2608.12564": {
@@ -2601,6 +2726,12 @@
    "score": 25.0,
    "sent": "2026-09-30T05:57:51.793447+00:00"
   },
+  "hfpaper:2609.32722": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 196.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
+  },
   "hfpaper:2609.32814": {
    "first": "2026-09-29T16:38:39.385478+00:00",
    "last": "2026-09-29T23:25:16.665203+00:00",
@@ -2660,6 +2791,12 @@
    "last": "2026-09-29T06:10:29.427305+00:00",
    "score": 18.0,
    "sent": "2026-09-29T06:10:29.427305+00:00"
+  },
+  "hfpaper:2609.33627": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 16.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "hfpaper:2609.33642": {
    "first": "2026-09-29T04:19:03.709447+00:00",
@@ -2807,9 +2944,9 @@
   },
   "hfpaper:2609.36322": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
    "score": 33.0,
-   "sent": null
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "hfpaper:2609.36380": {
    "first": "2026-09-30T04:48:22.081646+00:00",
@@ -2822,6 +2959,12 @@
    "last": "2026-09-30T03:43:48.583240+00:00",
    "score": 19.0,
    "sent": "2026-09-30T03:43:48.583240+00:00"
+  },
+  "hfpaper:2609.36651": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 20.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "hfpaper:2609.37226": {
    "first": "2026-09-30T13:55:13.132457+00:00",
@@ -2859,6 +3002,12 @@
    "score": 15.0,
    "sent": "2026-09-30T06:27:59.872486+00:00"
   },
+  "hfpaper:2609.37725": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 23.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
+  },
   "hfpaper:2609.37868": {
    "first": "2026-09-30T03:43:48.583240+00:00",
    "last": "2026-09-30T03:43:48.583240+00:00",
@@ -2888,6 +3037,12 @@
    "last": "2026-09-30T03:43:48.583240+00:00",
    "score": 27.0,
    "sent": "2026-09-30T03:43:48.583240+00:00"
+  },
+  "hfpaper:2609.38157": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 15.0,
+   "sent": null
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4349,9 +4504,21 @@
   },
   "hn:49910553": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
    "score": 328.0,
-   "sent": null
+   "sent": "2026-09-30T23:04:28.649021+00:00"
+  },
+  "hn:49911995": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 113.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
+  },
+  "hn:49913571": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 785.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5475,17 +5642,29 @@
    "score": 300.0,
    "sent": null
   },
+  "reddit:1wtr02p": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "reddit:1wtzekf": {
    "first": "2026-09-30T19:07:49.181562+00:00",
-   "last": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "reddit:1wu20hr": {
    "first": "2026-09-30T17:28:16.874676+00:00",
    "last": "2026-09-30T17:28:16.874676+00:00",
    "score": 200.0,
    "sent": null
+  },
+  "reddit:1wu4rv6": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 165.0,
+   "sent": "2026-09-30T23:04:28.649021+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5588,6 +5767,12 @@
    "last": "2026-09-24T05:28:42.454423+00:00",
    "score": 1.0,
    "sent": "2026-09-24T05:28:42.454423+00:00"
+  },
+  "rss:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking": {
    "first": "2026-09-15T17:14:59.741496+00:00",
@@ -5804,6 +5989,12 @@
    "last": "2026-09-17T23:44:14.686838+00:00",
    "score": 1.0,
    "sent": "2026-09-17T23:44:14.686838+00:00"
+  },
+  "rss:https://machinelearning.apple.com/research/sclate-agent-training-evaluation": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://machinelearning.apple.com/research/shared-selective-persistent-memory": {
    "first": "2026-09-16T14:50:46.597584+00:00",
@@ -8109,6 +8300,30 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34563": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34566": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34568": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34569": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -8769,6 +8984,12 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://simonwillison.net/2026/Sep/30/he-built-this-city": {
+   "first": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
@@ -8891,10 +9112,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T10:37:41.089572+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T10:52:42.180286+00:00",
    "count": 1
@@ -9689,6 +9906,10 @@
   },
   {
    "at": "2026-09-30T13:55:13.132457+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-09-30T23:04:28.649021+00:00",
    "count": 12
   }
  ],
