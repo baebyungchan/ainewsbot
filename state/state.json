@@ -1,175 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-30T01:25:27.273289+00:00",
- "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34502",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T18:43:37+00:00",
-   "queued_at": "2026-09-29T18:54:13.806946+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "온라인 스포츠 베팅 업체 DraftKings 가 고객의 베팅 기록으로 AI 모델을 학습해, 돈을 잃고 도박 판촉에 반응할 가능성이 높은 고객에게 재방문과 추가 베팅을 유도하는 광고를 보냄 자신과 재정, 인간관계에 피해가 생겨도 도박을 반복하는 문제성 도박 이용자 가 ...",
-   "threshold": 1.0,
-   "title": "DraftKings, AI로 상습 도박 이용자를 행동 기반 타기팅",
-   "url": "https://news.hada.io/topic?id=34502"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34501",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T18:40:37+00:00",
-   "queued_at": "2026-09-29T18:54:13.806946+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenAI가 GPT‑6 Astra 기반 Dots 를 출시함. 자체 클라우드 컴퓨터에서 24시간 목표를 향해 작업하고, 피드백을 통해 사용자의 선호와 업무 기준을 학습하는 에이전트임 4,000개 이상의 앱 에 플러그인으로 연결하고 여러 프로젝트를 동시에 수행할 수 있음. ChatGP...",
-   "threshold": 1.0,
-   "title": "Dots - 상시 작동하는 에이전트",
-   "url": "https://news.hada.io/topic?id=34501"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34505",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T21:26:48+00:00",
-   "queued_at": "2026-09-29T21:39:51.484432+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "상시 작동하는 Dots와 클라우드 Codex 를 공개해, 사용자가 자리를 비운 뒤에도 여러 업무와 개발 작업을 이어갈 수 있도록 확장 GPT-6.1 Sol 은 Astra에 가까운 성능을 표준 토큰 가격의 5분의 1로 제공하며, Ultrafast는 Codex의 토큰 생성을 최대 8배 가속 ...",
-   "threshold": 1.0,
-   "title": "OpenAI DevDay 2026 주요 발표 총정리",
-   "url": "https://news.hada.io/topic?id=34505"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34509",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T21:49:36+00:00",
-   "queued_at": "2026-09-29T21:54:53.650525+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Bain은 AI 인프라 투자를 뒷받침하려면 2031년 연 매출 6조 달러 가 필요하다고 추산함. 연간 인프라 지출이 1조 5,000억 달러에 이르고, 이를 업계 매출의 약 25%로 유지한다는 조건임 가장 큰 매출원은 신제품 개발 로, 검색, 광고, 자율화, 물리적 AI 등의 혁신이...",
-   "threshold": 1.0,
-   "title": "AI, 데이터센터 투자 붐 정당화하려면 연 매출 6조 달러 필요",
-   "url": "https://news.hada.io/topic?id=34509"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34507",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T21:43:36+00:00",
-   "queued_at": "2026-09-29T21:54:53.650525+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Google이 새 Chromebook에 약속한 10년 업데이트 와 달리, 현재 구매하는 기기의 ChromeOS 업데이트를 2034년 에 종료한다고 밝혀 지원 기간이 8년으로 줄어듦 Chromebook을 대체하는 Googlebook 은 더 강력한 프로세서를 탑재하고, Gemini AI를 내장...",
-   "threshold": 1.0,
-   "title": "Google, ChromeOS 지원을 2년 일찍 종료",
-   "url": "https://news.hada.io/topic?id=34507"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-29T22:20:28+00:00",
-   "queued_at": "2026-09-29T22:25:03.727785+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them. &mdash; Anthropic Frontier Red Team , GLM-5.3 and the spread of advanced cyber capa…",
-   "threshold": 1.0,
-   "title": "Quoting Anthropic Frontier Red Team",
-   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34511",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T22:32:15+00:00",
-   "queued_at": "2026-09-29T22:34:21.890786+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "America.gov 는 정부 관련 사항을 질문하면 공식 정부 출처만으로 간단한 답변을 제공하는 미국 정부의 AI 서비스임 29,000개 웹사이트 를 한곳에 모으며, 모든 답변은 연방/주/지방 정부 웹사이트만을 출처로 사용함 무료이며 광고가 없고",
-   "threshold": 1.0,
-   "title": "America.gov",
-   "url": "https://news.hada.io/topic?id=34511"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34510",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T22:28:48+00:00",
-   "queued_at": "2026-09-29T22:34:21.890786+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "ChatGPT Pro에 월 500달러의 Pro 500 이 추가됐으며, 세 가지 Pro 요금제 중 가장 많은 기본 사용량과 Astra Ultrafast 를 제공함 Pro 요금제는 월 100달러, 200달러, 500달러 로 구성되며, Pro 200의 신규 가입도 다시 가능해짐 기존 조건...",
-   "threshold": 1.0,
-   "title": "ChatGPT Pro 500",
-   "url": "https://news.hada.io/topic?id=34510"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/29/hn-49898129",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-29T18:27:48+00:00",
-   "queued_at": "2026-09-30T01:25:27.273289+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht... They're not notably different from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr... Tags: ai , openai , generative-ai , llms ,…",
-   "threshold": 1.0,
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34512",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-29T23:38:59+00:00",
-   "queued_at": "2026-09-30T01:25:27.273289+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "누구나 내려받을 수 있는 공개 가중치 모델 GLM-5.3가 제한 공개된 Claude Mythos Preview에 근접한 익스플로잇 개발 능력 을 기록함. Anthropic 평가에서 취약점을 찾아 실제 작동하는 공격 코드를 완성함 Chrome V8 취약점 평가에서 410회 중 50회 성공 해 Mythos ...",
-   "threshold": 1.0,
-   "title": "Anthropic, “GLM-5.3의 익스플로잇 개발 능력은 Mythos Preview에 근접”",
-   "url": "https://news.hada.io/topic?id=34512"
-  },
-  {
-   "key": "hfpaper:2609.35718",
-   "meta": {
-    "arxiv_id": "2609.35718",
-    "discussion_url": "https://arxiv.org/abs/2609.35718",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-27T20:00:00.000Z",
-   "queued_at": "2026-09-30T01:25:27.273289+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Hanoona Rasheed, Mohammed Irfan Kurpath 외",
-   "source": "hf_paper",
-   "summary": "Frontier general-purpose systems are rapidly expanding beyond visual understanding into capabilities traditionally handled by dedicated computer-vision models. As these capabilities expand, a central question for the computer-vision community is how far this reach extends, and what remains hard. We evaluate GPT-6 Astra alongside five frontier general-purpose AI systems across 34 capabilities and 55 benchmarks spanning nine areas of computer vision. We compare their performance with dedicated models and humans where suitable references are available. Astra demonstrates broad visual capability,…",
-   "threshold": 15.0,
-   "title": "Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision",
-   "url": "https://huggingface.co/papers/2609.35718"
-  }
- ],
+ "last_run": "2026-09-30T01:30:22.637500+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2527,9 +2359,9 @@
   },
   "hfpaper:2609.35718": {
    "first": "2026-09-30T01:25:27.273289+00:00",
-   "last": "2026-09-30T01:25:27.273289+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "hfpaper:2609.35748": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -7561,51 +7393,51 @@
   },
   "rss:https://news.hada.io/topic?id=34501": {
    "first": "2026-09-29T18:54:13.806946+00:00",
-   "last": "2026-09-29T18:54:13.806946+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34502": {
    "first": "2026-09-29T18:54:13.806946+00:00",
-   "last": "2026-09-29T18:54:13.806946+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34505": {
    "first": "2026-09-29T21:39:51.484432+00:00",
-   "last": "2026-09-29T21:39:51.484432+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34507": {
    "first": "2026-09-29T21:54:53.650525+00:00",
-   "last": "2026-09-29T21:54:53.650525+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34509": {
    "first": "2026-09-29T21:54:53.650525+00:00",
-   "last": "2026-09-29T21:54:53.650525+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34510": {
    "first": "2026-09-29T22:34:21.890786+00:00",
-   "last": "2026-09-29T22:34:21.890786+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34511": {
    "first": "2026-09-29T22:34:21.890786+00:00",
-   "last": "2026-09-29T22:34:21.890786+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://news.hada.io/topic?id=34512": {
    "first": "2026-09-30T01:25:27.273289+00:00",
-   "last": "2026-09-30T01:25:27.273289+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
@@ -8233,15 +8065,15 @@
   },
   "rss:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team": {
    "first": "2026-09-29T22:25:03.727785+00:00",
-   "last": "2026-09-29T22:25:03.727785+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/29/hn-49898129": {
    "first": "2026-09-30T01:25:27.273289+00:00",
-   "last": "2026-09-30T01:25:27.273289+00:00",
+   "last": "2026-09-30T01:30:22.637500+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-09-30T01:30:22.637500+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog": {
    "first": "2026-09-29T16:53:38.000205+00:00",
@@ -8365,10 +8197,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T03:51:12.798588+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T04:21:21.752178+00:00",
    "count": 1
@@ -9164,6 +8992,10 @@
   {
    "at": "2026-09-30T01:25:27.273289+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-09-30T01:30:22.637500+00:00",
+   "count": 11
   }
  ],
  "version": 1
