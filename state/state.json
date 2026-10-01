@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-01T08:47:05.487787+00:00",
+ "last_run": "2026-10-01T15:18:07.925336+00:00",
  "pending": [
   {
    "key": "reddit:1wtr02p",
@@ -331,6 +331,335 @@
    "threshold": 1.0,
    "title": "제미나이 4 아르곤(Argon): 프론티어 인텔리전스의 새로운 시대",
    "url": "https://news.hada.io/topic?id=34588"
+  },
+  {
+   "key": "hn:49920234",
+   "meta": {
+    "comments": 212,
+    "discussion_url": "https://news.ycombinator.com/item?id=49920234",
+    "hn_id": "49920234"
+   },
+   "published_at": "2026-10-01T11:13:59+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 216.0,
+   "signal": "🟠 HN 216 pts · 💬 212",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Returning from vacation? The government can search your phone without a warrant",
+   "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+  },
+  {
+   "key": "reddit:1wuj72j",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
+    "rank": 1,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-09-30T22:46:33+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 600.0,
+   "signal": "🏆 r/singularity 오늘 #1",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Gemini 4 Argon solved hallucinations.",
+   "url": "https://i.redd.it/0skesazrkqsh1.jpeg"
+  },
+  {
+   "key": "hn:49906100",
+   "meta": {
+    "comments": 94,
+    "discussion_url": "https://news.ycombinator.com/item?id=49906100",
+    "hn_id": "49906100"
+   },
+   "published_at": "2026-09-30T08:43:21+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 187.0,
+   "signal": "🟠 HN 187 pts · 💬 94",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR"
+  },
+  {
+   "key": "gh:nanaism/yomiyasu",
+   "meta": {
+    "age_days": 1.1,
+    "language": "Python",
+    "stars_total": 867,
+    "topics": [
+     "agent-skills",
+     "ai-writing",
+     "antigravity",
+     "claude-code",
+     "codex",
+     "cursor",
+     "gemini",
+     "japanese",
+     "linter",
+     "llm",
+     "nlp",
+     "writing",
+     "writing-assistant",
+     "writing-tool"
+    ]
+   },
+   "published_at": "2026-09-30T11:49:32Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 867.0,
+   "signal": "🆕 867 stars in 1d · Python",
+   "source": "github_new",
+   "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+   "threshold": 500.0,
+   "title": "nanaism/yomiyasu",
+   "url": "https://github.com/nanaism/yomiyasu"
+  },
+  {
+   "key": "gh:echris6/motion-video-kit",
+   "meta": {
+    "age_days": 4.0,
+    "language": "Python",
+    "stars_total": 798,
+    "topics": []
+   },
+   "published_at": "2026-09-27T14:11:14Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 798.0,
+   "signal": "🆕 798 stars in 4d · Python",
+   "source": "github_new",
+   "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+   "threshold": 500.0,
+   "title": "echris6/motion-video-kit",
+   "url": "https://github.com/echris6/motion-video-kit"
+  },
+  {
+   "key": "hn:49921118",
+   "meta": {
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=49921118",
+    "hn_id": "49921118"
+   },
+   "published_at": "2026-10-01T13:05:51+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 133.0,
+   "signal": "🟠 HN 133 pts · 💬 80",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+  },
+  {
+   "key": "hfpaper:2609.32264",
+   "meta": {
+    "arxiv_id": "2609.32264",
+    "discussion_url": "https://arxiv.org/abs/2609.32264",
+    "upvotes": 19
+   },
+   "published_at": "2026-09-25T20:00:00.000Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 19.0,
+   "signal": "📄 논문 ▲ 19 · Pavel Tikhonov, Elena Tutubalina 외",
+   "source": "hf_paper",
+   "summary": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We develop LANTERN, a fast, cost-efficient pipeline that uses a classifier over pretrained-model activations to rank candidate relations, followed by staged filtering, hypothesis generation, executable verification, and analytical checking. Applied to the On-Line Encyclopedia of Integer Sequences (OEIS), LANTERN ranked 50 million pairs among 10,000 frequently referenced sequences and produced 62 verifi…",
+   "threshold": 15.0,
+   "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
+   "url": "https://huggingface.co/papers/2609.32264"
+  },
+  {
+   "key": "hn:49905644",
+   "meta": {
+    "comments": 41,
+    "discussion_url": "https://news.ycombinator.com/item?id=49905644",
+    "hn_id": "49905644"
+   },
+   "published_at": "2026-09-30T07:33:45+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 126.0,
+   "signal": "🟠 HN 126 pts · 💬 41",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Doing a Machine Learning PhD While Working in Japan",
+   "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
+  },
+  {
+   "key": "gh:heygen-com/hyperframes",
+   "meta": {
+    "ai": true,
+    "language": "TypeScript",
+    "stars_today": 624,
+    "stars_total": 55128
+   },
+   "published_at": null,
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 624.0,
+   "signal": "★ +624 today · 55,128 total · TypeScript",
+   "source": "github_trending",
+   "summary": "Write HTML. Render video. Built for agents.",
+   "threshold": 500.0,
+   "title": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+   "key": "hn:49919910",
+   "meta": {
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
+    "hn_id": "49919910"
+   },
+   "published_at": "2026-10-01T10:21:36+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 105.0,
+   "signal": "🟠 HN 105 pts · 💬 55",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+  },
+  {
+   "key": "reddit:1wuc047",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wuc047/new_improved_model/",
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wuc047/new_improved_model/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-09-30T18:00:53+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 200.0,
+   "signal": "🏆 r/OpenAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 200.0,
+   "title": "New Improved Model",
+   "url": "https://i.redd.it/ws94glcs5psh1.png"
+  },
+  {
+   "key": "rss:https://anthropic.com/news/barclays-scales-claude",
+   "meta": {
+    "feed": "Anthropic"
+   },
+   "published_at": "2026-10-01T00:00:00+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "📰 Anthropic",
+   "source": "rss",
+   "summary": "Barclays scales Claude to upgrade operations and improve client experience",
+   "threshold": 1.0,
+   "title": "Barclays scales Claude to upgrade operations and improve client experience",
+   "url": "https://www.anthropic.com/news/barclays-scales-claude"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/allenai/olmocore3",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-10-01T15:01:43+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+   "url": "https://huggingface.co/blog/allenai/olmocore3"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-10-01T00:00:00+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machinery: multi-agent orchestrators, dedicated retrieval subagents, and more. While such harnesses expand, the use of more primitive but improved coding agents—where LLMs have direct access to the executi…",
+   "threshold": 1.0,
+   "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+   "url": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering"
+  },
+  {
+   "key": "rss:https://machinelearning.apple.com/research/rltl-dr-self-improvement",
+   "meta": {
+    "feed": "Apple ML Research"
+   },
+   "published_at": "2026-10-01T00:00:00+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🔬 Apple ML Research",
+   "source": "rss",
+   "summary": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chance of success, and where there are no teacher models or example solutions to distill from. In this paper, we introduce RLTL;DR. After each failed attempt, we show the policy the verifier outputs and l…",
+   "threshold": 1.0,
+   "title": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
+   "url": "https://machinelearning.apple.com/research/rltl-dr-self-improvement"
+  },
+  {
+   "key": "rss:https://tldr.tech/ai/2026-10-01",
+   "meta": {
+    "feed": "TLDR AI"
+   },
+   "published_at": "2026-10-01T00:00:00+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🗞 TLDR AI",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+   "url": "https://tldr.tech/ai/2026-10-01"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34607",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T14:39:42+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Book of Shapes 는 미니멀한 생성형 SVG 패턴을 모아 놓은 컬렉션으로, 패턴을 맞춤 설정할 수 있음 18개 패턴 을 제공하며, 각 패턴의 개별 페이지로 이동할 수 있음 Flow Dots , Flow Lines , Flow Poles 등 Flow 계열 패...",
+   "threshold": 1.0,
+   "title": "Book of Shapes - 맞춤 설정 가능한 미니멀 생성형 SVG 패턴 모음",
+   "url": "https://news.hada.io/topic?id=34607"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34604",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T13:39:58+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "DLSS-NR 빌드 310.8.0의 71블록 네트워크 를 재구현해, 최종 이미지뿐 아니라 75개 블록 경계의 중간값까지 원본과 바이트 단위로 일치함 업스케일러가 아닌 생성형 신경 렌더링 네트워크 로, 엔진이 그린 프레임을 같은 해상도로 다시 렌더링하며 주입한 노이즈에서...",
+   "threshold": 1.0,
+   "title": "OpenDLSS - NVIDIA의 DLSS 5 신경 렌더링 네트워크를 Vulkan으로 재구현",
+   "url": "https://news.hada.io/topic?id=34604"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34601",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T11:40:56+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행 하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱 노트마다 독립된 셸을 유지 해 작업 디렉터리, 환경 변수, 활성화한 가상 환경을 다음 코드 블록 실행에서도 그대로...",
+   "threshold": 1.0,
+   "title": "Ledge.sh - 실행 가능한 Markdown 노트",
+   "url": "https://news.hada.io/topic?id=34601"
   }
  ],
  "seen": {
@@ -628,6 +957,13 @@
    "sent": "2026-09-30T01:55:42.537983+00:00",
    "stars_total": 1782
   },
+  "gh:echris6/motion-video-kit": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 798.0,
+   "sent": null,
+   "stars_total": 798
+  },
   "gh:eternityspring/reelbench-skills": {
    "first": "2026-09-14T04:14:47.063120+00:00",
    "last": "2026-09-14T04:28:09.092645+00:00",
@@ -676,6 +1012,13 @@
    "score": 2324.0,
    "sent": "2026-09-22T11:53:33.232687+00:00",
    "stars_total": 6752
+  },
+  "gh:heygen-com/hyperframes": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 624.0,
+   "sent": null,
+   "stars_total": 55128
   },
   "gh:hkqr/my-free-code": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -907,6 +1250,13 @@
    "score": 781.0,
    "sent": "2026-09-28T13:17:14.777820+00:00",
    "stars_total": 1401
+  },
+  "gh:nanaism/yomiyasu": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 867.0,
+   "sent": null,
+   "stars_total": 867
   },
   "gh:nanako0129/sepia": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2592,6 +2942,12 @@
    "last": "2026-09-29T08:48:37.406536+00:00",
    "score": 27.0,
    "sent": "2026-09-29T08:48:37.406536+00:00"
+  },
+  "hfpaper:2609.32264": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 19.0,
+   "sent": null
   },
   "hfpaper:2609.32472": {
    "first": "2026-09-29T04:19:03.709447+00:00",
@@ -4471,6 +4827,18 @@
    "score": 190.0,
    "sent": "2026-09-30T13:55:13.132457+00:00"
   },
+  "hn:49905644": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 126.0,
+   "sent": null
+  },
+  "hn:49906100": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 187.0,
+   "sent": null
+  },
   "hn:49906637": {
    "first": "2026-09-30T13:55:13.132457+00:00",
    "last": "2026-09-30T13:55:13.132457+00:00",
@@ -4506,6 +4874,24 @@
    "last": "2026-10-01T08:47:05.487787+00:00",
    "score": 105.0,
    "sent": "2026-10-01T08:47:05.487787+00:00"
+  },
+  "hn:49919910": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 105.0,
+   "sent": null
+  },
+  "hn:49920234": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 216.0,
+   "sent": null
+  },
+  "hn:49921118": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 133.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -5659,6 +6045,12 @@
    "score": 200.0,
    "sent": null
   },
+  "reddit:1wuc047": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 200.0,
+   "sent": null
+  },
   "reddit:1wufaxm": {
    "first": "2026-10-01T02:03:26.489081+00:00",
    "last": "2026-10-01T02:03:26.489081+00:00",
@@ -5671,11 +6063,23 @@
    "score": 165.0,
    "sent": "2026-10-01T08:47:05.487787+00:00"
   },
+  "reddit:1wuj72j": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 600.0,
+   "sent": null
+  },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
    "last": "2026-09-19T01:30:41.389990+00:00",
    "score": 1.0,
    "sent": "2026-09-19T01:30:41.389990+00:00"
+  },
+  "rss:https://anthropic.com/news/barclays-scales-claude": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://anthropic.com/news/life-sciences-verification-program": {
    "first": "2026-09-17T17:42:50.008214+00:00",
@@ -5827,6 +6231,12 @@
    "score": 1.0,
    "sent": "2026-09-21T13:56:34.315757+00:00"
   },
+  "rss:https://huggingface.co/blog/allenai/olmocore3": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://huggingface.co/blog/evaleval-aisi": {
    "first": "2026-09-22T19:54:54.134414+00:00",
    "last": "2026-09-23T01:28:09.169571+00:00",
@@ -5977,6 +6387,12 @@
    "score": 1.0,
    "sent": "2026-09-24T05:58:46.551954+00:00"
   },
+  "rss:https://machinelearning.apple.com/research/harness-autonomous-ml-engineering": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://machinelearning.apple.com/research/latent-space-distillation": {
    "first": "2026-09-24T17:02:55.332658+00:00",
    "last": "2026-09-25T01:50:53.988780+00:00",
@@ -5994,6 +6410,12 @@
    "last": "2026-09-17T23:44:14.686838+00:00",
    "score": 1.0,
    "sent": "2026-09-17T23:44:14.686838+00:00"
+  },
+  "rss:https://machinelearning.apple.com/research/rltl-dr-self-improvement": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://machinelearning.apple.com/research/sclate-agent-training-evaluation": {
    "first": "2026-09-30T23:04:28.649021+00:00",
@@ -8371,6 +8793,24 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34601": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34604": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34607": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -9156,6 +9596,12 @@
    "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
    "sent": "2026-10-01T02:03:26.489081+00:00"
+  },
+  "rss:https://tldr.tech/ai/2026-10-01": {
+   "first": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-01T15:18:07.925336+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
