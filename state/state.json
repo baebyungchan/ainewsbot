@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-01T15:43:30.796430+00:00",
+ "last_run": "2026-10-01T20:35:24.975601+00:00",
  "pending": [
   {
    "key": "reddit:1wtr02p",
@@ -660,6 +660,408 @@
    "threshold": 1.0,
    "title": "Ledge.sh - 실행 가능한 Markdown 노트",
    "url": "https://news.hada.io/topic?id=34601"
+  },
+  {
+   "key": "hfpaper:2609.34563",
+   "meta": {
+    "arxiv_id": "2609.34563",
+    "discussion_url": "https://arxiv.org/abs/2609.34563",
+    "upvotes": 158
+   },
+   "published_at": "2026-09-27T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 158.0,
+   "signal": "📄 논문 ▲ 158 · Xi Xiao, Tianchen Zhao 외",
+   "source": "hf_paper",
+   "summary": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. However, unlike textual CoT, latent reasoning is not directly observable, making it difficult to supervise what latent tokens learn. In this work, we first conduct a thorough analysis of latent-token behavior and identify a latent evidence-credit gap: latent tokens respond only weakly to image perturbations that alter the correct answer. We hypothesize that this issue stems from the lack of explicit…",
+   "threshold": 15.0,
+   "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+   "url": "https://huggingface.co/papers/2609.34563"
+  },
+  {
+   "key": "hn:49923692",
+   "meta": {
+    "comments": 130,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923692",
+    "hn_id": "49923692"
+   },
+   "published_at": "2026-10-01T16:18:57+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 315.0,
+   "signal": "🟠 HN 315 pts · 💬 130",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+   "url": "https://blog.cloudflare.com/clef-decision-models/"
+  },
+  {
+   "key": "hfpaper:2609.33355",
+   "meta": {
+    "arxiv_id": "2609.33355",
+    "discussion_url": "https://arxiv.org/abs/2609.33355",
+    "upvotes": 37
+   },
+   "published_at": "2026-09-26T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 37.0,
+   "signal": "📄 논문 ▲ 37 · Injin Kong, Sunghwan Choi 외",
+   "source": "hf_paper",
+   "summary": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control parallelism, restrict selection regions, revise predictions, or plan future denoising, yet it remains unclear when these choices should change during generation. We study this question through strategy reversals, where an alternative action becomes preferable to a fixed choice. We organize MDM inference into five axes--score, cardinality, region, commitment, and planning--and define adaptation opportunity…",
+   "threshold": 15.0,
+   "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
+   "url": "https://huggingface.co/papers/2609.33355"
+  },
+  {
+   "key": "hn:49923466",
+   "meta": {
+    "comments": 60,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923466",
+    "hn_id": "49923466"
+   },
+   "published_at": "2026-10-01T16:01:56+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 218.0,
+   "signal": "🟠 HN 218 pts · 💬 60",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "RIP, vector database",
+   "url": "https://turbopuffer.com/blog/rip-vector-database"
+  },
+  {
+   "key": "hfpaper:2609.37863",
+   "meta": {
+    "arxiv_id": "2609.37863",
+    "discussion_url": "https://arxiv.org/abs/2609.37863",
+    "upvotes": 31
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 31.0,
+   "signal": "📄 논문 ▲ 31 · Nagham Omar, Mahmoud Jabarin 외",
+   "source": "hf_paper",
+   "summary": "Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We introduce MIST, the Misleading-Image Stress Test: 200 English sentences, each built around a phrase readable either figuratively or literally and shown with an aligned image depicting its reading, a misleading image depicting the opposite, or no image at all. The guidelines require the label to be decided from the sentence alone, so no image should change any answer. We expected each image to pull a…",
+   "threshold": 15.0,
+   "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+   "url": "https://huggingface.co/papers/2609.37863"
+  },
+  {
+   "key": "reddit:1wuvxy7",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
+    "rank": 1,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T10:31:46+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #1",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Throwback to when Claude suggested I should deal drugs to make money.",
+   "url": "https://i.redd.it/80zyykd92ush1.jpeg"
+  },
+  {
+   "key": "hfpaper:2609.38660",
+   "meta": {
+    "arxiv_id": "2609.38660",
+    "discussion_url": "https://arxiv.org/abs/2609.38660",
+    "upvotes": 30
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 30.0,
+   "signal": "📄 논문 ▲ 30 · Haibo Jin, Xinjie Li 외",
+   "source": "hf_paper",
+   "summary": "Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-LLM methods are largely sentence-level, and multi-agent systems often use static workflows that do not adapt to scene complexity or production context. We propose SMART, a Self-evolving Multi-Agent system for long-foRm subtitle Translation. During test-time training, SMART builds persistent series-level memory and translates a subset of sentences through a dynamic router and Mixture-of-Agents layer with to…",
+   "threshold": 15.0,
+   "title": "Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation",
+   "url": "https://huggingface.co/papers/2609.38660"
+  },
+  {
+   "key": "hfpaper:2609.38653",
+   "meta": {
+    "arxiv_id": "2609.38653",
+    "discussion_url": "https://arxiv.org/abs/2609.38653",
+    "upvotes": 29
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 29.0,
+   "signal": "📄 논문 ▲ 29 · Merkourios Simos, Chengkun Li 외",
+   "source": "hf_paper",
+   "summary": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confined to flat ground, in part because motion datasets rarely include aligned terrain geometry and because retargeting terrain interactions to complex musculoskeletal bodies is challenging. We present TERRA, an end-to-end pipeline for terrain-aware retargeting and control of musculoskeletal locomotion. From kinematic trajectories alone, TERRA combines terrain priors, estimated contacts, and negative…",
+   "threshold": 15.0,
+   "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
+   "url": "https://huggingface.co/papers/2609.38653"
+  },
+  {
+   "key": "hfpaper:2609.39841",
+   "meta": {
+    "arxiv_id": "2609.39841",
+    "discussion_url": "https://arxiv.org/abs/2609.39841",
+    "upvotes": 29
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 29.0,
+   "signal": "📄 논문 ▲ 29 · Merav Keidar, Tomer Borreda 외",
+   "source": "hf_paper",
+   "summary": "Reconstructing dynamic driving scenes from recorded sensor data supports closed-loop evaluation of autonomous driving systems by synthesizing observations beyond the original trajectory. Unlike cameras and LiDAR, radar measures radial velocity directly through Doppler. Yet existing radar novel-view synthesis fails to exploit this capability: methods addressing dynamic scenes reconstruct only range-azimuth tensors, while methods that render Doppler assume static scenes. Moreover, because radar processing spreads each reflection across multiple bins, existing representations absorb this spread…",
+   "threshold": 15.0,
+   "title": "DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes",
+   "url": "https://huggingface.co/papers/2609.39841"
+  },
+  {
+   "key": "hn:49921050",
+   "meta": {
+    "comments": 134,
+    "discussion_url": "https://news.ycombinator.com/item?id=49921050",
+    "hn_id": "49921050"
+   },
+   "published_at": "2026-10-01T13:00:55+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 190.0,
+   "signal": "🟠 HN 190 pts · 💬 134",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+  },
+  {
+   "key": "reddit:1wv2r73",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+    "rank": 2,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T15:40:03+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 240.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #2",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Made a \"Destroy Any Website\" stickman game",
+   "url": "https://v.redd.it/qlnh24ivivsh1"
+  },
+  {
+   "key": "hn:49922729",
+   "meta": {
+    "comments": 87,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922729",
+    "hn_id": "49922729",
+    "x_author": "GayaniFigma",
+    "x_status_id": "2105295629941350454"
+   },
+   "published_at": "2026-10-01T15:10:46+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 149.0,
+   "signal": "🟠 HN 149 pts · 💬 87 · 𝕏 @GayaniFigma · ❤ 91",
+   "source": "hn",
+   "summary": "Hey David, Gayani here from Figma. You're right that our remote MCP server only accepts clients on our supported list, and Pi isn't on it yet. You can see the current list in our MCP catalog at http://figma.com/mcp-catalog. If you'd like Pi considered for a future addition, please fill out this form: https://forms.gle/qSvUawwznWyoj8Go7.",
+   "threshold": 100.0,
+   "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+   "url": "https://twitter.com/GayaniFigma/status/2105295629941350454"
+  },
+  {
+   "key": "hfpaper:2609.38426",
+   "meta": {
+    "arxiv_id": "2609.38426",
+    "discussion_url": "https://arxiv.org/abs/2609.38426",
+    "upvotes": 22
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 22.0,
+   "signal": "📄 논문 ▲ 22 · Zhe Qian, Ziyang Gong 외",
+   "source": "hf_paper",
+   "summary": "We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vision-language state through shared modules. We train LoopVL from scratch through language pre-training, multimodal training, and post-training. LoopVL outperforms a range of similarly sized and larger non-recurrent models on multimodal understanding and visual reasoning benchmarks. We also observe Visual Aha Moments in LoopVL, characterized by pronounced shifts in visual attention across loops. L…",
+   "threshold": 15.0,
+   "title": "LoopVL: Recurrent Visual Intelligence",
+   "url": "https://huggingface.co/papers/2609.38426"
+  },
+  {
+   "key": "hfpaper:2609.39903",
+   "meta": {
+    "arxiv_id": "2609.39903",
+    "discussion_url": "https://arxiv.org/abs/2609.39903",
+    "upvotes": 21
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 21.0,
+   "signal": "📄 논문 ▲ 21 · Dingyuan Dai, Heli Qi 외",
+   "source": "hf_paper",
+   "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulating scientific objects, and producing verifiable results. We thus introduce OSWorld-Science, a benchmark and evaluation environment that combines scientifically meaningful tasks, artifact-based evaluation, and an efficient agent harness for studying computer use in the scientific domain. The benchmark contains 12 VLMs and 146 high-quality tasks across several scientific domains and software configu…",
+   "threshold": 15.0,
+   "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+   "url": "https://huggingface.co/papers/2609.39903"
+  },
+  {
+   "key": "reddit:1wuw9bc",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T10:50:13+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "Opus 5.5 was god-like in the first 5-6 days and couldn't put a foot wrong in my most complex work, (custom C++ 3D engines, soft body physics solvers, Blender MCP), then suddenly it fluffed something more simple and out of the blue said: \"Written for: you, as the reply on these three issues.\" in first line of the response. I had to look around the room to see who else it was writing for! Very abnormal and an outlier in terms of speech. After that canary in the coal mine it's never been the same since, and I have noticed this time and again. Fable 5.0 started off with Mythos like writing style,…",
+   "threshold": 150.0,
+   "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/"
+  },
+  {
+   "key": "hn:49922569",
+   "meta": {
+    "comments": 103,
+    "hn_id": "49922569"
+   },
+   "published_at": "2026-10-01T15:02:07+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 108.0,
+   "signal": "🟠 HN 108 pts · 💬 103",
+   "source": "hn",
+   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn&#x27;t a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don&#x27;t reply to job posts to complain about something. It&#x27;s off topic here. Readers: please only email if you are perso…",
+   "threshold": 100.0,
+   "title": "Ask HN: Who is hiring? (October 2026)",
+   "url": "https://news.ycombinator.com/item?id=49922569"
+  },
+  {
+   "key": "reddit:1wuy2x1",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-10-01T12:25:48+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 200.0,
+   "signal": "🏆 r/OpenAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 200.0,
+   "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
+   "url": "https://i.redd.it/6otixf6vmush1.png"
+  },
+  {
+   "key": "rss:https://openai.com/index/the-eternal-complement",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-10-01T17:00:00+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+   "threshold": 1.0,
+   "title": "The eternal complement",
+   "url": "https://openai.com/index/the-eternal-complement"
+  },
+  {
+   "key": "rss:https://openai.com/index/albertsons-reimagining-retail",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-10-01T16:00:00+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "threshold": 1.0,
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34631",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T20:08:06+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Plaud 같은 AI 녹음기를 따로 사지 않고, 이미 차고 있는 애플 워치나 갤럭시 워치로 같은 일을 하게 해 주는 앱입니다. 녹음과 전사만 워치 기반 앱에서 처리하고, 회의록 작성이나 분석은 평소 사용하는 AI에서 이어갈 수 있도록 만들었습니다. 워치에서 녹음한 파일은 폰으로 전달하며, 업로드와 전사는 폰이나 데...",
+   "threshold": 1.0,
+   "title": "Show GN: 애플 워치·갤럭시 워치를 Plaud처럼 쓰게 해 주는 오픈소스 녹음·전사 앱 Recly",
+   "url": "https://news.hada.io/topic?id=34631"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34626",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T19:44:14+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Figma의 원격 MCP 서버 는 지원 목록에 있는 클라이언트의 접근만 허용함 Pi 는 현재 지원 목록에 없어 해당 서버에 접근할 수 없음 현재 지원하는 클라이언트 목록은 MCP 카탈로그 에서 확인할 수 있음 Pi의 향후 지원 검토를 원...",
+   "threshold": 1.0,
+   "title": "Figma, MCP 접근을 허용 목록의 클라이언트로 제한하고 Pi는 제외",
+   "url": "https://news.hada.io/topic?id=34626"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34623",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T18:55:49+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "커밋 설명을 직접 쓰는 과정 은 코드 변경을 돌아보고 결정을 재검토하는 작업이며, AI가 만든 변경이 의도대로인지 확인하는 데도 도움이 됨 커밋 설명은 무엇을 바꿨는지보다 왜 바꿨는지 를 남기는 데 중요하며, 동료와 미래의 자신이 변경 이유를 이해할 수 있게...",
+   "threshold": 1.0,
+   "title": "생각을 정리하는 도구로서의 커밋 설명",
+   "url": "https://news.hada.io/topic?id=34623"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34621",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T18:49:49+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Cloudflare가 Clef와 Clef-flash 를 Workers AI에 출시하고 Apache 2.0 라이선스로 공개함. 자유로운 텍스트 생성 대신, 입력과 질문에 대해 타입이 정해진 답과 확률을 반환해 에이전트의 분류와 행동 결정을 지원함 이미지 입력과 64k 컨텍스트 를 지원하며 Jev AP...",
+   "threshold": 1.0,
+   "title": "Clef - 오픈소스 의사결정 모델과 새로운 RL 파인튜닝 플랫폼",
+   "url": "https://news.hada.io/topic?id=34621"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34616",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T17:36:13+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "OpenAI와 Synopsys 가 다년간 전략적 제휴를 맺고, Synopsys의 전자설계자동화(EDA) 도구 사용에 최적화한 칩 설계 특화 모델 GPT-Synopsys 를 공동 개발하기로 함 범용 모델을 도구에 연결하는 수준을 넘어, 모델이 EDA 도구 실행과 결과 해석 을 익...",
+   "threshold": 1.0,
+   "title": "GPT-Synopsys, 칩 설계를 혁신할 최첨단 AI",
+   "url": "https://news.hada.io/topic?id=34616"
   }
  ],
  "seen": {
@@ -3027,6 +3429,12 @@
    "score": 106.0,
    "sent": "2026-09-29T23:10:15.307054+00:00"
   },
+  "hfpaper:2609.33355": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 37.0,
+   "sent": null
+  },
   "hfpaper:2609.33378": {
    "first": "2026-09-29T13:05:08.693680+00:00",
    "last": "2026-09-29T13:05:08.693680+00:00",
@@ -3122,6 +3530,12 @@
    "last": "2026-09-29T23:10:15.307054+00:00",
    "score": 24.0,
    "sent": "2026-09-29T23:10:15.307054+00:00"
+  },
+  "hfpaper:2609.34563": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 158.0,
+   "sent": null
   },
   "hfpaper:2609.34759": {
    "first": "2026-09-30T05:57:51.793447+00:00",
@@ -3273,6 +3687,12 @@
    "score": 23.0,
    "sent": "2026-09-30T23:04:28.649021+00:00"
   },
+  "hfpaper:2609.37863": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 31.0,
+   "sent": null
+  },
   "hfpaper:2609.37868": {
    "first": "2026-09-30T03:43:48.583240+00:00",
    "last": "2026-09-30T03:43:48.583240+00:00",
@@ -3333,6 +3753,24 @@
    "score": 34.0,
    "sent": "2026-10-01T08:47:05.487787+00:00"
   },
+  "hfpaper:2609.38426": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 22.0,
+   "sent": null
+  },
+  "hfpaper:2609.38653": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 29.0,
+   "sent": null
+  },
+  "hfpaper:2609.38660": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 30.0,
+   "sent": null
+  },
   "hfpaper:2609.38721": {
    "first": "2026-10-01T05:07:21.908626+00:00",
    "last": "2026-10-01T05:07:21.908626+00:00",
@@ -3350,6 +3788,18 @@
    "last": "2026-10-01T08:47:05.487787+00:00",
    "score": 68.0,
    "sent": "2026-10-01T08:47:05.487787+00:00"
+  },
+  "hfpaper:2609.39841": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 29.0,
+   "sent": null
+  },
+  "hfpaper:2609.39903": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 21.0,
+   "sent": null
   },
   "hfpaper:2609.39982": {
    "first": "2026-10-01T08:47:05.487787+00:00",
@@ -4887,10 +5337,40 @@
    "score": 216.0,
    "sent": null
   },
+  "hn:49921050": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 190.0,
+   "sent": null
+  },
   "hn:49921118": {
    "first": "2026-10-01T15:18:07.925336+00:00",
    "last": "2026-10-01T15:18:07.925336+00:00",
    "score": 133.0,
+   "sent": null
+  },
+  "hn:49922569": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 108.0,
+   "sent": null
+  },
+  "hn:49922729": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 149.0,
+   "sent": null
+  },
+  "hn:49923466": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 218.0,
+   "sent": null
+  },
+  "hn:49923692": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 315.0,
    "sent": null
   },
   "reddit:1wbphuo": {
@@ -6067,6 +6547,30 @@
    "first": "2026-10-01T15:18:07.925336+00:00",
    "last": "2026-10-01T15:18:07.925336+00:00",
    "score": 600.0,
+   "sent": null
+  },
+  "reddit:1wuvxy7": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wuw9bc": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 165.0,
+   "sent": null
+  },
+  "reddit:1wuy2x1": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 200.0,
+   "sent": null
+  },
+  "reddit:1wv2r73": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 240.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
@@ -8811,6 +9315,36 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34616": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34621": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34623": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34626": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34631": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -8826,6 +9360,12 @@
   "rss:https://openai.com/index/ai-policy-window": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://openai.com/index/albertsons-reimagining-retail": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -9050,6 +9590,12 @@
    "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
    "sent": "2026-09-11T23:21:15.126656+00:00"
+  },
+  "rss:https://openai.com/index/the-eternal-complement": {
+   "first": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-01T20:35:24.975601+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
    "first": "2026-09-29T08:48:37.406536+00:00",
