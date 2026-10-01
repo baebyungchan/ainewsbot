@@ -1,182 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-09-30T23:04:28.649021+00:00",
+ "last_run": "2026-10-01T02:03:26.489081+00:00",
  "pending": [
-  {
-   "key": "hfpaper:2607.11433",
-   "meta": {
-    "arxiv_id": "2607.11433",
-    "discussion_url": "https://arxiv.org/abs/2607.11433",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-23T20:00:00.000Z",
-   "queued_at": "2026-09-30T23:04:28.649021+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Ming Ma, Yi Zhu 외",
-   "source": "hf_paper",
-   "summary": "Omni-modal agents must seek evidence across video, audio, web pages, and computation to answer questions. Their main bottleneck is planning: noisy multimodal observations accumulate in conversation history and disrupt later decisions, while multimodal models have limited capacity for multi-step planning. Controlled backend replacements support this diagnosis: replacing the planner causes a much larger performance loss than replacing the perception backend. We present Omni-Decision, an omni-modal agent built on evidence-ledger planning: it replaces the growing dialogue history with an explicit…",
-   "threshold": 15.0,
-   "title": "Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents",
-   "url": "https://huggingface.co/papers/2607.11433"
-  },
-  {
-   "key": "rss:https://tldr.tech/ai/2026-09-30",
-   "meta": {
-    "feed": "TLDR AI"
-   },
-   "published_at": "2026-09-30T00:00:00+00:00",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 1.0,
-   "signal": "🗞 TLDR AI",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
-   "url": "https://tldr.tech/ai/2026-09-30"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Sep/29/photo-scrubber",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-09-29T16:45:27+00:00",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Tool: Photo Scrubber — local face blur &amp; metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out. It uses Google's MediaPipe C++ library, compiled to WebAssembly via @mediapipe/tasks-vision , plus the BlazeFace face detection model. Tags: photography , tools",
-   "threshold": 1.0,
-   "title": "Photo Scrubber — local face blur & metadata removal",
-   "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34546",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-30T13:33:47+00:00",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "OpenAI 모델의 웹사이트 침입과 데이터 수집은 기업의 사업 방식과 책임 의 문제이기도 하며, 모델뿐 아니라 경영진에도 기존 법률을 적용해야 한다는 비판을 받음 The New York Times 등 출판사들이 제출한 소송 문서는 OpenAI의 유료벽 우회와 탐지 회피 를 문제 삼...",
-   "threshold": 1.0,
-   "title": "Sam Altman은 왜 자유의 몸인가?",
-   "url": "https://news.hada.io/topic?id=34546"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34545",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-30T12:33:02+00:00",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Pi가 MCP를 코어 기능으로 지원 하기 시작함. MCP 자체의 변화뿐 아니라, 통합에 필요한 인터프리터 샌드박스와 도구 체계 개선이 Pi 전반에도 유용하다는 판단에 따른 결정임 MCP에는 여전히 도구 호출을 조합하기 어렵다는 한계 가 있음. 도구를 컨텍스트에 나열하...",
-   "threshold": 1.0,
-   "title": "Pi.dev: MCP는 지원하지 않는다더니!",
-   "url": "https://news.hada.io/topic?id=34545"
-  },
-  {
-   "key": "hfpaper:2609.37236",
-   "meta": {
-    "arxiv_id": "2609.37236",
-    "discussion_url": "https://arxiv.org/abs/2609.37236",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Ido Levy, Asaf Yehudai 외",
-   "source": "hf_paper",
-   "summary": "An agent that uses tools typically responds to what the user explicitly asks, yet completing the task may require information the user never requested. Work on proactive agents mainly studies whether and when an agent should act on its own, not what information it should pursue. We study a distinct axis of proactivity: its content. Horizontal proactivity pursues unstated information that the current context already identifies, and vertical proactivity pursues needs that only earlier evidence reveals. A need graph, recovered from a benchmark's own decomposition, records which needs depend on w…",
-   "threshold": 15.0,
-   "title": "Asking for What Was Never Requested: Horizontal and Vertical Proactivity in Agents",
-   "url": "https://huggingface.co/papers/2609.37236"
-  },
-  {
-   "key": "hfpaper:2609.38057",
-   "meta": {
-    "arxiv_id": "2609.38057",
-    "discussion_url": "https://arxiv.org/abs/2609.38057",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-09-30T13:55:13.132457+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Shiyang Zhou, Xionghao Wu 외",
-   "source": "hf_paper",
-   "summary": "Improving robot policies on new tasks without collecting additional expert demonstrations remains a central challenge in robot learning. World action models (WAMs) use broad video priors to jointly predict future videos and actions, offering a potential source of supervision for adapting to new tasks. However, generated videos may fail to depict task completion, and even visually successful videos may be paired with inconsistent actions that lead to execution failure. We propose EVO-WAM, a framework that adapts WAMs to unseen tasks by learning from their own generated video-action trajectorie…",
-   "threshold": 15.0,
-   "title": "EVO-WAM: Evolving World Action Models through Video-Action Verification",
-   "url": "https://huggingface.co/papers/2609.38057"
-  },
-  {
-   "key": "reddit:1wu20hr",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wu20hr/q_who_should_be_held_accountable_when_the_ai/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wu20hr/q_who_should_be_held_accountable_when_the_ai/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-09-30T11:05:24+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "Q: Who should be held accountable when the AI agents commit a crime? | Trump: It's not AI. It's SI. We changed the name officially today",
-   "url": "https://v.redd.it/7nxlrldn3nsh1"
-  },
-  {
-   "key": "rss:https://openai.com/index/helping-small-businesses-put-ai-to-work",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-09-30T10:00:00+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-   "threshold": 1.0,
-   "title": "Helping small businesses put AI to work",
-   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-  },
-  {
-   "key": "rss:https://deepmind.google/blog/introducing-synthid-bio",
-   "meta": {
-    "feed": "Google DeepMind"
-   },
-   "published_at": "2026-09-30T15:03:07+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "📰 Google DeepMind",
-   "source": "rss",
-   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-   "threshold": 1.0,
-   "title": "Introducing SynthID Bio",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/open-tts-leaderboard",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-09-30T00:00:00+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-   "url": "https://huggingface.co/blog/open-tts-leaderboard"
-  },
   {
    "key": "rss:https://microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids",
    "meta": {
@@ -441,6 +266,73 @@
    "threshold": 15.0,
    "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
    "url": "https://huggingface.co/papers/2609.38157"
+  },
+  {
+   "key": "reddit:1wu6t25",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wu6t25/introducing_robodots/",
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wu6t25/introducing_robodots/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-09-30T14:44:09+00:00",
+   "queued_at": "2026-10-01T02:03:26.489081+00:00",
+   "score": 200.0,
+   "signal": "🏆 r/OpenAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 200.0,
+   "title": "Introducing robo-dots🤭",
+   "url": "https://v.redd.it/xyjmac1m6osh1"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34579",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T01:35:03+00:00",
+   "queued_at": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "TLA+ 는 복잡한 동시성 시스템의 불변식과 활성 속성을 검증하는 데 유용하지만, 에이전트 기반 소프트웨어 개발의 모든 문제를 해결하지는 못함 검증하려면 원하는 속성을 논리식으로 표현 할 수 있어야 하며, 올바른 설계가 자동으로 올바른 코드로 이어지는 것도...",
+   "threshold": 1.0,
+   "title": "TLA+가 검증할 수 있는 것과 없는 것",
+   "url": "https://news.hada.io/topic?id=34579"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34575",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T00:30:02+00:00",
+   "queued_at": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "여러 코딩 에이전트를 병렬로 실행하고 모델과 제공자가 달라도 작업 문맥을 공유 하는 오픈소스 오케스트레이션 앱 Claude Code, Codex, Cursor, OpenCode 등 기존에 사용하는 에이전트와 구독을 연결 하거나 Traycer 자체 추론 서비스를 이용 같은 에이전...",
+   "threshold": 1.0,
+   "title": "Traycer - 여러 코딩 에이전트의 문맥과 협업을 한곳에서 관리",
+   "url": "https://news.hada.io/topic?id=34575"
+  },
+  {
+   "key": "hfmodel:contrastive-lm/clm-v0.1-8b",
+   "meta": {
+    "downloads": 2392,
+    "likes": 574,
+    "pipeline": "text-ranking",
+    "rank": 5
+   },
+   "published_at": "2026-09-21T20:09:04.000Z",
+   "queued_at": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "signal": "🤗 트렌딩 #5 · ❤ 574 · ⬇ 2,392 · text-ranking",
+   "source": "hf_model",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Contrastive-LM/CLM-v0.1-8B",
+   "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
   }
  ],
  "seen": {
@@ -1478,6 +1370,12 @@
    "score": 1.0,
    "sent": "2026-09-23T01:28:09.169571+00:00"
   },
+  "hfmodel:contrastive-lm/clm-v0.1-8b": {
+   "first": "2026-10-01T02:03:26.489081+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "hfmodel:convaiinnovations/laya": {
    "first": "2026-09-20T00:38:00.598983+00:00",
    "last": "2026-09-20T00:38:00.598983+00:00",
@@ -1576,9 +1474,9 @@
   },
   "hfpaper:2607.11433": {
    "first": "2026-09-30T23:04:28.649021+00:00",
-   "last": "2026-09-30T23:04:28.649021+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "hfpaper:2608.12564": {
    "first": "2026-09-11T01:46:24.529426+00:00",
@@ -2974,9 +2872,9 @@
   },
   "hfpaper:2609.37236": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "hfpaper:2609.37372": {
    "first": "2026-09-30T03:43:48.583240+00:00",
@@ -3022,9 +2920,9 @@
   },
   "hfpaper:2609.38057": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "hfpaper:2609.38079": {
    "first": "2026-09-30T04:33:19.886109+00:00",
@@ -5656,15 +5554,27 @@
   },
   "reddit:1wu20hr": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "reddit:1wu4rv6": {
    "first": "2026-09-30T23:04:28.649021+00:00",
    "last": "2026-09-30T23:04:28.649021+00:00",
    "score": 165.0,
    "sent": "2026-09-30T23:04:28.649021+00:00"
+  },
+  "reddit:1wu6t25": {
+   "first": "2026-10-01T02:03:26.489081+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
+   "score": 200.0,
+   "sent": null
+  },
+  "reddit:1wufaxm": {
+   "first": "2026-10-01T02:03:26.489081+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
+   "score": 330.0,
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -5788,9 +5698,9 @@
   },
   "rss:https://deepmind.google/blog/introducing-synthid-bio": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech": {
    "first": "2026-09-23T16:50:47.122106+00:00",
@@ -5872,9 +5782,9 @@
   },
   "rss:https://huggingface.co/blog/open-tts-leaderboard": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://huggingface.co/blog/tokenizers-v1": {
    "first": "2026-09-21T13:59:13.094150+00:00",
@@ -8266,15 +8176,15 @@
   },
   "rss:https://news.hada.io/topic?id=34545": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://news.hada.io/topic?id=34546": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://news.hada.io/topic?id=34551": {
    "first": "2026-09-30T17:28:16.874676+00:00",
@@ -8321,6 +8231,18 @@
   "rss:https://news.hada.io/topic?id=34569": {
    "first": "2026-09-30T23:04:28.649021+00:00",
    "last": "2026-09-30T23:04:28.649021+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34575": {
+   "first": "2026-10-01T02:03:26.489081+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34579": {
+   "first": "2026-10-01T02:03:26.489081+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -8434,9 +8356,9 @@
   },
   "rss:https://openai.com/index/helping-small-businesses-put-ai-to-work": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
    "first": "2026-09-21T22:37:55.046134+00:00",
@@ -8980,9 +8902,9 @@
   },
   "rss:https://simonwillison.net/2026/Sep/29/photo-scrubber": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/30/he-built-this-city": {
    "first": "2026-09-30T23:04:28.649021+00:00",
@@ -9094,9 +9016,9 @@
   },
   "rss:https://tldr.tech/ai/2026-09-30": {
    "first": "2026-09-30T13:55:13.132457+00:00",
-   "last": "2026-09-30T13:55:13.132457+00:00",
+   "last": "2026-10-01T02:03:26.489081+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T02:03:26.489081+00:00"
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
@@ -9112,10 +9034,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T10:52:42.180286+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T11:07:49.501059+00:00",
    "count": 1
@@ -9910,6 +9828,10 @@
   },
   {
    "at": "2026-09-30T23:04:28.649021+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-01T02:03:26.489081+00:00",
    "count": 12
   }
  ],
