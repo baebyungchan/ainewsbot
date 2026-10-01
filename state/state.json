@@ -1,71 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-01T02:03:26.489081+00:00",
+ "last_run": "2026-10-01T05:07:21.908626+00:00",
  "pending": [
-  {
-   "key": "rss:https://microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids",
-   "meta": {
-    "feed": "Microsoft Research"
-   },
-   "published_at": "2026-09-30T16:00:00+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "🔬 Microsoft Research",
-   "source": "rss",
-   "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research .",
-   "threshold": 1.0,
-   "title": "Forecasting space weather risks on power grids",
-   "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/"
-  },
-  {
-   "key": "rss:https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-09-30T00:00:00+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are often evaluated with a narrow focus on their effectiveness at injecting or removing a target concept, neglecting generation quality. We systematically investigate a range of conditioning methods in both injection and removal scenarios. We find that efficient steering methods frequ…",
-   "threshold": 1.0,
-   "title": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
-   "url": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34551",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-09-30T16:38:33+00:00",
-   "queued_at": "2026-09-30T17:28:16.874676+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Jev 는 작업마다 별도 분류기를 미세 조정하지 않고도 다양한 텍스트 분류와 의사결정을 수행하는 범용 분류 모델로, 대형 생성형 LLM보다 빠르고 저렴한 처리를 지향함 텍스트 분류는 Bag-of-Words와 로지스틱 회귀 에서 RNN, CNN, 사전 학습된 Transformer로 발전했...",
-   "threshold": 1.0,
-   "title": "텍스트 분류를 위한 언어 모델: Bag-of-Words에서 Jev까지",
-   "url": "https://news.hada.io/topic?id=34551"
-  },
-  {
-   "key": "reddit:1wtq09e",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-29T23:51:30+00:00",
-   "queued_at": "2026-09-30T19:07:49.181562+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "AI Gave my brother independence",
-   "url": "https://v.redd.it/dkvho04frjsh1"
-  },
   {
    "key": "rss:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
    "meta": {
@@ -333,6 +269,68 @@
    "threshold": 1.0,
    "title": "Contrastive-LM/CLM-v0.1-8B",
    "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
+  },
+  {
+   "key": "rss:https://openai.com/index/introducing-gpt-6-1-sol",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-09-29T10:00:00+00:00",
+   "queued_at": "2026-10-01T05:07:21.908626+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+   "threshold": 1.0,
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34581",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T02:17:11+00:00",
+   "queued_at": "2026-10-01T05:07:21.908626+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "VC 투자자 Akshay Mehra의 글. 5년 전만 해도 마켓플레이스, &quot;X계의 우버&quot;, 버티컬 SaaS, 네오뱅크 피치가 넘쳤는데, 지금은 자본 집약적이라 외면받던 하드 사이언스(딥테크) 가 중심으로 올라옴 피터 틸의 &quot;날아다니는 자동차를 원했는데 140자를 얻었다&quot;는 말...",
+   "threshold": 1.0,
+   "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
+   "url": "https://news.hada.io/topic?id=34581"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34580",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T02:10:57+00:00",
+   "queued_at": "2026-10-01T05:07:21.908626+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Railcode 웹사이트는 코딩 에이전트가 만든 여러 시안에서 아이디어를 골라 반복적으로 다듬는 과정 을 거쳐 완성됨. 디자이너를 대체하기보다, 비디자이너도 자신이 좋아하는 디자인을 실제로 구현할 수 있었던 사례임 ‘코드를 레일 위에 올린다’는 제품 개념과 사용하는 재미를 결...",
+   "threshold": 1.0,
+   "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
+   "url": "https://news.hada.io/topic?id=34580"
+  },
+  {
+   "key": "hfpaper:2609.40111",
+   "meta": {
+    "arxiv_id": "2609.40111",
+    "discussion_url": "https://arxiv.org/abs/2609.40111",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-01T05:07:21.908626+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Kunlun Zhu, Xuyan Ye 외",
+   "source": "hf_paper",
+   "summary": "An unsuccessful LLM agent rollout contains more information than its final reward: the observations available to the agent, the actions it chose, and the environment's responses. Reusing this experience for learning requires identifying a decision to revise and testing a concrete alternative. We introduce the Agent Error Dataset (AED), comprising 50,228 error-diagnosis pairs from 9,961 source tasks across 33 environments, 19 harness families, and 23 policy models in text-based agent systems. We retain source traces and execution metadata to support cross-setting failure analysis and re-diagno…",
+   "threshold": 15.0,
+   "title": "Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training",
+   "url": "https://huggingface.co/papers/2609.40111"
   }
  ],
  "seen": {
@@ -793,10 +791,10 @@
   },
   "gh:kkkkhazix/aihot": {
    "first": "2026-09-29T02:18:59.403802+00:00",
-   "last": "2026-09-29T02:18:59.403802+00:00",
-   "score": 746.0,
-   "sent": "2026-09-29T02:18:59.403802+00:00",
-   "stars_total": 746
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 4178.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00",
+   "stars_total": 4178
   },
   "gh:korcarc/text-humanizer": {
    "first": "2026-09-18T08:07:07.632859+00:00",
@@ -2852,6 +2850,12 @@
    "score": 15.0,
    "sent": "2026-09-30T04:48:22.081646+00:00"
   },
+  "hfpaper:2609.36484": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 82.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
   "hfpaper:2609.36601": {
    "first": "2026-09-30T03:43:48.583240+00:00",
    "last": "2026-09-30T03:43:48.583240+00:00",
@@ -2930,6 +2934,12 @@
    "score": 16.0,
    "sent": "2026-09-30T04:33:19.886109+00:00"
   },
+  "hfpaper:2609.38143": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 34.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
   "hfpaper:2609.38155": {
    "first": "2026-09-30T03:43:48.583240+00:00",
    "last": "2026-09-30T03:43:48.583240+00:00",
@@ -2941,6 +2951,36 @@
    "last": "2026-09-30T23:04:28.649021+00:00",
    "score": 15.0,
    "sent": null
+  },
+  "hfpaper:2609.38721": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 19.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
+  "hfpaper:2609.38827": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 24.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
+  "hfpaper:2609.40111": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2609.40325": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 33.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
+  "hfpaper:2609.40340": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 33.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -4412,6 +4452,12 @@
    "score": 113.0,
    "sent": "2026-09-30T23:04:28.649021+00:00"
   },
+  "hn:49913458": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 103.0,
+   "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
   "hn:49913571": {
    "first": "2026-09-30T23:04:28.649021+00:00",
    "last": "2026-09-30T23:04:28.649021+00:00",
@@ -5536,9 +5582,9 @@
   },
   "reddit:1wtq09e": {
    "first": "2026-09-30T19:07:49.181562+00:00",
-   "last": "2026-09-30T19:07:49.181562+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-01T05:07:21.908626+00:00"
   },
   "reddit:1wtr02p": {
    "first": "2026-09-30T23:04:28.649021+00:00",
@@ -5860,9 +5906,9 @@
   },
   "rss:https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T05:07:21.908626+00:00"
   },
   "rss:https://machinelearning.apple.com/research/federated-variational-inequalities": {
    "first": "2026-09-28T16:48:10.278551+00:00",
@@ -5938,9 +5984,9 @@
   },
   "rss:https://microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T05:07:21.908626+00:00"
   },
   "rss:https://microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
    "first": "2026-09-29T15:23:15.622607+00:00",
@@ -8188,9 +8234,9 @@
   },
   "rss:https://news.hada.io/topic?id=34551": {
    "first": "2026-09-30T17:28:16.874676+00:00",
-   "last": "2026-09-30T17:28:16.874676+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-01T05:07:21.908626+00:00"
   },
   "rss:https://news.hada.io/topic?id=34552": {
    "first": "2026-09-30T19:07:49.181562+00:00",
@@ -8243,6 +8289,18 @@
   "rss:https://news.hada.io/topic?id=34579": {
    "first": "2026-10-01T02:03:26.489081+00:00",
    "last": "2026-10-01T02:03:26.489081+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34580": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34581": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -8383,6 +8441,12 @@
    "last": "2026-09-10T23:12:57.862686+00:00",
    "score": 1.0,
    "sent": "2026-09-10T23:12:57.862686+00:00"
+  },
+  "rss:https://openai.com/index/introducing-gpt-6-1-sol": {
+   "first": "2026-10-01T05:07:21.908626+00:00",
+   "last": "2026-10-01T05:07:21.908626+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
    "first": "2026-09-10T21:34:33.815126+00:00",
@@ -9034,10 +9098,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T11:07:49.501059+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T11:53:01.208973+00:00",
    "count": 1
@@ -9832,6 +9892,10 @@
   },
   {
    "at": "2026-10-01T02:03:26.489081+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-01T05:07:21.908626+00:00",
    "count": 12
   }
  ],
