@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T17:02:04.386666+00:00",
+ "last_run": "2026-10-02T17:17:04.677579+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -95,6 +95,44 @@
    "threshold": 1.0,
    "title": "AI는 나를 슬프게 한다",
    "url": "https://news.hada.io/topic?id=34673"
+  },
+  {
+   "key": "reddit:1wvdt9p",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T22:54:58+00:00",
+   "queued_at": "2026-10-02T17:17:04.677579+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
+   "url": "https://i.redd.it/gle8lqy6rxsh1.jpeg"
+  },
+  {
+   "key": "reddit:1wvahcj",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-10-01T20:32:45+00:00",
+   "queued_at": "2026-10-02T17:17:04.677579+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "The humanoid robotics company \"Figure\" made their older gen robots jump to their death. (Yes, they actually did this)",
+   "url": "https://v.redd.it/xp14ykit1xsh1"
   }
  ],
  "seen": {
@@ -5825,6 +5863,18 @@
    "last": "2026-10-02T10:45:29.676007+00:00",
    "score": 300.0,
    "sent": "2026-10-02T10:45:29.676007+00:00"
+  },
+  "reddit:1wvahcj": {
+   "first": "2026-10-02T17:17:04.677579+00:00",
+   "last": "2026-10-02T17:17:04.677579+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wvdt9p": {
+   "first": "2026-10-02T17:17:04.677579+00:00",
+   "last": "2026-10-02T17:17:04.677579+00:00",
+   "score": 165.0,
+   "sent": null
   },
   "reddit:1wvfbua": {
    "first": "2026-10-02T11:00:32.005346+00:00",
