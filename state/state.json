@@ -1,199 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T00:10:24.467460+00:00",
+ "last_run": "2026-10-02T03:10:47.759473+00:00",
  "pending": [
-  {
-   "key": "hn:49906100",
-   "meta": {
-    "comments": 94,
-    "discussion_url": "https://news.ycombinator.com/item?id=49906100",
-    "hn_id": "49906100"
-   },
-   "published_at": "2026-09-30T08:43:21+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 187.0,
-   "signal": "🟠 HN 187 pts · 💬 94",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-   "url": "https://github.com/maanHimself/OpenDLSS-NR"
-  },
-  {
-   "key": "gh:nanaism/yomiyasu",
-   "meta": {
-    "age_days": 1.1,
-    "language": "Python",
-    "stars_total": 867,
-    "topics": [
-     "agent-skills",
-     "ai-writing",
-     "antigravity",
-     "claude-code",
-     "codex",
-     "cursor",
-     "gemini",
-     "japanese",
-     "linter",
-     "llm",
-     "nlp",
-     "writing",
-     "writing-assistant",
-     "writing-tool"
-    ]
-   },
-   "published_at": "2026-09-30T11:49:32Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 867.0,
-   "signal": "🆕 867 stars in 1d · Python",
-   "source": "github_new",
-   "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-   "threshold": 500.0,
-   "title": "nanaism/yomiyasu",
-   "url": "https://github.com/nanaism/yomiyasu"
-  },
-  {
-   "key": "reddit:1wv2r73",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-    "rank": 2,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T15:40:03+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 240.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #2",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Made a \"Destroy Any Website\" stickman game",
-   "url": "https://v.redd.it/qlnh24ivivsh1"
-  },
-  {
-   "key": "gh:echris6/motion-video-kit",
-   "meta": {
-    "age_days": 4.0,
-    "language": "Python",
-    "stars_total": 798,
-    "topics": []
-   },
-   "published_at": "2026-09-27T14:11:14Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 798.0,
-   "signal": "🆕 798 stars in 4d · Python",
-   "source": "github_new",
-   "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-   "threshold": 500.0,
-   "title": "echris6/motion-video-kit",
-   "url": "https://github.com/echris6/motion-video-kit"
-  },
-  {
-   "key": "hn:49922729",
-   "meta": {
-    "comments": 87,
-    "discussion_url": "https://news.ycombinator.com/item?id=49922729",
-    "hn_id": "49922729",
-    "x_author": "GayaniFigma",
-    "x_status_id": "2105295629941350454"
-   },
-   "published_at": "2026-10-01T15:10:46+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 149.0,
-   "signal": "🟠 HN 149 pts · 💬 87 · 𝕏 @GayaniFigma · ❤ 91",
-   "source": "hn",
-   "summary": "Hey David, Gayani here from Figma. You're right that our remote MCP server only accepts clients on our supported list, and Pi isn't on it yet. You can see the current list in our MCP catalog at http://figma.com/mcp-catalog. If you'd like Pi considered for a future addition, please fill out this form: https://forms.gle/qSvUawwznWyoj8Go7.",
-   "threshold": 100.0,
-   "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "url": "https://twitter.com/GayaniFigma/status/2105295629941350454"
-  },
-  {
-   "key": "hfpaper:2609.38426",
-   "meta": {
-    "arxiv_id": "2609.38426",
-    "discussion_url": "https://arxiv.org/abs/2609.38426",
-    "upvotes": 22
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 22.0,
-   "signal": "📄 논문 ▲ 22 · Zhe Qian, Ziyang Gong 외",
-   "source": "hf_paper",
-   "summary": "We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vision-language state through shared modules. We train LoopVL from scratch through language pre-training, multimodal training, and post-training. LoopVL outperforms a range of similarly sized and larger non-recurrent models on multimodal understanding and visual reasoning benchmarks. We also observe Visual Aha Moments in LoopVL, characterized by pronounced shifts in visual attention across loops. L…",
-   "threshold": 15.0,
-   "title": "LoopVL: Recurrent Visual Intelligence",
-   "url": "https://huggingface.co/papers/2609.38426"
-  },
-  {
-   "key": "gh:angusdevgo/seep-reverse-lab",
-   "meta": {
-    "age_days": 8.3,
-    "language": "Lua",
-    "stars_total": 717,
-    "topics": []
-   },
-   "published_at": "2026-09-23T18:05:31Z",
-   "queued_at": "2026-10-02T00:10:24.467460+00:00",
-   "score": 717.0,
-   "signal": "🆕 717 stars in 8d · Lua",
-   "source": "github_new",
-   "summary": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
-   "threshold": 500.0,
-   "title": "angusdevgo/Seep-Reverse-Lab",
-   "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
-  },
-  {
-   "key": "hfpaper:2609.39903",
-   "meta": {
-    "arxiv_id": "2609.39903",
-    "discussion_url": "https://arxiv.org/abs/2609.39903",
-    "upvotes": 21
-   },
-   "published_at": "2026-09-29T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 21.0,
-   "signal": "📄 논문 ▲ 21 · Dingyuan Dai, Heli Qi 외",
-   "source": "hf_paper",
-   "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulating scientific objects, and producing verifiable results. We thus introduce OSWorld-Science, a benchmark and evaluation environment that combines scientifically meaningful tasks, artifact-based evaluation, and an efficient agent harness for studying computer use in the scientific domain. The benchmark contains 12 VLMs and 146 high-quality tasks across several scientific domains and software configu…",
-   "threshold": 15.0,
-   "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
-   "url": "https://huggingface.co/papers/2609.39903"
-  },
-  {
-   "key": "hn:49921118",
-   "meta": {
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49921118",
-    "hn_id": "49921118"
-   },
-   "published_at": "2026-10-01T13:05:51+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 133.0,
-   "signal": "🟠 HN 133 pts · 💬 80",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
-  },
-  {
-   "key": "hfpaper:2609.32264",
-   "meta": {
-    "arxiv_id": "2609.32264",
-    "discussion_url": "https://arxiv.org/abs/2609.32264",
-    "upvotes": 19
-   },
-   "published_at": "2026-09-25T20:00:00.000Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 19.0,
-   "signal": "📄 논문 ▲ 19 · Pavel Tikhonov, Elena Tutubalina 외",
-   "source": "hf_paper",
-   "summary": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We develop LANTERN, a fast, cost-efficient pipeline that uses a classifier over pretrained-model activations to rank candidate relations, followed by staged filtering, hypothesis generation, executable verification, and analytical checking. Applied to the On-Line Encyclopedia of Integer Sequences (OEIS), LANTERN ranked 50 million pairs among 10,000 frequently referenced sequences and produced 62 verifi…",
-   "threshold": 15.0,
-   "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
-   "url": "https://huggingface.co/papers/2609.32264"
-  },
   {
    "key": "hn:49905644",
    "meta": {
@@ -245,6 +53,23 @@
    "threshold": 15.0,
    "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
    "url": "https://huggingface.co/papers/2609.32720"
+  },
+  {
+   "key": "hfpaper:2609.38024",
+   "meta": {
+    "arxiv_id": "2609.38024",
+    "discussion_url": "https://arxiv.org/abs/2609.38024",
+    "upvotes": 17
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 17.0,
+   "signal": "📄 논문 ▲ 17 · Jaewon Chu, Ji Soo Lee 외",
+   "source": "hf_paper",
+   "summary": "An agent skill is a reusable, actionable natural-language artifact that guides an agent to perform a task effectively under a given harness. Recent studies have explored the optimization of agent skills, contributing to a growing collection of publicly available skills spanning diverse tasks, domains, and harnesses. Despite millions of publicly shared skills, existing skill optimization methods largely overlook this accumulated knowledge, instead relying solely on expensive agent rollouts to iteratively refine skills for a target task. To address this, we propose Retrieval-Augmented Skill Opt…",
+   "threshold": 15.0,
+   "title": "Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation",
+   "url": "https://huggingface.co/papers/2609.38024"
   },
   {
    "key": "reddit:1wuw9bc",
@@ -317,6 +142,40 @@
    "url": "https://huggingface.co/papers/2609.40316"
   },
   {
+   "key": "hfpaper:2609.37200",
+   "meta": {
+    "arxiv_id": "2609.37200",
+    "discussion_url": "https://arxiv.org/abs/2609.37200",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Songlin Yang, Xiaotong Zhao 외",
+   "source": "hf_paper",
+   "summary": "Multi-reward guided reinforcement learning (i.e., RL) offers a promising way to improve joint audio-video diffusion models along several complementary objectives, including modality-specific quality, cross-modal semantic alignment, and temporal synchronization. Its effectiveness, however, depends on two quantities that change during training: where reward-driven updates should act, and how competing rewards should be combined. Existing methods tend to rely on fixed routing and reward weights, failing to track evolving model functions. To address these limitations, we propose Adaptive Reward R…",
+   "threshold": 15.0,
+   "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+   "url": "https://huggingface.co/papers/2609.37200"
+  },
+  {
+   "key": "hfpaper:2610.01215",
+   "meta": {
+    "arxiv_id": "2610.01215",
+    "discussion_url": "https://arxiv.org/abs/2610.01215",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-30T20:00:00.000Z",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Cheng Yang, Yifan Wu 외",
+   "source": "hf_paper",
+   "summary": "GUI agents require high-quality interaction trajectories to learn how software environments respond to actions, maintain state, and support multi-step workflows. However, the diversity of available trajectories is constrained by the applications, interface states, and workflows accessible in the underlying environments. Expanding this coverage requires deploying increasingly diverse and complex software, with specialized applications imposing additional installation, configuration, and runtime costs. We introduce AutoGUIWorld, a data generation framework that combines the visual priors of ima…",
+   "threshold": 15.0,
+   "title": "AutoGUIWorld: Image Generators as Visual World Models for GUI Agent",
+   "url": "https://huggingface.co/papers/2610.01215"
+  },
+  {
    "key": "hn:49919910",
    "meta": {
     "comments": 55,
@@ -332,6 +191,23 @@
    "threshold": 100.0,
    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+  },
+  {
+   "key": "hn:49924618",
+   "meta": {
+    "comments": 112,
+    "discussion_url": "https://news.ycombinator.com/item?id=49924618",
+    "hn_id": "49924618"
+   },
+   "published_at": "2026-10-01T17:32:43+00:00",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 112",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "url": "https://stoppels.ch/goalposts/"
   },
   {
    "key": "reddit:1wtr02p",
@@ -1047,6 +923,68 @@
    "threshold": 15.0,
    "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
    "url": "https://huggingface.co/papers/2609.38349"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34651",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T02:40:56+00:00",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "AI가 만든 긴 글을 사람이 읽기 쉬운 요약으로 만들어 줌 (Meat Proxy에서 벗어나기 위한 몸부림) 단축키(기본 ⌃X)를 누르면 어떤 앱에서든 바로 동작. 브라우저, 채팅 앱, 터미널 모두 AI 답변, 장문의 리포트, 미팅 기록, 채팅 대화, PR 설명을 요약 (PR은 &quot;무엇이 바뀌었나 + 무엇을...",
+   "threshold": 1.0,
+   "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
+   "url": "https://news.hada.io/topic?id=34651"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34647",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T00:38:54+00:00",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "생성형 AI 로 학습 수요가 이동하면서 웹 개발 강좌, 전자책, 튜토리얼로 생계를 이어온 독립 교육자들이 매출 급감과 사업 중단을 겪고 있음 교육 콘텐츠의 수익 기반 이 무너져 Axel Rauschmayer의 도서 판매 수입은 0으로 떨어졌고, Josh W. Comeau와 동료 강좌 제...",
+   "threshold": 1.0,
+   "title": "웹 개발 교육의 죽음",
+   "url": "https://news.hada.io/topic?id=34647"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34645",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T00:30:02+00:00",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Tencent가 개발한 AI 보안 점검 플랫폼 으로, 서버의 알려진 취약점부터 에이전트의 도구 오용·정보 유출, LLM 탈옥 공격까지 검사 실행 중인 Ollama, ComfyUI, vLLM, n8n 등의 서비스 주소를 입력하면 구성요소와 버전을 식별 하고 알려진 취약점을 탐지 v...",
+   "threshold": 1.0,
+   "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
+   "url": "https://news.hada.io/topic?id=34645"
+  },
+  {
+   "key": "hfpaper:2610.00906",
+   "meta": {
+    "arxiv_id": "2610.00906",
+    "discussion_url": "https://arxiv.org/abs/2610.00906",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-30T21:36:03.000Z",
+   "queued_at": "2026-10-02T03:10:47.759473+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Sungho Park, Wonjoong Kim 외",
+   "source": "hf_paper",
+   "summary": "Automated harness optimization can substantially improve LLM agents by iteratively updating their prompts, tool interfaces, and control logic from execution feedback. However, existing methods primarily optimize how the harness is updated while largely fixing which training scenarios generate the feedback that drives those updates. As the harness evolves, the scenarios most useful for further optimization can change, suggesting that the training curriculum itself should adapt alongside the harness. We formulate this missing dimension of harness optimization as an automated curriculum learning…",
+   "threshold": 15.0,
+   "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
+   "url": "https://huggingface.co/papers/2610.00906"
   }
  ],
  "seen": {
@@ -1143,9 +1081,9 @@
   },
   "gh:angusdevgo/seep-reverse-lab": {
    "first": "2026-10-02T00:10:24.467460+00:00",
-   "last": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 717.0,
-   "sent": null,
+   "sent": "2026-10-02T03:10:47.759473+00:00",
    "stars_total": 717
   },
   "gh:anonymous-report-421/gpt-as-policy": {
@@ -1353,9 +1291,9 @@
   },
   "gh:echris6/motion-video-kit": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 798.0,
-   "sent": null,
+   "sent": "2026-10-02T03:10:47.759473+00:00",
    "stars_total": 798
   },
   "gh:eternityspring/reelbench-skills": {
@@ -1399,6 +1337,13 @@
    "score": 1213.0,
    "sent": null,
    "stars_total": 1213
+  },
+  "gh:glanderness/beeftv": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 711.0,
+   "sent": "2026-10-02T03:10:47.759473+00:00",
+   "stars_total": 711
   },
   "gh:google/ax": {
    "first": "2026-09-22T11:53:33.232687+00:00",
@@ -1647,9 +1592,9 @@
   },
   "gh:nanaism/yomiyasu": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 867.0,
-   "sent": null,
+   "sent": "2026-10-02T03:10:47.759473+00:00",
    "stars_total": 867
   },
   "gh:nanako0129/sepia": {
@@ -3339,9 +3284,9 @@
   },
   "hfpaper:2609.32264": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 19.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hfpaper:2609.32472": {
    "first": "2026-09-29T04:19:03.709447+00:00",
@@ -3643,6 +3588,12 @@
    "score": 20.0,
    "sent": "2026-09-30T23:04:28.649021+00:00"
   },
+  "hfpaper:2609.37200": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 16.0,
+   "sent": null
+  },
   "hfpaper:2609.37226": {
    "first": "2026-09-30T13:55:13.132457+00:00",
    "last": "2026-09-30T13:55:13.132457+00:00",
@@ -3703,6 +3654,12 @@
    "score": 16.0,
    "sent": "2026-09-30T13:55:13.132457+00:00"
   },
+  "hfpaper:2609.38024": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 17.0,
+   "sent": null
+  },
   "hfpaper:2609.38057": {
    "first": "2026-09-30T13:55:13.132457+00:00",
    "last": "2026-10-01T02:03:26.489081+00:00",
@@ -3759,9 +3716,9 @@
   },
   "hfpaper:2609.38426": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 22.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hfpaper:2609.38653": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -3801,9 +3758,9 @@
   },
   "hfpaper:2609.39903": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 21.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hfpaper:2609.39982": {
    "first": "2026-10-01T08:47:05.487787+00:00",
@@ -3834,6 +3791,24 @@
    "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 33.0,
    "sent": "2026-10-01T05:07:21.908626+00:00"
+  },
+  "hfpaper:2610.00906": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2610.01215": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 16.0,
+   "sent": null
+  },
+  "hfpaper:2610.02193": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 27.0,
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -5295,9 +5270,9 @@
   },
   "hn:49906100": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 187.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hn:49906637": {
    "first": "2026-09-30T13:55:13.132457+00:00",
@@ -5355,9 +5330,9 @@
   },
   "hn:49921118": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 133.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hn:49922569": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -5367,9 +5342,9 @@
   },
   "hn:49922729": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 149.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "hn:49923466": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -5382,6 +5357,12 @@
    "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 315.0,
    "sent": "2026-10-02T00:10:24.467460+00:00"
+  },
+  "hn:49924618": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 102.0,
+   "sent": null
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6585,9 +6566,9 @@
   },
   "reddit:1wv2r73": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 240.0,
-   "sent": null
+   "sent": "2026-10-02T03:10:47.759473+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -9391,6 +9372,24 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34645": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34647": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34651": {
+   "first": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:10:47.759473+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -10222,10 +10221,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-18T12:38:04.217560+00:00",
-   "count": 1
-  },
-  {
    "at": "2026-09-18T13:08:15.191236+00:00",
    "count": 1
   },
@@ -11019,6 +11014,10 @@
   },
   {
    "at": "2026-10-02T00:10:24.467460+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-02T03:10:47.759473+00:00",
    "count": 12
   }
  ],
