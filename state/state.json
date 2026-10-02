@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T18:02:19.816099+00:00",
+ "last_run": "2026-10-02T18:17:24.192399+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -197,6 +197,41 @@
    "threshold": 15.0,
    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
    "url": "https://huggingface.co/papers/2610.01939"
+  },
+  {
+   "key": "hfpaper:2609.35259",
+   "meta": {
+    "arxiv_id": "2609.35259",
+    "discussion_url": "https://arxiv.org/abs/2609.35259",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-27T20:00:00.000Z",
+   "queued_at": "2026-10-02T18:17:24.192399+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Julianna Piskorz, Antonin Berthon 외",
+   "source": "hf_paper",
+   "summary": "On-policy learning has been argued to reduce catastrophic forgetting, produce sparser parameter updates, and improve generalisation. However, existing comparisons between supervised fine-tuning and reinforcement learning vary many factors simultaneously, making the contribution of rollout policy difficult to isolate. We study the effect of rollout policy in a controlled strong-to-weak distillation setting, by independently varying rollout policy, token-level KL direction, and learning rate across the Llama3 and Qwen2.5 model families and reasoning tasks spanning scientific, medical, and arith…",
+   "threshold": 15.0,
+   "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+   "url": "https://huggingface.co/papers/2609.35259"
+  },
+  {
+   "key": "hfmodel:lightricks/ltx-2.5",
+   "meta": {
+    "downloads": 1584129,
+    "likes": 5941,
+    "pipeline": "image-to-video",
+    "rank": 5
+   },
+   "published_at": "2026-07-23T07:55:24.000Z",
+   "queued_at": "2026-10-02T18:17:24.192399+00:00",
+   "score": 1.0,
+   "signal": "🤗 트렌딩 #5 · ❤ 5,941 · ⬇ 1,584,129 · image-to-video",
+   "source": "hf_model",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5"
   }
  ],
  "seen": {
@@ -1329,6 +1364,12 @@
   "hfmodel:ista-daslab/qwen3.8-27b-gsq-rco-gguf": {
    "first": "2026-09-10T15:34:14.368488+00:00",
    "last": "2026-09-10T15:34:14.368488+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "hfmodel:lightricks/ltx-2.5": {
+   "first": "2026-10-02T18:17:24.192399+00:00",
+   "last": "2026-10-02T18:17:24.192399+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -2729,6 +2770,12 @@
    "last": "2026-09-30T03:43:48.583240+00:00",
    "score": 23.0,
    "sent": "2026-09-30T03:43:48.583240+00:00"
+  },
+  "hfpaper:2609.35259": {
+   "first": "2026-10-02T18:17:24.192399+00:00",
+   "last": "2026-10-02T18:17:24.192399+00:00",
+   "score": 15.0,
+   "sent": null
   },
   "hfpaper:2609.35347": {
    "first": "2026-09-29T06:10:29.427305+00:00",
