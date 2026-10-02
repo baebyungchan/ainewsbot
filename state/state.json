@@ -1,119 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T04:26:02.114787+00:00",
- "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34651",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-02T02:40:56+00:00",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI가 만든 긴 글을 사람이 읽기 쉬운 요약으로 만들어 줌 (Meat Proxy에서 벗어나기 위한 몸부림) 단축키(기본 ⌃X)를 누르면 어떤 앱에서든 바로 동작. 브라우저, 채팅 앱, 터미널 모두 AI 답변, 장문의 리포트, 미팅 기록, 채팅 대화, PR 설명을 요약 (PR은 &quot;무엇이 바뀌었나 + 무엇을...",
-   "threshold": 1.0,
-   "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
-   "url": "https://news.hada.io/topic?id=34651"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34647",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-02T00:38:54+00:00",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "생성형 AI 로 학습 수요가 이동하면서 웹 개발 강좌, 전자책, 튜토리얼로 생계를 이어온 독립 교육자들이 매출 급감과 사업 중단을 겪고 있음 교육 콘텐츠의 수익 기반 이 무너져 Axel Rauschmayer의 도서 판매 수입은 0으로 떨어졌고, Josh W. Comeau와 동료 강좌 제...",
-   "threshold": 1.0,
-   "title": "웹 개발 교육의 죽음",
-   "url": "https://news.hada.io/topic?id=34647"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34645",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-02T00:30:02+00:00",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Tencent가 개발한 AI 보안 점검 플랫폼 으로, 서버의 알려진 취약점부터 에이전트의 도구 오용·정보 유출, LLM 탈옥 공격까지 검사 실행 중인 Ollama, ComfyUI, vLLM, n8n 등의 서비스 주소를 입력하면 구성요소와 버전을 식별 하고 알려진 취약점을 탐지 v...",
-   "threshold": 1.0,
-   "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
-   "url": "https://news.hada.io/topic?id=34645"
-  },
-  {
-   "key": "hfpaper:2610.00906",
-   "meta": {
-    "arxiv_id": "2610.00906",
-    "discussion_url": "https://arxiv.org/abs/2610.00906",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-30T21:36:03.000Z",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Sungho Park, Wonjoong Kim 외",
-   "source": "hf_paper",
-   "summary": "Automated harness optimization can substantially improve LLM agents by iteratively updating their prompts, tool interfaces, and control logic from execution feedback. However, existing methods primarily optimize how the harness is updated while largely fixing which training scenarios generate the feedback that drives those updates. As the harness evolves, the scenarios most useful for further optimization can change, suggesting that the training curriculum itself should adapt alongside the harness. We formulate this missing dimension of harness optimization as an automated curriculum learning…",
-   "threshold": 15.0,
-   "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
-   "url": "https://huggingface.co/papers/2610.00906"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-10-02T04:01:31+00:00",
-   "queued_at": "2026-10-02T04:10:58.819846+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-  },
-  {
-   "key": "hfpaper:2610.02162",
-   "meta": {
-    "arxiv_id": "2610.02162",
-    "discussion_url": "https://arxiv.org/abs/2610.02162",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-30T20:00:00.000Z",
-   "queued_at": "2026-10-02T04:26:02.114787+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Hyunwook Choi, Dahyun Chung 외",
-   "source": "hf_paper",
-   "summary": "How can a world model continuously observe regions beyond the actor's current view? Video world models simulate how an environment evolves from an agent's actions, yet remain actor-centric. Once an object leaves the actor's view, they lose direct evidence of its evolution, often failing to preserve its state and dynamics upon re-entry. To address this, we introduce World Observer, which decouples observing from acting by jointly generating a perspective actor for the agent-centric view with one or more panoramic observers that watch selected world regions. This allows objects that leave the a…",
-   "threshold": 15.0,
-   "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
-   "url": "https://huggingface.co/papers/2610.02162"
-  },
-  {
-   "key": "hfpaper:2609.39375",
-   "meta": {
-    "arxiv_id": "2609.39375",
-    "discussion_url": "https://arxiv.org/abs/2609.39375",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-29T20:00:00.000Z",
-   "queued_at": "2026-10-02T04:26:02.114787+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Hyunjoon Lee, Haebeom Jung 외",
-   "source": "hf_paper",
-   "summary": "A robot that observes people interacting with objects should be able to carry out later requests that refer back to those interactions. Such requests may specify a grasp target by the role it played in a past event rather than by its name or appearance. Moreover, the target may no longer be visible when the robot is asked to act. We present BeyondSCe, a zero-shot robotic grasping system for this event-referential setting. Given the event history and the current scene, the system identifies the requested object or part and localizes it for grasping. If the target is occluded, it combines an ev…",
-   "threshold": 15.0,
-   "title": "Beyond the Current Scene: Event-Referential Grasping with Active View Selection",
-   "url": "https://huggingface.co/papers/2609.39375"
-  }
- ],
+ "last_run": "2026-10-02T04:41:09.745682+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -2877,6 +2765,12 @@
    "score": 24.0,
    "sent": "2026-10-01T05:07:21.908626+00:00"
   },
+  "hfpaper:2609.38923": {
+   "first": "2026-10-02T04:41:09.745682+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
+   "score": 16.0,
+   "sent": "2026-10-02T04:41:09.745682+00:00"
+  },
   "hfpaper:2609.39102": {
    "first": "2026-10-01T08:47:05.487787+00:00",
    "last": "2026-10-01T08:47:05.487787+00:00",
@@ -2885,9 +2779,9 @@
   },
   "hfpaper:2609.39375": {
    "first": "2026-10-02T04:26:02.114787+00:00",
-   "last": "2026-10-02T04:26:02.114787+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "hfpaper:2609.39841": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -2933,9 +2827,9 @@
   },
   "hfpaper:2610.00906": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "hfpaper:2610.01215": {
    "first": "2026-10-02T03:10:47.759473+00:00",
@@ -2945,15 +2839,21 @@
   },
   "hfpaper:2610.02162": {
    "first": "2026-10-02T04:26:02.114787+00:00",
-   "last": "2026-10-02T04:26:02.114787+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "hfpaper:2610.02193": {
    "first": "2026-10-02T03:10:47.759473+00:00",
    "last": "2026-10-02T03:10:47.759473+00:00",
    "score": 27.0,
    "sent": "2026-10-02T03:10:47.759473+00:00"
+  },
+  "hfpaper:2610.02205": {
+   "first": "2026-10-02T04:41:09.745682+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
+   "score": 15.0,
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "hn:49622561": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -5885,9 +5785,9 @@
   },
   "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
    "first": "2026-10-02T04:10:58.819846+00:00",
-   "last": "2026-10-02T04:10:58.819846+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "rss:https://huggingface.co/blog/allenai/olmocore3": {
    "first": "2026-10-01T15:18:07.925336+00:00",
@@ -8531,21 +8431,27 @@
   },
   "rss:https://news.hada.io/topic?id=34645": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "rss:https://news.hada.io/topic?id=34647": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "rss:https://news.hada.io/topic?id=34651": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:41:09.745682+00:00"
+  },
+  "rss:https://news.hada.io/topic?id=34653": {
+   "first": "2026-10-02T04:41:09.745682+00:00",
+   "last": "2026-10-02T04:41:09.745682+00:00",
+   "score": 1.0,
+   "sent": "2026-10-02T04:41:09.745682+00:00"
   },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
@@ -9378,10 +9284,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-18T23:22:13.961720+00:00",
-   "count": 12
-  },
-  {
    "at": "2026-09-19T01:30:41.389990+00:00",
    "count": 12
   },
@@ -10176,6 +10078,10 @@
   {
    "at": "2026-10-02T04:26:02.114787+00:00",
    "count": 12
+  },
+  {
+   "at": "2026-10-02T04:41:09.745682+00:00",
+   "count": 10
   }
  ],
  "version": 1
