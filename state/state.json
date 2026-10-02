@@ -1,7 +1,338 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-01T20:35:24.975601+00:00",
+ "last_run": "2026-10-02T00:10:24.467460+00:00",
  "pending": [
+  {
+   "key": "hn:49906100",
+   "meta": {
+    "comments": 94,
+    "discussion_url": "https://news.ycombinator.com/item?id=49906100",
+    "hn_id": "49906100"
+   },
+   "published_at": "2026-09-30T08:43:21+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 187.0,
+   "signal": "🟠 HN 187 pts · 💬 94",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR"
+  },
+  {
+   "key": "gh:nanaism/yomiyasu",
+   "meta": {
+    "age_days": 1.1,
+    "language": "Python",
+    "stars_total": 867,
+    "topics": [
+     "agent-skills",
+     "ai-writing",
+     "antigravity",
+     "claude-code",
+     "codex",
+     "cursor",
+     "gemini",
+     "japanese",
+     "linter",
+     "llm",
+     "nlp",
+     "writing",
+     "writing-assistant",
+     "writing-tool"
+    ]
+   },
+   "published_at": "2026-09-30T11:49:32Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 867.0,
+   "signal": "🆕 867 stars in 1d · Python",
+   "source": "github_new",
+   "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+   "threshold": 500.0,
+   "title": "nanaism/yomiyasu",
+   "url": "https://github.com/nanaism/yomiyasu"
+  },
+  {
+   "key": "reddit:1wv2r73",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+    "rank": 2,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T15:40:03+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 240.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #2",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Made a \"Destroy Any Website\" stickman game",
+   "url": "https://v.redd.it/qlnh24ivivsh1"
+  },
+  {
+   "key": "gh:echris6/motion-video-kit",
+   "meta": {
+    "age_days": 4.0,
+    "language": "Python",
+    "stars_total": 798,
+    "topics": []
+   },
+   "published_at": "2026-09-27T14:11:14Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 798.0,
+   "signal": "🆕 798 stars in 4d · Python",
+   "source": "github_new",
+   "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+   "threshold": 500.0,
+   "title": "echris6/motion-video-kit",
+   "url": "https://github.com/echris6/motion-video-kit"
+  },
+  {
+   "key": "hn:49922729",
+   "meta": {
+    "comments": 87,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922729",
+    "hn_id": "49922729",
+    "x_author": "GayaniFigma",
+    "x_status_id": "2105295629941350454"
+   },
+   "published_at": "2026-10-01T15:10:46+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 149.0,
+   "signal": "🟠 HN 149 pts · 💬 87 · 𝕏 @GayaniFigma · ❤ 91",
+   "source": "hn",
+   "summary": "Hey David, Gayani here from Figma. You're right that our remote MCP server only accepts clients on our supported list, and Pi isn't on it yet. You can see the current list in our MCP catalog at http://figma.com/mcp-catalog. If you'd like Pi considered for a future addition, please fill out this form: https://forms.gle/qSvUawwznWyoj8Go7.",
+   "threshold": 100.0,
+   "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+   "url": "https://twitter.com/GayaniFigma/status/2105295629941350454"
+  },
+  {
+   "key": "hfpaper:2609.38426",
+   "meta": {
+    "arxiv_id": "2609.38426",
+    "discussion_url": "https://arxiv.org/abs/2609.38426",
+    "upvotes": 22
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 22.0,
+   "signal": "📄 논문 ▲ 22 · Zhe Qian, Ziyang Gong 외",
+   "source": "hf_paper",
+   "summary": "We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vision-language state through shared modules. We train LoopVL from scratch through language pre-training, multimodal training, and post-training. LoopVL outperforms a range of similarly sized and larger non-recurrent models on multimodal understanding and visual reasoning benchmarks. We also observe Visual Aha Moments in LoopVL, characterized by pronounced shifts in visual attention across loops. L…",
+   "threshold": 15.0,
+   "title": "LoopVL: Recurrent Visual Intelligence",
+   "url": "https://huggingface.co/papers/2609.38426"
+  },
+  {
+   "key": "gh:angusdevgo/seep-reverse-lab",
+   "meta": {
+    "age_days": 8.3,
+    "language": "Lua",
+    "stars_total": 717,
+    "topics": []
+   },
+   "published_at": "2026-09-23T18:05:31Z",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 717.0,
+   "signal": "🆕 717 stars in 8d · Lua",
+   "source": "github_new",
+   "summary": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+   "threshold": 500.0,
+   "title": "angusdevgo/Seep-Reverse-Lab",
+   "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
+  },
+  {
+   "key": "hfpaper:2609.39903",
+   "meta": {
+    "arxiv_id": "2609.39903",
+    "discussion_url": "https://arxiv.org/abs/2609.39903",
+    "upvotes": 21
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 21.0,
+   "signal": "📄 논문 ▲ 21 · Dingyuan Dai, Heli Qi 외",
+   "source": "hf_paper",
+   "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulating scientific objects, and producing verifiable results. We thus introduce OSWorld-Science, a benchmark and evaluation environment that combines scientifically meaningful tasks, artifact-based evaluation, and an efficient agent harness for studying computer use in the scientific domain. The benchmark contains 12 VLMs and 146 high-quality tasks across several scientific domains and software configu…",
+   "threshold": 15.0,
+   "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+   "url": "https://huggingface.co/papers/2609.39903"
+  },
+  {
+   "key": "hn:49921118",
+   "meta": {
+    "comments": 80,
+    "discussion_url": "https://news.ycombinator.com/item?id=49921118",
+    "hn_id": "49921118"
+   },
+   "published_at": "2026-10-01T13:05:51+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 133.0,
+   "signal": "🟠 HN 133 pts · 💬 80",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+  },
+  {
+   "key": "hfpaper:2609.32264",
+   "meta": {
+    "arxiv_id": "2609.32264",
+    "discussion_url": "https://arxiv.org/abs/2609.32264",
+    "upvotes": 19
+   },
+   "published_at": "2026-09-25T20:00:00.000Z",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 19.0,
+   "signal": "📄 논문 ▲ 19 · Pavel Tikhonov, Elena Tutubalina 외",
+   "source": "hf_paper",
+   "summary": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We develop LANTERN, a fast, cost-efficient pipeline that uses a classifier over pretrained-model activations to rank candidate relations, followed by staged filtering, hypothesis generation, executable verification, and analytical checking. Applied to the On-Line Encyclopedia of Integer Sequences (OEIS), LANTERN ranked 50 million pairs among 10,000 frequently referenced sequences and produced 62 verifi…",
+   "threshold": 15.0,
+   "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
+   "url": "https://huggingface.co/papers/2609.32264"
+  },
+  {
+   "key": "hn:49905644",
+   "meta": {
+    "comments": 41,
+    "discussion_url": "https://news.ycombinator.com/item?id=49905644",
+    "hn_id": "49905644"
+   },
+   "published_at": "2026-09-30T07:33:45+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 126.0,
+   "signal": "🟠 HN 126 pts · 💬 41",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Doing a Machine Learning PhD While Working in Japan",
+   "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
+  },
+  {
+   "key": "gh:heygen-com/hyperframes",
+   "meta": {
+    "ai": true,
+    "language": "TypeScript",
+    "stars_today": 624,
+    "stars_total": 55128
+   },
+   "published_at": null,
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 624.0,
+   "signal": "★ +624 today · 55,128 total · TypeScript",
+   "source": "github_trending",
+   "summary": "Write HTML. Render video. Built for agents.",
+   "threshold": 500.0,
+   "title": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+   "key": "hfpaper:2609.32720",
+   "meta": {
+    "arxiv_id": "2609.32720",
+    "discussion_url": "https://arxiv.org/abs/2609.32720",
+    "upvotes": 18
+   },
+   "published_at": "2026-09-25T20:00:00.000Z",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 18.0,
+   "signal": "📄 논문 ▲ 18 · Shuang Liu, Yongliang Miao 외",
+   "source": "hf_paper",
+   "summary": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or confidence, leading LLMs to produce higher-scoring but not more correct responses. Existing mitigation methods either retrain the reward model or apply a fixed correction to one known bias, such as a preference for longer responses. Retraining requires additional data and computational resources, while existing editing methods require the target bias to be specified in advance and use a fixed edit for that bi…",
+   "threshold": 15.0,
+   "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
+   "url": "https://huggingface.co/papers/2609.32720"
+  },
+  {
+   "key": "reddit:1wuw9bc",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-01T10:50:13+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "Opus 5.5 was god-like in the first 5-6 days and couldn't put a foot wrong in my most complex work, (custom C++ 3D engines, soft body physics solvers, Blender MCP), then suddenly it fluffed something more simple and out of the blue said: \"Written for: you, as the reply on these three issues.\" in first line of the response. I had to look around the room to see who else it was writing for! Very abnormal and an outlier in terms of speech. After that canary in the coal mine it's never been the same since, and I have noticed this time and again. Fable 5.0 started off with Mythos like writing style,…",
+   "threshold": 150.0,
+   "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/"
+  },
+  {
+   "key": "reddit:1wv0jvd",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-10-01T14:14:24+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 330.0,
+   "signal": "🏆 r/singularity 오늘 #4",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Google releasing their most powerful model yet",
+   "url": "https://v.redd.it/3bf1c7za6vsh1"
+  },
+  {
+   "key": "hn:49922569",
+   "meta": {
+    "comments": 103,
+    "hn_id": "49922569"
+   },
+   "published_at": "2026-10-01T15:02:07+00:00",
+   "queued_at": "2026-10-01T20:35:24.975601+00:00",
+   "score": 108.0,
+   "signal": "🟠 HN 108 pts · 💬 103",
+   "source": "hn",
+   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn&#x27;t a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don&#x27;t reply to job posts to complain about something. It&#x27;s off topic here. Readers: please only email if you are perso…",
+   "threshold": 100.0,
+   "title": "Ask HN: Who is hiring? (October 2026)",
+   "url": "https://news.ycombinator.com/item?id=49922569"
+  },
+  {
+   "key": "hfpaper:2609.40316",
+   "meta": {
+    "arxiv_id": "2609.40316",
+    "discussion_url": "https://arxiv.org/abs/2609.40316",
+    "upvotes": 16
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 16.0,
+   "signal": "📄 논문 ▲ 16 · Yanbei Chen, Anirudh Goyal 외",
+   "source": "hf_paper",
+   "summary": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. T…",
+   "threshold": 15.0,
+   "title": "Scaling Laws for Looped Mixture of Experts",
+   "url": "https://huggingface.co/papers/2609.40316"
+  },
+  {
+   "key": "hn:49919910",
+   "meta": {
+    "comments": 55,
+    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
+    "hn_id": "49919910"
+   },
+   "published_at": "2026-10-01T10:21:36+00:00",
+   "queued_at": "2026-10-01T15:18:07.925336+00:00",
+   "score": 105.0,
+   "signal": "🟠 HN 105 pts · 💬 55",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+  },
   {
    "key": "reddit:1wtr02p",
    "meta": {
@@ -333,196 +664,6 @@
    "url": "https://news.hada.io/topic?id=34588"
   },
   {
-   "key": "hn:49920234",
-   "meta": {
-    "comments": 212,
-    "discussion_url": "https://news.ycombinator.com/item?id=49920234",
-    "hn_id": "49920234"
-   },
-   "published_at": "2026-10-01T11:13:59+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 216.0,
-   "signal": "🟠 HN 216 pts · 💬 212",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Returning from vacation? The government can search your phone without a warrant",
-   "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
-  },
-  {
-   "key": "reddit:1wuj72j",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
-    "rank": 1,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-09-30T22:46:33+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 600.0,
-   "signal": "🏆 r/singularity 오늘 #1",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Gemini 4 Argon solved hallucinations.",
-   "url": "https://i.redd.it/0skesazrkqsh1.jpeg"
-  },
-  {
-   "key": "hn:49906100",
-   "meta": {
-    "comments": 94,
-    "discussion_url": "https://news.ycombinator.com/item?id=49906100",
-    "hn_id": "49906100"
-   },
-   "published_at": "2026-09-30T08:43:21+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 187.0,
-   "signal": "🟠 HN 187 pts · 💬 94",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-   "url": "https://github.com/maanHimself/OpenDLSS-NR"
-  },
-  {
-   "key": "gh:nanaism/yomiyasu",
-   "meta": {
-    "age_days": 1.1,
-    "language": "Python",
-    "stars_total": 867,
-    "topics": [
-     "agent-skills",
-     "ai-writing",
-     "antigravity",
-     "claude-code",
-     "codex",
-     "cursor",
-     "gemini",
-     "japanese",
-     "linter",
-     "llm",
-     "nlp",
-     "writing",
-     "writing-assistant",
-     "writing-tool"
-    ]
-   },
-   "published_at": "2026-09-30T11:49:32Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 867.0,
-   "signal": "🆕 867 stars in 1d · Python",
-   "source": "github_new",
-   "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-   "threshold": 500.0,
-   "title": "nanaism/yomiyasu",
-   "url": "https://github.com/nanaism/yomiyasu"
-  },
-  {
-   "key": "gh:echris6/motion-video-kit",
-   "meta": {
-    "age_days": 4.0,
-    "language": "Python",
-    "stars_total": 798,
-    "topics": []
-   },
-   "published_at": "2026-09-27T14:11:14Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 798.0,
-   "signal": "🆕 798 stars in 4d · Python",
-   "source": "github_new",
-   "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-   "threshold": 500.0,
-   "title": "echris6/motion-video-kit",
-   "url": "https://github.com/echris6/motion-video-kit"
-  },
-  {
-   "key": "hn:49921118",
-   "meta": {
-    "comments": 80,
-    "discussion_url": "https://news.ycombinator.com/item?id=49921118",
-    "hn_id": "49921118"
-   },
-   "published_at": "2026-10-01T13:05:51+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 133.0,
-   "signal": "🟠 HN 133 pts · 💬 80",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
-  },
-  {
-   "key": "hfpaper:2609.32264",
-   "meta": {
-    "arxiv_id": "2609.32264",
-    "discussion_url": "https://arxiv.org/abs/2609.32264",
-    "upvotes": 19
-   },
-   "published_at": "2026-09-25T20:00:00.000Z",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 19.0,
-   "signal": "📄 논문 ▲ 19 · Pavel Tikhonov, Elena Tutubalina 외",
-   "source": "hf_paper",
-   "summary": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We develop LANTERN, a fast, cost-efficient pipeline that uses a classifier over pretrained-model activations to rank candidate relations, followed by staged filtering, hypothesis generation, executable verification, and analytical checking. Applied to the On-Line Encyclopedia of Integer Sequences (OEIS), LANTERN ranked 50 million pairs among 10,000 frequently referenced sequences and produced 62 verifi…",
-   "threshold": 15.0,
-   "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
-   "url": "https://huggingface.co/papers/2609.32264"
-  },
-  {
-   "key": "hn:49905644",
-   "meta": {
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=49905644",
-    "hn_id": "49905644"
-   },
-   "published_at": "2026-09-30T07:33:45+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 126.0,
-   "signal": "🟠 HN 126 pts · 💬 41",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Doing a Machine Learning PhD While Working in Japan",
-   "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-  },
-  {
-   "key": "gh:heygen-com/hyperframes",
-   "meta": {
-    "ai": true,
-    "language": "TypeScript",
-    "stars_today": 624,
-    "stars_total": 55128
-   },
-   "published_at": null,
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 624.0,
-   "signal": "★ +624 today · 55,128 total · TypeScript",
-   "source": "github_trending",
-   "summary": "Write HTML. Render video. Built for agents.",
-   "threshold": 500.0,
-   "title": "heygen-com/hyperframes",
-   "url": "https://github.com/heygen-com/hyperframes"
-  },
-  {
-   "key": "hn:49919910",
-   "meta": {
-    "comments": 55,
-    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
-    "hn_id": "49919910"
-   },
-   "published_at": "2026-10-01T10:21:36+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 105.0,
-   "signal": "🟠 HN 105 pts · 💬 55",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
-  },
-  {
    "key": "reddit:1wuc047",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wuc047/new_improved_model/",
@@ -662,284 +803,6 @@
    "url": "https://news.hada.io/topic?id=34601"
   },
   {
-   "key": "hfpaper:2609.34563",
-   "meta": {
-    "arxiv_id": "2609.34563",
-    "discussion_url": "https://arxiv.org/abs/2609.34563",
-    "upvotes": 158
-   },
-   "published_at": "2026-09-27T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 158.0,
-   "signal": "📄 논문 ▲ 158 · Xi Xiao, Tianchen Zhao 외",
-   "source": "hf_paper",
-   "summary": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. However, unlike textual CoT, latent reasoning is not directly observable, making it difficult to supervise what latent tokens learn. In this work, we first conduct a thorough analysis of latent-token behavior and identify a latent evidence-credit gap: latent tokens respond only weakly to image perturbations that alter the correct answer. We hypothesize that this issue stems from the lack of explicit…",
-   "threshold": 15.0,
-   "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
-   "url": "https://huggingface.co/papers/2609.34563"
-  },
-  {
-   "key": "hn:49923692",
-   "meta": {
-    "comments": 130,
-    "discussion_url": "https://news.ycombinator.com/item?id=49923692",
-    "hn_id": "49923692"
-   },
-   "published_at": "2026-10-01T16:18:57+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 315.0,
-   "signal": "🟠 HN 315 pts · 💬 130",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
-  },
-  {
-   "key": "hfpaper:2609.33355",
-   "meta": {
-    "arxiv_id": "2609.33355",
-    "discussion_url": "https://arxiv.org/abs/2609.33355",
-    "upvotes": 37
-   },
-   "published_at": "2026-09-26T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 37.0,
-   "signal": "📄 논문 ▲ 37 · Injin Kong, Sunghwan Choi 외",
-   "source": "hf_paper",
-   "summary": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control parallelism, restrict selection regions, revise predictions, or plan future denoising, yet it remains unclear when these choices should change during generation. We study this question through strategy reversals, where an alternative action becomes preferable to a fixed choice. We organize MDM inference into five axes--score, cardinality, region, commitment, and planning--and define adaptation opportunity…",
-   "threshold": 15.0,
-   "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
-   "url": "https://huggingface.co/papers/2609.33355"
-  },
-  {
-   "key": "hn:49923466",
-   "meta": {
-    "comments": 60,
-    "discussion_url": "https://news.ycombinator.com/item?id=49923466",
-    "hn_id": "49923466"
-   },
-   "published_at": "2026-10-01T16:01:56+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 218.0,
-   "signal": "🟠 HN 218 pts · 💬 60",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "RIP, vector database",
-   "url": "https://turbopuffer.com/blog/rip-vector-database"
-  },
-  {
-   "key": "hfpaper:2609.37863",
-   "meta": {
-    "arxiv_id": "2609.37863",
-    "discussion_url": "https://arxiv.org/abs/2609.37863",
-    "upvotes": 31
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 31.0,
-   "signal": "📄 논문 ▲ 31 · Nagham Omar, Mahmoud Jabarin 외",
-   "source": "hf_paper",
-   "summary": "Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We introduce MIST, the Misleading-Image Stress Test: 200 English sentences, each built around a phrase readable either figuratively or literally and shown with an aligned image depicting its reading, a misleading image depicting the opposite, or no image at all. The guidelines require the label to be decided from the sentence alone, so no image should change any answer. We expected each image to pull a…",
-   "threshold": 15.0,
-   "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
-   "url": "https://huggingface.co/papers/2609.37863"
-  },
-  {
-   "key": "reddit:1wuvxy7",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
-    "rank": 1,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T10:31:46+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #1",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Throwback to when Claude suggested I should deal drugs to make money.",
-   "url": "https://i.redd.it/80zyykd92ush1.jpeg"
-  },
-  {
-   "key": "hfpaper:2609.38660",
-   "meta": {
-    "arxiv_id": "2609.38660",
-    "discussion_url": "https://arxiv.org/abs/2609.38660",
-    "upvotes": 30
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 30.0,
-   "signal": "📄 논문 ▲ 30 · Haibo Jin, Xinjie Li 외",
-   "source": "hf_paper",
-   "summary": "Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-LLM methods are largely sentence-level, and multi-agent systems often use static workflows that do not adapt to scene complexity or production context. We propose SMART, a Self-evolving Multi-Agent system for long-foRm subtitle Translation. During test-time training, SMART builds persistent series-level memory and translates a subset of sentences through a dynamic router and Mixture-of-Agents layer with to…",
-   "threshold": 15.0,
-   "title": "Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation",
-   "url": "https://huggingface.co/papers/2609.38660"
-  },
-  {
-   "key": "hfpaper:2609.38653",
-   "meta": {
-    "arxiv_id": "2609.38653",
-    "discussion_url": "https://arxiv.org/abs/2609.38653",
-    "upvotes": 29
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 29.0,
-   "signal": "📄 논문 ▲ 29 · Merkourios Simos, Chengkun Li 외",
-   "source": "hf_paper",
-   "summary": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confined to flat ground, in part because motion datasets rarely include aligned terrain geometry and because retargeting terrain interactions to complex musculoskeletal bodies is challenging. We present TERRA, an end-to-end pipeline for terrain-aware retargeting and control of musculoskeletal locomotion. From kinematic trajectories alone, TERRA combines terrain priors, estimated contacts, and negative…",
-   "threshold": 15.0,
-   "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
-   "url": "https://huggingface.co/papers/2609.38653"
-  },
-  {
-   "key": "hfpaper:2609.39841",
-   "meta": {
-    "arxiv_id": "2609.39841",
-    "discussion_url": "https://arxiv.org/abs/2609.39841",
-    "upvotes": 29
-   },
-   "published_at": "2026-09-29T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 29.0,
-   "signal": "📄 논문 ▲ 29 · Merav Keidar, Tomer Borreda 외",
-   "source": "hf_paper",
-   "summary": "Reconstructing dynamic driving scenes from recorded sensor data supports closed-loop evaluation of autonomous driving systems by synthesizing observations beyond the original trajectory. Unlike cameras and LiDAR, radar measures radial velocity directly through Doppler. Yet existing radar novel-view synthesis fails to exploit this capability: methods addressing dynamic scenes reconstruct only range-azimuth tensors, while methods that render Doppler assume static scenes. Moreover, because radar processing spreads each reflection across multiple bins, existing representations absorb this spread…",
-   "threshold": 15.0,
-   "title": "DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes",
-   "url": "https://huggingface.co/papers/2609.39841"
-  },
-  {
-   "key": "hn:49921050",
-   "meta": {
-    "comments": 134,
-    "discussion_url": "https://news.ycombinator.com/item?id=49921050",
-    "hn_id": "49921050"
-   },
-   "published_at": "2026-10-01T13:00:55+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 190.0,
-   "signal": "🟠 HN 190 pts · 💬 134",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
-  },
-  {
-   "key": "reddit:1wv2r73",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-    "rank": 2,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T15:40:03+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 240.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #2",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Made a \"Destroy Any Website\" stickman game",
-   "url": "https://v.redd.it/qlnh24ivivsh1"
-  },
-  {
-   "key": "hn:49922729",
-   "meta": {
-    "comments": 87,
-    "discussion_url": "https://news.ycombinator.com/item?id=49922729",
-    "hn_id": "49922729",
-    "x_author": "GayaniFigma",
-    "x_status_id": "2105295629941350454"
-   },
-   "published_at": "2026-10-01T15:10:46+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 149.0,
-   "signal": "🟠 HN 149 pts · 💬 87 · 𝕏 @GayaniFigma · ❤ 91",
-   "source": "hn",
-   "summary": "Hey David, Gayani here from Figma. You're right that our remote MCP server only accepts clients on our supported list, and Pi isn't on it yet. You can see the current list in our MCP catalog at http://figma.com/mcp-catalog. If you'd like Pi considered for a future addition, please fill out this form: https://forms.gle/qSvUawwznWyoj8Go7.",
-   "threshold": 100.0,
-   "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "url": "https://twitter.com/GayaniFigma/status/2105295629941350454"
-  },
-  {
-   "key": "hfpaper:2609.38426",
-   "meta": {
-    "arxiv_id": "2609.38426",
-    "discussion_url": "https://arxiv.org/abs/2609.38426",
-    "upvotes": 22
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 22.0,
-   "signal": "📄 논문 ▲ 22 · Zhe Qian, Ziyang Gong 외",
-   "source": "hf_paper",
-   "summary": "We introduce LoopVL to study whether Loop Transformers can be effectively extended to vision- language models. LoopVL combines Module-Loop and Model-Loop computation to iteratively update a unified vision-language state through shared modules. We train LoopVL from scratch through language pre-training, multimodal training, and post-training. LoopVL outperforms a range of similarly sized and larger non-recurrent models on multimodal understanding and visual reasoning benchmarks. We also observe Visual Aha Moments in LoopVL, characterized by pronounced shifts in visual attention across loops. L…",
-   "threshold": 15.0,
-   "title": "LoopVL: Recurrent Visual Intelligence",
-   "url": "https://huggingface.co/papers/2609.38426"
-  },
-  {
-   "key": "hfpaper:2609.39903",
-   "meta": {
-    "arxiv_id": "2609.39903",
-    "discussion_url": "https://arxiv.org/abs/2609.39903",
-    "upvotes": 21
-   },
-   "published_at": "2026-09-29T20:00:00.000Z",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 21.0,
-   "signal": "📄 논문 ▲ 21 · Dingyuan Dai, Heli Qi 외",
-   "source": "hf_paper",
-   "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulating scientific objects, and producing verifiable results. We thus introduce OSWorld-Science, a benchmark and evaluation environment that combines scientifically meaningful tasks, artifact-based evaluation, and an efficient agent harness for studying computer use in the scientific domain. The benchmark contains 12 VLMs and 146 high-quality tasks across several scientific domains and software configu…",
-   "threshold": 15.0,
-   "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
-   "url": "https://huggingface.co/papers/2609.39903"
-  },
-  {
-   "key": "reddit:1wuw9bc",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T10:50:13+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "Opus 5.5 was god-like in the first 5-6 days and couldn't put a foot wrong in my most complex work, (custom C++ 3D engines, soft body physics solvers, Blender MCP), then suddenly it fluffed something more simple and out of the blue said: \"Written for: you, as the reply on these three issues.\" in first line of the response. I had to look around the room to see who else it was writing for! Very abnormal and an outlier in terms of speech. After that canary in the coal mine it's never been the same since, and I have noticed this time and again. Fable 5.0 started off with Mythos like writing style,…",
-   "threshold": 150.0,
-   "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/"
-  },
-  {
-   "key": "hn:49922569",
-   "meta": {
-    "comments": 103,
-    "hn_id": "49922569"
-   },
-   "published_at": "2026-10-01T15:02:07+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 108.0,
-   "signal": "🟠 HN 108 pts · 💬 103",
-   "source": "hn",
-   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn&#x27;t a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don&#x27;t reply to job posts to complain about something. It&#x27;s off topic here. Readers: please only email if you are perso…",
-   "threshold": 100.0,
-   "title": "Ask HN: Who is hiring? (October 2026)",
-   "url": "https://news.ycombinator.com/item?id=49922569"
-  },
-  {
    "key": "reddit:1wuy2x1",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
@@ -1062,6 +925,128 @@
    "threshold": 1.0,
    "title": "GPT-Synopsys, 칩 설계를 혁신할 최첨단 AI",
    "url": "https://news.hada.io/topic?id=34616"
+  },
+  {
+   "key": "rss:https://openai.com/index/the-den-family-social",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-10-01T00:00:00+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+   "threshold": 1.0,
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "url": "https://openai.com/index/the-den-family-social"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34644",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T00:08:23+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "오픈소스 프로젝트에는 AI 생성 기여를 당분간 거부하는 것 이 실용적인 선택임. 나중에 수용으로 바꾸기는 쉽지만, 이미 유입된 생성 코드를 제거하고 통제권을 되찾기는 어려울 수 있음 중립적 지침이나 결정 유보 도 장기적으로는 생성 코드 수용과 다르지 않음. ...",
+   "threshold": 1.0,
+   "title": "AI에 대한 파스칼의 내기",
+   "url": "https://news.hada.io/topic?id=34644"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34641",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T22:35:45+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Earendil과 Pi 커뮤니티가 Pi 1.0과 함께 Pi Durable 을 실험적으로 공개함. 기존 Pi 코딩 에이전트를 대체하지 않고, 장시간 실행되고 장애 후 복구되는 다양한 에이전트 애플리케이션을 구축하는 하네스임 실행 단계를 체크포인트가 있는 작업 으로 저장해 프로세스...",
+   "threshold": 1.0,
+   "title": "Pi Durable",
+   "url": "https://news.hada.io/topic?id=34641"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34640",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T22:06:29+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Netflix는 최신 모델의 기능보다 회원에게 제공할 경험과 현장의 문제 에서 출발해 AI 전환을 설계함. 콘텐츠 품질과 창작자의 전문성을 훼손하지 않으면서 제작과 배포 규모를 확대하는 것이 전제였음 창작자의 업무를 관찰하고 공개 설문과 찬반 토론을 진행한 뒤, 현재와 ...",
+   "threshold": 1.0,
+   "title": "‘할 수 있는 일’과 ‘해야 할 일’ 구분하기: Netflix 제품팀은 어떻게 수천 명의 창작자가 AI 전환을 신...",
+   "url": "https://news.hada.io/topic?id=34640"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34639",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T22:01:13+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Lovable 에서는 AI가 개별 업무의 생산성을 높이는 데 그치지 않고, 직무 경계와 의사결정, 정보 흐름, 일을 잘한다는 기준까지 바꾸고 있음 세분화된 직급 대신 IC, Lead, Head 만 두며, 정보 공개와 자율성을 바탕으로 회의와 승인 절차에 대한 의존도를 낮춤 ...",
+   "threshold": 1.0,
+   "title": "AI 네이티브 회사에서 일한다는 것",
+   "url": "https://news.hada.io/topic?id=34639"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34638",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-01T21:57:31+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "연구와 개발을 돕는 AI 제품이라면 오류 가능성을 작은 면책 문구로 알리는 데 그치지 않고, 주장 검증과 출처 확인 을 기본 작업 흐름으로 제공해야 함 답변보다 원문 인용과 데이터 출처 를 앞세우고, 사용자가 검증한 내용과 AI가 생성한 내용을 구분할 수 있어야...",
+   "threshold": 1.0,
+   "title": "진지한 AI 제품은 어떤 모습이어야 할까?",
+   "url": "https://news.hada.io/topic?id=34638"
+  },
+  {
+   "key": "rss:https://youtube.com/watch?v=_rtp1XzaP6Q",
+   "meta": {
+    "feed": "AI Explained (YouTube)"
+   },
+   "published_at": "2026-10-01T21:20:12+00:00",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "signal": "▶️ AI Explained (YouTube)",
+   "source": "rss",
+   "summary": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro. Patreon Exclusives: https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 01:32 - Wrong about Opus 5.5? Deciphering 16th Century Text 05:01 - Why the models keep breaking out 11:40 - What the models…",
+   "threshold": 1.0,
+   "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+   "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q"
+  },
+  {
+   "key": "hfpaper:2609.38349",
+   "meta": {
+    "arxiv_id": "2609.38349",
+    "discussion_url": "https://arxiv.org/abs/2609.38349",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-02T00:10:24.467460+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Prithwish Jana, Mononito Goswami 외",
+   "source": "hf_paper",
+   "summary": "Modern agentic systems combine an AI model with a harness that controls execution and environmental interactions. Harness design strongly affects long-horizon performance, yet its combinatorial search space demands substantial human effort that must be repeated as models change. Existing automated methods explore this space narrowly, optimizing only components such as prompts or skills or becoming trapped by fixed, exploitative search strategies. We introduce MILO (Meta-evolutionary Island Orchestration), a framework that co-evolves agent harnesses and the strategy used to discover them. MILO…",
+   "threshold": 15.0,
+   "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
+   "url": "https://huggingface.co/papers/2609.38349"
   }
  ],
  "seen": {
@@ -1155,6 +1140,13 @@
    "score": 627.0,
    "sent": "2026-09-11T13:03:56.872358+00:00",
    "stars_total": 1962
+  },
+  "gh:angusdevgo/seep-reverse-lab": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 717.0,
+   "sent": null,
+   "stars_total": 717
   },
   "gh:anonymous-report-421/gpt-as-policy": {
    "first": "2026-09-21T13:41:28.109549+00:00",
@@ -3387,6 +3379,12 @@
    "score": 25.0,
    "sent": "2026-09-30T05:57:51.793447+00:00"
   },
+  "hfpaper:2609.32720": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 18.0,
+   "sent": null
+  },
   "hfpaper:2609.32722": {
    "first": "2026-09-30T23:04:28.649021+00:00",
    "last": "2026-09-30T23:04:28.649021+00:00",
@@ -3431,9 +3429,9 @@
   },
   "hfpaper:2609.33355": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 37.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.33378": {
    "first": "2026-09-29T13:05:08.693680+00:00",
@@ -3533,9 +3531,9 @@
   },
   "hfpaper:2609.34563": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 158.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.34759": {
    "first": "2026-09-30T05:57:51.793447+00:00",
@@ -3689,9 +3687,9 @@
   },
   "hfpaper:2609.37863": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 31.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.37868": {
    "first": "2026-09-30T03:43:48.583240+00:00",
@@ -3753,6 +3751,12 @@
    "score": 34.0,
    "sent": "2026-10-01T08:47:05.487787+00:00"
   },
+  "hfpaper:2609.38349": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2609.38426": {
    "first": "2026-10-01T20:35:24.975601+00:00",
    "last": "2026-10-01T20:35:24.975601+00:00",
@@ -3761,15 +3765,15 @@
   },
   "hfpaper:2609.38653": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 29.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.38660": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 30.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.38721": {
    "first": "2026-10-01T05:07:21.908626+00:00",
@@ -3791,9 +3795,9 @@
   },
   "hfpaper:2609.39841": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 29.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hfpaper:2609.39903": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -3811,6 +3815,12 @@
    "first": "2026-10-01T05:07:21.908626+00:00",
    "last": "2026-10-01T05:07:21.908626+00:00",
    "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2609.40316": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 16.0,
    "sent": null
   },
   "hfpaper:2609.40325": {
@@ -5333,15 +5343,15 @@
   },
   "hn:49920234": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 216.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hn:49921050": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 190.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hn:49921118": {
    "first": "2026-10-01T15:18:07.925336+00:00",
@@ -5363,15 +5373,15 @@
   },
   "hn:49923466": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 218.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "hn:49923692": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 315.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6545,15 +6555,15 @@
   },
   "reddit:1wuj72j": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 600.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "reddit:1wuvxy7": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-02T00:10:24.467460+00:00"
   },
   "reddit:1wuw9bc": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -6565,6 +6575,12 @@
    "first": "2026-10-01T20:35:24.975601+00:00",
    "last": "2026-10-01T20:35:24.975601+00:00",
    "score": 200.0,
+   "sent": null
+  },
+  "reddit:1wv0jvd": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 330.0,
    "sent": null
   },
   "reddit:1wv2r73": {
@@ -9345,6 +9361,36 @@
    "score": 1.0,
    "sent": null
   },
+  "rss:https://news.hada.io/topic?id=34638": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34639": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34640": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34641": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34644": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
    "last": "2026-09-29T00:41:59.524675+00:00",
@@ -9590,6 +9636,12 @@
    "last": "2026-09-11T23:21:15.126656+00:00",
    "score": 1.0,
    "sent": "2026-09-11T23:21:15.126656+00:00"
+  },
+  "rss:https://openai.com/index/the-den-family-social": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/the-eternal-complement": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -10160,13 +10212,15 @@
    "last": "2026-09-25T12:20:42.832459+00:00",
    "score": 1.0,
    "sent": "2026-09-25T12:20:42.832459+00:00"
+  },
+  "rss:https://youtube.com/watch?v=_rtp1XzaP6Q": {
+   "first": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T00:10:24.467460+00:00",
+   "score": 1.0,
+   "sent": null
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T12:08:07.404790+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T12:38:04.217560+00:00",
    "count": 1
@@ -10961,6 +11015,10 @@
   },
   {
    "at": "2026-10-01T08:47:05.487787+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-02T00:10:24.467460+00:00",
    "count": 12
   }
  ],
