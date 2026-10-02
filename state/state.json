@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T17:17:04.677579+00:00",
+ "last_run": "2026-10-02T17:32:13.296519+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -133,6 +133,21 @@
    "threshold": 300.0,
    "title": "The humanoid robotics company \"Figure\" made their older gen robots jump to their death. (Yes, they actually did this)",
    "url": "https://v.redd.it/xp14ykit1xsh1"
+  },
+  {
+   "key": "rss:https://openai.com/index/chatham-financial",
+   "meta": {
+    "feed": "OpenAI"
+   },
+   "published_at": "2026-10-02T00:00:00+00:00",
+   "queued_at": "2026-10-02T17:32:13.296519+00:00",
+   "score": 1.0,
+   "signal": "📰 OpenAI",
+   "source": "rss",
+   "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+   "threshold": 1.0,
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial"
   }
  ],
  "seen": {
@@ -8827,6 +8842,12 @@
    "last": "2026-09-22T01:14:57.132219+00:00",
    "score": 1.0,
    "sent": "2026-09-22T01:14:57.132219+00:00"
+  },
+  "rss:https://openai.com/index/chatham-financial": {
+   "first": "2026-10-02T17:32:13.296519+00:00",
+   "last": "2026-10-02T17:32:13.296519+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://openai.com/index/cognition-devin-testing-with-astra": {
    "first": "2026-09-12T00:21:27.869756+00:00",
