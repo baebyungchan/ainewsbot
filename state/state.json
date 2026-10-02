@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T19:32:45.539409+00:00",
+ "last_run": "2026-10-02T19:47:49.360872+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -302,6 +302,21 @@
    "threshold": 100.0,
    "title": "Sites in ChatGPT",
    "url": "https://chatgpt.com/features/sites/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34679",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T19:45:57+00:00",
+   "queued_at": "2026-10-02T19:47:49.360872+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "stillwet 은 AI 모델이 붓질을 코드로 작성하고, 리넨 위 유화 시뮬레이션이 이를 실행하는 회화 프로젝트로 이미지 생성 모델은 사용하지 않음 대부분의 모델은 Caspar David Friedrich 의 작품 이미지를 보지 않고 문헌 조사만으로 그의 화풍을 따르며, 공개된 75점...",
+   "threshold": 1.0,
+   "title": "Show HN: Opus 5.5에 가상 회화 캔버스 제공하기",
+   "url": "https://news.hada.io/topic?id=34679"
   }
  ],
  "seen": {
@@ -9000,6 +9015,12 @@
   "rss:https://news.hada.io/topic?id=34676": {
    "first": "2026-10-02T18:48:07.113425+00:00",
    "last": "2026-10-02T18:48:07.113425+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34679": {
+   "first": "2026-10-02T19:47:49.360872+00:00",
+   "last": "2026-10-02T19:47:49.360872+00:00",
    "score": 1.0,
    "sent": null
   },
