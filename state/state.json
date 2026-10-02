@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T21:03:05.120695+00:00",
+ "last_run": "2026-10-02T21:18:10.367928+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -432,6 +432,57 @@
    "threshold": 100.0,
    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+  },
+  {
+   "key": "hn:49933740",
+   "meta": {
+    "comments": 33,
+    "discussion_url": "https://news.ycombinator.com/item?id=49933740",
+    "hn_id": "49933740"
+   },
+   "published_at": "2026-10-02T14:11:24+00:00",
+   "queued_at": "2026-10-02T21:18:10.367928+00:00",
+   "score": 102.0,
+   "signal": "🟠 HN 102 pts · 💬 33",
+   "source": "hn",
+   "summary": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312",
+   "threshold": 100.0,
+   "title": "With most information hidden, the game Stratego had stumped AI until now",
+   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+  },
+  {
+   "key": "hfpaper:2609.40362",
+   "meta": {
+    "arxiv_id": "2609.40362",
+    "discussion_url": "https://arxiv.org/abs/2609.40362",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-29T20:00:00.000Z",
+   "queued_at": "2026-10-02T21:18:10.367928+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Hongyuan Tao, Xinggang Wang 외",
+   "source": "hf_paper",
+   "summary": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The latter requires modality-dependent objectives and sampling procedures. Fully continuous modeling avoids these trade-offs and enables a shared generative process, but remains underexplored for multimodal pretraining. Multimodal Flow introduces a unified continuous architecture th…",
+   "threshold": 15.0,
+   "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+   "url": "https://huggingface.co/papers/2609.40362"
+  },
+  {
+   "key": "hfpaper:2610.02201",
+   "meta": {
+    "arxiv_id": "2610.02201",
+    "discussion_url": "https://arxiv.org/abs/2610.02201",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-30T20:00:00.000Z",
+   "queued_at": "2026-10-02T21:18:10.367928+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Tianjiao Yu, Xinzhuo Li 외",
+   "source": "hf_paper",
+   "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected shapes. We introduce SILSA, a topology-aware 3D generation framework that represents shapes with compact sliding-window slice latents. Instead of generating expensive voxel tokens, SILSA uses a fixed set of overlapping slices along the three canonical ax…",
+   "threshold": 15.0,
+   "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+   "url": "https://huggingface.co/papers/2610.02201"
   }
  ],
  "seen": {
@@ -3319,6 +3370,12 @@
    "score": 33.0,
    "sent": "2026-10-01T05:07:21.908626+00:00"
   },
+  "hfpaper:2609.40362": {
+   "first": "2026-10-02T21:18:10.367928+00:00",
+   "last": "2026-10-02T21:18:10.367928+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2610.00574": {
    "first": "2026-10-02T07:41:49.758388+00:00",
    "last": "2026-10-02T07:41:49.758388+00:00",
@@ -3388,6 +3445,12 @@
   "hfpaper:2610.02196": {
    "first": "2026-10-02T16:16:51.699828+00:00",
    "last": "2026-10-02T16:16:51.699828+00:00",
+   "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2610.02201": {
+   "first": "2026-10-02T21:18:10.367928+00:00",
+   "last": "2026-10-02T21:18:10.367928+00:00",
    "score": 15.0,
    "sent": null
   },
@@ -4986,6 +5049,12 @@
    "last": "2026-10-02T06:11:30.069924+00:00",
    "score": 109.0,
    "sent": "2026-10-02T06:11:30.069924+00:00"
+  },
+  "hn:49933740": {
+   "first": "2026-10-02T21:18:10.367928+00:00",
+   "last": "2026-10-02T21:18:10.367928+00:00",
+   "score": 102.0,
+   "sent": null
   },
   "hn:49934487": {
    "first": "2026-10-02T16:16:51.699828+00:00",
