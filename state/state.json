@@ -1,189 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T23:03:33.754093+00:00",
+ "last_run": "2026-10-02T23:18:39.020600+00:00",
  "pending": [
-  {
-   "key": "rss:https://openai.com/index/practical-guide-building-gpt-6",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-10-02T16:15:00+00:00",
-   "queued_at": "2026-10-02T16:16:51.699828+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-   "threshold": 1.0,
-   "title": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6"
-  },
-  {
-   "key": "hfpaper:2610.02196",
-   "meta": {
-    "arxiv_id": "2610.02196",
-    "discussion_url": "https://arxiv.org/abs/2610.02196",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-30T20:00:00.000Z",
-   "queued_at": "2026-10-02T16:16:51.699828+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Zhuo Lin, Sirui Xu 외",
-   "source": "hf_paper",
-   "summary": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, without retraining. Our key insight is that a broad controller already holds much of the competence a new task needs, and that this competence becomes accessible through an interface between planning and control that is expressive enough to specify contact-rich, multi-stage interactions, yet executable and measurable enough that execution feedback can guide planning from experience.…",
-   "threshold": 15.0,
-   "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-   "url": "https://huggingface.co/papers/2610.02196"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34673",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-02T16:43:09+00:00",
-   "queued_at": "2026-10-02T16:47:00.478703+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "AI로 취업 기회를 얻을 수 있는 개발자에게도 코딩 에이전트에 지시하는 직업 은 매력보다 두려움으로 다가올 수 있음. 직접 만드는 기술과 통제권, 창의성을 잃는다는 감각이 그 중심에 있음 창업 기회의 축소 에 대한 불안도 큼. 다른 사람이 짧은 프롬프트로 재현...",
-   "threshold": 1.0,
-   "title": "AI는 나를 슬프게 한다",
-   "url": "https://news.hada.io/topic?id=34673"
-  },
-  {
-   "key": "reddit:1wvahcj",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-10-01T20:32:45+00:00",
-   "queued_at": "2026-10-02T17:17:04.677579+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "The humanoid robotics company \"Figure\" made their older gen robots jump to their death. (Yes, they actually did this)",
-   "url": "https://v.redd.it/xp14ykit1xsh1"
-  },
-  {
-   "key": "rss:https://openai.com/index/chatham-financial",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-10-02T00:00:00+00:00",
-   "queued_at": "2026-10-02T17:32:13.296519+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-   "threshold": 1.0,
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial"
-  },
-  {
-   "key": "rss:https://anthropic.com/news/claude-frontier-academy",
-   "meta": {
-    "feed": "Anthropic"
-   },
-   "published_at": "2026-10-02T00:00:00+00:00",
-   "queued_at": "2026-10-02T17:47:14.508097+00:00",
-   "score": 1.0,
-   "signal": "📰 Anthropic",
-   "source": "rss",
-   "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-   "threshold": 1.0,
-   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-   "url": "https://www.anthropic.com/news/claude-frontier-academy"
-  },
-  {
-   "key": "hfpaper:2610.01939",
-   "meta": {
-    "arxiv_id": "2610.01939",
-    "discussion_url": "https://arxiv.org/abs/2610.01939",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-30T20:00:00.000Z",
-   "queued_at": "2026-10-02T18:02:19.816099+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Ruiyang Si, Jianxin Bi 외",
-   "source": "hf_paper",
-   "summary": "Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive composition with selective observation: the agent composes classical robot primitives and learned vision-language-action (VLA) policies into Python cells that perform conditional checks and local retries, returning only explicitly requested images and state feedback for replanning. Across 700 simulate…",
-   "threshold": 15.0,
-   "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-   "url": "https://huggingface.co/papers/2610.01939"
-  },
-  {
-   "key": "hfpaper:2609.35259",
-   "meta": {
-    "arxiv_id": "2609.35259",
-    "discussion_url": "https://arxiv.org/abs/2609.35259",
-    "upvotes": 15
-   },
-   "published_at": "2026-09-27T20:00:00.000Z",
-   "queued_at": "2026-10-02T18:17:24.192399+00:00",
-   "score": 15.0,
-   "signal": "📄 논문 ▲ 15 · Julianna Piskorz, Antonin Berthon 외",
-   "source": "hf_paper",
-   "summary": "On-policy learning has been argued to reduce catastrophic forgetting, produce sparser parameter updates, and improve generalisation. However, existing comparisons between supervised fine-tuning and reinforcement learning vary many factors simultaneously, making the contribution of rollout policy difficult to isolate. We study the effect of rollout policy in a controlled strong-to-weak distillation setting, by independently varying rollout policy, token-level KL direction, and learning rate across the Llama3 and Qwen2.5 model families and reasoning tasks spanning scientific, medical, and arith…",
-   "threshold": 15.0,
-   "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
-   "url": "https://huggingface.co/papers/2609.35259"
-  },
-  {
-   "key": "hfmodel:lightricks/ltx-2.5",
-   "meta": {
-    "downloads": 1584129,
-    "likes": 5941,
-    "pipeline": "image-to-video",
-    "rank": 5
-   },
-   "published_at": "2026-07-23T07:55:24.000Z",
-   "queued_at": "2026-10-02T18:17:24.192399+00:00",
-   "score": 1.0,
-   "signal": "🤗 트렌딩 #5 · ❤ 5,941 · ⬇ 1,584,129 · image-to-video",
-   "source": "hf_model",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Lightricks/LTX-2.5",
-   "url": "https://huggingface.co/Lightricks/LTX-2.5"
-  },
-  {
-   "key": "reddit:1wvpxg8",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-10-02T10:05:59+00:00",
-   "queued_at": "2026-10-02T18:48:07.113425+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Does anyone know if any new releases from Mistral are planned?",
-   "url": "https://i.redd.it/wxxi2f2o21th1.png"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34676",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-02T18:43:46+00:00",
-   "queued_at": "2026-10-02T18:48:07.113425+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Supabase가 Turso를 인수 해 AI 에이전트가 대규모로 생성하는 소프트웨어에 맞는 데이터베이스 인프라를 구축함 Supabase는 이미 매주 100만 개 이상의 데이터베이스 를 생성하고 있으며, 에이전트의 소프트웨어 개발이 늘어나면 데이터베이스 수요가 현재 전 세계의...",
-   "threshold": 1.0,
-   "title": "Supabase, Turso 인수 추진",
-   "url": "https://news.hada.io/topic?id=34676"
-  },
   {
    "key": "reddit:1wvsiey",
    "meta": {
@@ -1501,9 +1319,9 @@
   },
   "hfmodel:lightricks/ltx-2.5": {
    "first": "2026-10-02T18:17:24.192399+00:00",
-   "last": "2026-10-02T18:17:24.192399+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "hfmodel:m-a-p/yue2-3b": {
    "first": "2026-09-16T10:02:16.048774+00:00",
@@ -2905,9 +2723,9 @@
   },
   "hfpaper:2609.35259": {
    "first": "2026-10-02T18:17:24.192399+00:00",
-   "last": "2026-10-02T18:17:24.192399+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "hfpaper:2609.35347": {
    "first": "2026-09-29T06:10:29.427305+00:00",
@@ -3301,9 +3119,9 @@
   },
   "hfpaper:2610.01939": {
    "first": "2026-10-02T18:02:19.816099+00:00",
-   "last": "2026-10-02T18:02:19.816099+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "hfpaper:2610.02122": {
    "first": "2026-10-02T20:48:01.591562+00:00",
@@ -3331,9 +3149,9 @@
   },
   "hfpaper:2610.02196": {
    "first": "2026-10-02T16:16:51.699828+00:00",
-   "last": "2026-10-02T16:16:51.699828+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 15.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "hfpaper:2610.02201": {
    "first": "2026-10-02T21:18:10.367928+00:00",
@@ -6181,9 +5999,9 @@
   },
   "reddit:1wvahcj": {
    "first": "2026-10-02T17:17:04.677579+00:00",
-   "last": "2026-10-02T17:17:04.677579+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "reddit:1wvdt9p": {
    "first": "2026-10-02T17:17:04.677579+00:00",
@@ -6205,9 +6023,9 @@
   },
   "reddit:1wvpxg8": {
    "first": "2026-10-02T18:48:07.113425+00:00",
-   "last": "2026-10-02T18:48:07.113425+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "reddit:1wvsiey": {
    "first": "2026-10-02T19:17:38.811231+00:00",
@@ -6220,6 +6038,12 @@
    "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 300.0,
    "sent": null
+  },
+  "reddit:1ww3rq7": {
+   "first": "2026-10-02T23:18:39.020600+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
+   "score": 260.0,
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6235,9 +6059,9 @@
   },
   "rss:https://anthropic.com/news/claude-frontier-academy": {
    "first": "2026-10-02T17:47:14.508097+00:00",
-   "last": "2026-10-02T17:47:14.508097+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://anthropic.com/news/life-sciences-verification-program": {
    "first": "2026-09-17T17:42:50.008214+00:00",
@@ -9121,15 +8945,15 @@
   },
   "rss:https://news.hada.io/topic?id=34673": {
    "first": "2026-10-02T16:47:00.478703+00:00",
-   "last": "2026-10-02T16:47:00.478703+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://news.hada.io/topic?id=34676": {
    "first": "2026-10-02T18:48:07.113425+00:00",
-   "last": "2026-10-02T18:48:07.113425+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://news.hada.io/topic?id=34679": {
    "first": "2026-10-02T19:47:49.360872+00:00",
@@ -9205,9 +9029,9 @@
   },
   "rss:https://openai.com/index/chatham-financial": {
    "first": "2026-10-02T17:32:13.296519+00:00",
-   "last": "2026-10-02T17:32:13.296519+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://openai.com/index/cognition-devin-testing-with-astra": {
    "first": "2026-09-12T00:21:27.869756+00:00",
@@ -9367,9 +9191,9 @@
   },
   "rss:https://openai.com/index/practical-guide-building-gpt-6": {
    "first": "2026-10-02T16:16:51.699828+00:00",
-   "last": "2026-10-02T16:16:51.699828+00:00",
+   "last": "2026-10-02T23:18:39.020600+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:18:39.020600+00:00"
   },
   "rss:https://openai.com/index/priorities-principles-third-party-assessments": {
    "first": "2026-09-22T19:54:54.134414+00:00",
@@ -10003,10 +9827,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-19T23:22:05.975088+00:00",
-   "count": 2
-  },
   {
    "at": "2026-09-20T00:07:17.130858+00:00",
    "count": 1
@@ -10801,6 +10621,10 @@
   },
   {
    "at": "2026-10-02T23:03:33.754093+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-02T23:18:39.020600+00:00",
    "count": 12
   }
  ],
