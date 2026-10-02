@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T19:17:38.811231+00:00",
+ "last_run": "2026-10-02T19:32:45.539409+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -285,6 +285,23 @@
    "threshold": 150.0,
    "title": "Open Machine CEO Allie K. Miller says she takes \"Claude walks\" while using 34 AI agents to run her workday",
    "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10?utm_source=reddit&utm_medium=social_manual&utm_campaign=reddit_dist_r_claudeai&utm_content=manual_v1&utm_term=973e013b"
+  },
+  {
+   "key": "hn:49927747",
+   "meta": {
+    "comments": 118,
+    "discussion_url": "https://news.ycombinator.com/item?id=49927747",
+    "hn_id": "49927747"
+   },
+   "published_at": "2026-10-01T22:22:21+00:00",
+   "queued_at": "2026-10-02T19:32:45.539409+00:00",
+   "score": 109.0,
+   "signal": "🟠 HN 109 pts · 💬 118",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "Sites in ChatGPT",
+   "url": "https://chatgpt.com/features/sites/"
   }
  ],
  "seen": {
@@ -4802,6 +4819,12 @@
    "first": "2026-10-02T18:02:19.816099+00:00",
    "last": "2026-10-02T18:02:19.816099+00:00",
    "score": 114.0,
+   "sent": null
+  },
+  "hn:49927747": {
+   "first": "2026-10-02T19:32:45.539409+00:00",
+   "last": "2026-10-02T19:32:45.539409+00:00",
+   "score": 109.0,
    "sent": null
   },
   "hn:49927760": {
