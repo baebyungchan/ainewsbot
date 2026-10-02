@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T18:32:30.103664+00:00",
+ "last_run": "2026-10-02T18:48:07.113425+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -232,6 +232,40 @@
    "threshold": 1.0,
    "title": "Lightricks/LTX-2.5",
    "url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "key": "reddit:1wvpxg8",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-10-02T10:05:59+00:00",
+   "queued_at": "2026-10-02T18:48:07.113425+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "Does anyone know if any new releases from Mistral are planned?",
+   "url": "https://i.redd.it/wxxi2f2o21th1.png"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34676",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T18:43:46+00:00",
+   "queued_at": "2026-10-02T18:48:07.113425+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Supabase가 Turso를 인수 해 AI 에이전트가 대규모로 생성하는 소프트웨어에 맞는 데이터베이스 인프라를 구축함 Supabase는 이미 매주 100만 개 이상의 데이터베이스 를 생성하고 있으며, 에이전트의 소프트웨어 개발이 늘어나면 데이터베이스 수요가 현재 전 세계의...",
+   "threshold": 1.0,
+   "title": "Supabase, Turso 인수 추진",
+   "url": "https://news.hada.io/topic?id=34676"
   }
  ],
  "seen": {
@@ -6011,6 +6045,12 @@
    "score": 165.0,
    "sent": "2026-10-02T14:16:19.461330+00:00"
   },
+  "reddit:1wvpxg8": {
+   "first": "2026-10-02T18:48:07.113425+00:00",
+   "last": "2026-10-02T18:48:07.113425+00:00",
+   "score": 300.0,
+   "sent": null
+  },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
    "last": "2026-09-19T01:30:41.389990+00:00",
@@ -8906,6 +8946,12 @@
   "rss:https://news.hada.io/topic?id=34673": {
    "first": "2026-10-02T16:47:00.478703+00:00",
    "last": "2026-10-02T16:47:00.478703+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34676": {
+   "first": "2026-10-02T18:48:07.113425+00:00",
+   "last": "2026-10-02T18:48:07.113425+00:00",
    "score": 1.0,
    "sent": null
   },
