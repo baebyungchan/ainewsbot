@@ -1,7 +1,23 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T15:01:33.844761+00:00",
- "pending": [],
+ "last_run": "2026-10-02T15:16:37.667622+00:00",
+ "pending": [
+  {
+   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+   "meta": {
+    "feed": "Google AI"
+   },
+   "published_at": "2026-10-02T15:00:00+00:00",
+   "queued_at": "2026-10-02T15:16:37.667622+00:00",
+   "score": 1.0,
+   "signal": "📰 Google AI",
+   "source": "rss",
+   "summary": "A video showing the September AI updates",
+   "threshold": 1.0,
+   "title": "The latest AI news we announced in September 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+  }
+ ],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -5784,6 +5800,12 @@
    "last": "2026-09-18T14:08:32.578200+00:00",
    "score": 1.0,
    "sent": "2026-09-18T14:08:32.578200+00:00"
+  },
+  "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026": {
+   "first": "2026-10-02T15:16:37.667622+00:00",
+   "last": "2026-10-02T15:16:37.667622+00:00",
+   "score": 1.0,
+   "sent": null
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week": {
    "first": "2026-09-18T13:08:15.191236+00:00",
