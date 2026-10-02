@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T20:33:00.777396+00:00",
+ "last_run": "2026-10-02T20:48:01.591562+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -351,6 +351,70 @@
    "threshold": 500.0,
    "title": "mvschwarz/openrig",
    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34682",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T20:44:15+00:00",
+   "queued_at": "2026-10-02T20:48:01.591562+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Audionaut 는 음악, 팟캐스트, 멀티트랙 녹음을 편집하고 녹음하는 무료 데스크톱 앱으로, 완전한 DAW의 무게와 복잡성 없이 정밀한 자르기, 트랙별 재생 목록, 다채널 지원과 내보내기를 제공함 MCP 를 통해 Claude와 다른 AI 에이전트가 열린 프로젝트를 편집할 수...",
+   "threshold": 1.0,
+   "title": "Audionaut - 오픈소스 크로스플랫폼 멀티트랙 오디오 편집기",
+   "url": "https://news.hada.io/topic?id=34682"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34681",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-02T20:41:15+00:00",
+   "queued_at": "2026-10-02T20:48:01.591562+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Sites 는 일상적인 말로 웹사이트, 앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저 에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex 프로젝트에서 시작할 수 있음...",
+   "threshold": 1.0,
+   "title": "ChatGPT의 Sites",
+   "url": "https://news.hada.io/topic?id=34681"
+  },
+  {
+   "key": "hfpaper:2609.36820",
+   "meta": {
+    "arxiv_id": "2609.36820",
+    "discussion_url": "https://arxiv.org/abs/2609.36820",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-28T20:00:00.000Z",
+   "queued_at": "2026-10-02T20:48:01.591562+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Wenbin Hu, Huihao Jing 외",
+   "source": "hf_paper",
+   "summary": "Group Relative Policy Optimization (GRPO) is widely used to train reasoning language models, where it computes advantages by centering and normalizing rewards across rollouts of the same prompt. For multiple rewards, GRPO sums the reward components and normalizes the total reward by its within-group standard deviation. The corresponding variance equals the sum of all pairwise reward covariances. For a fixed centered reward, larger aggregate covariance produces smaller advantages, and vice versa, allowing update magnitudes to adapt to reward dependence. However, correlated rewards with large s…",
+   "threshold": 15.0,
+   "title": "CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning",
+   "url": "https://huggingface.co/papers/2609.36820"
+  },
+  {
+   "key": "hfpaper:2610.02122",
+   "meta": {
+    "arxiv_id": "2610.02122",
+    "discussion_url": "https://arxiv.org/abs/2610.02122",
+    "upvotes": 15
+   },
+   "published_at": "2026-09-30T20:00:00.000Z",
+   "queued_at": "2026-10-02T20:48:01.591562+00:00",
+   "score": 15.0,
+   "signal": "📄 논문 ▲ 15 · Gabriel Tomitsuka, Arman Raayatsanati 외",
+   "source": "hf_paper",
+   "summary": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found their answer keys frequently wrong. Because real enterprise warehouses are too sensitive to release, these benchmarks are built on public datasets where a business event fits in a single table. We introduce Argo-Bench, an evaluation framework comprising 210 data science and analytics tasks. Drawing on public data, peer-reviewed industry literatu…",
+   "threshold": 15.0,
+   "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
+   "url": "https://huggingface.co/papers/2610.02122"
   }
  ],
  "seen": {
@@ -2998,6 +3062,12 @@
    "score": 20.0,
    "sent": "2026-09-30T23:04:28.649021+00:00"
   },
+  "hfpaper:2609.36820": {
+   "first": "2026-10-02T20:48:01.591562+00:00",
+   "last": "2026-10-02T20:48:01.591562+00:00",
+   "score": 15.0,
+   "sent": null
+  },
   "hfpaper:2609.37200": {
    "first": "2026-10-02T03:10:47.759473+00:00",
    "last": "2026-10-02T03:25:49.358107+00:00",
@@ -3277,6 +3347,12 @@
   "hfpaper:2610.01939": {
    "first": "2026-10-02T18:02:19.816099+00:00",
    "last": "2026-10-02T18:02:19.816099+00:00",
+   "score": 15.0,
+   "sent": null
+  },
+  "hfpaper:2610.02122": {
+   "first": "2026-10-02T20:48:01.591562+00:00",
+   "last": "2026-10-02T20:48:01.591562+00:00",
    "score": 15.0,
    "sent": null
   },
@@ -9061,6 +9137,18 @@
   "rss:https://news.hada.io/topic?id=34679": {
    "first": "2026-10-02T19:47:49.360872+00:00",
    "last": "2026-10-02T19:47:49.360872+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34681": {
+   "first": "2026-10-02T20:48:01.591562+00:00",
+   "last": "2026-10-02T20:48:01.591562+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34682": {
+   "first": "2026-10-02T20:48:01.591562+00:00",
+   "last": "2026-10-02T20:48:01.591562+00:00",
    "score": 1.0,
    "sent": null
   },
