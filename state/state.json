@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T22:03:21.859824+00:00",
+ "last_run": "2026-10-02T22:18:25.912602+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -515,6 +515,23 @@
    "threshold": 1.0,
    "title": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
    "url": "https://news.hada.io/topic?id=34683"
+  },
+  {
+   "key": "hn:49934511",
+   "meta": {
+    "comments": 78,
+    "discussion_url": "https://news.ycombinator.com/item?id=49934511",
+    "hn_id": "49934511"
+   },
+   "published_at": "2026-10-02T15:19:56+00:00",
+   "queued_at": "2026-10-02T22:18:25.912602+00:00",
+   "score": 101.0,
+   "signal": "🟠 HN 101 pts · 💬 78",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "The Four Horsemen of Agentic Coding",
+   "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
   }
  ],
  "seen": {
@@ -5098,6 +5115,12 @@
    "first": "2026-10-02T16:16:51.699828+00:00",
    "last": "2026-10-02T16:16:51.699828+00:00",
    "score": 111.0,
+   "sent": null
+  },
+  "hn:49934511": {
+   "first": "2026-10-02T22:18:25.912602+00:00",
+   "last": "2026-10-02T22:18:25.912602+00:00",
+   "score": 101.0,
    "sent": null
   },
   "reddit:1wbphuo": {
