@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T22:33:27.923548+00:00",
+ "last_run": "2026-10-02T22:48:29.129756+00:00",
  "pending": [
   {
    "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
@@ -532,6 +532,23 @@
    "threshold": 100.0,
    "title": "The Four Horsemen of Agentic Coding",
    "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
+  },
+  {
+   "key": "hn:49936575",
+   "meta": {
+    "comments": 28,
+    "discussion_url": "https://news.ycombinator.com/item?id=49936575",
+    "hn_id": "49936575"
+   },
+   "published_at": "2026-10-02T18:01:16+00:00",
+   "queued_at": "2026-10-02T22:48:29.129756+00:00",
+   "score": 107.0,
+   "signal": "🟠 HN 107 pts · 💬 28",
+   "source": "hn",
+   "summary": "",
+   "threshold": 100.0,
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "url": "https://dwarfstar.sh/"
   }
  ],
  "seen": {
@@ -5121,6 +5138,12 @@
    "first": "2026-10-02T22:18:25.912602+00:00",
    "last": "2026-10-02T22:18:25.912602+00:00",
    "score": 101.0,
+   "sent": null
+  },
+  "hn:49936575": {
+   "first": "2026-10-02T22:48:29.129756+00:00",
+   "last": "2026-10-02T22:48:29.129756+00:00",
+   "score": 107.0,
    "sent": null
   },
   "reddit:1wbphuo": {
