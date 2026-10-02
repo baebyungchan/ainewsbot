@@ -1,214 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T03:10:47.759473+00:00",
+ "last_run": "2026-10-02T03:25:49.358107+00:00",
  "pending": [
-  {
-   "key": "hn:49905644",
-   "meta": {
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=49905644",
-    "hn_id": "49905644"
-   },
-   "published_at": "2026-09-30T07:33:45+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 126.0,
-   "signal": "🟠 HN 126 pts · 💬 41",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Doing a Machine Learning PhD While Working in Japan",
-   "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-  },
-  {
-   "key": "gh:heygen-com/hyperframes",
-   "meta": {
-    "ai": true,
-    "language": "TypeScript",
-    "stars_today": 624,
-    "stars_total": 55128
-   },
-   "published_at": null,
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 624.0,
-   "signal": "★ +624 today · 55,128 total · TypeScript",
-   "source": "github_trending",
-   "summary": "Write HTML. Render video. Built for agents.",
-   "threshold": 500.0,
-   "title": "heygen-com/hyperframes",
-   "url": "https://github.com/heygen-com/hyperframes"
-  },
-  {
-   "key": "hfpaper:2609.32720",
-   "meta": {
-    "arxiv_id": "2609.32720",
-    "discussion_url": "https://arxiv.org/abs/2609.32720",
-    "upvotes": 18
-   },
-   "published_at": "2026-09-25T20:00:00.000Z",
-   "queued_at": "2026-10-02T00:10:24.467460+00:00",
-   "score": 18.0,
-   "signal": "📄 논문 ▲ 18 · Shuang Liu, Yongliang Miao 외",
-   "source": "hf_paper",
-   "summary": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or confidence, leading LLMs to produce higher-scoring but not more correct responses. Existing mitigation methods either retrain the reward model or apply a fixed correction to one known bias, such as a preference for longer responses. Retraining requires additional data and computational resources, while existing editing methods require the target bias to be specified in advance and use a fixed edit for that bi…",
-   "threshold": 15.0,
-   "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
-   "url": "https://huggingface.co/papers/2609.32720"
-  },
-  {
-   "key": "hfpaper:2609.38024",
-   "meta": {
-    "arxiv_id": "2609.38024",
-    "discussion_url": "https://arxiv.org/abs/2609.38024",
-    "upvotes": 17
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 17.0,
-   "signal": "📄 논문 ▲ 17 · Jaewon Chu, Ji Soo Lee 외",
-   "source": "hf_paper",
-   "summary": "An agent skill is a reusable, actionable natural-language artifact that guides an agent to perform a task effectively under a given harness. Recent studies have explored the optimization of agent skills, contributing to a growing collection of publicly available skills spanning diverse tasks, domains, and harnesses. Despite millions of publicly shared skills, existing skill optimization methods largely overlook this accumulated knowledge, instead relying solely on expensive agent rollouts to iteratively refine skills for a target task. To address this, we propose Retrieval-Augmented Skill Opt…",
-   "threshold": 15.0,
-   "title": "Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation",
-   "url": "https://huggingface.co/papers/2609.38024"
-  },
-  {
-   "key": "reddit:1wuw9bc",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T10:50:13+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "Opus 5.5 was god-like in the first 5-6 days and couldn't put a foot wrong in my most complex work, (custom C++ 3D engines, soft body physics solvers, Blender MCP), then suddenly it fluffed something more simple and out of the blue said: \"Written for: you, as the reply on these three issues.\" in first line of the response. I had to look around the room to see who else it was writing for! Very abnormal and an outlier in terms of speech. After that canary in the coal mine it's never been the same since, and I have noticed this time and again. Fable 5.0 started off with Mythos like writing style,…",
-   "threshold": 150.0,
-   "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/"
-  },
-  {
-   "key": "reddit:1wv0jvd",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-10-01T14:14:24+00:00",
-   "queued_at": "2026-10-02T00:10:24.467460+00:00",
-   "score": 330.0,
-   "signal": "🏆 r/singularity 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Google releasing their most powerful model yet",
-   "url": "https://v.redd.it/3bf1c7za6vsh1"
-  },
-  {
-   "key": "hn:49922569",
-   "meta": {
-    "comments": 103,
-    "hn_id": "49922569"
-   },
-   "published_at": "2026-10-01T15:02:07+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 108.0,
-   "signal": "🟠 HN 108 pts · 💬 103",
-   "source": "hn",
-   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn&#x27;t a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don&#x27;t reply to job posts to complain about something. It&#x27;s off topic here. Readers: please only email if you are perso…",
-   "threshold": 100.0,
-   "title": "Ask HN: Who is hiring? (October 2026)",
-   "url": "https://news.ycombinator.com/item?id=49922569"
-  },
-  {
-   "key": "hfpaper:2609.40316",
-   "meta": {
-    "arxiv_id": "2609.40316",
-    "discussion_url": "https://arxiv.org/abs/2609.40316",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-29T20:00:00.000Z",
-   "queued_at": "2026-10-02T00:10:24.467460+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Yanbei Chen, Anirudh Goyal 외",
-   "source": "hf_paper",
-   "summary": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. T…",
-   "threshold": 15.0,
-   "title": "Scaling Laws for Looped Mixture of Experts",
-   "url": "https://huggingface.co/papers/2609.40316"
-  },
-  {
-   "key": "hfpaper:2609.37200",
-   "meta": {
-    "arxiv_id": "2609.37200",
-    "discussion_url": "https://arxiv.org/abs/2609.37200",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-28T20:00:00.000Z",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Songlin Yang, Xiaotong Zhao 외",
-   "source": "hf_paper",
-   "summary": "Multi-reward guided reinforcement learning (i.e., RL) offers a promising way to improve joint audio-video diffusion models along several complementary objectives, including modality-specific quality, cross-modal semantic alignment, and temporal synchronization. Its effectiveness, however, depends on two quantities that change during training: where reward-driven updates should act, and how competing rewards should be combined. Existing methods tend to rely on fixed routing and reward weights, failing to track evolving model functions. To address these limitations, we propose Adaptive Reward R…",
-   "threshold": 15.0,
-   "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
-   "url": "https://huggingface.co/papers/2609.37200"
-  },
-  {
-   "key": "hfpaper:2610.01215",
-   "meta": {
-    "arxiv_id": "2610.01215",
-    "discussion_url": "https://arxiv.org/abs/2610.01215",
-    "upvotes": 16
-   },
-   "published_at": "2026-09-30T20:00:00.000Z",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 16.0,
-   "signal": "📄 논문 ▲ 16 · Cheng Yang, Yifan Wu 외",
-   "source": "hf_paper",
-   "summary": "GUI agents require high-quality interaction trajectories to learn how software environments respond to actions, maintain state, and support multi-step workflows. However, the diversity of available trajectories is constrained by the applications, interface states, and workflows accessible in the underlying environments. Expanding this coverage requires deploying increasingly diverse and complex software, with specialized applications imposing additional installation, configuration, and runtime costs. We introduce AutoGUIWorld, a data generation framework that combines the visual priors of ima…",
-   "threshold": 15.0,
-   "title": "AutoGUIWorld: Image Generators as Visual World Models for GUI Agent",
-   "url": "https://huggingface.co/papers/2610.01215"
-  },
-  {
-   "key": "hn:49919910",
-   "meta": {
-    "comments": 55,
-    "discussion_url": "https://news.ycombinator.com/item?id=49919910",
-    "hn_id": "49919910"
-   },
-   "published_at": "2026-10-01T10:21:36+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 105.0,
-   "signal": "🟠 HN 105 pts · 💬 55",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
-  },
-  {
-   "key": "hn:49924618",
-   "meta": {
-    "comments": 112,
-    "discussion_url": "https://news.ycombinator.com/item?id=49924618",
-    "hn_id": "49924618"
-   },
-   "published_at": "2026-10-01T17:32:43+00:00",
-   "queued_at": "2026-10-02T03:10:47.759473+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 112",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Vote on which of Hacker News' challenges for AI have been met",
-   "url": "https://stoppels.ch/goalposts/"
-  },
   {
    "key": "reddit:1wtr02p",
    "meta": {
@@ -1354,9 +1147,9 @@
   },
   "gh:heygen-com/hyperframes": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 624.0,
-   "sent": null,
+   "sent": "2026-10-02T03:25:49.358107+00:00",
    "stars_total": 55128
   },
   "gh:hkqr/my-free-code": {
@@ -3326,9 +3119,9 @@
   },
   "hfpaper:2609.32720": {
    "first": "2026-10-02T00:10:24.467460+00:00",
-   "last": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 18.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hfpaper:2609.32722": {
    "first": "2026-09-30T23:04:28.649021+00:00",
@@ -3590,9 +3383,9 @@
   },
   "hfpaper:2609.37200": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hfpaper:2609.37226": {
    "first": "2026-09-30T13:55:13.132457+00:00",
@@ -3656,9 +3449,9 @@
   },
   "hfpaper:2609.38024": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 17.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hfpaper:2609.38057": {
    "first": "2026-09-30T13:55:13.132457+00:00",
@@ -3776,9 +3569,9 @@
   },
   "hfpaper:2609.40316": {
    "first": "2026-10-02T00:10:24.467460+00:00",
-   "last": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hfpaper:2609.40325": {
    "first": "2026-10-01T05:07:21.908626+00:00",
@@ -3800,9 +3593,9 @@
   },
   "hfpaper:2610.01215": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 16.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hfpaper:2610.02193": {
    "first": "2026-10-02T03:10:47.759473+00:00",
@@ -5264,9 +5057,9 @@
   },
   "hn:49905644": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 126.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hn:49906100": {
    "first": "2026-10-01T15:18:07.925336+00:00",
@@ -5312,9 +5105,9 @@
   },
   "hn:49919910": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 105.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hn:49920234": {
    "first": "2026-10-01T15:18:07.925336+00:00",
@@ -5336,9 +5129,9 @@
   },
   "hn:49922569": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 108.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "hn:49922729": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -5360,9 +5153,9 @@
   },
   "hn:49924618": {
    "first": "2026-10-02T03:10:47.759473+00:00",
-   "last": "2026-10-02T03:10:47.759473+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6548,9 +6341,9 @@
   },
   "reddit:1wuw9bc": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "reddit:1wuy2x1": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -6560,9 +6353,9 @@
   },
   "reddit:1wv0jvd": {
    "first": "2026-10-02T00:10:24.467460+00:00",
-   "last": "2026-10-02T00:10:24.467460+00:00",
+   "last": "2026-10-02T03:25:49.358107+00:00",
    "score": 330.0,
-   "sent": null
+   "sent": "2026-10-02T03:25:49.358107+00:00"
   },
   "reddit:1wv2r73": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -10221,10 +10014,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-18T13:08:15.191236+00:00",
-   "count": 1
-  },
-  {
    "at": "2026-09-18T13:38:21.090059+00:00",
    "count": 1
   },
@@ -11018,6 +10807,10 @@
   },
   {
    "at": "2026-10-02T03:10:47.759473+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-02T03:25:49.358107+00:00",
    "count": 12
   }
  ],
