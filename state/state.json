@@ -1,191 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T03:56:00.765932+00:00",
+ "last_run": "2026-10-02T04:10:58.819846+00:00",
  "pending": [
-  {
-   "key": "rss:https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-10-01T00:00:00+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machinery: multi-agent orchestrators, dedicated retrieval subagents, and more. While such harnesses expand, the use of more primitive but improved coding agents—where LLMs have direct access to the executi…",
-   "threshold": 1.0,
-   "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
-   "url": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering"
-  },
-  {
-   "key": "rss:https://machinelearning.apple.com/research/rltl-dr-self-improvement",
-   "meta": {
-    "feed": "Apple ML Research"
-   },
-   "published_at": "2026-10-01T00:00:00+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🔬 Apple ML Research",
-   "source": "rss",
-   "summary": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chance of success, and where there are no teacher models or example solutions to distill from. In this paper, we introduce RLTL;DR. After each failed attempt, we show the policy the verifier outputs and l…",
-   "threshold": 1.0,
-   "title": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
-   "url": "https://machinelearning.apple.com/research/rltl-dr-self-improvement"
-  },
-  {
-   "key": "rss:https://tldr.tech/ai/2026-10-01",
-   "meta": {
-    "feed": "TLDR AI"
-   },
-   "published_at": "2026-10-01T00:00:00+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🗞 TLDR AI",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
-   "url": "https://tldr.tech/ai/2026-10-01"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34607",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T14:39:42+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Book of Shapes 는 미니멀한 생성형 SVG 패턴을 모아 놓은 컬렉션으로, 패턴을 맞춤 설정할 수 있음 18개 패턴 을 제공하며, 각 패턴의 개별 페이지로 이동할 수 있음 Flow Dots , Flow Lines , Flow Poles 등 Flow 계열 패...",
-   "threshold": 1.0,
-   "title": "Book of Shapes - 맞춤 설정 가능한 미니멀 생성형 SVG 패턴 모음",
-   "url": "https://news.hada.io/topic?id=34607"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34604",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T13:39:58+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "DLSS-NR 빌드 310.8.0의 71블록 네트워크 를 재구현해, 최종 이미지뿐 아니라 75개 블록 경계의 중간값까지 원본과 바이트 단위로 일치함 업스케일러가 아닌 생성형 신경 렌더링 네트워크 로, 엔진이 그린 프레임을 같은 해상도로 다시 렌더링하며 주입한 노이즈에서...",
-   "threshold": 1.0,
-   "title": "OpenDLSS - NVIDIA의 DLSS 5 신경 렌더링 네트워크를 Vulkan으로 재구현",
-   "url": "https://news.hada.io/topic?id=34604"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34601",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T11:40:56+00:00",
-   "queued_at": "2026-10-01T15:18:07.925336+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행 하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱 노트마다 독립된 셸을 유지 해 작업 디렉터리, 환경 변수, 활성화한 가상 환경을 다음 코드 블록 실행에서도 그대로...",
-   "threshold": 1.0,
-   "title": "Ledge.sh - 실행 가능한 Markdown 노트",
-   "url": "https://news.hada.io/topic?id=34601"
-  },
-  {
-   "key": "reddit:1wuy2x1",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-10-01T12:25:48+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
-   "url": "https://i.redd.it/6otixf6vmush1.png"
-  },
-  {
-   "key": "rss:https://openai.com/index/the-eternal-complement",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-10-01T17:00:00+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-   "threshold": 1.0,
-   "title": "The eternal complement",
-   "url": "https://openai.com/index/the-eternal-complement"
-  },
-  {
-   "key": "rss:https://openai.com/index/albertsons-reimagining-retail",
-   "meta": {
-    "feed": "OpenAI"
-   },
-   "published_at": "2026-10-01T16:00:00+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 1.0,
-   "signal": "📰 OpenAI",
-   "source": "rss",
-   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-   "threshold": 1.0,
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34631",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T20:08:06+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Plaud 같은 AI 녹음기를 따로 사지 않고, 이미 차고 있는 애플 워치나 갤럭시 워치로 같은 일을 하게 해 주는 앱입니다. 녹음과 전사만 워치 기반 앱에서 처리하고, 회의록 작성이나 분석은 평소 사용하는 AI에서 이어갈 수 있도록 만들었습니다. 워치에서 녹음한 파일은 폰으로 전달하며, 업로드와 전사는 폰이나 데...",
-   "threshold": 1.0,
-   "title": "Show GN: 애플 워치·갤럭시 워치를 Plaud처럼 쓰게 해 주는 오픈소스 녹음·전사 앱 Recly",
-   "url": "https://news.hada.io/topic?id=34631"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34626",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T19:44:14+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Figma의 원격 MCP 서버 는 지원 목록에 있는 클라이언트의 접근만 허용함 Pi 는 현재 지원 목록에 없어 해당 서버에 접근할 수 없음 현재 지원하는 클라이언트 목록은 MCP 카탈로그 에서 확인할 수 있음 Pi의 향후 지원 검토를 원...",
-   "threshold": 1.0,
-   "title": "Figma, MCP 접근을 허용 목록의 클라이언트로 제한하고 Pi는 제외",
-   "url": "https://news.hada.io/topic?id=34626"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34623",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-01T18:55:49+00:00",
-   "queued_at": "2026-10-01T20:35:24.975601+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "커밋 설명을 직접 쓰는 과정 은 코드 변경을 돌아보고 결정을 재검토하는 작업이며, AI가 만든 변경이 의도대로인지 확인하는 데도 도움이 됨 커밋 설명은 무엇을 바꿨는지보다 왜 바꿨는지 를 남기는 데 중요하며, 동료와 미래의 자신이 변경 이유를 이해할 수 있게...",
-   "threshold": 1.0,
-   "title": "생각을 정리하는 도구로서의 커밋 설명",
-   "url": "https://news.hada.io/topic?id=34623"
-  },
   {
    "key": "rss:https://news.hada.io/topic?id=34621",
    "meta": {
@@ -399,6 +215,21 @@
    "threshold": 15.0,
    "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
    "url": "https://huggingface.co/papers/2610.00906"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-10-02T04:01:31+00:00",
+   "queued_at": "2026-10-02T04:10:58.819846+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
   }
  ],
  "seen": {
@@ -5968,9 +5799,9 @@
   },
   "reddit:1wuy2x1": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "reddit:1wv0jvd": {
    "first": "2026-10-02T00:10:24.467460+00:00",
@@ -6146,6 +5977,12 @@
    "score": 1.0,
    "sent": "2026-09-21T13:56:34.315757+00:00"
   },
+  "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
+   "first": "2026-10-02T04:10:58.819846+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
+   "score": 1.0,
+   "sent": null
+  },
   "rss:https://huggingface.co/blog/allenai/olmocore3": {
    "first": "2026-10-01T15:18:07.925336+00:00",
    "last": "2026-10-02T03:56:00.765932+00:00",
@@ -6304,9 +6141,9 @@
   },
   "rss:https://machinelearning.apple.com/research/harness-autonomous-ml-engineering": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://machinelearning.apple.com/research/latent-space-distillation": {
    "first": "2026-09-24T17:02:55.332658+00:00",
@@ -6328,9 +6165,9 @@
   },
   "rss:https://machinelearning.apple.com/research/rltl-dr-self-improvement": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://machinelearning.apple.com/research/sclate-agent-training-evaluation": {
    "first": "2026-09-30T23:04:28.649021+00:00",
@@ -8710,21 +8547,21 @@
   },
   "rss:https://news.hada.io/topic?id=34601": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34604": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34607": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34616": {
    "first": "2026-10-01T20:35:24.975601+00:00",
@@ -8740,21 +8577,21 @@
   },
   "rss:https://news.hada.io/topic?id=34623": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34626": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34631": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://news.hada.io/topic?id=34638": {
    "first": "2026-10-02T00:10:24.467460+00:00",
@@ -8824,9 +8661,9 @@
   },
   "rss:https://openai.com/index/albertsons-reimagining-retail": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://openai.com/index/australian-youth-safety-blueprint": {
    "first": "2026-09-19T05:32:56.876642+00:00",
@@ -9058,9 +8895,9 @@
   },
   "rss:https://openai.com/index/the-eternal-complement": {
    "first": "2026-10-01T20:35:24.975601+00:00",
-   "last": "2026-10-01T20:35:24.975601+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
    "first": "2026-09-29T08:48:37.406536+00:00",
@@ -9610,9 +9447,9 @@
   },
   "rss:https://tldr.tech/ai/2026-10-01": {
    "first": "2026-10-01T15:18:07.925336+00:00",
-   "last": "2026-10-01T15:18:07.925336+00:00",
+   "last": "2026-10-02T04:10:58.819846+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T04:10:58.819846+00:00"
   },
   "rss:https://youtube.com/watch?v=J3ljHm57yU0": {
    "first": "2026-09-16T21:39:09.110065+00:00",
@@ -9634,10 +9471,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-18T14:38:41.792005+00:00",
-   "count": 1
-  },
   {
    "at": "2026-09-18T14:53:39.916510+00:00",
    "count": 3
@@ -10432,6 +10265,10 @@
   },
   {
    "at": "2026-10-02T03:56:00.765932+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-02T04:10:58.819846+00:00",
    "count": 12
   }
  ],
