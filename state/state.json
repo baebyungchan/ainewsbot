@@ -1,54 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-02T22:48:29.129756+00:00",
+ "last_run": "2026-10-02T23:03:33.754093+00:00",
  "pending": [
-  {
-   "key": "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-   "meta": {
-    "feed": "Google AI"
-   },
-   "published_at": "2026-10-02T15:00:00+00:00",
-   "queued_at": "2026-10-02T15:16:37.667622+00:00",
-   "score": 1.0,
-   "signal": "📰 Google AI",
-   "source": "rss",
-   "summary": "A video showing the September AI updates",
-   "threshold": 1.0,
-   "title": "The latest AI news we announced in September 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/allenai/astabrief",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-10-02T15:19:50+00:00",
-   "queued_at": "2026-10-02T15:31:40.515616+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "url": "https://huggingface.co/blog/allenai/astabrief"
-  },
-  {
-   "key": "hn:49934487",
-   "meta": {
-    "comments": 104,
-    "discussion_url": "https://news.ycombinator.com/item?id=49934487",
-    "hn_id": "49934487"
-   },
-   "published_at": "2026-10-02T15:18:00+00:00",
-   "queued_at": "2026-10-02T16:16:51.699828+00:00",
-   "score": 111.0,
-   "signal": "🟠 HN 111 pts · 💬 104",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "AI Makes Me Sad",
-   "url": "https://mondobe.com/ai-makes-me-sad"
-  },
   {
    "key": "rss:https://openai.com/index/practical-guide-building-gpt-6",
    "meta": {
@@ -95,25 +48,6 @@
    "threshold": 1.0,
    "title": "AI는 나를 슬프게 한다",
    "url": "https://news.hada.io/topic?id=34673"
-  },
-  {
-   "key": "reddit:1wvdt9p",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-01T22:54:58+00:00",
-   "queued_at": "2026-10-02T17:17:04.677579+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
-   "url": "https://i.redd.it/gle8lqy6rxsh1.jpeg"
   },
   {
    "key": "reddit:1wvahcj",
@@ -163,23 +97,6 @@
    "threshold": 1.0,
    "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
    "url": "https://www.anthropic.com/news/claude-frontier-academy"
-  },
-  {
-   "key": "hn:49925974",
-   "meta": {
-    "comments": 13,
-    "discussion_url": "https://news.ycombinator.com/item?id=49925974",
-    "hn_id": "49925974"
-   },
-   "published_at": "2026-10-01T19:24:29+00:00",
-   "queued_at": "2026-10-02T18:02:19.816099+00:00",
-   "score": 114.0,
-   "signal": "🟠 HN 114 pts · 💬 13",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "FLUX 3 Image",
-   "url": "https://bfl.ai/models/flux-3-image"
   },
   {
    "key": "hfpaper:2610.01939",
@@ -287,23 +204,6 @@
    "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10?utm_source=reddit&utm_medium=social_manual&utm_campaign=reddit_dist_r_claudeai&utm_content=manual_v1&utm_term=973e013b"
   },
   {
-   "key": "hn:49927747",
-   "meta": {
-    "comments": 118,
-    "discussion_url": "https://news.ycombinator.com/item?id=49927747",
-    "hn_id": "49927747"
-   },
-   "published_at": "2026-10-01T22:22:21+00:00",
-   "queued_at": "2026-10-02T19:32:45.539409+00:00",
-   "score": 109.0,
-   "signal": "🟠 HN 109 pts · 💬 118",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Sites in ChatGPT",
-   "url": "https://chatgpt.com/features/sites/"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=34679",
    "meta": {
     "feed": "GeekNews"
@@ -332,25 +232,6 @@
    "threshold": 1.0,
    "title": "Limits of Confidence in Diffusion",
    "url": "https://machinelearning.apple.com/research/limits-confidence-diffusion"
-  },
-  {
-   "key": "gh:mvschwarz/openrig",
-   "meta": {
-    "ai": true,
-    "language": "TypeScript",
-    "milestone": true,
-    "stars_today": 691,
-    "stars_total": 4203
-   },
-   "published_at": null,
-   "queued_at": "2026-10-02T20:33:00.777396+00:00",
-   "score": 691.0,
-   "signal": "🚀 1,401 → 4,203 stars · ★ +691 today · 4,203 total · TypeScript",
-   "source": "github_trending",
-   "summary": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-   "threshold": 500.0,
-   "title": "mvschwarz/openrig",
-   "url": "https://github.com/mvschwarz/openrig"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=34682",
@@ -417,40 +298,6 @@
    "url": "https://huggingface.co/papers/2610.02122"
   },
   {
-   "key": "hn:49929391",
-   "meta": {
-    "comments": 19,
-    "discussion_url": "https://news.ycombinator.com/item?id=49929391",
-    "hn_id": "49929391"
-   },
-   "published_at": "2026-10-02T02:51:27+00:00",
-   "queued_at": "2026-10-02T21:03:05.120695+00:00",
-   "score": 109.0,
-   "signal": "🟠 HN 109 pts · 💬 19",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
-  },
-  {
-   "key": "hn:49933740",
-   "meta": {
-    "comments": 33,
-    "discussion_url": "https://news.ycombinator.com/item?id=49933740",
-    "hn_id": "49933740"
-   },
-   "published_at": "2026-10-02T14:11:24+00:00",
-   "queued_at": "2026-10-02T21:18:10.367928+00:00",
-   "score": 102.0,
-   "signal": "🟠 HN 102 pts · 💬 33",
-   "source": "hn",
-   "summary": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312",
-   "threshold": 100.0,
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-  },
-  {
    "key": "hfpaper:2609.40362",
    "meta": {
     "arxiv_id": "2609.40362",
@@ -485,23 +332,6 @@
    "url": "https://huggingface.co/papers/2610.02201"
   },
   {
-   "key": "hfpaper:2610.02185",
-   "meta": {
-    "arxiv_id": "2610.02185",
-    "discussion_url": "https://arxiv.org/abs/2610.02185",
-    "upvotes": 17
-   },
-   "published_at": "2026-09-30T20:00:00.000Z",
-   "queued_at": "2026-10-02T21:33:11.145778+00:00",
-   "score": 17.0,
-   "signal": "📄 논문 ▲ 17 · Weihao Liu, Huangjie Zheng 외",
-   "source": "hf_paper",
-   "summary": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next token, yet standard decoding discards earlier states. Because earlier loops embody less computation, recurrence inherently supplies aligned weak-and-strong prediction pairs without auxiliary models or external training. We introduce LoopCD, a training-free contrastive decoding framework that guides token selection by contrasting the final prediction with an earlier recurrent pass, operating either in logit s…",
-   "threshold": 15.0,
-   "title": "Decoding Looped Transformers Better for (Almost) Free",
-   "url": "https://huggingface.co/papers/2610.02185"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=34683",
    "meta": {
     "feed": "GeekNews"
@@ -517,38 +347,23 @@
    "url": "https://news.hada.io/topic?id=34683"
   },
   {
-   "key": "hn:49934511",
+   "key": "reddit:1wvz1ex",
    "meta": {
-    "comments": 78,
-    "discussion_url": "https://news.ycombinator.com/item?id=49934511",
-    "hn_id": "49934511"
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
    },
-   "published_at": "2026-10-02T15:19:56+00:00",
-   "queued_at": "2026-10-02T22:18:25.912602+00:00",
-   "score": 101.0,
-   "signal": "🟠 HN 101 pts · 💬 78",
-   "source": "hn",
+   "published_at": "2026-10-02T16:59:22+00:00",
+   "queued_at": "2026-10-02T23:03:33.754093+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #5",
+   "source": "reddit",
    "summary": "",
-   "threshold": 100.0,
-   "title": "The Four Horsemen of Agentic Coding",
-   "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
-  },
-  {
-   "key": "hn:49936575",
-   "meta": {
-    "comments": 28,
-    "discussion_url": "https://news.ycombinator.com/item?id=49936575",
-    "hn_id": "49936575"
-   },
-   "published_at": "2026-10-02T18:01:16+00:00",
-   "queued_at": "2026-10-02T22:48:29.129756+00:00",
-   "score": 107.0,
-   "signal": "🟠 HN 107 pts · 💬 28",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "url": "https://dwarfstar.sh/"
+   "threshold": 300.0,
+   "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+   "url": "https://v.redd.it/2c6hq3vn33th1"
   }
  ],
  "seen": {
@@ -1163,9 +978,9 @@
   },
   "gh:mvschwarz/openrig": {
    "first": "2026-09-28T13:17:14.777820+00:00",
-   "last": "2026-10-02T20:33:00.777396+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 691.0,
-   "sent": "2026-09-28T13:17:14.777820+00:00",
+   "sent": "2026-10-02T23:03:33.754093+00:00",
    "stars_total": 4203
   },
   "gh:nanaism/yomiyasu": {
@@ -3504,9 +3319,9 @@
   },
   "hfpaper:2610.02185": {
    "first": "2026-10-02T21:33:11.145778+00:00",
-   "last": "2026-10-02T21:33:11.145778+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 17.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hfpaper:2610.02193": {
    "first": "2026-10-02T03:10:47.759473+00:00",
@@ -5094,15 +4909,15 @@
   },
   "hn:49925974": {
    "first": "2026-10-02T18:02:19.816099+00:00",
-   "last": "2026-10-02T18:02:19.816099+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 114.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49927747": {
    "first": "2026-10-02T19:32:45.539409+00:00",
-   "last": "2026-10-02T19:32:45.539409+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 109.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49927760": {
    "first": "2026-10-02T05:41:20.378912+00:00",
@@ -5112,9 +4927,9 @@
   },
   "hn:49929391": {
    "first": "2026-10-02T21:03:05.120695+00:00",
-   "last": "2026-10-02T21:03:05.120695+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 109.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49929489": {
    "first": "2026-10-02T06:11:30.069924+00:00",
@@ -5124,27 +4939,27 @@
   },
   "hn:49933740": {
    "first": "2026-10-02T21:18:10.367928+00:00",
-   "last": "2026-10-02T21:18:10.367928+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 102.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49934487": {
    "first": "2026-10-02T16:16:51.699828+00:00",
-   "last": "2026-10-02T16:16:51.699828+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 111.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49934511": {
    "first": "2026-10-02T22:18:25.912602+00:00",
-   "last": "2026-10-02T22:18:25.912602+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 101.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "hn:49936575": {
    "first": "2026-10-02T22:48:29.129756+00:00",
-   "last": "2026-10-02T22:48:29.129756+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 107.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6372,9 +6187,9 @@
   },
   "reddit:1wvdt9p": {
    "first": "2026-10-02T17:17:04.677579+00:00",
-   "last": "2026-10-02T17:17:04.677579+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "reddit:1wvfbua": {
    "first": "2026-10-02T11:00:32.005346+00:00",
@@ -6398,6 +6213,12 @@
    "first": "2026-10-02T19:17:38.811231+00:00",
    "last": "2026-10-02T19:17:38.811231+00:00",
    "score": 150.0,
+   "sent": null
+  },
+  "reddit:1wvz1ex": {
+   "first": "2026-10-02T23:03:33.754093+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
+   "score": 300.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
@@ -6462,9 +6283,9 @@
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026": {
    "first": "2026-10-02T15:16:37.667622+00:00",
-   "last": "2026-10-02T15:16:37.667622+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "rss:https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week": {
    "first": "2026-09-18T13:08:15.191236+00:00",
@@ -6582,9 +6403,9 @@
   },
   "rss:https://huggingface.co/blog/allenai/astabrief": {
    "first": "2026-10-02T15:31:40.515616+00:00",
-   "last": "2026-10-02T15:31:40.515616+00:00",
+   "last": "2026-10-02T23:03:33.754093+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-02T23:03:33.754093+00:00"
   },
   "rss:https://huggingface.co/blog/allenai/olmocore3": {
    "first": "2026-10-01T15:18:07.925336+00:00",
@@ -10183,10 +10004,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-19T23:07:03.869668+00:00",
-   "count": 12
-  },
-  {
    "at": "2026-09-19T23:22:05.975088+00:00",
    "count": 2
   },
@@ -10981,6 +10798,10 @@
   {
    "at": "2026-10-02T14:46:25.543712+00:00",
    "count": 1
+  },
+  {
+   "at": "2026-10-02T23:03:33.754093+00:00",
+   "count": 12
   }
  ],
  "version": 1
