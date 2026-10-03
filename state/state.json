@@ -1,207 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T23:09:10.134580+00:00",
- "pending": [
-  {
-   "key": "reddit:1ww0u3i",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/team_recently_started_using_claude_sprints_get/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-02T18:10:07+00:00",
-   "queued_at": "2026-10-03T18:07:58.892061+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "I lead the development team of a few enterprise systems mostly based around Python/Typescript, processing data at scale, with a ton of dev ops and micro services. At the title say, things are getting awkward. Sprints get cleared in days instead of weeks. We’re running out of work and product management are struggling to find us more to do. I’m spending most of my time in planning calls. Guesses of what happens next.",
-   "threshold": 150.0,
-   "title": "Team recently started using Claude. Sprints get cleared in a few days",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/team_recently_started_using_claude_sprints_get/"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-10-02T22:57:38+00:00",
-   "queued_at": "2026-10-03T18:07:58.892061+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "Museum: Rex&#x27;s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
-   "threshold": 1.0,
-   "title": "Rex's Dino Store",
-   "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"
-  },
-  {
-   "key": "reddit:1ww4hne",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-10-02T20:35:45+00:00",
-   "queued_at": "2026-10-03T18:22:59.389006+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
-   "url": "https://wccftech.com/buying-rtx-5090-at-micro-center-now-requires-paperwork/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34723",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T18:32:50+00:00",
-   "queued_at": "2026-10-03T18:38:02.785479+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "ldraw-nova 는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트 를 만들고, 이를 실행해 LDraw 소스를 생...",
-   "threshold": 1.0,
-   "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
-   "url": "https://news.hada.io/topic?id=34723"
-  },
-  {
-   "key": "reddit:1wwa2ff",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
-    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "OpenAI"
-   },
-   "published_at": "2026-10-03T00:50:30+00:00",
-   "queued_at": "2026-10-03T19:23:17.156223+00:00",
-   "score": 200.0,
-   "signal": "🏆 r/OpenAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 200.0,
-   "title": "Truly groundbreaking stuff",
-   "url": "https://i.redd.it/hwzzo274g5th1.png"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34724",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T19:33:55+00:00",
-   "queued_at": "2026-10-03T19:38:17.860973+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요. 시계 펌웨어는 그대로이고, 켜 둔 컴퓨터가 화면을 갱신합니다. 코드 ·",
-   "threshold": 1.0,
-   "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
-   "url": "https://news.hada.io/topic?id=34724"
-  },
-  {
-   "key": "reddit:1wwhlgb",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-03T07:59:25+00:00",
-   "queued_at": "2026-10-03T20:38:35.493795+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
-   "url": "https://v.redd.it/lmh1wp04k7th1"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34731",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T21:49:17+00:00",
-   "queued_at": "2026-10-03T21:49:47.752912+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "플랫폼에서 오랜 시간을 보낸 사람들이 서비스가 달라진 뒤 떠나는 경험 을 공유하고 있음 떠나는 이유는 가격 변경, 게시물의 AI 학습 활용 , 새 소유주나 정책, 더는 사람을 위해 만들어지는 서비스가 아니라는 느낌 등으로 다양함 이들은 더 큰 서비스보...",
-   "threshold": 1.0,
-   "title": "모두가 짐을 싸고 있다",
-   "url": "https://news.hada.io/topic?id=34731"
-  },
-  {
-   "key": "rss:https://simonwillison.net/2026/Oct/3/newsletter",
-   "meta": {
-    "feed": "Simon Willison"
-   },
-   "published_at": "2026-10-03T22:00:31+00:00",
-   "queued_at": "2026-10-03T22:08:53.957815+00:00",
-   "score": 1.0,
-   "signal": "✍️ Simon Willison",
-   "source": "rss",
-   "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 in LLMs (so far) Here's a copy of the August newsletter as a preview of what you'll get. Pay $10/mo…",
-   "threshold": 1.0,
-   "title": "September sponsors-only newsletter",
-   "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34734",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T22:42:52+00:00",
-   "queued_at": "2026-10-03T22:54:02.269918+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Opus 5.5 에는 작업 전체와 완료 조건, 멈춰서 물어볼 조건을 한 번에 전달하는 방식이 적합함. 이전 Opus보다 긴 다단계 작업을 잘 이어가며, 초기 테스터들은 적은 감독으로 수 시간짜리 코딩 작업을 실행함 매 응답 전에 스스로 사고하므로 “신중하게 생각하라”는 지시는...",
-   "threshold": 1.0,
-   "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
-   "url": "https://news.hada.io/topic?id=34734"
-  },
-  {
-   "key": "reddit:1wwsm61",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-03T17:19:17+00:00",
-   "queued_at": "2026-10-03T23:09:10.134580+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Did they nerf Opus 5.5? LiveNerf baseline established: Day 10",
-   "url": "https://i.redd.it/zm7sngm4dath1.jpeg"
-  },
-  {
-   "key": "rss:https://huggingface.co/blog/microsoft/thinkingbox",
-   "meta": {
-    "feed": "Hugging Face"
-   },
-   "published_at": "2026-10-03T22:56:48+00:00",
-   "queued_at": "2026-10-03T23:09:10.134580+00:00",
-   "score": 1.0,
-   "signal": "📰 Hugging Face",
-   "source": "rss",
-   "summary": "",
-   "threshold": 1.0,
-   "title": "The Agent Said It Was Done. The Database Disagreed.",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox"
-  }
- ],
+ "last_run": "2026-10-03T23:24:10.331220+00:00",
+ "pending": [],
  "seen": {
   "gh:2akouwu/reverify": {
    "first": "2026-09-10T14:53:46.276689+00:00",
@@ -6169,9 +5969,9 @@
   },
   "reddit:1ww0u3i": {
    "first": "2026-10-03T18:07:58.892061+00:00",
-   "last": "2026-10-03T18:07:58.892061+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "reddit:1ww2o3o": {
    "first": "2026-10-03T04:34:51.931220+00:00",
@@ -6187,9 +5987,9 @@
   },
   "reddit:1ww4hne": {
    "first": "2026-10-03T18:22:59.389006+00:00",
-   "last": "2026-10-03T18:22:59.389006+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "reddit:1ww6pgx": {
    "first": "2026-10-03T17:07:42.614676+00:00",
@@ -6217,9 +6017,9 @@
   },
   "reddit:1wwa2ff": {
    "first": "2026-10-03T19:23:17.156223+00:00",
-   "last": "2026-10-03T19:23:17.156223+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 200.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "reddit:1wwbag6": {
    "first": "2026-10-03T17:07:42.614676+00:00",
@@ -6241,15 +6041,15 @@
   },
   "reddit:1wwhlgb": {
    "first": "2026-10-03T20:38:35.493795+00:00",
-   "last": "2026-10-03T20:38:35.493795+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "reddit:1wwsm61": {
    "first": "2026-10-03T23:09:10.134580+00:00",
-   "last": "2026-10-03T23:09:10.134580+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
    "first": "2026-09-18T20:56:26.951306+00:00",
@@ -6469,9 +6269,9 @@
   },
   "rss:https://huggingface.co/blog/microsoft/thinkingbox": {
    "first": "2026-10-03T23:09:10.134580+00:00",
-   "last": "2026-10-03T23:09:10.134580+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
    "first": "2026-09-23T19:53:39.928136+00:00",
@@ -9271,27 +9071,27 @@
   },
   "rss:https://news.hada.io/topic?id=34723": {
    "first": "2026-10-03T18:38:02.785479+00:00",
-   "last": "2026-10-03T18:38:02.785479+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://news.hada.io/topic?id=34724": {
    "first": "2026-10-03T19:38:17.860973+00:00",
-   "last": "2026-10-03T19:38:17.860973+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://news.hada.io/topic?id=34731": {
    "first": "2026-10-03T21:49:47.752912+00:00",
-   "last": "2026-10-03T21:49:47.752912+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://news.hada.io/topic?id=34734": {
    "first": "2026-10-03T22:54:02.269918+00:00",
-   "last": "2026-10-03T22:54:02.269918+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://openai.com/form/codex-originals": {
    "first": "2026-09-28T23:41:27.498113+00:00",
@@ -9619,15 +9419,15 @@
   },
   "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
    "first": "2026-10-03T18:07:58.892061+00:00",
-   "last": "2026-10-03T18:07:58.892061+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://simonwillison.net/2026/Oct/3/newsletter": {
    "first": "2026-10-03T22:08:53.957815+00:00",
-   "last": "2026-10-03T22:08:53.957815+00:00",
+   "last": "2026-10-03T23:24:10.331220+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:24:10.331220+00:00"
   },
   "rss:https://simonwillison.net/2026/Sep/10/calif-research": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -10153,10 +9953,6 @@
   }
  },
  "sends": [
-  {
-   "at": "2026-09-21T11:41:00.268501+00:00",
-   "count": 7
-  },
   {
    "at": "2026-09-21T12:11:10.349936+00:00",
    "count": 1
@@ -10951,6 +10747,10 @@
   },
   {
    "at": "2026-10-03T23:09:10.134580+00:00",
+   "count": 12
+  },
+  {
+   "at": "2026-10-03T23:24:10.331220+00:00",
    "count": 12
   }
  ],
