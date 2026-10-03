@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T19:53:20.480515+00:00",
+ "last_run": "2026-10-03T20:08:23.740232+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -259,6 +259,24 @@
    "threshold": 1.0,
    "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
    "url": "https://news.hada.io/topic?id=34724"
+  },
+  {
+   "key": "reddit:1ww9nq3",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-03T00:29:15+00:00",
+   "queued_at": "2026-10-03T20:08:23.740232+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "Hey everyone, this is my first time posting here and it's a bit of a longer loaded one. Background on myself: I'm a college senior with my time spread across classes, gym / health, networking, learning AI, and more. My current stack: Claude (Pro Subscription), Claude Code, GitHub, Notion (PARA setup with relational databases and more like a CRM, etc), Google features like Calendar, Google Drive, Google Docs, Gmail, Otter for recording classes, plus Gemini and NotebookLM, etc. What I currently do: Claude Code: I'm building an analytics database (DuckDB) with no real significant coding backgrou…",
+   "threshold": 150.0,
+   "title": "I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually maximize my use of Claude and build a system that runs my life?",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/"
   }
  ],
  "seen": {
@@ -6254,6 +6272,12 @@
    "first": "2026-10-03T16:37:38.502063+00:00",
    "last": "2026-10-03T16:37:38.502063+00:00",
    "score": 300.0,
+   "sent": null
+  },
+  "reddit:1ww9nq3": {
+   "first": "2026-10-03T20:08:23.740232+00:00",
+   "last": "2026-10-03T20:08:23.740232+00:00",
+   "score": 165.0,
    "sent": null
   },
   "reddit:1wwa2ff": {
