@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T19:08:13.872972+00:00",
+ "last_run": "2026-10-03T19:23:17.156223+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -225,6 +225,25 @@
    "threshold": 1.0,
    "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
    "url": "https://news.hada.io/topic?id=34723"
+  },
+  {
+   "key": "reddit:1wwa2ff",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
+    "permalink": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "OpenAI"
+   },
+   "published_at": "2026-10-03T00:50:30+00:00",
+   "queued_at": "2026-10-03T19:23:17.156223+00:00",
+   "score": 200.0,
+   "signal": "🏆 r/OpenAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 200.0,
+   "title": "Truly groundbreaking stuff",
+   "url": "https://i.redd.it/hwzzo274g5th1.png"
   }
  ],
  "seen": {
@@ -6220,6 +6239,12 @@
    "first": "2026-10-03T16:37:38.502063+00:00",
    "last": "2026-10-03T16:37:38.502063+00:00",
    "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wwa2ff": {
+   "first": "2026-10-03T19:23:17.156223+00:00",
+   "last": "2026-10-03T19:23:17.156223+00:00",
+   "score": 200.0,
    "sent": null
   },
   "reddit:1wwbag6": {
