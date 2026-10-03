@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T20:23:27.476859+00:00",
+ "last_run": "2026-10-03T20:38:35.493795+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -277,6 +277,25 @@
    "threshold": 150.0,
    "title": "I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually maximize my use of Claude and build a system that runs my life?",
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/"
+  },
+  {
+   "key": "reddit:1wwhlgb",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-03T07:59:25+00:00",
+   "queued_at": "2026-10-03T20:38:35.493795+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
+   "url": "https://v.redd.it/lmh1wp04k7th1"
   }
  ],
  "seen": {
@@ -6302,6 +6321,12 @@
    "first": "2026-10-03T17:07:42.614676+00:00",
    "last": "2026-10-03T17:07:42.614676+00:00",
    "score": 390.0,
+   "sent": null
+  },
+  "reddit:1wwhlgb": {
+   "first": "2026-10-03T20:38:35.493795+00:00",
+   "last": "2026-10-03T20:38:35.493795+00:00",
+   "score": 150.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
