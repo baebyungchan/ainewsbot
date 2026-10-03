@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T18:22:59.389006+00:00",
+ "last_run": "2026-10-03T18:38:02.785479+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -210,6 +210,21 @@
    "threshold": 300.0,
    "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
    "url": "https://wccftech.com/buying-rtx-5090-at-micro-center-now-requires-paperwork/"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34723",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-03T18:32:50+00:00",
+   "queued_at": "2026-10-03T18:38:02.785479+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "ldraw-nova 는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트 를 만들고, 이를 실행해 LDraw 소스를 생...",
+   "threshold": 1.0,
+   "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
+   "url": "https://news.hada.io/topic?id=34723"
   }
  ],
  "seen": {
@@ -9234,6 +9249,12 @@
   "rss:https://news.hada.io/topic?id=34718": {
    "first": "2026-10-03T17:07:42.614676+00:00",
    "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34723": {
+   "first": "2026-10-03T18:38:02.785479+00:00",
+   "last": "2026-10-03T18:38:02.785479+00:00",
    "score": 1.0,
    "sent": null
   },
