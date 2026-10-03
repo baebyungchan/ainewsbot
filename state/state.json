@@ -1,164 +1,7 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T22:54:02.269918+00:00",
+ "last_run": "2026-10-03T23:09:10.134580+00:00",
  "pending": [
-  {
-   "key": "rss:https://news.hada.io/topic?id=34715",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T15:37:47+00:00",
-   "queued_at": "2026-10-03T15:52:25.352826+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Aleph Alpha가 독일어와 영어용 오픈 웨이트 모델 Kolibri 를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음 전문가 혼합(MoE) 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화...",
-   "threshold": 1.0,
-   "title": "Show HN: 독일의 새로운 소버린 AI 모델 Kolibri",
-   "url": "https://news.hada.io/topic?id=34715"
-  },
-  {
-   "key": "reddit:1ww7uga",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1ww7uga/gpt6_astra_helped_decipher_a_napoleonic_military/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1ww7uga/gpt6_astra_helped_decipher_a_napoleonic_military/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-10-02T23:02:16+00:00",
-   "queued_at": "2026-10-03T16:07:31.017082+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "GPT-6 Astra helped decipher a Napoleonic military letter that remained unread for 217 years; it took just 6 hours",
-   "url": "https://dev.ua/en/news/astra-rozshyfruvala-lyst-1809-ho-roku-1790927012"
-  },
-  {
-   "key": "reddit:1ww9myb",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
-    "permalink": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "singularity"
-   },
-   "published_at": "2026-10-03T00:28:11+00:00",
-   "queued_at": "2026-10-03T16:37:38.502063+00:00",
-   "score": 300.0,
-   "signal": "🏆 r/singularity 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
-   "url": "https://i.redd.it/9d47csiqc5th1.jpeg"
-  },
-  {
-   "key": "reddit:1wwdsce",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/",
-    "rank": 2,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-10-03T04:10:31+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 480.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #2",
-   "source": "reddit",
-   "summary": "I've noticed a trend with most new models with regards to their writing style. They are creating a new style, and this seems common among them. It's very information-dense. Here is an example from GLM 5.3 Flash. I'm gonna be honest here and say that my prompt was kinda silly; my prompt was 'Why wouldn't you just name your Chinese restaurant 'Chinese Food' instead of 'Ming Dynasty' or 'Szechuan Garden' or whatever?' the idea being that someone searching for 'Chinese food' on Google Maps would put you first if you called your restaurant that. But forget all that; here's an excerpt from GLM's ou…",
-   "threshold": 300.0,
-   "title": "Has anyone noticed this trend toward writing/speaking style among newer models (both open and closed models). They are trending toward information density and expanded vocabulary. It's not quite 'caveman speak' but trending that way.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/"
-  },
-  {
-   "key": "reddit:1wwfyv6",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
-    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
-    "rank": 3,
-    "rss": true,
-    "subreddit": "LocalLLaMA"
-   },
-   "published_at": "2026-10-03T06:18:34+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 390.0,
-   "signal": "🏆 r/LocalLLaMA 오늘 #3",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 300.0,
-   "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
-   "url": "https://github.com/ggml-org/llama.cpp/pull/29825"
-  },
-  {
-   "key": "reddit:1wwbag6",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwbag6/jesus_christ_opus_has_infinite_more_taste_than/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-03T01:55:25+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "I was a $200 sub user for OpenAI but recently Anthropic gave the 50% off deal to test their stuff out. So I got the 20x plan for $100. I usually use my plans for research as I'm a PhD student in theoretical physics, but I also like to game and play stuff like Minecraft. I had Astra make a Justice League mod. It was genuinely shit. I usually give Sol a prompt to make a prompt for Astra to make the mod, and it was genuinely bad. Like it gave talasmins that users had to wear to get powers. It gave just a speed effect for speedsters, shitty fast creative mode for flying. Opus 5.5 gave beautiful f…",
-   "threshold": 150.0,
-   "title": "Jesus Christ, Opus has infinite more taste than Astra",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwbag6/jesus_christ_opus_has_infinite_more_taste_than/"
-  },
-  {
-   "key": "reddit:1ww6pgx",
-   "meta": {
-    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1ww6pgx/interesting_specs_of_claude/",
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1ww6pgx/interesting_specs_of_claude/",
-    "rank": 5,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-02T22:09:22+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 150.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #5",
-   "source": "reddit",
-   "summary": "",
-   "threshold": 150.0,
-   "title": "Interesting specs of Claude",
-   "url": "https://i.redd.it/0tmol7uyn4th1.jpeg"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34718",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T17:07:02+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트 로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스 가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
-   "threshold": 1.0,
-   "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
-   "url": "https://news.hada.io/topic?id=34718"
-  },
-  {
-   "key": "rss:https://news.hada.io/topic?id=34716",
-   "meta": {
-    "feed": "GeekNews"
-   },
-   "published_at": "2026-10-03T17:01:02+00:00",
-   "queued_at": "2026-10-03T17:07:42.614676+00:00",
-   "score": 1.0,
-   "signal": "🇰🇷 GeekNews",
-   "source": "rss",
-   "summary": "Aleph Alpha가 영어와 독일어를 지원하는 Kolibri 의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 100만 토큰 문맥 을 지원함 공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하...",
-   "threshold": 1.0,
-   "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
-   "url": "https://news.hada.io/topic?id=34716"
-  },
   {
    "key": "reddit:1ww0u3i",
    "meta": {
@@ -261,24 +104,6 @@
    "url": "https://news.hada.io/topic?id=34724"
   },
   {
-   "key": "reddit:1ww9nq3",
-   "meta": {
-    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/",
-    "rank": 4,
-    "rss": true,
-    "subreddit": "ClaudeAI"
-   },
-   "published_at": "2026-10-03T00:29:15+00:00",
-   "queued_at": "2026-10-03T20:08:23.740232+00:00",
-   "score": 165.0,
-   "signal": "🏆 r/ClaudeAI 오늘 #4",
-   "source": "reddit",
-   "summary": "Hey everyone, this is my first time posting here and it's a bit of a longer loaded one. Background on myself: I'm a college senior with my time spread across classes, gym / health, networking, learning AI, and more. My current stack: Claude (Pro Subscription), Claude Code, GitHub, Notion (PARA setup with relational databases and more like a CRM, etc), Google features like Calendar, Google Drive, Google Docs, Gmail, Otter for recording classes, plus Gemini and NotebookLM, etc. What I currently do: Claude Code: I'm building an analytics database (DuckDB) with no real significant coding backgrou…",
-   "threshold": 150.0,
-   "title": "I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually maximize my use of Claude and build a system that runs my life?",
-   "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/"
-  },
-  {
    "key": "reddit:1wwhlgb",
    "meta": {
     "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
@@ -296,23 +121,6 @@
    "threshold": 150.0,
    "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
    "url": "https://v.redd.it/lmh1wp04k7th1"
-  },
-  {
-   "key": "hn:49944227",
-   "meta": {
-    "comments": 151,
-    "discussion_url": "https://news.ycombinator.com/item?id=49944227",
-    "hn_id": "49944227"
-   },
-   "published_at": "2026-10-03T13:46:34+00:00",
-   "queued_at": "2026-10-03T21:49:47.752912+00:00",
-   "score": 103.0,
-   "signal": "🟠 HN 103 pts · 💬 151",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "I Quit OpenAI Because Its Culture Is Broken",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
   },
   {
    "key": "rss:https://news.hada.io/topic?id=34731",
@@ -345,23 +153,6 @@
    "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
   },
   {
-   "key": "hn:49946567",
-   "meta": {
-    "comments": 63,
-    "discussion_url": "https://news.ycombinator.com/item?id=49946567",
-    "hn_id": "49946567"
-   },
-   "published_at": "2026-10-03T18:29:30+00:00",
-   "queued_at": "2026-10-03T22:23:54.305286+00:00",
-   "score": 105.0,
-   "signal": "🟠 HN 105 pts · 💬 63",
-   "source": "hn",
-   "summary": "",
-   "threshold": 100.0,
-   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
-  },
-  {
    "key": "rss:https://news.hada.io/topic?id=34734",
    "meta": {
     "feed": "GeekNews"
@@ -375,6 +166,40 @@
    "threshold": 1.0,
    "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
    "url": "https://news.hada.io/topic?id=34734"
+  },
+  {
+   "key": "reddit:1wwsm61",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-03T17:19:17+00:00",
+   "queued_at": "2026-10-03T23:09:10.134580+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Did they nerf Opus 5.5? LiveNerf baseline established: Day 10",
+   "url": "https://i.redd.it/zm7sngm4dath1.jpeg"
+  },
+  {
+   "key": "rss:https://huggingface.co/blog/microsoft/thinkingbox",
+   "meta": {
+    "feed": "Hugging Face"
+   },
+   "published_at": "2026-10-03T22:56:48+00:00",
+   "queued_at": "2026-10-03T23:09:10.134580+00:00",
+   "score": 1.0,
+   "signal": "📰 Hugging Face",
+   "source": "rss",
+   "summary": "",
+   "threshold": 1.0,
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox"
   }
  ],
  "seen": {
@@ -5060,15 +4885,15 @@
   },
   "hn:49944227": {
    "first": "2026-10-03T21:49:47.752912+00:00",
-   "last": "2026-10-03T21:49:47.752912+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 103.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "hn:49946567": {
    "first": "2026-10-03T22:23:54.305286+00:00",
-   "last": "2026-10-03T22:23:54.305286+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 105.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1wbphuo": {
    "first": "2026-09-10T15:34:14.368488+00:00",
@@ -6368,27 +6193,27 @@
   },
   "reddit:1ww6pgx": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 150.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1ww7uga": {
    "first": "2026-10-03T16:07:31.017082+00:00",
-   "last": "2026-10-03T16:07:31.017082+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1ww9myb": {
    "first": "2026-10-03T16:37:38.502063+00:00",
-   "last": "2026-10-03T16:37:38.502063+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 300.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1ww9nq3": {
    "first": "2026-10-03T20:08:23.740232+00:00",
-   "last": "2026-10-03T20:08:23.740232+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1wwa2ff": {
    "first": "2026-10-03T19:23:17.156223+00:00",
@@ -6398,25 +6223,31 @@
   },
   "reddit:1wwbag6": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 165.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1wwdsce": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 480.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1wwfyv6": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 390.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "reddit:1wwhlgb": {
    "first": "2026-10-03T20:38:35.493795+00:00",
    "last": "2026-10-03T20:38:35.493795+00:00",
+   "score": 150.0,
+   "sent": null
+  },
+  "reddit:1wwsm61": {
+   "first": "2026-10-03T23:09:10.134580+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 150.0,
    "sent": null
   },
@@ -6633,6 +6464,12 @@
   "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
    "first": "2026-09-10T14:53:46.276689+00:00",
    "last": "2026-09-10T14:53:46.276689+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://huggingface.co/blog/microsoft/thinkingbox": {
+   "first": "2026-10-03T23:09:10.134580+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 1.0,
    "sent": null
   },
@@ -9416,21 +9253,21 @@
   },
   "rss:https://news.hada.io/topic?id=34715": {
    "first": "2026-10-03T15:52:25.352826+00:00",
-   "last": "2026-10-03T15:52:25.352826+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "rss:https://news.hada.io/topic?id=34716": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "rss:https://news.hada.io/topic?id=34718": {
    "first": "2026-10-03T17:07:42.614676+00:00",
-   "last": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T23:09:10.134580+00:00",
    "score": 1.0,
-   "sent": null
+   "sent": "2026-10-03T23:09:10.134580+00:00"
   },
   "rss:https://news.hada.io/topic?id=34723": {
    "first": "2026-10-03T18:38:02.785479+00:00",
@@ -10317,10 +10154,6 @@
  },
  "sends": [
   {
-   "at": "2026-09-21T07:39:42.846099+00:00",
-   "count": 1
-  },
-  {
    "at": "2026-09-21T11:41:00.268501+00:00",
    "count": 7
   },
@@ -11115,6 +10948,10 @@
   {
    "at": "2026-10-03T14:37:11.740628+00:00",
    "count": 2
+  },
+  {
+   "at": "2026-10-03T23:09:10.134580+00:00",
+   "count": 12
   }
  ],
  "version": 1
