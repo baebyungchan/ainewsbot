@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T16:52:39.549306+00:00",
+ "last_run": "2026-10-03T17:07:42.614676+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -54,6 +54,110 @@
    "threshold": 300.0,
    "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
    "url": "https://i.redd.it/9d47csiqc5th1.jpeg"
+  },
+  {
+   "key": "reddit:1wwdsce",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/",
+    "rank": 2,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-10-03T04:10:31+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 480.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #2",
+   "source": "reddit",
+   "summary": "I've noticed a trend with most new models with regards to their writing style. They are creating a new style, and this seems common among them. It's very information-dense. Here is an example from GLM 5.3 Flash. I'm gonna be honest here and say that my prompt was kinda silly; my prompt was 'Why wouldn't you just name your Chinese restaurant 'Chinese Food' instead of 'Ming Dynasty' or 'Szechuan Garden' or whatever?' the idea being that someone searching for 'Chinese food' on Google Maps would put you first if you called your restaurant that. But forget all that; here's an excerpt from GLM's ou…",
+   "threshold": 300.0,
+   "title": "Has anyone noticed this trend toward writing/speaking style among newer models (both open and closed models). They are trending toward information density and expanded vocabulary. It's not quite 'caveman speak' but trending that way.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/"
+  },
+  {
+   "key": "reddit:1wwfyv6",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+    "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+    "rank": 3,
+    "rss": true,
+    "subreddit": "LocalLLaMA"
+   },
+   "published_at": "2026-10-03T06:18:34+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 390.0,
+   "signal": "🏆 r/LocalLLaMA 오늘 #3",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp/pull/29825"
+  },
+  {
+   "key": "reddit:1wwbag6",
+   "meta": {
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1wwbag6/jesus_christ_opus_has_infinite_more_taste_than/",
+    "rank": 4,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-03T01:55:25+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 165.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #4",
+   "source": "reddit",
+   "summary": "I was a $200 sub user for OpenAI but recently Anthropic gave the 50% off deal to test their stuff out. So I got the 20x plan for $100. I usually use my plans for research as I'm a PhD student in theoretical physics, but I also like to game and play stuff like Minecraft. I had Astra make a Justice League mod. It was genuinely shit. I usually give Sol a prompt to make a prompt for Astra to make the mod, and it was genuinely bad. Like it gave talasmins that users had to wear to get powers. It gave just a speed effect for speedsters, shitty fast creative mode for flying. Opus 5.5 gave beautiful f…",
+   "threshold": 150.0,
+   "title": "Jesus Christ, Opus has infinite more taste than Astra",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwbag6/jesus_christ_opus_has_infinite_more_taste_than/"
+  },
+  {
+   "key": "reddit:1ww6pgx",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/ClaudeAI/comments/1ww6pgx/interesting_specs_of_claude/",
+    "permalink": "https://www.reddit.com/r/ClaudeAI/comments/1ww6pgx/interesting_specs_of_claude/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "ClaudeAI"
+   },
+   "published_at": "2026-10-02T22:09:22+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 150.0,
+   "signal": "🏆 r/ClaudeAI 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 150.0,
+   "title": "Interesting specs of Claude",
+   "url": "https://i.redd.it/0tmol7uyn4th1.jpeg"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34718",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-03T17:07:02+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트 로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스 가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
+   "threshold": 1.0,
+   "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
+   "url": "https://news.hada.io/topic?id=34718"
+  },
+  {
+   "key": "rss:https://news.hada.io/topic?id=34716",
+   "meta": {
+    "feed": "GeekNews"
+   },
+   "published_at": "2026-10-03T17:01:02+00:00",
+   "queued_at": "2026-10-03T17:07:42.614676+00:00",
+   "score": 1.0,
+   "signal": "🇰🇷 GeekNews",
+   "source": "rss",
+   "summary": "Aleph Alpha가 영어와 독일어를 지원하는 Kolibri 의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 100만 토큰 문맥 을 지원함 공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하...",
+   "threshold": 1.0,
+   "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
+   "url": "https://news.hada.io/topic?id=34716"
   }
  ],
  "seen": {
@@ -6021,6 +6125,12 @@
    "score": 260.0,
    "sent": "2026-10-02T23:18:39.020600+00:00"
   },
+  "reddit:1ww6pgx": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 150.0,
+   "sent": null
+  },
   "reddit:1ww7uga": {
    "first": "2026-10-03T16:07:31.017082+00:00",
    "last": "2026-10-03T16:07:31.017082+00:00",
@@ -6031,6 +6141,24 @@
    "first": "2026-10-03T16:37:38.502063+00:00",
    "last": "2026-10-03T16:37:38.502063+00:00",
    "score": 300.0,
+   "sent": null
+  },
+  "reddit:1wwbag6": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 165.0,
+   "sent": null
+  },
+  "reddit:1wwdsce": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 480.0,
+   "sent": null
+  },
+  "reddit:1wwfyv6": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 390.0,
    "sent": null
   },
   "rss:https://anthropic.com/news/accenture-embedded-evaluation": {
@@ -9030,6 +9158,18 @@
   "rss:https://news.hada.io/topic?id=34715": {
    "first": "2026-10-03T15:52:25.352826+00:00",
    "last": "2026-10-03T15:52:25.352826+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34716": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
+   "score": 1.0,
+   "sent": null
+  },
+  "rss:https://news.hada.io/topic?id=34718": {
+   "first": "2026-10-03T17:07:42.614676+00:00",
+   "last": "2026-10-03T17:07:42.614676+00:00",
    "score": 1.0,
    "sent": null
   },
