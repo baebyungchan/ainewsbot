@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-03T16:22:30.164086+00:00",
+ "last_run": "2026-10-03T16:37:38.502063+00:00",
  "pending": [
   {
    "key": "rss:https://news.hada.io/topic?id=34715",
@@ -35,6 +35,25 @@
    "threshold": 300.0,
    "title": "GPT-6 Astra helped decipher a Napoleonic military letter that remained unread for 217 years; it took just 6 hours",
    "url": "https://dev.ua/en/news/astra-rozshyfruvala-lyst-1809-ho-roku-1790927012"
+  },
+  {
+   "key": "reddit:1ww9myb",
+   "meta": {
+    "discussion_url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
+    "permalink": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
+    "rank": 5,
+    "rss": true,
+    "subreddit": "singularity"
+   },
+   "published_at": "2026-10-03T00:28:11+00:00",
+   "queued_at": "2026-10-03T16:37:38.502063+00:00",
+   "score": 300.0,
+   "signal": "🏆 r/singularity 오늘 #5",
+   "source": "reddit",
+   "summary": "",
+   "threshold": 300.0,
+   "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
+   "url": "https://i.redd.it/9d47csiqc5th1.jpeg"
   }
  ],
  "seen": {
@@ -6005,6 +6024,12 @@
   "reddit:1ww7uga": {
    "first": "2026-10-03T16:07:31.017082+00:00",
    "last": "2026-10-03T16:07:31.017082+00:00",
+   "score": 300.0,
+   "sent": null
+  },
+  "reddit:1ww9myb": {
+   "first": "2026-10-03T16:37:38.502063+00:00",
+   "last": "2026-10-03T16:37:38.502063+00:00",
    "score": 300.0,
    "sent": null
   },
