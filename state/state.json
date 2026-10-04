@@ -1,6 +1,6 @@
 {
  "created_at": "2026-09-10T14:53:46.276689+00:00",
- "last_run": "2026-10-04T15:12:50.299352+00:00",
+ "last_run": "2026-10-04T15:27:47.800832+00:00",
  "pending": [
   {
    "key": "reddit:1wx6cri",
@@ -20,6 +20,31 @@
    "threshold": 300.0,
    "title": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
    "url": "https://v.redd.it/2q3a4q5pldth1"
+  },
+  {
+   "key": "gh:inkloom-art/inkloom",
+   "meta": {
+    "age_days": 14.3,
+    "language": "TypeScript",
+    "stars_total": 822,
+    "topics": [
+     "brand-identity",
+     "cloudflare-workers",
+     "design-systems",
+     "generative-ai",
+     "logo-design",
+     "typography"
+    ]
+   },
+   "published_at": "2026-09-20T07:54:30Z",
+   "queued_at": "2026-10-04T15:27:47.800832+00:00",
+   "score": 822.0,
+   "signal": "🆕 822 stars in 14d · TypeScript",
+   "source": "github_new",
+   "summary": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+   "threshold": 500.0,
+   "title": "Inkloom-art/inkloom",
+   "url": "https://github.com/Inkloom-art/inkloom"
   }
  ],
  "seen": {
@@ -456,6 +481,13 @@
    "score": 898.0,
    "sent": "2026-09-10T23:43:03.421955+00:00",
    "stars_total": 898
+  },
+  "gh:inkloom-art/inkloom": {
+   "first": "2026-10-04T15:27:47.800832+00:00",
+   "last": "2026-10-04T15:27:47.800832+00:00",
+   "score": 822.0,
+   "sent": null,
+   "stars_total": 822
   },
   "gh:jakeschincariol/linkedin-agent-skill": {
    "first": "2026-09-20T20:59:05.711268+00:00",
